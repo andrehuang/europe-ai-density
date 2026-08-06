@@ -1,0 +1,131 @@
+cluster,country,people,institutions,population,per_100k,median_neighbours,members
+London,gb,197,8,6491081.5,3.034933392840623,196.0,Imperial College London; King's College London; University College London; Queen Mary University of London
+Edinburgh,gb,103,2,691798.375,14.88873112776537,102.0,University of Edinburgh; Heriot-Watt University
+Munich,de,81,4,1999022.75,4.051979898677992,80.0,TU Munich; LMU Munich; Bundeswehr University Munich; Max Planck Society
+Copenhagen,dk,71,2,1343928.625,5.283018657333829,70.0,University of Copenhagen; IT University of Copenhagen
+Delft,nl,64,1,1743055.875,3.671712474506877,63.0,TU Delft
+Amsterdam,nl,60,3,1346415.875,4.456275443127852,59.0,University of Amsterdam; VU Amsterdam; CWI
+Lausanne,ch,54,1,414662.1875,13.022648707268491,53.0,EPFL
+Lisbon,pt,51,2,2011277.125,2.5357022841892065,50.0,Universidade de Lisboa; Universidade NOVA de Lisboa
+Vienna,at,48,2,2175971.5,2.205911244701505,47.0,TU Wien; University of Vienna
+Oxford,gb,45,1,316458.375,14.219879628718942,44.0,University of Oxford
+Cambridge,gb,44,1,270713.0,16.25337534584597,43.0,University of Cambridge
+Zurich,ch,43,2,1068747.0,4.023403106628604,42.0,ETH Zurich; University of Zurich
+Saarbrücken,de,40,2,505110.5625,7.919058315079285,39.0,CISPA Helmholtz Center; Saarland University
+Dublin,ie,38,2,1353556.5,2.8074188258857316,37.0,University College Dublin; Trinity College Dublin
+Rome,it,38,1,2563385.25,1.4824147092209414,37.0,Sapienza University of Rome
+Berlin,de,36,3,3252124.0,1.106968860965941,35.0,TU Berlin; Freie Universitaet Berlin; Humboldt University of Berlin
+Sheffield,gb,36,1,891271.25,4.039174381536485,35.0,University of Sheffield
+Manchester,gb,35,1,2168791.25,1.6138021582298434,34.0,University of Manchester
+Guildford,gb,35,1,469173.625,7.459924883884937,34.0,University of Surrey
+Cardiff,gb,34,1,591258.4375,5.7504464788293195,33.0,Cardiff University
+Milan,it,34,2,2433627.0,1.3970916660605754,33.0,Politecnico di Milano; Bocconi University
+Belfast,gb,32,1,596787.375,5.362043726209858,31.0,Queen's University Belfast
+Glasgow,gb,31,2,1262923.25,2.4546226383907337,30.0,University of Glasgow; University of Strathclyde
+Liverpool,gb,31,1,1243848.75,2.492264433276152,30.0,University of Liverpool
+Coventry,gb,31,1,694521.75,4.463503122832367,30.0,University of Warwick
+Prague,cz,30,2,1479714.375,2.0274182982104234,29.0,Czech Technical University; Charles University
+Colchester,gb,29,1,246052.9375,11.786081602866457,28.0,University of Essex
+Bath,gb,28,1,416316.53125,6.725651733292779,27.0,University of Bath
+Bristol,gb,28,1,834742.5,3.3543278316367022,27.0,University of Bristol
+Karlsruhe,de,27,1,589602.75,4.579354489103045,26.0,Karlsruhe Inst. of Technology
+Tübingen,de,27,1,419682.8125,6.433430008525784,26.0,University of Tübingen
+Lille,fr,27,1,1134141.75,2.3806547991024933,26.0,CRIStAL
+Southampton,gb,27,1,633188.125,4.264135560028072,26.0,University of Southampton
+Stockholm,se,27,1,1747756.25,1.544837845666408,26.0,KTH Royal Inst. of Technology
+Athens,gr,25,4,3250673.75,0.7690713348271262,24.0,NTUA; AUEB; University of Athens; University of Piraeus
+Warsaw,pl,25,2,2087220.0,1.1977654487787583,24.0,University of Warsaw; IPI PAN
+Brno,cz,24,2,502006.21875,4.780817269507182,23.0,Masaryk University; Brno University of Technology
+Leiden,nl,24,1,938869.1875,2.556266657755237,23.0,Leiden University
+Utrecht,nl,23,1,923070.625,2.4916836672166878,22.0,Utrecht University
+Aachen,de,22,1,669302.375,3.2870046217899644,21.0,RWTH Aachen University
+Birmingham,gb,21,1,2115906.25,0.992482535556573,20.0,University of Birmingham
+Groningen,nl,21,1,341190.5,6.1549193192659235,20.0,University of Groningen
+Würzburg,de,20,2,260533.046875,7.676569341161435,19.0,University of Würzburg; THWS
+Stuttgart,de,20,1,1306386.875,1.530940059390906,19.0,University of Stuttgart
+Kongens Lyngby,dk,20,1,1319893.25,1.5152740572012169,19.0,DTU
+Espoo,fi,20,1,478406.53125,4.18054493272556,19.0,Aalto University
+Leeds,gb,20,1,1269947.5,1.5748682524277577,19.0,University of Leeds
+Paris,fr,19,2,6983573.0,0.27206703502633967,18.0,Université Paris Dauphine; Ecole Normale Superieure
+York,gb,19,1,239910.34375,7.919625182897101,18.0,University of York
+Hamburg,de,18,2,1801736.75,0.9990360689484743,17.0,University of Hamburg; Hamburg University of Technology
+Potsdam,de,18,2,464994.1875,3.871016129637104,17.0,Hasso Plattner Institute; University of Potsdam
+Darmstadt,de,18,1,488525.625,3.684555953436424,17.0,TU Darmstadt
+Helsinki,fi,18,1,963145.5,1.868876509312456,17.0,University of Helsinki
+Trento,it,18,1,222934.25,8.074129479880279,17.0,University of Trento
+Enschede,nl,18,1,425211.84375,4.2331840621501975,17.0,University of Twente
+Graz,at,17,1,450310.9375,3.7751692406982675,16.0,Graz University of Technology
+Heidelberg,de,17,1,608698.125,2.792845796921093,16.0,Heidelberg University
+Dortmund,de,17,1,1157466.0,1.4687256472328345,16.0,TU Dortmund
+Dresden,de,17,1,777769.5625,2.1857373725652836,16.0,TU Dresden
+Kaiserslautern,de,17,1,190508.21875,8.92349952749742,16.0,TU Kaiserslautern
+Lancaster,gb,17,1,141119.59375,12.046519939758543,16.0,Lancaster University
+Nijmegen,nl,17,1,541019.75,3.1422143091818735,16.0,Radboud University
+Eindhoven,nl,16,1,599525.125,2.6687788939621173,15.0,TU Eindhoven
+Aalborg,dk,15,1,189052.4375,7.934306586234838,14.0,Aalborg University
+Klagenfurt,at,14,1,167851.78125,8.340691946037957,13.0,University of Klagenfurt
+Bonn,de,14,1,814095.25,1.7197004895925876,13.0,University of Bonn
+Egham,gb,14,1,1292637.25,1.0830571376463118,13.0,Royal Holloway Univ. of London
+Nottingham,gb,14,1,851407.25,1.6443364793992534,13.0,University of Nottingham
+Gothenburg,se,14,1,734703.5,1.905530598397857,13.0,Chalmers/GU
+Uppsala,se,14,1,213407.21875,6.560227944491686,13.0,Uppsala University
+Lübeck,de,13,1,300488.5625,4.32628779339979,12.0,University of Lübeck
+Aarhus,dk,13,1,375913.0,3.458246987999883,12.0,Aarhus University
+Aberdeen,gb,13,1,267385.875,4.861887337915662,12.0,University of Aberdeen
+Pisa,it,13,2,222122.640625,5.85262266080626,12.0,University of Pisa; Scuola Superiore Sant'Anna
+Klosterneuburg,at,12,1,1608256.625,0.7461495767194493,11.0,IST Austria
+Leuven,be,12,1,364201.375,3.294880476494632,11.0,KU Leuven
+Hanover,de,12,1,830937.625,1.4441517195710087,11.0,University of Hannover
+Tartu,ee,12,1,114460.1953125,10.483993992180006,11.0,University of Tartu
+Valbonne,fr,12,1,509730.75,2.3541840471660773,11.0,EURECOM
+Durham,gb,12,1,439152.625,2.7325351863717087,11.0,Durham University
+Exeter,gb,12,1,216450.28125,5.543998340265497,11.0,University of Exeter
+Madrid,es,11,2,5239114.0,0.20995916485115612,10.0,Universidad Rey Juan Carlos; IMDEA Software Institute
+Tampere,fi,11,1,316017.8125,3.4808164492310065,10.0,Tampere University
+Antwerp,be,10,1,984657.375,1.015581689011368,9.0,University of Antwerp
+Leipzig,de,10,1,725533.625,1.37829587153869,9.0,University of Leipzig
+A Coruña,es,10,1,372478.03125,2.684722093928862,9.0,University of A Coruña
+Loughborough,gb,10,1,473902.125,2.1101403586236294,9.0,Loughborough University
+St Andrews,gb,10,1,58149.71484375,17.196988887856623,9.0,University of St Andrews
+Modena,it,10,1,427604.875,2.3386075755099847,9.0,Univ. of Modena and Reggio Emilia
+Cagliari,it,10,1,388386.0625,2.574757687140228,9.0,University of Cagliari
+Bochum,de,9,1,1587373.375,0.5669743578759471,8.0,Ruhr-University Bochum
+Göttingen,de,9,1,200588.96875,4.486787113012664,8.0,University of Göttingen
+Magdeburg,de,9,1,327249.3125,2.7501967632093955,8.0,University of Magdeburg
+Mannheim,de,9,2,880215.125,1.022477317689809,8.0,University of Mannheim; University of Mainz
+Saint-Etienne,fr,9,1,360665.8125,2.495384837729803,8.0,Université Jean Monnet
+Rethymno,gr,9,1,55421.5703125,16.23916455136982,8.0,University of Crete
+Fisciano,it,9,1,489938.25,1.8369661891064843,8.0,University of Salerno
+Tromsø,no,9,1,72533.5390625,12.408053041841743,8.0,UiT The Arctic Univ. of Norway
+Wroclaw,pl,9,1,761665.625,1.181620872019792,8.0,University of Wroclaw
+Jena,de,8,1,164255.0,4.870475784603208,7.0,Friedrich Schiller University Jena
+Freiburg im Breisgau,de,8,1,450428.0625,1.7760882738073185,7.0,University of Freiburg
+Konstanz,de,8,1,250569.34375,3.1927289588872543,7.0,University of Konstanz
+Lyon,fr,8,2,1432706.75,0.5583836329381431,7.0,Ecole Normale Superieure de Cachan; Ecole Normale Superieure de Lyon
+Trondheim,no,8,1,214056.21875,3.737335942266335,7.0,NTNU
+Bergen,no,8,1,351728.875,2.2744791709239114,7.0,University of Bergen
+Lugano,ch,7,1,225578.453125,3.1031332572003603,6.0,Università della Svizzera italiana
+Erlangen,de,7,1,529739.0,1.321405446833252,6.0,University of Erlangen–Nuremberg
+Canterbury,gb,7,1,210710.875,3.3220876710800997,6.0,University of Kent
+Brighton,gb,7,1,503272.59375,1.3908963227743811,6.0,University of Sussex
+Luxembourg,lu,7,1,342038.9375,2.046550621155523,6.0,University of Luxembourg
+Bremen,de,6,2,690374.9375,0.8690929629814379,5.0,University of Bremen; Jacobs University Bremen
+Braunschweig,de,6,1,399318.1875,1.5025611624564434,5.0,TU Braunschweig
+Ulm,de,6,1,312053.4375,1.9227476063294449,5.0,University of Ulm
+Leganés,es,6,1,3662083.0,0.1638411800060239,5.0,IMDEA Networks Institute
+L’Aquila,it,6,1,72003.359375,8.332944534922959,5.0,GSSI
+Catania,it,6,1,621714.0,0.9650739729200243,5.0,University of Catania
+Maastricht,nl,6,1,406068.28125,1.4775840116175043,5.0,Maastricht University
+Linz,at,5,1,408175.375,1.2249636568595055,4.0,JKU Linz
+Innsbruck,at,5,1,267352.125,1.870192728036106,4.0,University of Innsbruck
+Sofia,bg,5,1,1270878.25,0.3934287175030338,4.0,INSAIT
+Frankfurt am Main,de,5,1,1496779.0,0.3340506514321754,4.0,Goethe University Frankfurt
+Clausthal-Zellerfeld,de,5,1,96732.5703125,5.168889841185052,4.0,TU Clausthal
+Augsburg,de,5,1,497307.375,1.0054144079403609,4.0,University of Augsburg
+Kiel,de,5,1,395562.5,1.2640227524095433,4.0,University of Kiel
+Siegen,de,5,1,293098.25,1.705912607803015,4.0,University of Siegen
+Zaragoza,es,5,1,795790.125,0.6283063640680386,4.0,Universidad de Zaragoza
+Szeged,hu,5,1,205311.75,2.4353209205026016,4.0,University of Szeged
+Padua,it,5,1,637050.0,0.7848677497841614,4.0,University of Padova
+Tilburg,nl,5,1,428617.0,1.1665426243009493,4.0,Tilburg University
+Bratislava,sk,5,1,479693.125,1.042333054074936,4.0,Kempelen Institute - KInIT

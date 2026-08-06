@@ -59,6 +59,7 @@ def main() -> int:
     people_path = DERIVED / "dblp_persons.csv.gz"
 
     n_records = n_pub_rows = n_papers = n_person = n_aff = n_orcid = 0
+    n_former = n_phd = 0
     per_venue = Counter()
     per_year = Counter()
 
@@ -67,7 +68,13 @@ def main() -> int:
     pubs = csv.writer(pubs_fh)
     people = csv.writer(people_fh)
     pubs.writerow(["pid", "author", "venue", "layer", "year", "paper_key", "is_findings"])
-    people.writerow(["pid", "primary_name", "aliases", "orcid", "affiliations"])
+    people.writerow(
+        [
+            "pid", "primary_name", "aliases", "orcid",
+            "affiliations_current", "affiliations_former", "affiliations_phd",
+            "phd_year", "homepage",
+        ]
+    )
 
     with gzip.open(DUMP, "rb") as raw:
         # lxml resolves the SYSTEM "dblp.dtd" reference relative to the file object's
@@ -127,29 +134,54 @@ def main() -> int:
                     pid = next((a.get("pid") for a in author_els if a.get("pid")), "")
                     if not pid:
                         pid = key[len("homepages/"):]
-                    notes = [
-                        (n.text or "").strip()
-                        for n in elem.findall("note")
-                        if n.get("type") == "affiliation" and (n.text or "").strip()
-                    ]
+                    # Affiliation notes carry a label that decides how much they are worth:
+                    # unlabelled means current, "former" means the person has left, and
+                    # "PhD <year>" marks the doctoral institution. Treating all three alike
+                    # is what makes an undated affiliation sweep look like a roster of
+                    # people who left a decade ago.
+                    current, former, phd, phd_year = [], [], [], ""
+                    for n in elem.findall("note"):
+                        if n.get("type") != "affiliation":
+                            continue
+                        text = (n.text or "").strip()
+                        if not text:
+                            continue
+                        label = (n.get("label") or "").strip()
+                        if label == "former":
+                            former.append(text)
+                        elif label.startswith("PhD"):
+                            phd.append(text)
+                            year = label[3:].strip()
+                            if year.isdigit() and year > phd_year:
+                                phd_year = year
+                        else:
+                            current.append(text)
                     # ORCIDs live in <url> children, not in a typed note.
-                    orcid = ""
+                    orcid, homepage = "", ""
                     for u in elem.findall("url"):
                         text = (u.text or "").strip()
                         if "orcid.org/" in text:
-                            orcid = text.rsplit("orcid.org/", 1)[1].strip("/")
-                            break
+                            if not orcid:
+                                orcid = text.rsplit("orcid.org/", 1)[1].strip("/")
+                        elif not homepage:
+                            homepage = text
                     people.writerow(
                         [
                             pid,
                             names[0] if names else "",
                             "|".join(names[1:]),
                             orcid,
-                            "|".join(notes),
+                            "|".join(current),
+                            "|".join(former),
+                            "|".join(phd),
+                            phd_year,
+                            homepage,
                         ]
                     )
                     n_person += 1
-                    n_aff += len(notes)
+                    n_aff += len(current)
+                    n_former += len(former)
+                    n_phd += len(phd)
                     if orcid:
                         n_orcid += 1
 
@@ -177,7 +209,9 @@ def main() -> int:
     print(f"authorship rows        : {n_pub_rows}")
     print(f"person records         : {n_person}")
     print(f"  ... with ORCID       : {n_orcid}")
-    print(f"  ... affiliation notes: {n_aff}")
+    print(f"  ... current affiliations: {n_aff}")
+    print(f"  ... former affiliations : {n_former}")
+    print(f"  ... PhD institutions    : {n_phd}")
     print("\npapers per year:")
     for y in sorted(per_year):
         print(f"  {y}: {per_year[y]}")

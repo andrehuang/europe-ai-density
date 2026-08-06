@@ -15,3 +15,8 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# venv and derived grids (regenerate with scripts/build_*_grid.py)
+.venv/
+data/derived/*.npz
+data/raw/grid/

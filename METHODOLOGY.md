@@ -117,10 +117,23 @@ boundary themselves.
 Administrative population figures are unusable as a primary denominator. Tübingen city holds
 90k people, Paris *intra-muros* 2.1M, and Île-de-France 12M; each is a defensible "city
 population" and each produces a different winner. Rather than defend one choice, we remove
-the choice: population comes from the **Eurostat GEOSTAT 2021 1 km population grid**,
-summed over whatever geometry the reader has selected, so numerator and denominator always
-describe the same ground. GHS-POP serves as an independent cross-check, and disagreements
-above 10% are logged.
+the choice: population comes from a **1 km population grid**, summed over whatever geometry
+the reader has selected, so numerator and denominator always describe the same ground.
+
+Which grid took a decision. The Eurostat 2021 census grid is the more accurate source, being
+built from actual census returns, but it **excludes the United Kingdom and Iceland** — the UK
+having left the EU before the 2021 census round. Since the UK holds the largest single
+national share of European AI faculty, a UK-shaped hole in the denominator is disqualifying.
+
+The primary denominator is therefore **GHS-POP R2023A, epoch 2025, 30 arc-second**, which
+covers every country in scope on one consistent methodology. Consistency matters more than
+per-country precision here, because the output is a cross-country comparison: a denominator
+that is uniformly modelled beats one that is census-accurate in 25 countries and absent in
+two.
+
+The Eurostat census grid is retained as an independent cross-check wherever it has coverage,
+and the per-city discrepancy between the two is reported. That turns the choice of
+denominator from a hidden assumption into a published error bar.
 
 Administrative figures still appear in `data/cities.csv` — with source, year, boundary
 definition, and a note on how badly that boundary fits the actual research cluster — so

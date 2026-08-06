@@ -51,7 +51,7 @@ def main() -> int:
                 if n in want_name:
                     pid_by_name.setdefault(n, pid)
                     aliases_of.setdefault(n, all_names)
-            if p["affiliations"]:
+            if p["affiliations_current"] or p["affiliations_former"] or p["affiliations_phd"]:
                 aff_rows.append(p)
     print(f"DBLP persons scanned: {n_persons}, with affiliation notes: {len(aff_rows)}")
 
@@ -131,14 +131,29 @@ def main() -> int:
         w.writerows(out_rows)
 
     aff_out = DERIVED / "dblp_affiliation_persons.csv.gz"
+    n_kept = 0
     with gzip.open(aff_out, "wt", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
-        w.writerow(["pid", "primary_name", "orcid", "affiliations", "core_papers", "extended_papers"])
+        w.writerow(
+            [
+                "pid", "primary_name", "orcid", "affiliations_current",
+                "affiliations_former", "affiliations_phd", "phd_year",
+                "core_papers", "extended_papers", "venues", "last_year", "homepage",
+            ]
+        )
         for p in aff_rows:
             names = [p["primary_name"]] + [a for a in p["aliases"].split("|") if a]
-            c, e, _, _ = stats_for(names)
+            c, e, v, y = stats_for(names)
             if c or e:  # only people with venue activity are candidates
-                w.writerow([p["pid"], p["primary_name"], p["orcid"], p["affiliations"], c, e])
+                n_kept += 1
+                w.writerow(
+                    [
+                        p["pid"], p["primary_name"], p["orcid"], p["affiliations_current"],
+                        p["affiliations_former"], p["affiliations_phd"], p["phd_year"],
+                        c, e, ";".join(sorted(v)), max(y) if y else "", p["homepage"],
+                    ]
+                )
+    print(f"affiliation-note candidates with venue activity: {n_kept}")
 
     core_active = [r for r in out_rows if r["core_papers"] > 0]
     any_active = [r for r in out_rows if r["core_papers"] or r["extended_papers"]]

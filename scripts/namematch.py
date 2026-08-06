@@ -74,14 +74,30 @@ class NameIndex:
         self.initial_last = defaultdict(set)
         self.ambiguous = 0
 
-    def add(self, dblp_name):
+    def add(self, dblp_name, canonical=None):
+        """Register a name form. `canonical` lets an alias resolve to the primary name."""
+        target = canonical or dblp_name
         full, fl, il = keys_for(dblp_name)
         if not full:
             return
-        self.full.setdefault(full, dblp_name)
+        self.full.setdefault(full, target)
         if fl:
-            self.first_last[fl].add(dblp_name)
-            self.initial_last[il].add(dblp_name)
+            self.first_last[fl].add(target)
+            self.initial_last[il].add(target)
+
+    def add_person(self, primary_name, aliases=()):
+        """Register a DBLP person record so every alias collapses to one identity.
+
+        This matters because upstream sources carry alias duplicates. CSRankings lists
+        Hilde Kuehne three times — as "Hilde Kuehne", "Hildegard Kuehne" and "Hildegard
+        Koehler", all with the same DBLP pid and the same publication count. An index
+        seeded only from publication author strings knows just the first form, so the
+        other two become separate people and the city is counted up to three times.
+        """
+        self.add(primary_name)
+        for alias in aliases:
+            if alias:
+                self.add(alias, canonical=primary_name)
 
     def resolve(self, name):
         """Return (dblp_name, how) or (None, reason)."""

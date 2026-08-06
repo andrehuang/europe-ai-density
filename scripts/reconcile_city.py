@@ -52,6 +52,12 @@ def main() -> int:
 
     index = NameIndex()
     core = Counter()
+    # Seed from DBLP person records first so alias spellings collapse to one identity.
+    with gzip.open(DERIVED / "dblp_persons.csv.gz", "rt", encoding="utf-8") as fh:
+        for p in csv.DictReader(fh):
+            aliases = [a for a in p["aliases"].split("|") if a]
+            if aliases:
+                index.add_person(p["primary_name"], aliases)
     with gzip.open(DERIVED / "dblp_venue_authorships.csv.gz", "rt", encoding="utf-8") as fh:
         for a in csv.DictReader(fh):
             if not a["author"]:

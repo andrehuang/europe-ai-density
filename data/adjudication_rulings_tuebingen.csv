@@ -1,0 +1,21 @@
+name,ruling,reason_code,tier,city_if_elsewhere,reason,evidence_confidence
+Yong Cao 0001,include,,T1,,"Group Leader for NLP at the University of Tübingen; missed by all five local directories",high
+Harrisen Scells,include,,T1,,"W1-Juniorprofessur für Humansprachtechnologie, University of Tübingen; DE rule counts W1 as an independent post",high
+Dmitry Kobak,exclude,E08,,Ghent,"Now Professor in the Department of Mathematics, Ghent University, Belgium — counts toward Ghent, not Tübingen",high
+Mijung Park,exclude,E07,,Vancouver,Assistant Professor in Vancouver; outside EU + EFTA + UK,high
+Steffen Schneider 0001,exclude,E08,,München,Group Leader (tenure track) in Munich; counts toward Munich,high
+Leena C. Vankadara,exclude,E08,,London,"Lecturer (Assistant Professor) in London — counts toward London, not Tübingen",high
+Shashank Singh 0011,exclude,E07,,New York,Senior ML software engineer in New York; outside scope and outside academia,high
+Guy Moss 0001,exclude,E08,,Berlin,Research and development engineer in Berlin; industry post and not independent,medium
+Chris Gagne 0001,exclude,E08,,,"Former Dayan postdoc at MPI for Biological Cybernetics, left around September 2022; current employer contradictory across sources",low
+Roland S. Zimmermann,exclude,E15,,,Senior Research Scientist inside another group; current institution unconfirmed,medium
+Zehao Yu 0002,exclude,E02,,,Doctoral student per his own homepage,low
+Andreas Ziegler 0006,exclude,E02,,,PhD candidate at the University of Tübingen,medium
+Frank Schneider 0001,exclude,E01,,,Postdoctoral researcher at the University of Tübingen,high
+Yuxuan Xue 0001,exclude,E02,,,PhD student in the Real Virtual Humans group,high
+Jan Schneider 0007,exclude,E02,,,Doctoral researcher at MPI for Intelligent Systems,high
+Jonathan Schmidt 0001,exclude,E01,,,Postdoc at the University of Tübingen,high
+Michael Tiemann 0001,exclude,E15,,,Researcher without an independent group,high
+Muhammad Waleed Gondal,exclude,E06,,,Applied scientist in industry,high
+Ilia A. Petrov 0001,exclude,E02,,,"PhD candidate; note the agent flagged that this DBLP id may collide with a Reutlingen professor of a similar name",high
+Bernhard Jaeger,exclude,E13,,,"Describes himself as co-founder of a startup while publishing with the Autonomous Vision group; independent status not established",medium

@@ -122,6 +122,24 @@ locating authoritative documents and noticing contradictions between pages.
 Sonnet for multi-team laboratories, research institutes, and any institution where the two
 recall modalities disagree by more than 20%.
 
+## Orchestration reliability is a separate failure mode
+
+An adjudication agent spent 51k tokens across 31 tool calls, reported completion, and wrote
+no file at all — its closing message was an unrelated sentence about waiting for a
+notification. Nothing in the completion signal distinguished this from success.
+
+At the scale this project needs, silent no-output runs would appear as cities with
+implausibly small rosters, and the cause would be invisible in the data. Two rules follow:
+
+- **Verify the artefact, never the completion signal.** Every agent's expected output path is
+  checked for existence and row count before its result is believed.
+- **A blank row beats a missing row.** Agents are told to write a row with `confidence=low`
+  and a note for anyone they could not establish, so an unresolved case becomes an explicit
+  open question in the data rather than a silent gap.
+
+Recovery is cheap when it happens: resuming the same agent to write down what it already
+found costs far less than repeating its research.
+
 ## What this does not fix
 
 A researcher at a small institution, publishing outside the venue list, with no web presence,

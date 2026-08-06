@@ -1,0 +1,106 @@
+country,title_local,title_en,sector,counts_as_pi,default_tier,notes
+DE,Universitätsprofessor (W3/C4),Full Professor,university,yes,T1,
+DE,Universitätsprofessor (W2/C3),Associate/Full Professor,university,yes,T1,
+DE,Juniorprofessor (W1) mit Tenure Track,Assistant Professor (tenure track),university,yes,T1,Supervises doctoral students with a co-supervisor in most Länder; CSRankings counts these
+DE,Juniorprofessor (W1) ohne Tenure Track,Assistant Professor (fixed term),university,yes,T1,Flag term end date
+DE,Privatdozent,Habilitated lecturer without chair,university,no,,Include only if they separately lead a funded group
+DE,Akademischer Rat / Oberrat,Permanent academic staff,university,no,,Teaching and service role; no independent group
+DE,Emmy-Noether-Gruppenleiter (DFG),Emmy Noether group leader,university,yes,T2,DFG-funded independent junior group
+DE,Direktor (Max-Planck-Institut),MPI Director,research institute,yes,T2,
+DE,Max-Planck-Forschungsgruppenleiter,MPI Research Group Leader,research institute,yes,T2,Independent group with own budget
+DE,Wissenschaftlicher Mitarbeiter,Research associate,university,no,,Covers doctoral students and postdocs
+DE,Abteilungsleiter (Fraunhofer/DLR),Department head (applied institute),research institute,no,,E14 unless jointly appointed at a university
+DE,Helmholtz Young Investigator Group Leader,Helmholtz junior group leader,research institute,yes,T2,
+FR,Professeur des universités,Full Professor,university,yes,T1,
+FR,Maître de conférences (HDR),Associate Professor with supervision accreditation,university,yes,T1,
+FR,Maître de conférences (sans HDR),Associate Professor,university,yes,T1,Co-supervises doctoral students; permanent post
+FR,Chaire de professeur junior,Junior Professor Chair,university,yes,T1,Tenure-track equivalent introduced 2021
+FR,Directeur de recherche (CNRS/Inria),Research Director,research institute,yes,T2,
+FR,Chargé de recherche (CNRS/Inria),Research Scientist (permanent),research institute,yes,T2,Permanent independent post; formal supervision requires HDR
+FR,Responsable d'équipe-projet (Inria),Project-team leader,research institute,yes,T2,
+FR,ATER / post-doctorant,Temporary lecturer / postdoc,university,no,,
+UK,Professor,Professor,university,yes,T1,
+UK,Reader,Reader,university,yes,T1,
+UK,Senior Lecturer,Senior Lecturer,university,yes,T1,
+UK,Lecturer / Assistant Professor,Lecturer,university,yes,T1,Permanent research-and-teaching post
+UK,Royal Society University Research Fellow,URF,university,yes,T2,Independent fellowship with own group
+UK,UKRI Future Leaders Fellow,FLF,university,yes,T2,
+UK,Postdoctoral Research Associate,Postdoc,university,no,,
+UK,Teaching Fellow / Senior Teaching Fellow,Teaching-track,university,no,,E05
+UK,Emeritus / Honorary / Visiting Professor,Emeritus or honorary,university,no,,E03 or E04
+CH,Ordentlicher Professor / Professeur ordinaire,Full Professor,university,yes,T1,
+CH,Ausserordentlicher Professor,Associate Professor,university,yes,T1,
+CH,Assistenzprofessor mit Tenure Track,Assistant Professor (tenure track),university,yes,T1,
+CH,Assistenzprofessor ohne Tenure Track,Assistant Professor (fixed term),university,yes,T1,Flag term end date
+CH,Titularprofessor,Titular Professor,university,no,,Title of distinction; not a chair
+CH,SNSF Eccellenza Professorial Fellow,Eccellenza fellow,university,yes,T2,
+CH,SNSF Ambizione Fellow,Ambizione fellow,university,no,,Junior fellowship usually inside a host group
+CH,Oberassistent / Senior Researcher,Senior researcher,university,no,,E15 unless heading an independent group
+NL,Hoogleraar,Full Professor,university,yes,T1,
+NL,Universitair hoofddocent (UHD),Associate Professor,university,yes,T1,
+NL,Universitair docent (UD),Assistant Professor,university,yes,T1,
+NL,Bijzonder hoogleraar,Endowed (part-time) Professor,university,yes,T1,Often 0.2 FTE; apply E16 if below threshold at that city
+NL,Groepsleider (CWI),CWI group leader,research institute,yes,T2,
+NL,Tenured researcher (CWI),CWI tenured researcher,research institute,yes,T2,
+IT,Professore ordinario,Full Professor,university,yes,T1,
+IT,Professore associato,Associate Professor,university,yes,T1,
+IT,Ricercatore RTD-b,Tenure-track researcher,university,yes,T1,
+IT,Ricercatore RTD-a,Fixed-term researcher (non tenure track),university,no,,Closer to a senior postdoc; flag for manual review
+IT,Ricercatore a tempo indeterminato,Permanent researcher (legacy grade),university,yes,T1,
+IT,Principal Investigator (IIT),IIT PI / research line coordinator,research institute,yes,T2,
+IT,Head of Research Unit (FBK),FBK unit head,research institute,yes,T2,
+IT,Dirigente di ricerca / Primo ricercatore (CNR),CNR senior research grades,research institute,yes,T2,
+ES,Catedrático de Universidad,Full Professor,university,yes,T1,
+ES,Profesor Titular de Universidad,Associate Professor,university,yes,T1,
+ES,Profesor Contratado Doctor,Contracted Doctor Professor,university,yes,T1,
+ES,Profesor Ayudante Doctor,Assistant Professor (fixed term),university,yes,T1,Flag term end date
+ES,Investigador Ramón y Cajal,Ramón y Cajal fellow,university,yes,T2,Tenure-track equivalent
+ES,Investigador Juan de la Cierva,Juan de la Cierva fellow,university,no,,Postdoctoral programme
+ES,Profesor de Investigación / Investigador Científico / Científico Titular (CSIC),CSIC research grades,research institute,yes,T2,
+ES,ICREA Research Professor,ICREA Research Professor,university,yes,T2,Permanent Catalan research professorship hosted at a university
+SE,Professor,Professor,university,yes,T1,
+SE,Universitetslektor,Associate Professor / Senior Lecturer,university,yes,T1,
+SE,Biträdande lektor,Assistant Professor (tenure track),university,yes,T1,
+SE,Forskare,Researcher,university,no,,E15 unless leading a funded group
+DK,Professor,Professor,university,yes,T1,
+DK,Lektor,Associate Professor,university,yes,T1,
+DK,Adjunkt (tenure track),Assistant Professor,university,yes,T1,
+DK,Postdoc,Postdoc,university,no,,
+FI,Professori,Professor,university,yes,T1,
+FI,Apulaisprofessori (tenure track),Assistant/Associate Professor,university,yes,T1,
+FI,Yliopistonlehtori,University lecturer,university,no,,Teaching-weighted; include only with an own funded group
+FI,Academy Research Fellow,Research Council of Finland fellow,university,yes,T2,
+NO,Professor,Professor,university,yes,T1,
+NO,Førsteamanuensis,Associate Professor,university,yes,T1,
+NO,Forsker,Researcher,university,no,,E15 unless leading a group
+AT,Universitätsprofessor,Full Professor,university,yes,T1,
+AT,Assoziierter Professor,Associate Professor,university,yes,T1,
+AT,Assistenzprofessor (Tenure Track),Assistant Professor,university,yes,T1,
+AT,Professor / Assistant Professor (ISTA),ISTA faculty,research institute,yes,T1,ISTA grants its own doctorates
+AT,Privatdozent,Habilitated lecturer,university,no,,
+BE,Gewoon hoogleraar / Hoogleraar / Hoofddocent / Docent,ZAP ranks (Flemish),university,yes,T1,All four are permanent professorial ranks
+BE,Professeur ordinaire / Professeur / Chargé de cours,Professorial ranks (French-speaking),university,yes,T1,
+BE,FWO / FNRS postdoctoraal onderzoeker,Postdoctoral fellow,university,no,,
+PL,Profesor / Profesor uczelni,Professor,university,yes,T1,
+PL,Adiunkt (dr hab.),Assistant Professor with habilitation,university,yes,T1,
+PL,Adiunkt (dr),Assistant Professor without habilitation,university,yes,T1,Flag; supervision usually requires habilitation
+PL,Group leader (IDEAS NCBR),IDEAS NCBR group leader,research institute,yes,T2,
+CZ,Profesor,Professor,university,yes,T1,
+CZ,Docent,Associate Professor,university,yes,T1,
+CZ,Odborný asistent,Assistant Professor,university,yes,T1,Flag; supervision rights vary by faculty
+CZ,Vedoucí skupiny (CIIRC / CAS),Group leader,research institute,yes,T2,
+HU,Egyetemi tanár,Full Professor,university,yes,T1,
+HU,Egyetemi docens,Associate Professor,university,yes,T1,
+HU,Kutatócsoport-vezető (SZTAKI / Rényi),Research group leader,research institute,yes,T2,
+PT,Professor Catedrático / Associado / Auxiliar,Professorial ranks,university,yes,T1,
+PT,Investigador FCT (CEEC Individual),FCT research fellow,university,yes,T2,Assistant-professor equivalent
+PT,Senior researcher (INESC-ID / INESC TEC),Senior researcher,research institute,yes,T2,Requires an own group
+IE,Professor / Associate Professor / Assistant Professor,Professorial ranks,university,yes,T1,
+IE,Lecturer,Lecturer,university,yes,T1,
+IE,SFI Research Professor / Investigator,SFI-funded PI,university,yes,T2,
+GR,Καθηγητής / Αναπληρωτής / Επίκουρος Καθηγητής,Professorial ranks,university,yes,T1,
+GR,Ερευνητής Α / Β (Athena RC / NCSR Demokritos),Researcher grade A/B,research institute,yes,T2,
+GR,Ερευνητής Γ,Researcher grade C,research institute,no,,Flag for manual review
+BG,Group leader / Faculty (INSAIT),INSAIT faculty,research institute,yes,T2,ETH/EPFL-affiliated institute founded 2022
+EU,ERC Starting/Consolidator/Advanced Grantee,ERC grant holder,any,yes,T2,Never sufficient on its own; use as supporting evidence for independence
+EU,ELLIS Scholar / ELLIS Member,ELLIS membership,any,no,,Membership alone does not establish an independent position; verify the underlying title

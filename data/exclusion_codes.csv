@@ -1,0 +1,18 @@
+code,label,definition,typical_evidence,disposition
+E01,postdoc,Holds a PhD but works inside another PI's group with no independent group of their own,Group page lists them under a PI; no own group page; no own funding,dropped
+E02,doctoral_student,Enrolled PhD student or predoctoral researcher,Listed on a PhD students page; thesis in progress,dropped
+E03,emeritus,Retired or emeritus with no currently supervised group,Faculty page marked emeritus; no PhD students listed since 2021,dropped
+E04,honorary_visiting,Honorary/visiting/adjunct/affiliated title only with no substantive local appointment,Title contains Honorary/Visiting/Adjunct/Affiliated and primary employer is elsewhere,dropped
+E05,teaching_track,Teaching-focused position without PhD supervision rights,Title such as Teaching Fellow/Lektor (teaching)/Senior Teaching Associate,dropped
+E06,corporate_only,Sole affiliation is a for-profit lab,Employer page; no academic appointment,moved_to_corporate_table
+E07,out_of_geography,Primary appointment outside EU + EFTA + UK,Institution country code not in scope list,dropped
+E08,relocated,Held a qualifying post in scope but left before the 2026-08-01 snapshot date,New institution announcement; old page removed,dropped_with_note
+E09,deceased,Confirmed deceased before the snapshot date,Institutional obituary,dropped
+E10,no_qualifying_publication,No first- middle- or last-author paper at a core-layer venue within the activity window,DBLP/OpenAlex record checked; zero hits,dropped
+E11,field_out_of_scope,Research area is not core AI and not in the extended layer,Publication record dominated by non-AI venues,dropped
+E12,duplicate,Same physical person already present under another person_id,Matching ORCID or DBLP key,merged
+E13,unverifiable,Could not establish current position from any citable source,Dead links; no faculty listing; no institutional page,held_pending
+E14,contract_research,Leads applied/contract research without doctoral supervision,Fraunhofer/TNO/applied-institute group with no university appointment,dropped
+E15,non_independent,Senior researcher or staff scientist embedded in another PI's group,Listed under a department head; no own group,dropped
+E16,below_fte_threshold,Appointment below 0.2 FTE at the location in question,Endowed part-time chair (e.g. NL bijzonder hoogleraar) at nominal FTE,dropped_from_that_city
+E17,industry_primary_academic_courtesy,Primary employer is a corporate lab with a courtesy academic title,Company staff page plus honorary university title,moved_to_corporate_table

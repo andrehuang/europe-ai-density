@@ -1,0 +1,224 @@
+country,affiliation,csrankings_faculty,dept_homepage
+pt,Universidade de Lisboa,278,https://dei.tecnico.ulisboa.pt/en/
+gb,University of Edinburgh,175,https://informatics.ed.ac.uk/
+fr,CRIStAL,145,https://www.cristal.univ-lille.fr
+nl,TU Delft,145,https://www.tudelft.nl/en/eemcs
+at,TU Wien,120,https://informatics.tuwien.ac.at/
+gb,University College London,120,https://www.ucl.ac.uk/computer-science/
+se,Chalmers/GU,118,https://www.chalmers.se/en/departments/cse/
+dk,University of Copenhagen,116,https://di.ku.dk/english/
+dk,DTU,115,https://www.compute.dtu.dk/
+es,University of A Coruña,114,https://pdi.udc.es
+gb,Queen's University Belfast,112,https://www.qub.ac.uk
+de,TU Munich,109,https://www.cs.cit.tum.de/en/cs/home/
+gb,University of Glasgow,107,https://www.gla.ac.uk/schools/computing/
+gb,University of Oxford,102,https://www.cs.ox.ac.uk/
+gb,University of Southampton,100,https://www.ecs.soton.ac.uk/
+it,Politecnico di Milano,99,https://www.deib.polimi.it/eng/home-page
+dk,IT University of Copenhagen,98,https://en.itu.dk/
+ch,EPFL,97,https://www.epfl.ch/schools/ic/
+gb,University of Cambridge,96,https://www.cst.cam.ac.uk/
+gb,Imperial College London,95,https://www.imperial.ac.uk/computing/
+it,Sapienza University of Rome,95,https://www.diag.uniroma1.it/en
+se,KTH Royal Inst. of Technology,92,https://eecs.kth.se/
+se,Uppsala University,91,https://www.it.uu.se/
+fr,Ecole Normale Superieure de Lyon,89,https://informatique.ens-lyon.fr
+gb,Royal Holloway Univ. of London,87,https://pure.royalholloway.ac.uk
+gb,University of Liverpool,86,https://www.liverpool.ac.uk/computer-science/
+gb,University of Bristol,83,https://www.bristol.ac.uk/engineering/schools/computer-science/
+gb,University of Manchester,83,https://www.cs.manchester.ac.uk/
+nl,University of Twente,81,https://www.utwente.nl/en/eemcs/
+gb,University of Essex,80,https://www.essex.ac.uk
+gb,Cardiff University,77,https://www.cardiff.ac.uk/computer-science
+gb,University of York,77,https://www.york.ac.uk/computer-science/
+it,University of Salerno,77,https://www.unisa.it
+nl,TU Eindhoven,77,https://www.win.tue.nl
+es,Polytechnic Univ. of Catalonia,76,https://www.cs.upc.edu/
+gb,King's College London,76,https://www.kcl.ac.uk/informatics
+gb,University of Sheffield,76,https://www.sheffield.ac.uk/cs
+ee,University of Tartu,70,https://cs.ut.ee/
+at,Graz University of Technology,69,https://www.tugraz.at/fakultaeten/csbme/home
+fi,Aalto University,69,https://www.aalto.fi/en/department-of-computer-science
+pl,University of Warsaw,69,https://www.mimuw.edu.pl/en/
+nl,VU Amsterdam,68,https://vu.nl/en/about-vu/faculties/faculty-of-science/departments/computer-science
+gb,Brunel University London,67,https://www.brunel.ac.uk/computer-science
+ch,ETH Zurich,65,https://inf.ethz.ch/
+gb,University of Warwick,65,https://warwick.ac.uk/fac/sci/dcs/
+gr,NTUA,65,https://www.ece.ntua.gr
+it,University of Pisa,65,https://di.unipi.it/en/
+de,TU Berlin,64,https://www.tu.berlin/en/eecs
+ie,University College Dublin,64,https://www.ucd.ie/cs/
+gb,University of Birmingham,63,https://www.birmingham.ac.uk/schools/computer-science/
+gb,University of Nottingham,63,https://www.nottingham.ac.uk/computerscience/
+gb,University of Kent,62,https://www.cs.kent.ac.uk
+gb,Lancaster University,61,https://www.lancaster.ac.uk/scc/
+gb,Queen Mary University of London,61,https://www.qmul.ac.uk/eecs/
+de,Karlsruhe Inst. of Technology,60,https://www.informatik.kit.edu/english/
+gb,Heriot-Watt University,60,https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences/
+nl,Radboud University,60,https://www.cs.ru.nl
+be,KU Leuven,59,https://wms.cs.kuleuven.be/cs/english
+gr,University of Piraeus,59,https://www.ds.unipi.gr
+dk,Aarhus University,58,https://cs.au.dk/
+gb,University of Bath,58,https://www.bath.ac.uk/departments/department-of-computer-science/
+nl,Utrecht University,58,https://www.uu.nl
+de,Max Planck Society,57,https://www.mpi-inf.mpg.de/
+nl,University of Amsterdam,57,https://ivi.uva.nl/
+gb,University of Leeds,55,https://eps.leeds.ac.uk/computing
+ie,Trinity College Dublin,55,https://www.scss.tcd.ie
+de,CISPA Helmholtz Center,54,https://cispa.saarland
+de,RWTH Aachen University,54,https://www.informatik.rwth-aachen.de/
+de,TU Dresden,54,https://tu-dresden.de/ing/informatik
+dk,Aalborg University,54,https://www.cs.aau.dk/
+cz,Masaryk University,53,https://www.muni.cz
+gb,University of Surrey,53,https://www.surrey.ac.uk
+es,University of Murcia,52,https://webs.um.es
+de,TU Darmstadt,50,https://www.informatik.tu-darmstadt.de/
+gb,Open University UK,50,https://stem.open.ac.uk
+de,LMU Munich,49,https://www.ifi.lmu.de/
+de,University of Tübingen,49,https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/department/
+gb,Middlesex University,49,https://www.mdx.ac.uk
+gr,University of Athens,49,https://cgi.di.uoa.gr
+gb,City University of London,48,https://www.city.ac.uk/about/schools/science-technology/computer-science
+at,IST Austria,47,https://ist.ac.at/en/research/
+gb,Goldsmiths University of London,47,https://www.gold.ac.uk/computing/
+gb,University of St Andrews,46,https://www.st-andrews.ac.uk/computer-science/
+de,Saarland University,45,https://www.uni-saarland.de/en/department/computer-science.html
+de,University of Lübeck,45,https://www.imis.uni-luebeck.de
+fi,Tampere University,45,https://www.tuni.fi
+nl,CWI,45,https://www.cwi.nl/en/
+no,NTNU,44,https://www.ntnu.edu/idi
+de,University of Stuttgart,43,https://www.f05.uni-stuttgart.de/en/cs/
+it,University of Trento,43,https://disi.unitn.it
+cz,Charles University,41,https://cs.mff.cuni.cz/en
+de,Ruhr-University Bochum,41,https://www.ini.rub.de
+de,University of Hamburg,41,https://www.inf.uni-hamburg.de/en.html
+nl,Leiden University,41,https://liacs.leidenuniv.nl/
+it,Univ. of Modena and Reggio Emilia,40,https://personale.unimore.it
+at,JKU Linz,39,https://informatik.jku.at/
+de,TU Kaiserslautern,39,https://anthonywlin.github.io
+gb,Durham University,39,https://www.durham.ac.uk/departments/academic/computer-science/
+no,University of Bergen,39,https://www.ii.uib.no
+pt,Universidade NOVA de Lisboa,39,https://userweb.fct.unl.pt
+de,Heidelberg University,38,https://www.informatik.uni-heidelberg.de/
+de,TU Dortmund,37,https://ls4-www.cs.tu-dortmund.de
+fi,University of Helsinki,37,https://www.helsinki.fi/en/faculty-science/faculty/computer-science
+at,University of Klagenfurt,36,https://www.aau.at/en/tewi/
+fr,EURECOM,36,https://www.eurecom.fr
+fr,Université Jean Monnet,36,https://perso.univ-st-etienne.fr
+gr,AUEB,36,https://www.dept.aueb.gr/en/cs
+fr,Ecole Normale Superieure,35,https://www.di.ens.fr/
+nl,Maastricht University,35,https://dke.maastrichtuniversity.nl
+at,University of Vienna,34,https://informatik.univie.ac.at/en/
+no,UiT The Arctic Univ. of Norway,34,https://uit.no
+ch,Università della Svizzera italiana,33,https://search.usi.ch
+de,Hasso Plattner Institute,33,https://hpi.de
+fr,Université Paris Dauphine,33,https://www.lamsade.dauphine.fr
+gb,Loughborough University,33,https://www.lboro.ac.uk
+gb,University of Strathclyde,33,https://pureportal.strath.ac.uk
+gr,University of Crete,33,https://www.csd.uoc.gr
+pl,University of Wroclaw,33,https://www.ii.uni.wroc.pl
+cz,Czech Technical University,32,https://cmp.felk.cvut.cz
+de,University of Erlangen–Nuremberg,32,https://lme.tf.fau.de
+de,University of Siegen,32,https://www.eti.uni-siegen.de
+gb,Birkbeck University of London,32,https://www.dcs.bbk.ac.uk
+gb,University of Sussex,32,https://www.sussex.ac.uk
+de,University of Würzburg,30,https://www.informatik.uni-wuerzburg.de
+nl,University of Groningen,30,https://www.rug.nl
+de,University of Göttingen,29,https://www.uni-goettingen.de/en/institute+of+computer+science/619480.html
+gb,University of Aberdeen,29,https://www.abdn.ac.uk
+gr,University of Ioannina,29,https://cs.uoi.gr
+pl,IPI PAN,29,https://ipipan.waw.pl
+fr,Ecole Normale Superieure de Cachan,28,https://www.lsv.ens-cachan.fr
+gb,University of Exeter,28,https://computerscience.exeter.ac.uk/
+lu,University of Luxembourg,28,https://wwwen.uni.lu
+be,Université libre de Bruxelles,27,https://www.ulb.ac.be
+cz,Brno University of Technology,27,https://www.fit.vut.cz
+de,University of Magdeburg,27,https://isgwww.cs.uni-magdeburg.de
+de,University of Oldenburg,27,https://uol.de
+es,IMDEA Software Institute,27,https://software.imdea.org
+ch,University of Zurich,26,https://www.ifi.uzh.ch/en.html
+de,Bundeswehr University Munich,26,https://www.unibw.de/home-en/departments/department-of-computer-science
+de,University of Augsburg,26,https://www.uni-augsburg.de
+de,University of Bonn,26,https://www.informatik.uni-bonn.de/en
+gb,Aberystwyth University,26,https://www.aber.ac.uk/en/cs/
+it,University of Catania,26,https://www.dmi.unict.it
+de,University of Hannover,25,https://www.tnt.uni-hannover.de
+de,Goethe University Frankfurt,24,https://www.goethe-university-frankfurt.de/106076806/Institute_of_Computer_Science
+de,University of Duisburg-Essen,24,https://www.uni-due.de
+de,University of Regensburg,24,https://www.uni-regensburg.de/en/informatics-data-science
+de,University of Münster,23,https://www.uni-muenster.de
+fr,INRIA,23,https://cambium.inria.fr
+it,Bocconi University,23,https://cs.unibocconi.eu
+se,Mälardalen University,23,https://www.es.mdh.se
+at,University of Salzburg,22,https://www.cosy.sbg.ac.at
+de,University of Koblenz-Landau,22,https://www.uni-koblenz.de/en/computer-science
+de,University of Ulm,21,https://www.uni-ulm.de
+gb,University of Dundee,21,https://www.computing.dundee.ac.uk
+nl,Tilburg University,21,https://www.tilburguniversity.edu/about/schools/tshd/departments/dca
+de,Friedrich Schiller University Jena,20,https://www.fmi.uni-jena.de
+de,Humboldt University of Berlin,20,https://www.informatik.hu-berlin.de/en
+de,Paderborn University,20,https://cs.uni-paderborn.de
+de,University of Freiburg,20,https://www.informatik.uni-freiburg.de/
+de,University of Kiel,20,https://www.zs.informatik.uni-kiel.de
+de,University of Leipzig,20,https://www.informatik.uni-leipzig.de
+de,Freie Universitaet Berlin,19,https://www.mi.fu-berlin.de/en/inf/
+de,Hamburg University of Technology,19,https://www.tuhh.de/tuhh/en/schools/electrical-engineering-computer-science-and-mathematics
+de,TU Braunschweig,19,https://www.ibr.cs.tu-bs.de
+de,University of Bremen,19,https://www.informatik.uni-bremen.de
+de,University of Rostock,19,https://vcg.informatik.uni-rostock.de
+de,University of Wuppertal,19,https://www-num.math.uni-wuppertal.de
+it,University of Padova,19,https://www.math.unipd.it
+at,University of Innsbruck,18,https://www.uibk.ac.at/en/informatik/
+de,TU Ilmenau,18,https://www.tu-ilmenau.de
+de,University of Bayreuth,18,https://www.ai2.uni-bayreuth.de
+it,University of Sannio,18,https://www.unisannio.it
+cy,Cyprus University of Technology,17,https://www.cut.ac.cy/faculties/fet/eecei/
+de,University of Bamberg,17,https://www.uni-bamberg.de
+es,IMDEA Networks Institute,17,https://networks.imdea.org
+it,University of Cagliari,17,https://web.unica.it/unica/en/dip_matinfo.page
+be,University of Antwerp,16,https://www.uantwerpen.be
+de,Bielefeld University,16,https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/
+de,TU Chemnitz,16,https://www.tu-chemnitz.de
+de,University of Konstanz,16,https://www.informatik.uni-konstanz.de/en/
+de,University of Passau,16,https://www.fim.uni-passau.de
+cy,University of Nicosia,15,https://www.unic.ac.cy
+es,Universidad Rey Juan Carlos,15,https://www.tsc.urjc.es
+hu,University of Szeged,15,https://www.inf.u-szeged.hu
+it,GSSI,15,https://cs.gssi.it
+de,TU Clausthal,14,https://www.isse.tu-clausthal.de
+de,University of Kassel,14,https://www.uni-kassel.de/eecs/en
+de,University of Potsdam,14,https://www.uni-potsdam.de/en/cs
+ie,Maynooth University,14,https://www.maynoothuniversity.ie/computer-science
+se,Lund University,14,https://cs.lth.se
+se,Malmö University,14,https://mau.se
+de,THWS,13,https://fiw.thws.de
+de,University of Düsseldorf,13,https://www.cs.hhu.de
+de,Brandenburg Univ. of Technology,12,https://www.b-tu.de/en/institut-fuer-informatik
+mt,University of Malta,12,https://www.um.edu.mt/ict/cs/
+de,Bauhaus University Weimar,11,https://www.uni-weimar.de/en/media/structure/computer-science-department
+de,University of Marburg,11,https://www.uni-marburg.de/en/fb12
+de,University of Osnabrück,11,https://www.informatik.uni-osnabrueck.de
+ch,University of Fribourg,10,https://www.unifr.ch
+de,University of Mannheim,10,https://www.wim.uni-mannheim.de/en/
+de,University of Trier,10,https://www.uni-trier.de
+lv,University of Latvia,10,https://www.lu.lv/en/about-us/structure/institutes/ul-institute-of-mathematics-and-computer-science/
+sk,Kempelen Institute - KInIT,9,https://kinit.sk
+ch,University of Basel,8,https://dmi.unibas.ch
+de,University of Halle-Wittenberg,8,https://www.informatik.uni-halle.de
+de,University of Mainz,8,https://www.cs.uni-mainz.de
+es,Universidad de Zaragoza,8,https://webdiis.unizar.es
+it,University of Molise,8,https://docenti.unimol.it
+de,Jacobs University Bremen,7,https://constructor.university/research/school-of-computer-science-and-engineering
+it,Scuola Superiore Sant'Anna,7,https://retis.sssup.it
+it,University of L'Aquila,7,https://www.disim.univaq.it/
+ro,Babeș-Bolyai University,7,https://www.cs.ubbcluj.ro
+bg,INSAIT,6,https://insait.ai
+ch,University of Bern,6,https://www.iam.unibe.ch
+de,TU Freiberg,6,https://tu-freiberg.de
+ee,Tallinn University of Technology,6,https://taltech.ee/en/school-of-information-technologies
+de,University of Cologne,5,https://cs.uni-koeln.de
+fr,Ecole Normale Superieure de Rennes,5,http://www.ens-rennes.fr/research-in-computer-sciences-and-telecommunications-157088.kjsp
+de,University of Hildesheim,3,https://www.uni-hildesheim.de/en/fb4/institute/ifi/
+no,Simula UiB,2,https://www.simula.no/research/projects/simula-uib
+gr,University of Patras,1,https://www.ceid.upatras.gr/en/home/
+it,University of Udine,1,https://dmif.uniud.it/en/

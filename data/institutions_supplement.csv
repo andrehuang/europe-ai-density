@@ -1,0 +1,170 @@
+inst_id,name_en,country,city,type,gap_reason,priority,double_count_risk,notes
+de-mpi-inf,MPI for Informatics,de,Saarbrücken,research_institute,aggregated,high,low,Inside CSRankings 'Max Planck Society'
+de-mpi-sws-sb,MPI for Software Systems (Saarbrücken),de,Saarbrücken,research_institute,aggregated,high,low,Inside CSRankings 'Max Planck Society'
+de-mpi-sws-kl,MPI for Software Systems (Kaiserslautern),de,Kaiserslautern,research_institute,aggregated,medium,low,Second MPI-SWS site
+de-mpi-is-tue,MPI for Intelligent Systems (Tübingen),de,Tübingen,research_institute,aggregated,high,low,Motivating case for this project
+de-mpi-is-stu,MPI for Intelligent Systems (Stuttgart),de,Stuttgart,research_institute,aggregated,high,low,Same institute as Tübingen site; must be split by person
+de-mpi-kyb,MPI for Biological Cybernetics,de,Tübingen,research_institute,absent,medium,low,Largely extended layer (comp neuro)
+de-mpi-sp,MPI for Security and Privacy,de,Bochum,research_institute,aggregated,medium,low,
+de-mpi-mis,MPI for Mathematics in the Sciences,de,Leipzig,research_institute,aggregated,low,low,
+de-mpi-cbg,MPI of Molecular Cell Biology and Genetics,de,Dresden,research_institute,aggregated,low,low,Extended layer
+de-mpi-hd-chm,MPI for Human Development (Center for Humans and Machines),de,Berlin,research_institute,absent,medium,low,
+de-ellis-inst-tue,ELLIS Institute Tübingen,de,Tübingen,research_institute,absent,high,high,Overlaps MPI-IS and University of Tübingen
+de-tue-ai-center,Tübingen AI Center,de,Tübingen,virtual_center,absent,high,high,The T3 test case; members hold primary posts at Uni Tübingen or MPI-IS
+de-dfki-sb,DFKI Saarbrücken,de,Saarbrücken,research_institute,absent,high,high,Many members are also Saarland University professors
+de-dfki-kl,DFKI Kaiserslautern,de,Kaiserslautern,research_institute,absent,medium,high,
+de-dfki-hb,DFKI Robotics Innovation Center,de,Bremen,research_institute,absent,medium,high,
+de-dfki-be,DFKI Berlin,de,Berlin,research_institute,absent,medium,high,
+de-helmholtz-munich,Helmholtz Munich,de,München,research_institute,absent,medium,medium,Neuherberg campus; extended layer heavy
+de-mcml,Munich Center for Machine Learning,de,München,virtual_center,absent,medium,high,Members hold LMU or TUM chairs
+de-bifold,BIFOLD Berlin Institute for the Foundations of Learning and Data,de,Berlin,virtual_center,absent,medium,high,Members hold TU Berlin or HU Berlin chairs
+de-lamarr,Lamarr Institute,de,Dortmund,virtual_center,absent,medium,high,Sites in Dortmund Bonn Aachen Sankt Augustin
+de-scads,ScaDS.AI Dresden/Leipzig,de,Dresden,virtual_center,absent,low,high,Two-city center
+de-zib,Zuse Institute Berlin,de,Berlin,research_institute,absent,low,low,
+de-dlr-ki,DLR Institute for AI Safety and Security,de,Sankt Augustin,research_institute,absent,low,low,Check E14 applied-research exclusion
+fr-inria-paris,Inria Centre de Paris,fr,Paris,research_institute,aggregated,high,medium,Many members co-affiliated with ENS or Sorbonne
+fr-inria-saclay,Inria Centre de Saclay,fr,Palaiseau,research_institute,aggregated,high,medium,
+fr-inria-grenoble,Inria Centre de l'Université Grenoble Alpes,fr,Grenoble,research_institute,aggregated,high,medium,Montbonnot site
+fr-inria-rennes,Inria Centre de l'Université de Rennes,fr,Rennes,research_institute,aggregated,high,medium,
+fr-inria-lille,Inria Centre de l'Université de Lille,fr,Villeneuve-d'Ascq,research_institute,aggregated,medium,high,Overlaps CRIStAL which CSRankings lists separately
+fr-inria-sophia,Inria Centre d'Université Côte d'Azur,fr,Sophia Antipolis,research_institute,aggregated,high,medium,
+fr-inria-nancy,Inria Centre de l'Université de Lorraine,fr,Villers-lès-Nancy,research_institute,aggregated,medium,high,Overlaps LORIA
+fr-inria-bordeaux,Inria Centre de l'Université de Bordeaux,fr,Talence,research_institute,aggregated,medium,high,Overlaps LaBRI
+fr-inria-lyon,Inria Centre de Lyon,fr,Villeurbanne,research_institute,aggregated,medium,medium,
+fr-sorbonne,Sorbonne Université (LIP6 ISIR),fr,Paris,university,absent,high,medium,
+fr-paris-saclay,Université Paris-Saclay (LISN),fr,Gif-sur-Yvette,university,absent,high,medium,CSRankings lists 'ENS Cachan' which is now ENS Paris-Saclay
+fr-paris-cite,Université Paris Cité (IRIF),fr,Paris,university,absent,medium,medium,
+fr-telecom-paris,Télécom Paris (LTCI),fr,Palaiseau,university,absent,high,medium,Institut Polytechnique de Paris
+fr-polytechnique,École Polytechnique (LIX),fr,Palaiseau,university,absent,high,medium,Institut Polytechnique de Paris
+fr-centralesupelec,CentraleSupélec,fr,Gif-sur-Yvette,university,absent,medium,medium,
+fr-uga,Université Grenoble Alpes (LIG GIPSA),fr,Grenoble,university,absent,high,high,Overlaps Inria Grenoble
+fr-toulouse,Université de Toulouse (IRIT ANITI),fr,Toulouse,university,absent,high,medium,
+fr-amu,Aix-Marseille Université (LIS),fr,Marseille,university,absent,medium,low,
+fr-bordeaux,Université de Bordeaux (LaBRI),fr,Talence,university,absent,medium,high,Overlaps Inria Bordeaux
+fr-lorraine,Université de Lorraine (LORIA),fr,Nancy,university,absent,medium,high,Overlaps Inria Nancy
+fr-montpellier,Université de Montpellier (LIRMM),fr,Montpellier,university,absent,medium,low,
+fr-nantes,Nantes Université / Centrale Nantes (LS2N),fr,Nantes,university,absent,medium,low,
+fr-cote-azur,Université Côte d'Azur (I3S 3IA),fr,Nice,university,absent,medium,high,Overlaps Inria Sophia
+fr-lyon1-insa,Université Lyon 1 / INSA Lyon (LIRIS),fr,Villeurbanne,university,absent,medium,medium,
+fr-cea-list,CEA List,fr,Palaiseau,research_institute,absent,medium,low,Check E14
+fr-utc,Université de technologie de Compiègne,fr,Compiègne,university,absent,low,low,
+fr-imt-atlantique,IMT Atlantique,fr,Brest,university,absent,low,low,
+ch-idiap,Idiap Research Institute,ch,Martigny,research_institute,absent,high,medium,Many members hold EPFL adjunct posts
+ch-idsia,IDSIA,ch,Lugano,research_institute,under_covered,medium,high,Joint USI-SUPSI; CSRankings lists USI separately
+ch-unige,University of Geneva,ch,Genève,university,absent,medium,low,
+ch-unil,University of Lausanne,ch,Lausanne,university,absent,low,low,
+ch-unine,University of Neuchâtel,ch,Neuchâtel,university,absent,low,low,
+ch-zhaw,ZHAW,ch,Winterthur,university,absent,low,low,
+ch-sdsc,Swiss Data Science Center,ch,Zürich,virtual_center,absent,low,high,ETH and EPFL joint; members hold posts at both
+ch-unisg,University of St. Gallen,ch,St. Gallen,university,absent,low,low,
+it-iit-genova,Istituto Italiano di Tecnologia,it,Genova,research_institute,absent,high,low,
+it-iit-milano,IIT Center for Human Technologies,it,Milano,research_institute,absent,low,low,
+it-fbk,Fondazione Bruno Kessler,it,Trento,research_institute,absent,high,medium,Overlaps University of Trento
+it-cnr-isti,CNR-ISTI,it,Pisa,research_institute,absent,medium,low,
+it-polito,Politecnico di Torino,it,Torino,university,absent,high,low,
+it-unito,Università di Torino,it,Torino,university,absent,medium,low,
+it-unibo,Università di Bologna,it,Bologna,university,absent,high,low,
+it-unige,Università di Genova,it,Genova,university,absent,medium,high,Overlaps IIT Genova
+it-uniroma2,Università di Roma Tor Vergata,it,Roma,university,absent,medium,low,
+it-uniroma3,Università Roma Tre,it,Roma,university,absent,low,low,
+it-unina,Università di Napoli Federico II,it,Napoli,university,absent,medium,low,
+it-unifi,Università di Firenze,it,Firenze,university,absent,medium,low,
+it-univr,Università di Verona,it,Verona,university,absent,low,low,
+it-sissa,SISSA,it,Trieste,university,absent,medium,low,
+it-ictp,ICTP,it,Trieste,research_institute,absent,low,low,
+it-sns,Scuola Normale Superiore,it,Pisa,university,absent,medium,low,
+it-imt-lucca,IMT School for Advanced Studies Lucca,it,Lucca,university,absent,low,low,
+it-unimib,Università di Milano-Bicocca,it,Milano,university,absent,medium,low,
+it-unimi,Università degli Studi di Milano,it,Milano,university,absent,medium,low,
+it-unive,Università Ca' Foscari Venezia,it,Venezia,university,absent,low,low,
+it-unisi,Università di Siena (SAILab),it,Siena,university,absent,medium,low,
+it-poliba,Politecnico di Bari,it,Bari,university,absent,low,low,
+it-unibz,Free University of Bozen-Bolzano,it,Bolzano,university,absent,low,low,
+es-upf,Universitat Pompeu Fabra,es,Barcelona,university,absent,high,medium,Several ICREA professors hosted here
+es-uab-cvc,Computer Vision Center / UAB,es,Cerdanyola del Vallès,research_institute,absent,high,medium,Outside Barcelona municipality; boundary risk
+es-bsc,Barcelona Supercomputing Center,es,Barcelona,research_institute,absent,medium,medium,
+es-iiia-csic,IIIA-CSIC,es,Bellaterra,research_institute,absent,medium,low,Outside Barcelona municipality
+es-ub,Universitat de Barcelona,es,Barcelona,university,absent,medium,low,
+es-upm,Universidad Politécnica de Madrid,es,Madrid,university,absent,high,low,
+es-uc3m,Universidad Carlos III de Madrid,es,Leganés,university,absent,high,medium,Outside Madrid municipality
+es-uam,Universidad Autónoma de Madrid,es,Madrid,university,absent,medium,low,
+es-ugr,Universidad de Granada,es,Granada,university,absent,high,low,
+es-us,Universidad de Sevilla,es,Sevilla,university,absent,medium,low,
+es-uv,Universitat de València,es,València,university,absent,medium,low,
+es-ehu,University of the Basque Country,es,San Sebastián,university,absent,medium,medium,Multi-campus: Bilbao Leioa San Sebastián Vitoria
+es-bcam,Basque Center for Applied Mathematics,es,Bilbao,research_institute,absent,low,low,
+es-ua,Universidad de Alicante,es,Alicante,university,absent,low,low,
+es-usc,Universidade de Santiago de Compostela,es,Santiago de Compostela,university,absent,low,low,
+es-uma,Universidad de Málaga,es,Málaga,university,absent,low,low,
+pt-inesc-id,INESC-ID,pt,Lisboa,research_institute,absent,medium,high,Members are largely IST professors already in CSRankings
+pt-inesctec,INESC TEC,pt,Porto,research_institute,absent,medium,high,Members are largely FEUP professors
+pt-up,Universidade do Porto,pt,Porto,university,absent,medium,low,
+pt-uc,Universidade de Coimbra,pt,Coimbra,university,absent,medium,low,
+pt-uminho,Universidade do Minho,pt,Braga,university,absent,low,low,
+pt-ua,Universidade de Aveiro,pt,Aveiro,university,absent,low,low,
+pt-champalimaud,Champalimaud Foundation,pt,Lisboa,research_institute,absent,low,low,Extended layer
+be-ugent,Ghent University,be,Gent,university,absent,high,medium,imec-affiliated groups
+be-uclouvain,UCLouvain,be,Louvain-la-Neuve,university,absent,medium,low,
+be-vub,Vrije Universiteit Brussel,be,Brussel,university,absent,medium,low,
+be-uliege,Université de Liège,be,Liège,university,absent,medium,low,
+be-umons,Université de Mons,be,Mons,university,absent,low,low,
+be-imec,imec,be,Leuven,research_institute,absent,medium,high,Most researchers hold KU Leuven or UGent posts
+nl-nlesc,Netherlands eScience Center,nl,Amsterdam,research_institute,absent,low,medium,
+nl-wur,Wageningen University,nl,Wageningen,university,absent,low,low,
+nl-eur,Erasmus University Rotterdam,nl,Rotterdam,university,absent,low,low,
+at-csh,Complexity Science Hub Vienna,at,Wien,research_institute,absent,low,medium,
+at-ait,AIT Austrian Institute of Technology,at,Wien,research_institute,absent,low,low,Check E14
+at-scch,Software Competence Center Hagenberg,at,Hagenberg,research_institute,absent,low,low,Check E14
+se-liu,Linköping University,se,Linköping,university,absent,high,low,
+se-umu,Umeå University,se,Umeå,university,absent,medium,low,
+se-su,Stockholm University,se,Stockholm,university,absent,medium,low,
+se-oru,Örebro University,se,Örebro,university,absent,medium,low,Robotics group
+se-rise,RISE Research Institutes of Sweden,se,Stockholm,research_institute,absent,low,low,Check E14
+se-ki,Karolinska Institutet,se,Stockholm,university,absent,low,low,Extended layer
+dk-sdu,University of Southern Denmark,dk,Odense,university,absent,medium,low,
+fi-utu,University of Turku,fi,Turku,university,absent,medium,low,
+fi-oulu,University of Oulu,fi,Oulu,university,absent,medium,low,
+fi-jyu,University of Jyväskylä,fi,Jyväskylä,university,absent,low,low,
+fi-vtt,VTT Technical Research Centre of Finland,fi,Espoo,research_institute,absent,low,low,Check E14
+fi-fcai,Finnish Center for Artificial Intelligence,fi,Espoo,virtual_center,absent,medium,high,Members hold Aalto or Helsinki posts
+no-uio,University of Oslo,no,Oslo,university,absent,high,low,
+no-simula,Simula Research Laboratory,no,Oslo,research_institute,absent,medium,medium,
+no-sintef,SINTEF,no,Trondheim,research_institute,absent,low,low,Check E14
+no-nr,Norsk Regnesentral,no,Oslo,research_institute,absent,low,low,
+is-hi,University of Iceland,is,Reykjavík,university,absent,low,low,
+is-ru,Reykjavik University,is,Reykjavík,university,absent,low,low,
+pl-ideas,IDEAS NCBR,pl,Warszawa,research_institute,absent,high,high,Members often hold University of Warsaw posts
+pl-pw,Warsaw University of Technology,pl,Warszawa,university,absent,high,low,
+pl-uj,Jagiellonian University,pl,Kraków,university,absent,high,low,GMUM group
+pl-agh,AGH University of Krakow,pl,Kraków,university,absent,medium,low,
+pl-put,Poznań University of Technology,pl,Poznań,university,absent,medium,low,
+pl-pwr,Wrocław University of Science and Technology,pl,Wrocław,university,absent,medium,low,
+pl-nask,NASK,pl,Warszawa,research_institute,absent,low,low,
+cz-ciirc,CIIRC CTU,cz,Praha,research_institute,under_covered,high,high,Part of Czech Technical University which CSRankings lists
+cz-utia,UTIA Czech Academy of Sciences,cz,Praha,research_institute,absent,medium,low,
+cz-cas-cs,Institute of Computer Science CAS,cz,Praha,research_institute,absent,low,low,
+hu-bme,Budapest University of Technology and Economics,hu,Budapest,university,absent,medium,low,
+hu-elte,Eötvös Loránd University,hu,Budapest,university,absent,medium,low,
+hu-sztaki,HUN-REN SZTAKI,hu,Budapest,research_institute,absent,medium,medium,
+hu-renyi,HUN-REN Alfréd Rényi Institute of Mathematics,hu,Budapest,research_institute,absent,low,low,
+gr-athena,Athena Research Center (Archimedes AI),gr,Athina,research_institute,absent,high,high,Members largely hold NTUA or NKUA posts
+gr-demokritos,NCSR Demokritos,gr,Athina,research_institute,absent,medium,low,
+gr-forth,FORTH-ICS,gr,Iraklio,research_institute,absent,medium,high,Overlaps University of Crete
+gr-auth,Aristotle University of Thessaloniki,gr,Thessaloniki,university,absent,medium,low,
+gr-tuc,Technical University of Crete,gr,Chania,university,absent,low,low,
+si-ijs,Jožef Stefan Institute,si,Ljubljana,research_institute,absent,medium,medium,
+si-uni-lj,University of Ljubljana,si,Ljubljana,university,absent,medium,low,
+hr-fer,University of Zagreb FER,hr,Zagreb,university,absent,medium,low,
+hr-irb,Ruđer Bošković Institute,hr,Zagreb,research_institute,absent,low,low,
+ro-upb,University Politehnica of Bucharest,ro,București,university,absent,medium,low,
+ro-unibuc,University of Bucharest,ro,București,university,absent,low,low,
+bg-su,Sofia University St. Kliment Ohridski,bg,Sofia,university,absent,low,medium,Overlaps INSAIT
+ie-galway,University of Galway (Insight),ie,Galway,university,absent,medium,low,
+ie-dcu,Dublin City University,ie,Dublin,university,absent,medium,low,
+ie-ucc,University College Cork,ie,Cork,university,absent,low,low,
+ie-ul,University of Limerick,ie,Limerick,university,absent,low,low,
+lt-vu,Vilnius University,lt,Vilnius,university,absent,low,low,
+lv-rtu,Riga Technical University,lv,Riga,university,absent,low,low,
+lu-list,Luxembourg Institute of Science and Technology,lu,Esch-sur-Alzette,research_institute,absent,low,low,
+sk-stu,Slovak University of Technology,sk,Bratislava,university,absent,low,low,
+gb-turing,The Alan Turing Institute,gb,London,virtual_center,absent,medium,high,Fellows are seconded from UK universities; very high double-count risk

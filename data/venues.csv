@@ -1,0 +1,45 @@
+venue_abbrev,venue_name,area,layer,type,notes
+NeurIPS,Conference on Neural Information Processing Systems,ML,core,conference,
+ICML,International Conference on Machine Learning,ML,core,conference,
+ICLR,International Conference on Learning Representations,ML,core,conference,
+AISTATS,International Conference on Artificial Intelligence and Statistics,ML,core,conference,
+UAI,Conference on Uncertainty in Artificial Intelligence,ML,core,conference,
+COLT,Conference on Learning Theory,ML theory,core,conference,
+JMLR,Journal of Machine Learning Research,ML,core,journal,
+TMLR,Transactions on Machine Learning Research,ML,core,journal,No page limit; verify it is a full paper not a survey
+AAAI,AAAI Conference on Artificial Intelligence,AI general,core,conference,CSRankings 'AI' area
+IJCAI,International Joint Conference on Artificial Intelligence,AI general,core,conference,CSRankings 'AI' area
+CVPR,IEEE/CVF Conference on Computer Vision and Pattern Recognition,CV,core,conference,
+ICCV,IEEE/CVF International Conference on Computer Vision,CV,core,conference,Odd years only
+ECCV,European Conference on Computer Vision,CV,core,conference,Even years only
+TPAMI,IEEE Transactions on Pattern Analysis and Machine Intelligence,CV,core,journal,
+IJCV,International Journal of Computer Vision,CV,core,journal,
+ACL,Annual Meeting of the Association for Computational Linguistics,NLP,core,conference,Main conference only; Findings excluded from core
+EMNLP,Conference on Empirical Methods in Natural Language Processing,NLP,core,conference,Main conference only
+NAACL,North American Chapter of the ACL,NLP,core,conference,
+EACL,European Chapter of the ACL,NLP,core,conference,
+TACL,Transactions of the Association for Computational Linguistics,NLP,core,journal,
+ICRA,IEEE International Conference on Robotics and Automation,Robotics,core,conference,
+IROS,IEEE/RSJ International Conference on Intelligent Robots and Systems,Robotics,core,conference,
+RSS,Robotics: Science and Systems,Robotics,core,conference,
+CoRL,Conference on Robot Learning,Robotics,core,conference,
+TRO,IEEE Transactions on Robotics,Robotics,core,journal,
+IJRR,International Journal of Robotics Research,Robotics,core,journal,
+Interspeech,Conference of the International Speech Communication Association,Speech,core,conference,
+ECAI,European Conference on Artificial Intelligence,AI general,extended,conference,
+KDD,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,Data mining,extended,conference,CSRankings counts KDD under ML
+ICASSP,IEEE International Conference on Acoustics Speech and Signal Processing,Speech,extended,conference,Very high acceptance volume; extended layer only
+SIGIR,ACM SIGIR Conference on Research and Development in Information Retrieval,IR,extended,conference,
+WWW,The Web Conference,Web,extended,conference,
+RecSys,ACM Conference on Recommender Systems,IR,extended,conference,
+AAMAS,International Conference on Autonomous Agents and Multiagent Systems,Agents,extended,conference,
+ICAPS,International Conference on Automated Planning and Scheduling,Planning,extended,conference,
+KR,International Conference on Principles of Knowledge Representation and Reasoning,KR,extended,conference,
+CHI,ACM CHI Conference on Human Factors in Computing Systems,HCI,extended,conference,Only counts with an AI-methods paper
+SIGGRAPH,ACM SIGGRAPH,Graphics,extended,conference,Only counts with a learning-based paper
+MICCAI,Medical Image Computing and Computer Assisted Intervention,Medical imaging,extended,conference,
+IPMI,Information Processing in Medical Imaging,Medical imaging,extended,conference,
+ISMB,Intelligent Systems for Molecular Biology,Comp bio,extended,conference,AI4Science layer
+RECOMB,Research in Computational Molecular Biology,Comp bio,extended,conference,AI4Science layer
+Cosyne,Computational and Systems Neuroscience,Comp neuro,extended,conference,
+Nature Machine Intelligence,Nature Machine Intelligence,AI general,extended,journal,

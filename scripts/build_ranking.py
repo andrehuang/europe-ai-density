@@ -29,6 +29,11 @@ LINK_KM = 10.0        # single-linkage threshold that defines a cluster
 CATCHMENT_KM = 15.0   # radius around each institution for the population catchment
 NEIGHBOUR_KM = 10.0   # radius for the "median neighbour count" measure
 MIN_PIS = 5
+# Activity threshold: papers at a core-layer venue inside the window. One paper over
+# 5.6 years admits people whose AI work is incidental; three is roughly the output of a
+# finishing doctorate, which is the floor for someone running an AI agenda. Kept as a
+# parameter because it is a judgement call and the site exposes it as a toggle.
+CORE_MIN = 3
 EARTH_R = 6371.0088
 
 
@@ -49,7 +54,7 @@ def main() -> int:
     people = defaultdict(list)
     unmapped = 0
     for r in csv.DictReader((DERIVED / "candidates_csrankings.csv").open(encoding="utf-8")):
-        if int(r["core_papers"]) == 0:
+        if int(r["core_papers"]) < CORE_MIN:
             continue
         key = (r["country"], r["affiliation"])
         if key in insts:
@@ -57,7 +62,7 @@ def main() -> int:
         else:
             unmapped += 1
     total = sum(len(v) for v in people.values())
-    print(f"core-active people placed: {total} (unmapped: {unmapped})")
+    print(f"people with >= {CORE_MIN} core papers, placed: {total} (unmapped: {unmapped})")
 
     keys = [k for k in people if people[k]]
     lat = np.array([float(insts[k]["lat"]) for k in keys])
@@ -143,7 +148,7 @@ def main() -> int:
         )
 
     rows.sort(key=lambda r: -r["people"])
-    out = DERIVED / "ranking_t1_preview.csv"
+    out = DERIVED / f"ranking_t1_preview_min{CORE_MIN}.csv"
     with out.open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
         w.writeheader()

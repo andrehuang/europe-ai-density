@@ -104,3 +104,28 @@ GR,Ερευνητής Γ,Researcher grade C,research institute,no,,Flag for manu
 BG,Group leader / Faculty (INSAIT),INSAIT faculty,research institute,yes,T2,ETH/EPFL-affiliated institute founded 2022
 EU,ERC Starting/Consolidator/Advanced Grantee,ERC grant holder,any,yes,T2,Never sufficient on its own; use as supporting evidence for independence
 EU,ELLIS Scholar / ELLIS Member,ELLIS membership,any,no,,Membership alone does not establish an independent position; verify the underlying title
+XX,Professor,Professor (unqualified rank on an institute page),any,yes,T1,Generic fallback used only when no country-specific rule matches
+XX,Full Professor,Full Professor,any,yes,T1,Generic fallback
+XX,Associate Professor,Associate Professor,any,yes,T1,Generic fallback
+XX,Assistant Professor,Assistant Professor,any,yes,T1,Generic fallback
+XX,Tenure Track Professor,Tenure-track Professor,any,yes,T1,Generic fallback
+XX,Director,Institute or department director,any,yes,T2,Generic fallback
+XX,Co-Director,Institute co-director,any,yes,T2,Generic fallback
+XX,Managing Director,Managing director,any,yes,T2,Generic fallback
+XX,Group Leader,Independent research group leader,any,yes,T2,Generic fallback
+XX,Research Group Leader,Independent research group leader,any,yes,T2,Generic fallback
+XX,Independent Group Leader,Independent research group leader,any,yes,T2,Generic fallback
+XX,Junior Group Leader,Junior research group leader,any,yes,T2,Generic fallback
+XX,Principal Investigator,Principal investigator,any,yes,T2,Generic fallback
+XX,Lecturer,Lecturer,any,yes,T1,Generic fallback
+XX,Senior Lecturer,Senior Lecturer,any,yes,T1,Generic fallback
+XX,Reader,Reader,any,yes,T1,Generic fallback
+XX,Research Scientist,Research scientist,any,no,,Generic fallback; not independent without an own group
+XX,Senior Research Scientist,Senior research scientist,any,no,,Generic fallback
+XX,Postdoc,Postdoctoral researcher,any,no,,Generic fallback
+XX,Postdoctoral Researcher,Postdoctoral researcher,any,no,,Generic fallback
+XX,PhD Student,Doctoral student,any,no,,Generic fallback
+XX,Doctoral Researcher,Doctoral student,any,no,,Generic fallback
+XX,Emeritus,Emeritus,any,no,,Generic fallback
+XX,Visiting Professor,Visiting professor,any,no,,Generic fallback
+XX,Honorary Professor,Honorary professor,any,no,,Generic fallback

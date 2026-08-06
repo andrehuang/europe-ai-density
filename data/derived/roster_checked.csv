@@ -1,0 +1,175 @@
+run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evidence_url
+2026-08-06,de-ellis-inst-tue,Matthias Bethge,Matthias Bethge,full,Unit Director; Program Director; Fellow,39,1,https://ellis.eu/person/matthias-bethge
+2026-08-06,de-ellis-inst-tue,Bernhard Schölkopf,Bernhard Schölkopf,full,Unit Director; Program Director; Fellow; Director of the Department of Empirical Inference,172,8,https://ellis.eu/person/bernhard-scholkopf
+2026-08-06,de-ellis-inst-tue,Michael J. Black,Michael J. Black,full,Director; Fellow,97,4,https://ellis.eu/person/michael-j-black
+2026-08-06,de-ellis-inst-tue,Peter Dayan,Peter Dayan,full,Program Director; Fellow,7,0,https://ellis.eu/person/peter-dayan
+2026-08-06,de-ellis-inst-tue,Philipp Hennig,Philipp Hennig,full,Prof. Dr.; Professor for the Methods of Machine Learning; Program Director; Fellow,46,0,https://ellis.eu/person/philipp-hennig
+2026-08-06,de-ellis-inst-tue,Gerard Pons-Moll,Gerard Pons-Moll,full,Program Director; Scholar,29,0,https://ellis.eu/person/gerard-pons-moll
+2026-08-06,de-ellis-inst-tue,Andreas Geiger,Andreas Geiger 0001,full,Prof. Dr.-Ing.; Fellow,75,3,https://ellis.eu/person/andreas-geiger
+2026-08-06,de-ellis-inst-tue,Matthias Hein,Matthias Hein 0001,full,Prof. Dr.; Fellow,33,6,https://ellis.eu/person/matthias-hein
+2026-08-06,de-ellis-inst-tue,Bob Williamson,,no_match,Prof. Dr.; Professor of Foundations of Machine Learning Systems; Fellow,0,0,https://ellis.eu/person/bob-williamson
+2026-08-06,de-ellis-inst-tue,Moritz Hardt,Moritz Hardt,full,Fellow; Department Head (Social Foundations of Computation),24,2,https://ellis.eu/person/moritz-hardt
+2026-08-06,de-ellis-inst-tue,Michael Muehlebach,Michael Muehlebach,full,Member; Research Group Leader (Learning and Dynamical Systems),18,1,https://ellis.eu/person/michael-muehlebach
+2026-08-06,de-ellis-inst-tue,Jakob Macke,Jakob H. Macke,first_last,Prof. Dr.; Fellow,23,0,https://ellis.eu/person/jakob-macke
+2026-08-06,de-mpi-is-tue,Bernhard Schölkopf,Bernhard Schölkopf,full,Director,172,8,https://is.mpg.de/ei/people
+2026-08-06,de-mpi-is-tue,Dieter Büchler,Dieter Büchler,full,Research Group Leader,13,0,https://is.mpg.de/ei/people
+2026-08-06,de-mpi-is-tue,Jakob Macke,Jakob H. Macke,first_last,PI,23,0,https://is.mpg.de/ei/people
+2026-08-06,de-mpi-is-tue,Dingfan Chen,Dingfan Chen,full,Research Group Leader,7,3,https://is.mpg.de/sf/people
+2026-08-06,de-mpi-is-tue,Yatong Chen,Yatong Chen,full,Research Group Leader,9,0,https://is.mpg.de/sf/people
+2026-08-06,de-mpi-is-tue,Maximilian Dax,Maximilian Dax,full,Research Group Leader,4,0,https://is.mpg.de/spin/people
+2026-08-06,de-mpi-is-tue,Celestine Mendler-Dünner,Celestine Mendler-Dünner,full,PI,15,2,https://is.mpg.de/as/people
+2026-08-06,de-mpi-is-tue,Antonio Orvieto,Antonio Orvieto,full,PI,33,0,https://is.mpg.de/dmo/people
+2026-08-06,de-mpi-is-tue,Shiwei Liu,Shiwei Liu 0003,full,Research Group Leader,48,3,https://is.mpg.de/wei/people
+2026-08-06,de-mpi-is-tue,Sahar Abdelnabi,Sahar Abdelnabi,full,Research Group Leader,10,2,https://is.mpg.de/compass/people
+2026-08-06,de-mpi-is-tue,Buse Aktaş,Buse Aktas,full,Max Planck Research Group Leader,1,0,https://is.mpg.de/rococo/people
+2026-08-06,de-mpi-is-tue,Jonas Geiping,Jonas Geiping,full,PI,41,3,https://is.mpg.de/seal/people
+2026-08-06,de-mpi-is-tue,Wieland Brendel,Wieland Brendel,full,Research Group Leader,35,0,https://is.mpg.de/rml/people
+2026-08-06,de-mpi-is-tue,Nastaran Okati,Nastaran Okati,full,Research Group Leader,6,1,https://is.mpg.de/sf/people
+2026-08-06,de-mpi-is-tue,Ana-Andreea Stoica,Ana-Andreea Stoica,full,Research Group Leader,4,2,https://is.mpg.de/sf/people
+2026-08-06,de-mpi-is-tue,Michael Muehlebach,Michael Muehlebach,full,Research Group Leader,18,1,https://is.mpg.de/lds/people
+2026-08-06,de-mpi-is-tue,Samira Samadi,Samira Samadi,full,Research Group Leader,9,0,https://is.mpg.de/hml/people
+2026-08-06,de-mpi-is-tue,Renate Sachse,,no_match,Max Planck Research Group Leader,0,0,https://is.mpg.de/mis/people
+2026-08-06,de-mpi-is-tue,Antonia Georgopoulou,,no_match,Max Planck Research Group Leader,0,0,https://is.mpg.de/cyris/people
+2026-08-06,de-mpi-is-tue,Maksym Andriushchenko,Maksym Andriushchenko,full,Research Group Leader,21,0,https://is.mpg.de/aisa/people
+2026-08-06,de-tue-ai-center,Matthias Bethge,Matthias Bethge,full,Director,39,1,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Philipp Hennig,Philipp Hennig,full,Director,46,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Bernhard Schölkopf,Bernhard Schölkopf,full,Co-Director,172,8,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Jonas Geiping,Jonas Geiping,full,Group Leader,41,3,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Moritz Hardt,Moritz Hardt,full,Professor,24,2,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Kerstin Ritter,Kerstin Ritter,full,Professor,1,3,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Ulrike von Luxburg,Ulrike von Luxburg,full,Professor,17,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Sahar Abdelnabi,Sahar Abdelnabi,full,Group Leader,10,2,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Rediet Abebe,Rediet Abebe,full,Professor,8,1,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Maksym Andriushchenko,Maksym Andriushchenko,full,Group Leader,21,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Philipp Berens,Philipp Berens,full,Professor,11,8,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Wieland Brendel,Wieland Brendel,full,Group Leader,35,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Maximilian Dax,Maximilian Dax,full,Group Leader,4,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Peter Dayan,Peter Dayan,full,Professor,7,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Veronika Eyring,Veronika Eyring,full,Professor,2,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Peter Gehler,,ambiguous_first_last(2),Professor,0,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Andreas Geiger,Andreas Geiger 0001,full,Professor,75,3,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Matthias Hein,Matthias Hein 0001,full,Professor,33,6,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Almut Sophia Koepke,,no_match,Group Leader,0,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Mario Krenn,Mario Krenn,full,Professor,0,2,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Hilde Kühne,Hilde Kühne,full,Professor,1,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Shiwei Liu,Shiwei Liu 0003,full,Group Leader,48,3,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Nicole Ludwig,,no_match,Tenure Track Professor,0,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Jakob Macke,Jakob H. Macke,first_last,Professor,23,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Georg Martius,Georg Martius,full,Professor,48,1,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Celestine Mendler-Dünner,Celestine Mendler-Dünner,full,Group Leader,15,2,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Seong Joon Oh,Seong Joon Oh,full,Professor,31,2,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Antonio Orvieto,Antonio Orvieto,full,Group Leader,33,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Gerard Pons-Moll,Gerard Pons-Moll,full,Professor,29,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,T. Konstantin Rusch,T. Konstantin Rusch,full,Group Leader,8,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Samira Samadi,Samira Samadi,full,Group Leader,9,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Robert Williamson,Robert C. Williamson,first_last,Professor,8,0,https://tuebingen.ai/people
+2026-08-06,fr-inria-saclay,Cyril Furtlehner,Cyril Furtlehner,full,Chargé de recherche,4,0,https://team.inria.fr/tau2/team-members/
+2026-08-06,fr-inria-saclay,Guillaume Charpiat,Guillaume Charpiat,full,Chargé de recherche,1,0,https://team.inria.fr/tau2/team-members/
+2026-08-06,fr-inria-saclay,Sylvain Chevallier,Sylvain Chevallier,full,Professeur des universités,5,2,https://team.inria.fr/tau2/team-members/
+2026-08-06,fr-inria-saclay,Flora Jay,,no_match,Chercheur CNRS,0,0,https://team.inria.fr/tau2/team-members/
+2026-08-06,fr-inria-saclay,Marc Schoenauer,Marc Schoenauer,full,Directeur de recherche,5,0,https://www.inria.fr/en/michele-sebag-and-marc-schoenauer-ai-pioneers-and-lifelong-researchers
+2026-08-06,fr-inria-saclay,Michèle Sebag,Michèle Sebag,full,Directeur de recherche,7,1,https://www.inria.fr/en/michele-sebag-and-marc-schoenauer-ai-pioneers-and-lifelong-researchers
+2026-08-06,fr-inria-saclay,Bertrand Thirion,Bertrand Thirion,full,Directeur de recherche,13,4,https://team.inria.fr/parietal/team-members/
+2026-08-06,fr-inria-saclay,Gaël Varoquaux,Gaël Varoquaux,full,Chercheur HDR,14,5,https://team.inria.fr/parietal/team-members/
+2026-08-06,fr-inria-saclay,Alexandre Gramfort,Alexandre Gramfort,full,Directeur de recherche,21,2,https://www.inria.fr/en/neurosciences-and-machine-learning-alexandre-gramfort-sets-out-conquer-brain
+2026-08-06,fr-inria-saclay,Philippe Ciuciu,Philippe Ciuciu,full,Chercheur,1,0,https://team.inria.fr/parietal/team-members/
+2026-08-06,fr-inria-saclay,Demian Wassermann,Demian Wassermann,full,Chercheur,3,3,https://team.inria.fr/parietal/team-members/
+2026-08-06,fr-inria-saclay,Thomas Moreau,Thomas Moreau 0001,full,Chercheur,17,0,https://team.inria.fr/parietal/team-members/
+2026-08-06,fr-inria-saclay,Marine Le Morvan,Marine Le Morvan,full,Chercheur,5,0,https://team.inria.fr/parietal/team-members/
+2026-08-06,fr-inria-saclay,Jean-Daniel Fekete,Jean-Daniel Fekete,full,Senior Researcher,0,3,https://www.inria.fr/en/visualization-youve-never-seen-it
+2026-08-06,fr-inria-saclay,Tobias Isenberg,Tobias Isenberg 0001,full,Senior Researcher,0,1,https://raweb.inria.fr/rapportsactivite/RA2020/aviz/index.html
+2026-08-06,fr-inria-saclay,Ioana Manolescu,Ioana Manolescu,full,Directeur de recherche,0,4,https://team.inria.fr/cedar/members/
+2026-08-06,fr-inria-saclay,Oana Balalau,Oana Balalau,full,Chercheur,2,7,https://team.inria.fr/cedar/members/
+2026-08-06,fr-inria-saclay,Oana Goga,Oana Goga,full,Directeur de recherche,0,5,https://team.inria.fr/cedar/members/
+2026-08-06,fr-inria-saclay,Madhulika Mohanty,Manoranjan Mohanty,initial_last,Chargé de recherche,0,1,https://team.inria.fr/cedar/members/
+2026-08-06,fr-inria-saclay,Anne Auger,,no_match,Directeur de recherche,0,0,https://inria.fr/en/randopt-nouvelle-equipe-specialisee-en-optimisation-aleatoire
+2026-08-06,fr-inria-saclay,Nikolaus Hansen,,ambiguous_initial_last(3),Directeur de recherche,0,0,https://inria.fr/en/randopt-nouvelle-equipe-specialisee-en-optimisation-aleatoire
+2026-08-06,fr-inria-saclay,Dimo Brockhoff,,no_match,Chargé de recherche,0,0,https://inria.fr/en/randopt-nouvelle-equipe-specialisee-en-optimisation-aleatoire
+2026-08-06,fr-inria-saclay,Taous-Meriem Laleg Kirati,,no_match,Directeur de recherche,0,0,https://team.inria.fr/boost/team-members/
+2026-08-06,fr-inria-saclay,Ioannis Bargiotas,,no_match,Professeur,0,0,https://team.inria.fr/boost/team-members/
+2026-08-06,fr-inria-saclay,Emilie Chouzenoux,Emilie Chouzenoux,full,Chercheur senior,4,7,https://www.inria.fr/en/emilie-chouzenoux-medical_imaging
+2026-08-06,fr-inria-saclay,Nicolas Anciaux,,no_match,Directeur de recherche,0,0,https://team.inria.fr/petrus/
+2026-08-06,fr-inria-saclay,Catuscia Palamidessi,Catuscia Palamidessi,full,Senior Researcher,6,0,https://www.inria.fr/en/catuscia-palamidessi-Inria-French-Academy-of-Sciences-Grand-Prize
+2026-08-06,fr-inria-saclay,Frank Valencia,Frank Valencia,full,Chercheur CNRS,1,0,https://team.inria.fr/Comete/
+2026-08-06,fr-inria-saclay,George Drettakis,George Drettakis,full,Senior Researcher,0,2,https://team.inria.fr/graphdeco/
+2026-08-06,fr-inria-saclay,Emmanuel Pietriga,Emmanuel Pietriga,full,Senior Researcher,0,5,https://ilda.saclay.inria.fr/
+2026-08-06,fr-inria-saclay,Gaël Thomas,,ambiguous_initial_last(9),Senior Researcher,0,0,https://pages.saclay.inria.fr/gael.thomas/
+2026-08-06,fr-inria-saclay,Aline Carneiro Viana,,no_match,Chercheur permanent,0,0,https://pages.saclay.inria.fr/aline.viana/
+2026-08-06,fr-paris-saclay,Sylvain Chevallier,Sylvain Chevallier,full,Professeur,5,2,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Bich-Liên Doan,Bich-Liên Doan,full,Professeure HDR,2,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Guillaume Charpiat,Guillaume Charpiat,full,Chercheur,1,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Sergio Chibbaro,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Cécile Germain,,no_match,Professeure Émérite,0,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Marc Schoenauer,Marc Schoenauer,full,Directeur de recherche Émérite,5,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Nicolas Spyratos,,no_match,Professeur Émérite,0,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Philippe Caillou,Philippe Caillou,full,Maître de conférences,2,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Cyril Furtlehner,Cyril Furtlehner,full,Chercheur,4,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,François Landes,François P. Landes,first_last,Maître de conférences,1,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Julien Mille,,no_match,Chercheur,0,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Lisheng Sun,,ambiguous_initial_last(89),Chercheur,0,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Nathalie Aubrun,,no_match,Chercheure,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Benjamin Hellouin De Menibus,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Johanne Cohen,Johanne Cohen,full,Directrice de recherche,2,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Sylvie Delaet,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Selma Djelloul,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Francesca Fiorenzi,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Florent Hivert,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Hoang La,,ambiguous_initial_last(2),Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Hao Li,Hao Li 0093,full,Chercheur,4,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Francois Pirot,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Viviane Pons,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Arpad Rimmel,Arpad Rimmel,full,Maître de conférences,2,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Nicolas Thiery,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Joanna Tomasik,,no_match,Professeure,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Marc-Antoine Weisser,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Stéphane Vialle,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
+2026-08-06,fr-paris-saclay,Janna Burman,,no_match,Professeure,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
+2026-08-06,fr-paris-saclay,Joffroy Beauquier,,no_match,Professeur Émérite,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
+2026-08-06,fr-paris-saclay,Joël Falcou,,no_match,Enseignant-chercheur HDR,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
+2026-08-06,fr-paris-saclay,Oguz Kaya,Ozan Kaya,initial_last,Maître de conférences,1,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
+2026-08-06,fr-paris-saclay,Evangelos Bampas,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
+2026-08-06,fr-paris-saclay,Laurent Rosaz,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
+2026-08-06,fr-paris-saclay,Ioana Vasilescu,Ioana Vasilescu,full,Directrice de recherche,6,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Annelies Braffort,Annelies Braffort,full,Directrice de recherche,0,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Lori Lamel,Lori Lamel,full,Directrice de recherche,7,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Sophie Rosset,Sophie Rosset,full,Directrice de recherche,2,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Jean-Luc Gauvain,Jean-Luc Gauvain,full,Chercheur Émérite,1,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Michèle Gouiffès,Michèle Gouiffès,full,Professeure,1,2,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Marc Evrard,Marc Evrard,full,Maître de conférences,2,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Camille Guinaudeau,Camille Guinaudeau,full,Enseignante-chercheuse,2,2,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Michael Filhol,Michael Filhol,full,Chargé de recherche,0,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Jean-Sylvain Liénard,Jean-Sylvain Liénard,full,Chercheur Émérite,1,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
+2026-08-06,fr-paris-saclay,Agata Savary,Agata Savary,full,Professeure,1,1,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Cyril Grouin,Cyril Grouin,full,Ingénieur Chercheur HDR,2,1,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Anne-Laure Ligozat,Anne-Laure Ligozat,full,Professeure,2,0,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Aurélie Névéol,Aurélie Névéol,full,Directrice de recherche,6,2,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Pierre Zweigenbaum,Pierre Zweigenbaum,full,Directeur de recherche,2,0,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Thierry Hamon,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Gabriel Illouz,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Eva Feillet,Eva Feillet,full,Enseignante-chercheuse,1,0,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Thomas Gerald,Thomas Gerald,full,Chercheur,2,0,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Patrick Paroubek,,no_match,Ingénieur Chercheur,0,0,https://www.lisn.upsaclay.fr/seme/
+2026-08-06,fr-paris-saclay,Albert Rilliard,Albert Rilliard,full,Chercheur,6,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/m3/
+2026-08-06,fr-paris-saclay,Philippe Boula De Mareüil,,no_match,Directeur de recherche,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/m3/
+2026-08-06,fr-paris-saclay,Laurence Devillers,Laurence Devillers,full,Professeure,1,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/m3/
+2026-08-06,fr-paris-saclay,Hélène Bonneau,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/m3/
+2026-08-06,fr-paris-saclay,Thomas Lavergne,Thomas Lavergne,full,Maître de conférences,1,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/m3/
+2026-08-06,fr-paris-saclay,Kim Gerdes,Kim Gerdes,full,Chercheur,1,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/m3/
+2026-08-06,fr-paris-saclay,Lucas Ondel Yang,Lucas Ondel Yang,full,Chargé de recherche,2,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/m3/
+2026-08-06,fr-paris-saclay,Joseph Mariani,,no_match,Directeur de recherche Émérite,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/m3/
+2026-08-06,fr-paris-saclay,Sais Fatiha,,no_match,Responsable d'équipe,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Bidoit Nicole,,no_match,Professeure Émérite,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Bugiotti Francesca,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Chatalic Philippe,,no_match,Maître de conférence,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Lazaar Nadjib,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Ma Yue,,ambiguous_initial_last(5),Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Paris Pierre-Henri,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Popineau Fabrice,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Quercini Gianluca,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Raad Joe,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Seghouani Nacera,,no_match,Professeure,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Waller Emmanuel,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Dominique Quadri,,no_match,Professeure des universités,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/reseaux-optimisation-combinatoire-et-stochastique-rocs/
+2026-08-06,fr-paris-saclay,Steven Martin,,ambiguous_initial_last(10),Professeur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/reseaux-optimisation-combinatoire-et-stochastique-rocs/
+2026-08-06,fr-paris-saclay,Jay Flora,,no_match,Chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/
+2026-08-06,fr-paris-saclay,Fanny Pouyet,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/

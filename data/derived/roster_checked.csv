@@ -1,4 +1,69 @@
 run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evidence_url
+2026-08-06,de-cispa-helmholtz-center,Ali Abbasi,Ali Abbasi,full,Faculty,0,1,https://cispa.de/en/people/c02alab
+2026-08-06,de-cispa-helmholtz-center,Michael Backes,Michael Backes 0001,full,Faculty,28,10,https://cispa.de/en/people/backes
+2026-08-06,de-cispa-helmholtz-center,Franziska Boenisch,Franziska Boenisch,full,Faculty,24,1,https://cispa.de/en/people/c01frbo
+2026-08-06,de-cispa-helmholtz-center,Sebastian Brandt,,no_match,Faculty,0,0,https://cispa.de/en/people/c01sebr
+2026-08-06,de-cispa-helmholtz-center,Sven Bugiel,Sven Bugiel,full,Faculty,0,2,https://cispa.de/en/people/bugiel
+2026-08-06,de-cispa-helmholtz-center,Rebekka Burkholz,Rebekka Burkholz,full,Faculty,21,0,https://cispa.de/en/people/c01rebu
+2026-08-06,de-cispa-helmholtz-center,Cas Cremers,,no_match,Faculty,0,0,https://cispa.de/en/people/cas.cremers
+2026-08-06,de-cispa-helmholtz-center,Ana-Maria Crețu,,no_match,Faculty,0,0,https://cispa.de/en/people/c01ancr
+2026-08-06,de-cispa-helmholtz-center,Rayna Dimitrova,Rayna Dimitrova,full,Faculty,2,0,https://cispa.de/en/people/c01radi
+2026-08-06,de-cispa-helmholtz-center,Nico Döttling,,no_match,Faculty,0,0,https://cispa.de/en/people/nico.doettling
+2026-08-06,de-cispa-helmholtz-center,Adam Dziedzic,Adam Dziedzic,full,Faculty,28,1,https://cispa.de/en/people/c01addz
+2026-08-06,de-cispa-helmholtz-center,Thorsten Eisenhofer,Thorsten Eisenhofer,full,Faculty,2,0,https://cispa.de/en/people/c01thei
+2026-08-06,de-cispa-helmholtz-center,Sascha Fahl,Sascha Fahl,full,Faculty,0,4,https://cispa.de/en/people/c01safa
+2026-08-06,de-cispa-helmholtz-center,Bernd Finkbeiner,Bernd Finkbeiner,full,Faculty,6,6,https://cispa.de/en/people/finkbeiner
+2026-08-06,de-cispa-helmholtz-center,Mario Fritz,Mario Fritz,full,Faculty,39,9,https://cispa.de/en/people/mario.fritz
+2026-08-06,de-cispa-helmholtz-center,Maximilian Golla,Maximilian Golla,full,Faculty,0,3,https://cispa.de/en/people/c01mago
+2026-08-06,de-cispa-helmholtz-center,Simon Gregersen,,no_match,Faculty,0,0,https://cispa.de/en/people/c02sigr
+2026-08-06,de-cispa-helmholtz-center,Lucjan Hanzlik,Lucjan Hanzlik,full,Faculty,1,0,https://cispa.de/en/people/lucjan.hanzlik
+2026-08-06,de-cispa-helmholtz-center,Jonas Hielscher,Jonas Hielscher,full,Faculty,0,2,https://cispa.de/en/people/c01johi
+2026-08-06,de-cispa-helmholtz-center,Jane Im,Jane Im,full,Faculty,0,6,https://cispa.de/en/people/c01jaim
+2026-08-06,de-cispa-helmholtz-center,Swen Jacobs,Swen Jacobs,full,Faculty,1,0,https://cispa.de/en/people/swen.jacobs
+2026-08-06,de-cispa-helmholtz-center,Antoine Joux,,no_match,Faculty,0,0,https://cispa.de/en/people/c01anjo
+2026-08-06,de-cispa-helmholtz-center,Adam Edward Kortylewski,Adam Kortylewski,first_last,Faculty,41,1,https://cispa.de/en/people/c01adko
+2026-08-06,de-cispa-helmholtz-center,Katharina Krombholz,Katharina Krombholz,full,Faculty,0,12,https://cispa.de/en/people/katharina.krombholz
+2026-08-06,de-cispa-helmholtz-center,Andrew Lowy,Andrew Lowy,full,Faculty,8,0,https://cispa.de/en/people/c01anlo
+2026-08-06,de-cispa-helmholtz-center,Wouter Lueks,,no_match,Faculty,0,0,https://cispa.de/en/people/c01wolu
+2026-08-06,de-cispa-helmholtz-center,Dániel Marx,,no_match,Faculty,0,0,https://cispa.de/en/people/c01dama
+2026-08-06,de-cispa-helmholtz-center,Ruijie Meng,Ruijie Meng,full,Faculty,0,1,https://cispa.de/en/people/c01rume
+2026-08-06,de-cispa-helmholtz-center,Pierre Meyer,,no_match,Faculty,0,0,https://cispa.de/en/people/c01pime
+2026-08-06,de-cispa-helmholtz-center,Krikamol Muandet,Krikamol Muandet,full,Faculty,22,1,https://cispa.de/en/people/c01krmu
+2026-08-06,de-cispa-helmholtz-center,Giancarlo Pellegrino,Giancarlo Pellegrino,full,Faculty,0,1,https://cispa.de/en/people/giancarlo.pellegrino
+2026-08-06,de-cispa-helmholtz-center,Michael Pradel,Michael Pradel,full,Faculty,0,1,https://cispa.de/en/people/c01mipr
+2026-08-06,de-cispa-helmholtz-center,Willy Quach,,no_match,Faculty,0,0,https://cispa.de/en/people/c01wiqu
+2026-08-06,de-cispa-helmholtz-center,Doreen Riepel,,no_match,Faculty,0,0,https://cispa.de/en/people/c01dori
+2026-08-06,de-cispa-helmholtz-center,Christian Rossow,Christian Rossow,full,Faculty,0,1,https://cispa.de/en/people/rossow
+2026-08-06,de-cispa-helmholtz-center,Sajin Sasy,Sajin Sasy,full,Faculty,1,0,https://cispa.de/en/people/c02sasa
+2026-08-06,de-cispa-helmholtz-center,Moritz Schloegel,,no_match,Faculty,0,0,https://cispa.de/en/people/c01mosc
+2026-08-06,de-cispa-helmholtz-center,Lea Schönherr,Lea Schönherr,full,Faculty,7,1,https://cispa.de/en/people/c01lesc
+2026-08-06,de-cispa-helmholtz-center,Michael Schwarz,Michael Schwarz 0001,full,Faculty,0,1,https://cispa.de/en/people/c02misc
+2026-08-06,de-cispa-helmholtz-center,Mridula Singh,,no_match,Faculty,0,0,https://cispa.de/en/people/c01mrsi
+2026-08-06,de-cispa-helmholtz-center,Sebastian Stich,Sebastian U. Stich,first_last,Faculty,41,0,https://cispa.de/en/people/c01sest
+2026-08-06,de-cispa-helmholtz-center,Ben Stock,,no_match,Faculty,0,0,https://cispa.de/en/people/ben.stock
+2026-08-06,de-cispa-helmholtz-center,Nils Ole Tippenhauer,,no_match,Faculty,0,0,https://cispa.de/en/people/nils.tippenhauer
+2026-08-06,de-cispa-helmholtz-center,Jilles Vreeken,Jilles Vreeken,full,Faculty,29,8,https://cispa.de/en/people/jilles.vreeken
+2026-08-06,de-cispa-helmholtz-center,Maximiliane Pauline Monika Windl,Maximiliane Windl,first_last,Faculty,0,8,https://cispa.de/en/people/c02mawi
+2026-08-06,de-cispa-helmholtz-center,Abdullah Giray Yağlıkçı,,no_match,Faculty,0,0,https://cispa.de/en/people/c01abya
+2026-08-06,de-cispa-helmholtz-center,Andreas Zeller,,no_match,Faculty,0,0,https://cispa.de/en/people/zeller
+2026-08-06,de-cispa-helmholtz-center,Xiao Zhang,Xiao Zhang 0034,full,Faculty,11,35,https://cispa.de/en/people/c01xizh
+2026-08-06,de-cispa-helmholtz-center,Yang Zhang,Yang Zhang 0072,full,Faculty,5,33,https://cispa.de/en/people/yang.zhang
+2026-08-06,de-dfki-sb,Prof. Dr.-Ing. Philipp Slusallek,Philipp Slusallek,full,Head; Executive Director DFKI Saarbrücken,6,8,https://www.dfki.de/en/web/research/research-departments/agents-and-simulated-reality
+2026-08-06,de-dfki-sb,Dr.-Ing. Christian Müller,Christian Müller 0014,full,Deputy Head,1,0,https://www.dfki.de/en/web/research/research-departments/agents-and-simulated-reality
+2026-08-06,de-dfki-sb,PD Dr. Matthias Klusch,,no_match,Head of Research Team Intelligent Information Systems (I2S); Principal Researcher; DFKI Research Fellow,0,0,https://www.dfki.de/~klusch
+2026-08-06,de-dfki-sb,Prof. Dr. Antonio Krüger,Antonio Krüger,full,Head,4,14,https://www.dfki.de/en/web/research/research-departments/cognitive-assistants/
+2026-08-06,de-dfki-sb,Dr. Anselm Blocher,,no_match,First Deputy Head research department Cognitive Assistants,0,0,https://www.dfki.de/en/web/research/research-departments/cognitive-assistants/
+2026-08-06,de-dfki-sb,Dr. Kinga Schumacher,,no_match,Deputy Head,0,0,https://www.dfki.de/en/web/research/research-departments/cognitive-assistants/
+2026-08-06,de-dfki-sb,Jan Alexandersson,,no_match,"Research Fellow and Principal Researcher; Group leader (project and research management), SCAAI",0,0,https://scaai.dfki.de/team/
+2026-08-06,de-dfki-sb,Dr. Patrick Gebhard,Patrick Gebhard,full,Research Fellow and Principal Researcher; co-head of SCAAI,0,4,https://scaai.dfki.de/team/
+2026-08-06,de-dfki-sb,Prof. Dr. Peter Loos,,no_match,Head,0,0,https://www.dfki.de/en/web/research/research-departments/institute-for-information-systems
+2026-08-06,de-dfki-sb,Prof. Dr. Peter Fettke,Peter Fettke,full,"Deputy Head; Principal Researcher, Research Fellow and Research Group Leader",1,0,https://www.dfki.de/en/web/research/research-departments/institute-for-information-systems
+2026-08-06,de-dfki-sb,Dr. Simon Ostermann,Simon Ostermann 0002,full,Interim Head,9,8,https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology
+2026-08-06,de-dfki-sb,Prof. Dr. Günter Neumann,Günter Neumann,full,wissenschaftlicher Mitarbeiter and Research Fellow am DFKI; apl. Professor; Principal Researcher,1,0,https://www.dfki.de/~neumann
+2026-08-06,de-dfki-sb,Prof. Dr. Verena Wolf,,no_match,headed by Prof. Dr. Verena Wolf,0,0,https://www.dfki.de/en/web/news/new-research-department-neuro-mechanistic-modeling-at-dfki
+2026-08-06,de-dfki-sb,"Kevin Baum, M.A. M.Sc.",,no_match,Head of the RAIME research group,0,0,https://www.dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime
+2026-08-06,de-dfki-sb,Prof. Dr.-Ing. Wolfgang Maaß,,no_match,Head,0,0,https://www.dfki.de/en/web/research/research-departments/smart-service-engineering
+2026-08-06,de-dfki-sb,Dr.-Ing. Sabine Janzen,Sabine Janzen,full,Deputy Head,3,0,https://www.dfki.de/en/web/research/research-departments/smart-service-engineering
 2026-08-06,de-ellis-inst-tue,Matthias Bethge,Matthias Bethge,full,Unit Director; Program Director; Fellow,39,1,https://ellis.eu/person/matthias-bethge
 2026-08-06,de-ellis-inst-tue,Bernhard Schölkopf,Bernhard Schölkopf,full,Unit Director; Program Director; Fellow; Director of the Department of Empirical Inference,172,8,https://ellis.eu/person/bernhard-scholkopf
 2026-08-06,de-ellis-inst-tue,Michael J. Black,Michael J. Black,full,Director; Fellow,97,4,https://ellis.eu/person/michael-j-black
@@ -45,6 +110,76 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,de-mpi-is-tue,Renate Sachse,,no_match,Max Planck Research Group Leader,0,0,https://is.mpg.de/mis/people
 2026-08-06,de-mpi-is-tue,Antonia Georgopoulou,,no_match,Max Planck Research Group Leader,0,0,https://is.mpg.de/cyris/people
 2026-08-06,de-mpi-is-tue,Maksym Andriushchenko,Maksym Andriushchenko,full,Research Group Leader,21,0,https://is.mpg.de/aisa/people
+2026-08-06,de-mpi-sws,Björn Brandenburg,,no_match,Faculty (tenured),0,0,https://www.mpi-sws.org/people/bbb/
+2026-08-06,de-mpi-sws,Derek Dreyer,,no_match,Faculty (scientific director),0,0,https://www.mpi-sws.org/people/dreyer/
+2026-08-06,de-mpi-sws,Peter Druschel,,no_match,Faculty (scientific director),0,0,https://www.mpi-sws.org/people/druschel/
+2026-08-06,de-mpi-sws,Deepak Garg,Deepak Garg,full,Faculty (tenured),1,0,https://www.mpi-sws.org/people/dg/
+2026-08-06,de-mpi-sws,Christina Giannoula,,no_match,Faculty (tenure-track),0,0,https://www.mpi-sws.org/people/cgiannoula/
+2026-08-06,de-mpi-sws,Manuel Gomez Rodriguez,Manuel Gomez Rodriguez,full,Faculty (tenured),13,0,https://www.mpi-sws.org/people/manuelgr/
+2026-08-06,de-mpi-sws,Krishna Gummadi,Krishna P. Gummadi,first_last,Faculty (scientific director),11,9,https://www.mpi-sws.org/people/gummadi/
+2026-08-06,de-mpi-sws,Antoine Kaufmann,,no_match,Faculty (tenure-track),0,0,https://www.mpi-sws.org/people/antoinek/
+2026-08-06,de-mpi-sws,Rupak Majumdar,Rupak Majumdar,full,Faculty (scientific director),9,1,https://www.mpi-sws.org/people/rupak/
+2026-08-06,de-mpi-sws,Joel Ouaknine,Joël Ouaknine,full,Faculty (scientific director),1,1,https://www.mpi-sws.org/people/joel/
+2026-08-06,de-mpi-sws,Abhilasha Ravichander,Abhilasha Ravichander,full,Faculty (tenure-track),21,2,https://www.mpi-sws.org/people/aravicha/
+2026-08-06,de-mpi-sws,Anne-Kathrin Schmuck,Anne-Kathrin Schmuck,full,Faculty (tenure-track),2,0,https://www.mpi-sws.org/people/akschmuck/
+2026-08-06,de-mpi-sws,Adish Singla,Adish Singla,full,Faculty (tenured),35,3,https://www.mpi-sws.org/people/adishs/
+2026-08-06,de-mpi-sws,Mariya Toneva,Mariya Toneva,full,Faculty (tenure-track),10,1,https://www.mpi-sws.org/people/mtoneva/
+2026-08-06,de-mpi-sws,Viktor Vafeiadis,,no_match,Faculty (tenured),0,0,https://www.mpi-sws.org/people/viktor/
+2026-08-06,de-mpi-sws,Georg Zetzsche,Georg Zetzsche,full,Faculty (tenured),1,1,https://www.mpi-sws.org/people/georg/
+2026-08-06,de-mpi-sws,Laurent Bindschaedler,Laurent Bindschaedler,full,Research Group Leader,0,1,https://www.mpi-sws.org/people/bindsch/
+2026-08-06,de-mpi-sws,Nina Grgic-Hlaca,Nina Grgic-Hlaca,full,Research Group Leader,0,5,https://www.mpi-sws.org/people/nghlaca/
+2026-08-06,de-mpi-sws,Aditya Potukuchi,,no_match,Research Group Leader,0,0,https://www.mpi-sws.org/people/apotu/
+2026-08-06,de-mpi-sws,Goran Radanovic,Goran Radanovic,full,Research Group Leader,26,3,https://www.mpi-sws.org/people/gradanovic/
+2026-08-06,de-mpi-sws,Sadegh Soudjani,Sadegh Soudjani,full,Research Group Leader,5,1,https://www.mpi-sws.org/people/sadegh/
+2026-08-06,de-mpi-sws,Mikhail Starchak,,no_match,Research Group Leader,0,0,https://www.mpi-sws.org/people/starchak/
+2026-08-06,de-mpi-sws,Anthony Lin,,ambiguous_first_last(2),Max Planck Fellow,0,0,https://www.mpi-sws.org/people/awlin/
+2026-08-06,de-mpi-sws,Isabel Valera Martinez,,no_match,Adjunct Faculty,0,0,https://www.mpi-sws.org/people/ivalera/
+2026-08-06,de-mpi-sws,Elissa Redmiles,Elissa M. Redmiles,first_last,Adjunct Faculty,1,8,https://www.mpi-sws.org/people/eredmiles/
+2026-08-06,de-mpi-sws,Rodrigo Rodrigues,,no_match,Adjunct Faculty,0,0,https://www.mpi-sws.org/people/rodrigo/
+2026-08-06,de-saarland-university,Sven Apel,,no_match,Professur für Informatik mit Schwerpunkt Softwaretechnik,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Michael Backes,Michael Backes 0001,full,Professur für Sicherheit und Kryptographie (CISPA),28,10,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Markus Bläser,Markus Bläser,full,Professur für Informatik / Komplexitätstheorie,9,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,André Brinkmann,,no_match,Professur für High-Performance Computing,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Vera Demberg,Vera Demberg,full,Professur für Informatik und Computerlinguistik,24,4,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Jens Dittrich,,no_match,"Professur für Informatik, insbesondere Datenbanken und Informationssysteme",0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Anna Maria Feit,Anna Maria Feit,full,Professur für Informatik / Human-Computer Interaction,0,3,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Aleksei Gurevich,,no_match,Juniorprofessur für Human Microbe Systems Bioinformatics,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Sebastian Hack,,no_match,Professur für Informatik / Programming,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Thorsten Herfet,,no_match,Professur für Nachrichtentechnik,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Holger Hermanns,Holger Hermanns,full,Professur für Informatik / Dependable Systems and Software,2,1,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Jörg Hoffmann,Jörg Hoffmann 0001,full,Professur für Grundlagen der Künstlichen Intelligenz,14,18,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Benjamin Kaminski,,no_match,Professur für Informatik – Schwerpunkt Quantitative Verifikation,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Antonio Krüger,Antonio Krüger,full,Professur für Künstliche Intelligenz im Handel,4,14,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Jan Eric Lenssen,Jan Eric Lenssen,full,Professur für Machine Vision Systems,22,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Martina Maggio,,no_match,Professur für Informatik,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Sara Magliacane,Sara Magliacane,full,Professur für Machine Learning,16,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Tomohiro Nagashima,Tomohiro Nagashima,full,Juniorprofessur für Informatik mit Schwerpunkt Technology Enhanced Learning (WISNA),0,2,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Sven Rahmann,Sven Rahmann,full,Professur für Bioinformatik,0,1,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Jan Reineke,,no_match,Professur für Informatik / Real-Time and Embedded Systems,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Philipp Slusallek,Philipp Slusallek,full,Professur für Informatik / Computergraphik,6,8,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Gert Smolka,,no_match,Seniorprofessor für Informatik / Programmiersysteme,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Jürgen Steimle,Jürgen Steimle,full,Professur für Mensch-Computer-Interaktion,1,27,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Isabel Valera,Isabel Valera,full,Professur für Informatik: Machine Learning,12,1,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Andrea Volkamer,,no_match,Professur für Data Driven Drug Design,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Ingmar Weber,Ingmar Weber,full,Professur für Informatik – Societal Computing (Alexander von Humboldt-Professur),1,3,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Joachim Weickert,Joachim Weickert,full,Professur für Mathematik und Informatik / Mathematische Bildanalyse und Bildverarbeitung,1,3,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Verena Wolf,,no_match,Professur für Modelling and Simulation,0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Viktor Zaverkin,Viktor Zaverkin,full,Juniorprofessur für Data-Driven Materials Design (INM),6,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Andreas Zeller,,no_match,Professur für Softwaretechnik (CISPA),0,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/informatik.html
+2026-08-06,de-saarland-university,Peter Druschel,,no_match,"Scientific Director MPI SWS, Professor Saarland University",0,0,https://saarland-informatics-campus.de/forschung-research/dozenten/
+2026-08-06,de-saarland-university,Anja Feldmann,,no_match,"Scientific Director MPI INF, Professor Saarland University",0,0,https://saarland-informatics-campus.de/forschung-research/dozenten/
+2026-08-06,de-saarland-university,Krishna Gummadi,Krishna P. Gummadi,first_last,"Scientific Director MPI SWS, Professor Saarland University",11,9,https://saarland-informatics-campus.de/forschung-research/dozenten/
+2026-08-06,de-saarland-university,Danupon Nanongkai,,no_match,"Scientific Director MPI INF, Professor Saarland University",0,0,https://saarland-informatics-campus.de/forschung-research/dozenten/
+2026-08-06,de-saarland-university,Peter Ochs,Peter Ochs,full,Professur für Mathematik und Informatik mit Schwerpunkt Mathematische Datenanalyse,6,0,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-mi/mathematik.html
+2026-08-06,de-saarland-university,Joël Ouaknine,Joël Ouaknine,full,"Scientific Director MPI SWS, Professor Saarland University",1,1,https://saarland-informatics-campus.de/forschung-research/dozenten/
+2026-08-06,de-saarland-university,Bernt Schiele,Bernt Schiele,full,"Scientific Director MPI INF, Professor Saarland University",103,2,https://saarland-informatics-campus.de/forschung-research/dozenten/
+2026-08-06,de-saarland-university,Hans-Peter Seidel,Hans-Peter Seidel,full,"Scientific Director MPI INF (Affiliated Professor, Saarland University since 1999)",10,7,https://people.mpi-inf.mpg.de/~hpseidel/
+2026-08-06,de-saarland-university,Raimund Seidel,Raimund Seidel,full,"Professor, Saarland University",1,0,https://saarland-informatics-campus.de/forschung-research/dozenten/
+2026-08-06,de-saarland-university,Christian Theobalt,Christian Theobalt,full,"Scientific Director MPI INF, Professor Saarland University",95,11,https://saarland-informatics-campus.de/forschung-research/dozenten/
+2026-08-06,de-saarland-university,Josef van Genabith,Josef van Genabith,full,Seniorprofessor für Translationsorientierte Sprachtechnologie,18,5,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-p/sprache.html
+2026-08-06,de-saarland-university,Michael Hahn,Michael Hahn 0001,full,Professur für Computerlinguistik,15,1,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-p/sprache.html
+2026-08-06,de-saarland-university,Dietrich Klakow,Dietrich Klakow,full,Professur für Sprach- und Signalverarbeitung,46,11,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-p/sprache.html
+2026-08-06,de-saarland-university,Alexander Koller,Alexander Koller,full,Professur für Computerlinguistik,18,4,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-p/sprache.html
 2026-08-06,de-tue-ai-center,Matthias Bethge,Matthias Bethge,full,Director,39,1,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Philipp Hennig,Philipp Hennig,full,Director,46,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Bernhard Schölkopf,Bernhard Schölkopf,full,Co-Director,172,8,https://tuebingen.ai/people
@@ -95,9 +230,9 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,fr-inria-saclay,Ioana Manolescu,Ioana Manolescu,full,Directeur de recherche,0,4,https://team.inria.fr/cedar/members/
 2026-08-06,fr-inria-saclay,Oana Balalau,Oana Balalau,full,Chercheur,2,7,https://team.inria.fr/cedar/members/
 2026-08-06,fr-inria-saclay,Oana Goga,Oana Goga,full,Directeur de recherche,0,5,https://team.inria.fr/cedar/members/
-2026-08-06,fr-inria-saclay,Madhulika Mohanty,Manoranjan Mohanty,initial_last,Chargé de recherche,0,1,https://team.inria.fr/cedar/members/
+2026-08-06,fr-inria-saclay,Madhulika Mohanty,,no_match,Chargé de recherche,0,0,https://team.inria.fr/cedar/members/
 2026-08-06,fr-inria-saclay,Anne Auger,,no_match,Directeur de recherche,0,0,https://inria.fr/en/randopt-nouvelle-equipe-specialisee-en-optimisation-aleatoire
-2026-08-06,fr-inria-saclay,Nikolaus Hansen,,ambiguous_initial_last(3),Directeur de recherche,0,0,https://inria.fr/en/randopt-nouvelle-equipe-specialisee-en-optimisation-aleatoire
+2026-08-06,fr-inria-saclay,Nikolaus Hansen,,no_match,Directeur de recherche,0,0,https://inria.fr/en/randopt-nouvelle-equipe-specialisee-en-optimisation-aleatoire
 2026-08-06,fr-inria-saclay,Dimo Brockhoff,,no_match,Chargé de recherche,0,0,https://inria.fr/en/randopt-nouvelle-equipe-specialisee-en-optimisation-aleatoire
 2026-08-06,fr-inria-saclay,Taous-Meriem Laleg Kirati,,no_match,Directeur de recherche,0,0,https://team.inria.fr/boost/team-members/
 2026-08-06,fr-inria-saclay,Ioannis Bargiotas,,no_match,Professeur,0,0,https://team.inria.fr/boost/team-members/
@@ -107,7 +242,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,fr-inria-saclay,Frank Valencia,Frank Valencia,full,Chercheur CNRS,1,0,https://team.inria.fr/Comete/
 2026-08-06,fr-inria-saclay,George Drettakis,George Drettakis,full,Senior Researcher,0,2,https://team.inria.fr/graphdeco/
 2026-08-06,fr-inria-saclay,Emmanuel Pietriga,Emmanuel Pietriga,full,Senior Researcher,0,5,https://ilda.saclay.inria.fr/
-2026-08-06,fr-inria-saclay,Gaël Thomas,,ambiguous_initial_last(9),Senior Researcher,0,0,https://pages.saclay.inria.fr/gael.thomas/
+2026-08-06,fr-inria-saclay,Gaël Thomas,,no_match,Senior Researcher,0,0,https://pages.saclay.inria.fr/gael.thomas/
 2026-08-06,fr-inria-saclay,Aline Carneiro Viana,,no_match,Chercheur permanent,0,0,https://pages.saclay.inria.fr/aline.viana/
 2026-08-06,fr-paris-saclay,Sylvain Chevallier,Sylvain Chevallier,full,Professeur,5,2,https://www.lisn.upsaclay.fr/?page_id=28264
 2026-08-06,fr-paris-saclay,Bich-Liên Doan,Bich-Liên Doan,full,Professeure HDR,2,0,https://www.lisn.upsaclay.fr/?page_id=28264
@@ -120,7 +255,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,fr-paris-saclay,Cyril Furtlehner,Cyril Furtlehner,full,Chercheur,4,0,https://www.lisn.upsaclay.fr/?page_id=28264
 2026-08-06,fr-paris-saclay,François Landes,François P. Landes,first_last,Maître de conférences,1,0,https://www.lisn.upsaclay.fr/?page_id=28264
 2026-08-06,fr-paris-saclay,Julien Mille,,no_match,Chercheur,0,0,https://www.lisn.upsaclay.fr/?page_id=28264
-2026-08-06,fr-paris-saclay,Lisheng Sun,,ambiguous_initial_last(89),Chercheur,0,0,https://www.lisn.upsaclay.fr/?page_id=28264
+2026-08-06,fr-paris-saclay,Lisheng Sun,,no_match,Chercheur,0,0,https://www.lisn.upsaclay.fr/?page_id=28264
 2026-08-06,fr-paris-saclay,Nathalie Aubrun,,no_match,Chercheure,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Benjamin Hellouin De Menibus,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Johanne Cohen,Johanne Cohen,full,Directrice de recherche,2,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
@@ -128,7 +263,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,fr-paris-saclay,Selma Djelloul,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Francesca Fiorenzi,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Florent Hivert,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
-2026-08-06,fr-paris-saclay,Hoang La,,ambiguous_initial_last(2),Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Hoang La,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Hao Li,Hao Li 0093,full,Chercheur,4,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Francois Pirot,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Viviane Pons,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
@@ -140,7 +275,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,fr-paris-saclay,Janna Burman,,no_match,Professeure,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
 2026-08-06,fr-paris-saclay,Joffroy Beauquier,,no_match,Professeur Émérite,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
 2026-08-06,fr-paris-saclay,Joël Falcou,,no_match,Enseignant-chercheur HDR,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
-2026-08-06,fr-paris-saclay,Oguz Kaya,Ozan Kaya,initial_last,Maître de conférences,1,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
+2026-08-06,fr-paris-saclay,Oguz Kaya,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
 2026-08-06,fr-paris-saclay,Evangelos Bampas,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
 2026-08-06,fr-paris-saclay,Laurent Rosaz,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/systemes-paralleles-parsys/membres-4/
 2026-08-06,fr-paris-saclay,Ioana Vasilescu,Ioana Vasilescu,full,Directrice de recherche,6,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/sciences-et-technologies-des-langues/lips/
@@ -176,7 +311,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,fr-paris-saclay,Bugiotti Francesca,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
 2026-08-06,fr-paris-saclay,Chatalic Philippe,,no_match,Maître de conférence,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
 2026-08-06,fr-paris-saclay,Lazaar Nadjib,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
-2026-08-06,fr-paris-saclay,Ma Yue,,ambiguous_initial_last(5),Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
+2026-08-06,fr-paris-saclay,Ma Yue,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
 2026-08-06,fr-paris-saclay,Paris Pierre-Henri,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
 2026-08-06,fr-paris-saclay,Popineau Fabrice,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
 2026-08-06,fr-paris-saclay,Quercini Gianluca,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
@@ -184,7 +319,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,fr-paris-saclay,Seghouani Nacera,,no_match,Professeure,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
 2026-08-06,fr-paris-saclay,Waller Emmanuel,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/donnees-et-connaissances-massives-et-heterogenes-lahdak/membres-de-lahdak/
 2026-08-06,fr-paris-saclay,Dominique Quadri,,no_match,Professeure des universités,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/reseaux-optimisation-combinatoire-et-stochastique-rocs/
-2026-08-06,fr-paris-saclay,Steven Martin,,ambiguous_initial_last(10),Professeur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/reseaux-optimisation-combinatoire-et-stochastique-rocs/
+2026-08-06,fr-paris-saclay,Steven Martin,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/reseaux-optimisation-combinatoire-et-stochastique-rocs/
 2026-08-06,fr-paris-saclay,Jay Flora,,no_match,Chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/
 2026-08-06,fr-paris-saclay,Fanny Pouyet,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/
 2026-08-06-sonnet,fr-paris-saclay,Patrick Amar,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/amar-patrick/
@@ -226,7 +361,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06-sonnet,fr-paris-saclay,Bich-Liên Doan,Bich-Liên Doan,full,"Professeure, HDR",2,0,https://www.lisn.upsaclay.fr/membres/doan-bich-lien/
 2026-08-06-sonnet,fr-paris-saclay,Yohann Duguet,,no_match,Chargé de Recherche CNRS,0,0,https://www.lisn.upsaclay.fr/membres/duguet-yohann/
 2026-08-06-sonnet,fr-paris-saclay,Marc Evrard,Marc Evrard,full,Maitre de conférences,2,0,https://www.lisn.upsaclay.fr/membres/evrard-marc/
-2026-08-06-sonnet,fr-paris-saclay,Ève Fabre,Émilie Fabre,initial_last,Chercheuse,0,2,https://www.lisn.upsaclay.fr/membres/fabre-eve/
+2026-08-06-sonnet,fr-paris-saclay,Ève Fabre,,no_match,Chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/fabre-eve/
 2026-08-06-sonnet,fr-paris-saclay,Joël Falcou,,no_match,Enseignant-chercheur HDR,0,0,https://www.lisn.upsaclay.fr/membres/falcou-joel/
 2026-08-06-sonnet,fr-paris-saclay,Eva Feillet,Eva Feillet,full,Maîtresse de Conférences,1,0,https://www.lisn.upsaclay.fr/membres/feillet-eva/
 2026-08-06-sonnet,fr-paris-saclay,Jean-Daniel Fekete,Jean-Daniel Fekete,full,Responsable de l'équipe Aviz,0,3,https://www.lisn.upsaclay.fr/membres/fekete-jean-daniel/
@@ -254,9 +389,9 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06-sonnet,fr-paris-saclay,Tobias Isenberg,Tobias Isenberg 0001,full,Directeur de Recherche,0,1,https://www.lisn.upsaclay.fr/membres/isenberg-tobias/
 2026-08-06-sonnet,fr-paris-saclay,Flora Jay,,no_match,Chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/jay-flora/
 2026-08-06-sonnet,fr-paris-saclay,Damir Juric,Damir Juric,full,Chercheur,1,0,https://www.lisn.upsaclay.fr/membres/juric-damir/
-2026-08-06-sonnet,fr-paris-saclay,Oguz Kaya,Ozan Kaya,initial_last,Maître de Conférences,1,0,https://www.lisn.upsaclay.fr/membres/kaya-oguz/
+2026-08-06-sonnet,fr-paris-saclay,Oguz Kaya,,no_match,Maître de Conférences,0,0,https://www.lisn.upsaclay.fr/membres/kaya-oguz/
 2026-08-06-sonnet,fr-paris-saclay,Kinda Khawam,,no_match,Enseignant Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/khawam-kinda/
-2026-08-06-sonnet,fr-paris-saclay,Hoang La,,ambiguous_initial_last(2),Enseignant-Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/la-hoang/
+2026-08-06-sonnet,fr-paris-saclay,Hoang La,,no_match,Enseignant-Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/la-hoang/
 2026-08-06-sonnet,fr-paris-saclay,Lori Lamel,Lori Lamel,full,Direcrtrice de recherche,7,1,https://www.lisn.upsaclay.fr/membres/lamel-lori/
 2026-08-06-sonnet,fr-paris-saclay,François Landes,François P. Landes,first_last,Enseignant-chercheur,1,0,https://www.lisn.upsaclay.fr/membres/landes-francois/
 2026-08-06-sonnet,fr-paris-saclay,Thomas Lavergne,Thomas Lavergne,full,Maître de conférences,1,1,https://www.lisn.upsaclay.fr/membres/lavergne-thomas/
@@ -274,7 +409,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06-sonnet,fr-paris-saclay,Dominique Marcadet,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/marcadet-dominique/
 2026-08-06-sonnet,fr-paris-saclay,Joseph Mariani,,no_match,Directeur de Recherche Emérite,0,0,https://www.lisn.upsaclay.fr/membres/mariani-joseph/
 2026-08-06-sonnet,fr-paris-saclay,Jean-Claude Martin,Jean-Claude Martin,full,Professeur en Informatique / Interaction Humain-Machine,1,3,https://www.lisn.upsaclay.fr/membres/martin-jean-claude/
-2026-08-06-sonnet,fr-paris-saclay,Steven Martin,,ambiguous_initial_last(10),Professeur,0,0,https://www.lisn.upsaclay.fr/membres/martin-steven/
+2026-08-06-sonnet,fr-paris-saclay,Steven Martin,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/martin-steven/
 2026-08-06-sonnet,fr-paris-saclay,Julien Mille,,no_match,Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/mille-julien/
 2026-08-06-sonnet,fr-paris-saclay,Nona Naderi,Nona Naderi,full,Chaire de Professeur Junior,1,0,https://www.lisn.upsaclay.fr/membres/naderi-nona/
 2026-08-06-sonnet,fr-paris-saclay,Aurélie Névéol,Aurélie Névéol,full,Directrice de Recherche,6,2,https://www.lisn.upsaclay.fr/membres/neveol-aurelie/
@@ -340,6 +475,6 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06-sonnet,fr-paris-saclay,Brigitte Safar,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Khaldoun Al Agha,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Christine Froidevaux,,no_match,"Chercheurs, enseignants-chercheurs (Émérite)",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
-2026-08-06-sonnet,fr-paris-saclay,Michel Pons,Mirelys Mendez Pons,initial_last,"Chercheurs, enseignants-chercheurs (Émérite)",0,1,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Michel Pons,,no_match,"Chercheurs, enseignants-chercheurs (Émérite)",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Anne Vilnat,,no_match,"Chercheurs, enseignants-chercheurs (Émérite)",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Isabelle Guyon,Isabelle Guyon,full,"part-time Professor, Université Paris-Sud / Chaire d'excellence Big Data for E-Science, Univ. Paris-Saclay (+ on leave as Senior Researcher, Google)",17,0,https://team.inria.fr/tau2/team-members/

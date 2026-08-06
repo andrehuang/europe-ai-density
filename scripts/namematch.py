@@ -19,13 +19,32 @@ import unicodedata
 from collections import defaultdict
 
 
+# Academic title prefixes, which institution directories fold into the name field.
+# DFKI writes "Prof. Dr.-Ing. Philipp Slusallek" where the university writes "Philipp
+# Slusallek", and without stripping these the same person is counted twice.
+TITLE_PREFIX = re.compile(
+    r"^(?:"
+    r"prof(?:essor)?|dr|drs|ing|dipl|mag|phd|md|pd|priv|doz|doc|univ|apl|hon|em|"
+    r"herr|frau|mr|mrs|ms|sir|dame|assoc|asst|assistant|associate|senior|junior"
+    r")\b[\s.]*"
+)
+
+
 def fold(text):
-    """Lowercase, strip diacritics, drop DBLP's homonym suffix and punctuation."""
+    """Lowercase, strip diacritics, drop DBLP's homonym suffix, titles and punctuation."""
     decomposed = unicodedata.normalize("NFKD", (text or "").lower())
     stripped = "".join(c for c in decomposed if not unicodedata.combining(c))
     stripped = re.sub(r"\s+\d{4}$", "", stripped)  # "jan peters 0001"
     stripped = re.sub(r"[^a-z ]+", " ", stripped)
-    return re.sub(r"\s+", " ", stripped).strip()
+    stripped = re.sub(r"\s+", " ", stripped).strip()
+    # Titles stack: "Prof. Dr.-Ing." needs several passes, but stop if nothing is left,
+    # since a few real surnames collide with title words.
+    for _ in range(4):
+        shorter = TITLE_PREFIX.sub("", stripped).strip()
+        if not shorter or shorter == stripped:
+            break
+        stripped = shorter
+    return stripped
 
 
 def keys_for(name):
@@ -77,7 +96,11 @@ class NameIndex:
                 return next(iter(hits)), "first_last"
             self.ambiguous += 1
             return None, f"ambiguous_first_last({len(hits)})"
-        if il and il in self.initial_last:
+        # The initial/surname key may only expand an abbreviation, never contract a full
+        # given name. Allowing the latter merged "Verena Wolf" into "Valentin Wolf",
+        # because ("v", "wolf") had exactly one candidate — a false identity merge, which
+        # is worse than no merge at all. A shared surname and initial is not identity.
+        if il and len(fl[0]) == 1 and il in self.initial_last:
             hits = self.initial_last[il]
             if len(hits) == 1:
                 return next(iter(hits)), "initial_last"

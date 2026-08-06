@@ -11,6 +11,20 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,de-ellis-inst-tue,Moritz Hardt,Moritz Hardt,full,Fellow; Department Head (Social Foundations of Computation),24,2,https://ellis.eu/person/moritz-hardt
 2026-08-06,de-ellis-inst-tue,Michael Muehlebach,Michael Muehlebach,full,Member; Research Group Leader (Learning and Dynamical Systems),18,1,https://ellis.eu/person/michael-muehlebach
 2026-08-06,de-ellis-inst-tue,Jakob Macke,Jakob H. Macke,first_last,Prof. Dr.; Fellow,23,0,https://ellis.eu/person/jakob-macke
+2026-08-06,de-ellis-institute-tue,Sahar Abdelnabi,Sahar Abdelnabi,full,PI,10,2,https://institute-tue.ellis.eu/en/people/sabdelnabi
+2026-08-06,de-ellis-institute-tue,Rediet Abebe,Rediet Abebe,full,PI,8,1,https://institute-tue.ellis.eu/en/people/35f5adb1-9666-42a2-8781-4c16a8de0b50
+2026-08-06,de-ellis-institute-tue,Maksym Andriushchenko,Maksym Andriushchenko,full,PI,21,0,https://institute-tue.ellis.eu/en/people/35c3f111-f9ad-482c-804e-924fe8ab18a7
+2026-08-06,de-ellis-institute-tue,Wieland Brendel,Wieland Brendel,full,PI,35,0,https://institute-tue.ellis.eu/en/people/wieland-brendel
+2026-08-06,de-ellis-institute-tue,Kashyap Chitta,Kashyap Chitta,full,PI,16,0,https://institute-tue.ellis.eu/en/people/kashyap-chitta
+2026-08-06,de-ellis-institute-tue,Maximilian Dax,Maximilian Dax,full,PI,4,0,https://institute-tue.ellis.eu/en/people/mdax
+2026-08-06,de-ellis-institute-tue,Jonas Geiping,Jonas Geiping,full,PI,41,3,https://institute-tue.ellis.eu/en/people/jgeiping
+2026-08-06,de-ellis-institute-tue,Frank Hutter,Frank Hutter,full,PI,74,1,https://institute-tue.ellis.eu/en/people/fh
+2026-08-06,de-ellis-institute-tue,Shiwei Liu,Shiwei Liu 0003,full,PI,48,3,https://institute-tue.ellis.eu/en/people/sliu
+2026-08-06,de-ellis-institute-tue,Jakob Macke,Jakob H. Macke,first_last,PI,23,0,https://institute-tue.ellis.eu/en/people/a59a0cc7-da24-4503-ac9e-185ebac9d7e3
+2026-08-06,de-ellis-institute-tue,Celestine Mendler-Dünner,Celestine Mendler-Dünner,full,PI,15,2,https://institute-tue.ellis.eu/en/people/cmendler
+2026-08-06,de-ellis-institute-tue,Antonio Orvieto,Antonio Orvieto,full,PI,33,0,https://institute-tue.ellis.eu/en/people/aorvieto
+2026-08-06,de-ellis-institute-tue,T. Konstantin Rusch,T. Konstantin Rusch,full,PI,8,0,https://institute-tue.ellis.eu/en/people/tkrusch
+2026-08-06,de-ellis-institute-tue,Bernhard Schölkopf,Bernhard Schölkopf,full,Scientific Director,172,8,https://institute-tue.ellis.eu/en/people/bernhard-scholkopf
 2026-08-06,de-mpi-is-tue,Bernhard Schölkopf,Bernhard Schölkopf,full,Director,172,8,https://is.mpg.de/ei/people
 2026-08-06,de-mpi-is-tue,Dieter Büchler,Dieter Büchler,full,Research Group Leader,13,0,https://is.mpg.de/ei/people
 2026-08-06,de-mpi-is-tue,Jakob Macke,Jakob H. Macke,first_last,PI,23,0,https://is.mpg.de/ei/people
@@ -173,3 +187,159 @@ run,inst_id,name,dblp_name,match,title_verbatim,core_papers,extended_papers,evid
 2026-08-06,fr-paris-saclay,Steven Martin,,ambiguous_initial_last(10),Professeur,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/reseaux-optimisation-combinatoire-et-stochastique-rocs/
 2026-08-06,fr-paris-saclay,Jay Flora,,no_match,Chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/
 2026-08-06,fr-paris-saclay,Fanny Pouyet,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/science-des-donnees/bioinfo-2/
+2026-08-06-sonnet,fr-paris-saclay,Patrick Amar,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/amar-patrick/
+2026-08-06-sonnet,fr-paris-saclay,Jay Amrit,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/amrit-jay/
+2026-08-06-sonnet,fr-paris-saclay,Caroline Appert,Caroline Appert,full,Chercheuse,0,8,https://www.lisn.upsaclay.fr/membres/appert-caroline/
+2026-08-06-sonnet,fr-paris-saclay,Nathalie Aubrun,,no_match,Chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/aubrun-nathalie/
+2026-08-06-sonnet,fr-paris-saclay,Evangelos Bampas,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/membres/bampas-evangelos/
+2026-08-06-sonnet,fr-paris-saclay,Michel Beaudouin-Lafon,Michel Beaudouin-Lafon,full,"Responsable scientifique, projet Equipex+ CONTINUUM",0,9,https://www.lisn.upsaclay.fr/membres/beaudouin-lafon-michel/
+2026-08-06-sonnet,fr-paris-saclay,Joffroy Beauquier,,no_match,Professeur émérite,0,0,https://www.lisn.upsaclay.fr/membres/beauquier-joffroy/
+2026-08-06-sonnet,fr-paris-saclay,Yacine Bellik,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/bellik-yacine/
+2026-08-06-sonnet,fr-paris-saclay,Anastasia Bézérianos,Anastasia Bezerianos,full,Professeur,0,5,https://www.lisn.upsaclay.fr/membres/bezerianos-anastasia/
+2026-08-06-sonnet,fr-paris-saclay,Nicole Bidoit,Nicole Bidoit,full,Professeure Emérite,2,0,https://www.lisn.upsaclay.fr/membres/bidoit-nicole/
+2026-08-06-sonnet,fr-paris-saclay,Franck Bimbard,,no_match,Enseignant-Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/bimbard-franck/
+2026-08-06-sonnet,fr-paris-saclay,Vincent Boccara,,no_match,Enseignant-Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/boccara-vincent/
+2026-08-06-sonnet,fr-paris-saclay,Hélène Bonneau,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/bonneau-helene/
+2026-08-06-sonnet,fr-paris-saclay,Tifanie Bouchara,,no_match,Maîtresse de conférences,0,0,https://www.lisn.upsaclay.fr/membres/bouchara-tifanie/
+2026-08-06-sonnet,fr-paris-saclay,Lila Boukhatem,,no_match,Professeure des universités,0,0,https://www.lisn.upsaclay.fr/membres/boukhatem-lila/
+2026-08-06-sonnet,fr-paris-saclay,Philippe Boula de Mareüil,,no_match,Directeur de recherche,0,0,https://www.lisn.upsaclay.fr/membres/boula-de-mareuil-philippe/
+2026-08-06-sonnet,fr-paris-saclay,Patrick Bourdot,,no_match,Directeur de Recherche CNRS,0,0,https://www.lisn.upsaclay.fr/membres/bourdot-patrick/
+2026-08-06-sonnet,fr-paris-saclay,Annelies Braffort,Annelies Braffort,full,Directrice de recherche CNRS,0,1,https://www.lisn.upsaclay.fr/membres/braffort-annelies/
+2026-08-06-sonnet,fr-paris-saclay,Francesca Bugiotti,Francesca Bugiotti,full,Enseignante-chercheuse,0,1,https://www.lisn.upsaclay.fr/membres/bugiotti-francesca/
+2026-08-06-sonnet,fr-paris-saclay,Janna Burman,,no_match,"Professeur, Responsable adjointe de l’équpe, membre bureau AAC",0,0,https://www.lisn.upsaclay.fr/membres/burman-janna/
+2026-08-06-sonnet,fr-paris-saclay,Florent Cabric,Florent Cabric,full,Maitre de conférences,0,1,https://www.lisn.upsaclay.fr/membres/cabric-florent/
+2026-08-06-sonnet,fr-paris-saclay,Philippe Caillou,Philippe Caillou,full,Enseignant-chercheur,2,0,https://www.lisn.upsaclay.fr/membres/caillou-philippe/
+2026-08-06-sonnet,fr-paris-saclay,Olivier Chapuis,Olivier Chapuis,full,Responsable département Interaction avec l'Humain,0,5,https://www.lisn.upsaclay.fr/membres/chapuis-olivier/
+2026-08-06-sonnet,fr-paris-saclay,Guillaume Charpiat,Guillaume Charpiat,full,Chercheur,1,0,https://www.lisn.upsaclay.fr/membres/charpiat-guillaume/
+2026-08-06-sonnet,fr-paris-saclay,Philippe Chatalic,,no_match,Maître de conférence,0,0,https://www.lisn.upsaclay.fr/membres/chatalic-philippe/
+2026-08-06-sonnet,fr-paris-saclay,Sylvain Chevallier,Sylvain Chevallier,full,Professeur,5,2,https://www.lisn.upsaclay.fr/membres/chevallier-sylvain/
+2026-08-06-sonnet,fr-paris-saclay,Sergio Chibbaro,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/chibbaro-sergio/
+2026-08-06-sonnet,fr-paris-saclay,Céline Clavel,Céline Clavel,full,Enseignante-chercheuse,0,2,https://www.lisn.upsaclay.fr/membres/clavel-celine/
+2026-08-06-sonnet,fr-paris-saclay,Johanne Cohen,Johanne Cohen,full,Directrice de Recherche,2,1,https://www.lisn.upsaclay.fr/membres/cohen-johanne/
+2026-08-06-sonnet,fr-paris-saclay,Sarah Cohen-Boulakia,,no_match,Professeure à l'Université Paris-Saclay,0,0,https://www.lisn.upsaclay.fr/membres/cohen-boulakia-sarah/
+2026-08-06-sonnet,fr-paris-saclay,Sylvie Delaet,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/delaet-sylvie/
+2026-08-06-sonnet,fr-paris-saclay,Nathalie Delprat,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/delprat-nathalie/
+2026-08-06-sonnet,fr-paris-saclay,Virginie Demulier,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/demulier-virginie/
+2026-08-06-sonnet,fr-paris-saclay,Alain Denise,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/denise-alain/
+2026-08-06-sonnet,fr-paris-saclay,Laurence Devillers,Laurence Devillers,full,Professeure à Sorbonne Université PR1,1,1,https://www.lisn.upsaclay.fr/membres/devillers-laurence/
+2026-08-06-sonnet,fr-paris-saclay,Selma Djelloul,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/djelloul-selma/
+2026-08-06-sonnet,fr-paris-saclay,Bich-Liên Doan,Bich-Liên Doan,full,"Professeure, HDR",2,0,https://www.lisn.upsaclay.fr/membres/doan-bich-lien/
+2026-08-06-sonnet,fr-paris-saclay,Yohann Duguet,,no_match,Chargé de Recherche CNRS,0,0,https://www.lisn.upsaclay.fr/membres/duguet-yohann/
+2026-08-06-sonnet,fr-paris-saclay,Marc Evrard,Marc Evrard,full,Maitre de conférences,2,0,https://www.lisn.upsaclay.fr/membres/evrard-marc/
+2026-08-06-sonnet,fr-paris-saclay,Ève Fabre,Émilie Fabre,initial_last,Chercheuse,0,2,https://www.lisn.upsaclay.fr/membres/fabre-eve/
+2026-08-06-sonnet,fr-paris-saclay,Joël Falcou,,no_match,Enseignant-chercheur HDR,0,0,https://www.lisn.upsaclay.fr/membres/falcou-joel/
+2026-08-06-sonnet,fr-paris-saclay,Eva Feillet,Eva Feillet,full,Maîtresse de Conférences,1,0,https://www.lisn.upsaclay.fr/membres/feillet-eva/
+2026-08-06-sonnet,fr-paris-saclay,Jean-Daniel Fekete,Jean-Daniel Fekete,full,Responsable de l'équipe Aviz,0,3,https://www.lisn.upsaclay.fr/membres/fekete-jean-daniel/
+2026-08-06-sonnet,fr-paris-saclay,Nicolas Ferey,,no_match,Maître de Conférences,0,0,https://www.lisn.upsaclay.fr/membres/ferey-nicolas/
+2026-08-06-sonnet,fr-paris-saclay,Michael Filhol,Michael Filhol,full,Chargé de recherche CNRS,0,1,https://www.lisn.upsaclay.fr/membres/filhol-michael/
+2026-08-06-sonnet,fr-paris-saclay,Daniel Filonik,Daniel Filonik,full,Chercheur,0,1,https://www.lisn.upsaclay.fr/membres/filonik-daniel/
+2026-08-06-sonnet,fr-paris-saclay,Francesca Fiorenzi,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/fiorenzi-francesca/
+2026-08-06-sonnet,fr-paris-saclay,Jules Francoise,Jules Françoise,full,Chercheur,0,5,https://www.lisn.upsaclay.fr/membres/francoise-jules/
+2026-08-06-sonnet,fr-paris-saclay,Emmanuelle Frenoux,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/frenoux-emmanuelle/
+2026-08-06-sonnet,fr-paris-saclay,Cyril Furtlehner,Cyril Furtlehner,full,Chercheur,4,0,https://www.lisn.upsaclay.fr/membres/furtlehner-cyril/
+2026-08-06-sonnet,fr-paris-saclay,Jean-Luc Gauvain,Jean-Luc Gauvain,full,Chercheur émérite,1,0,https://www.lisn.upsaclay.fr/membres/gauvain-jean-luc/
+2026-08-06-sonnet,fr-paris-saclay,Thomas Gérald,Thomas Gerald,full,Chercheur,2,0,https://www.lisn.upsaclay.fr/membres/gerald-thomas/
+2026-08-06-sonnet,fr-paris-saclay,Cecile Germain,,no_match,Professeure émérite,0,0,https://www.lisn.upsaclay.fr/membres/germain-cecile/
+2026-08-06-sonnet,fr-paris-saclay,Céline Gicquel,,no_match,Maitresse de conférences HDR,0,0,https://www.lisn.upsaclay.fr/membres/gicquel-celine/
+2026-08-06-sonnet,fr-paris-saclay,Michèle Gouiffès,Michèle Gouiffès,full,Professeur,1,2,https://www.lisn.upsaclay.fr/membres/gouiffes-michele/
+2026-08-06-sonnet,fr-paris-saclay,Nicolas Grenier,,no_match,Maître de Conférence,0,0,https://www.lisn.upsaclay.fr/membres/grenier-nicolas/
+2026-08-06-sonnet,fr-paris-saclay,Cyril Grouin,Cyril Grouin,full,Ingénieur de recherche HDR,2,1,https://www.lisn.upsaclay.fr/membres/grouin-cyril/
+2026-08-06-sonnet,fr-paris-saclay,Ouriel Grynszpan,,no_match,Responsable adjoint du département Interaction avec l'Humain,0,0,https://www.lisn.upsaclay.fr/membres/grynszpan-ouriel/
+2026-08-06-sonnet,fr-paris-saclay,Camille Guinaudeau,Camille Guinaudeau,full,Maîtresse de Conférences,2,2,https://www.lisn.upsaclay.fr/membres/guinaudeau-camille/
+2026-08-06-sonnet,fr-paris-saclay,Thierry Hamon,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/hamon-thierry/
+2026-08-06-sonnet,fr-paris-saclay,Benjamin Hellouin de Menibus,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/membres/hellouin-de-menibus-benjamin/
+2026-08-06-sonnet,fr-paris-saclay,Florent Hivert,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/hivert-florent/
+2026-08-06-sonnet,fr-paris-saclay,Gabriel Illouz,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/illouz-gabriel/
+2026-08-06-sonnet,fr-paris-saclay,Petra Isenberg,Petra Isenberg,full,DR2,0,2,https://www.lisn.upsaclay.fr/membres/isenberg-petra/
+2026-08-06-sonnet,fr-paris-saclay,Tobias Isenberg,Tobias Isenberg 0001,full,Directeur de Recherche,0,1,https://www.lisn.upsaclay.fr/membres/isenberg-tobias/
+2026-08-06-sonnet,fr-paris-saclay,Flora Jay,,no_match,Chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/jay-flora/
+2026-08-06-sonnet,fr-paris-saclay,Damir Juric,Damir Juric,full,Chercheur,1,0,https://www.lisn.upsaclay.fr/membres/juric-damir/
+2026-08-06-sonnet,fr-paris-saclay,Oguz Kaya,Ozan Kaya,initial_last,Maître de Conférences,1,0,https://www.lisn.upsaclay.fr/membres/kaya-oguz/
+2026-08-06-sonnet,fr-paris-saclay,Kinda Khawam,,no_match,Enseignant Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/khawam-kinda/
+2026-08-06-sonnet,fr-paris-saclay,Hoang La,,ambiguous_initial_last(2),Enseignant-Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/la-hoang/
+2026-08-06-sonnet,fr-paris-saclay,Lori Lamel,Lori Lamel,full,Direcrtrice de recherche,7,1,https://www.lisn.upsaclay.fr/membres/lamel-lori/
+2026-08-06-sonnet,fr-paris-saclay,François Landes,François P. Landes,first_last,Enseignant-chercheur,1,0,https://www.lisn.upsaclay.fr/membres/landes-francois/
+2026-08-06-sonnet,fr-paris-saclay,Thomas Lavergne,Thomas Lavergne,full,Maître de conférences,1,1,https://www.lisn.upsaclay.fr/membres/lavergne-thomas/
+2026-08-06-sonnet,fr-paris-saclay,Nadjib Lazaar,Nadjib Lazaar,full,Enseignant-chercheur,3,1,https://www.lisn.upsaclay.fr/membres/lazaar-nadjib/
+2026-08-06-sonnet,fr-paris-saclay,Chloé Le Bail,,no_match,Maîtresse de conférences en Ergonomie,0,0,https://www.lisn.upsaclay.fr/membres/le-bail-chloe/
+2026-08-06-sonnet,fr-paris-saclay,Patrick Le Quéré,,no_match,Chercheur émérite,0,0,https://www.lisn.upsaclay.fr/membres/le-quere-patrick/
+2026-08-06-sonnet,fr-paris-saclay,Hao Li,Hao Li 0093,full,Chercheur,4,1,https://www.lisn.upsaclay.fr/membres/li-hao/
+2026-08-06-sonnet,fr-paris-saclay,Vincent Liard,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/liard-vincent/
+2026-08-06-sonnet,fr-paris-saclay,Jean-Sylvain Lienard,Jean-Sylvain Liénard,full,Chercheur émérite,1,0,https://www.lisn.upsaclay.fr/membres/lienard-jean-sylvain/
+2026-08-06-sonnet,fr-paris-saclay,Anne-Laure Ligozat,Anne-Laure Ligozat,full,Professeure,2,0,https://www.lisn.upsaclay.fr/membres/ligozat-anne-laure/
+2026-08-06-sonnet,fr-paris-saclay,Didier Lucor,,no_match,Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/lucor-didier/
+2026-08-06-sonnet,fr-paris-saclay,François Lusseyran,,no_match,Chercheur émérite,0,0,https://www.lisn.upsaclay.fr/membres/lusseyran-francois/
+2026-08-06-sonnet,fr-paris-saclay,Yue Ma,Yue Ma 0016,full,Enseignante-chercheuse,15,2,https://www.lisn.upsaclay.fr/membres/ma-yue/
+2026-08-06-sonnet,fr-paris-saclay,Wendy Mackay,Wendy E. Mackay,first_last,Research Director,0,19,https://www.lisn.upsaclay.fr/membres/mackay-wendy/
+2026-08-06-sonnet,fr-paris-saclay,Dominique Marcadet,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/marcadet-dominique/
+2026-08-06-sonnet,fr-paris-saclay,Joseph Mariani,,no_match,Directeur de Recherche Emérite,0,0,https://www.lisn.upsaclay.fr/membres/mariani-joseph/
+2026-08-06-sonnet,fr-paris-saclay,Jean-Claude Martin,Jean-Claude Martin,full,Professeur en Informatique / Interaction Humain-Machine,1,3,https://www.lisn.upsaclay.fr/membres/martin-jean-claude/
+2026-08-06-sonnet,fr-paris-saclay,Steven Martin,,ambiguous_initial_last(10),Professeur,0,0,https://www.lisn.upsaclay.fr/membres/martin-steven/
+2026-08-06-sonnet,fr-paris-saclay,Julien Mille,,no_match,Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/mille-julien/
+2026-08-06-sonnet,fr-paris-saclay,Nona Naderi,Nona Naderi,full,Chaire de Professeur Junior,1,0,https://www.lisn.upsaclay.fr/membres/naderi-nona/
+2026-08-06-sonnet,fr-paris-saclay,Aurélie Névéol,Aurélie Névéol,full,Directrice de Recherche,6,2,https://www.lisn.upsaclay.fr/membres/neveol-aurelie/
+2026-08-06-sonnet,fr-paris-saclay,Huyen Nguyen,Huyen Nguyen,full,Maîtresse de Conférences,2,0,https://www.lisn.upsaclay.fr/membres/nguyen-huyen/
+2026-08-06-sonnet,fr-paris-saclay,Caroline Nore,,no_match,Professeure des Universités,0,0,https://www.lisn.upsaclay.fr/membres/nore-caroline/
+2026-08-06-sonnet,fr-paris-saclay,Lucas Ondel Yang,Lucas Ondel Yang,full,Chargé de Recherche,2,1,https://www.lisn.upsaclay.fr/membres/ondel-yang-lucas/
+2026-08-06-sonnet,fr-paris-saclay,Pierre-Henri Paris,Pierre-Henri Paris,full,Maître de Conférences,1,2,https://www.lisn.upsaclay.fr/membres/paris-pierre-henri/
+2026-08-06-sonnet,fr-paris-saclay,Ami Paz,,no_match,Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/paz-ami/
+2026-08-06-sonnet,fr-paris-saclay,Stéphanie Pellerin,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/pellerin-stephanie/
+2026-08-06-sonnet,fr-paris-saclay,Chi-Tuong Pham,,ambiguous_first_last(2),Maître de Conférence,0,0,https://www.lisn.upsaclay.fr/membres/pham-chi-tuong/
+2026-08-06-sonnet,fr-paris-saclay,Adeline Pierrot,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/pierrot-adeline/
+2026-08-06-sonnet,fr-paris-saclay,Emmanuel Pietriga,Emmanuel Pietriga,full,Directeur de Recherche Inria,0,5,https://www.lisn.upsaclay.fr/membres/pietriga-emmanuel/
+2026-08-06-sonnet,fr-paris-saclay,François Pirot,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/pirot-francois/
+2026-08-06-sonnet,fr-paris-saclay,Viviane Pons,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/pons-viviane/
+2026-08-06-sonnet,fr-paris-saclay,Fabrice Popineau,Fabrice Popineau,full,Enseignant-chercheur @ CentraleSupélec,2,0,https://www.lisn.upsaclay.fr/membres/popineau-fabrice/
+2026-08-06-sonnet,fr-paris-saclay,Fanny Pouyet,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/pouyet-fanny/
+2026-08-06-sonnet,fr-paris-saclay,Élise Prigent,Elise Prigent,full,Maîtresse de conférences,0,1,https://www.lisn.upsaclay.fr/membres/prigent-elise/
+2026-08-06-sonnet,fr-paris-saclay,Arnaud Prouzeau,Arnaud Prouzeau,full,Chercheur,0,10,https://www.lisn.upsaclay.fr/membres/prouzeau-arnaud/
+2026-08-06-sonnet,fr-paris-saclay,Dominique Quadri,,no_match,Professeure des universités,0,0,https://www.lisn.upsaclay.fr/membres/quadri-dominique/
+2026-08-06-sonnet,fr-paris-saclay,Gianluca Quercini,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/quercini-gianluca/
+2026-08-06-sonnet,fr-paris-saclay,Joe Raad,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/membres/raad-joe/
+2026-08-06-sonnet,fr-paris-saclay,Brian Ravenet,Brian Ravenet,full,Maître de Conférences en Informatique / Interaction Humain-Machine,0,3,https://www.lisn.upsaclay.fr/membres/ravenet-brian/
+2026-08-06-sonnet,fr-paris-saclay,Albert Rilliard,Albert Rilliard,full,Chercheur CNRS,6,0,https://www.lisn.upsaclay.fr/membres/rilliard-albert/
+2026-08-06-sonnet,fr-paris-saclay,Arpad Rimmel,Arpad Rimmel,full,Enseignant-chercheur,2,0,https://www.lisn.upsaclay.fr/membres/rimmel-arpad/
+2026-08-06-sonnet,fr-paris-saclay,Laurent Rosaz,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/rosaz-laurent/
+2026-08-06-sonnet,fr-paris-saclay,Sophie Rosset,Sophie Rosset,full,Directrice de Recherche,2,0,https://www.lisn.upsaclay.fr/membres/rosset-sophie/
+2026-08-06-sonnet,fr-paris-saclay,Nicolas Sabouret,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/sabouret-nicolas/
+2026-08-06-sonnet,fr-paris-saclay,Fatiha Saïs,,no_match,Responsable de l'équipe LaHDAK au LISN,0,0,https://www.lisn.upsaclay.fr/membres/sais-fatiha/
+2026-08-06-sonnet,fr-paris-saclay,Christian Sandor,Christian Sandor,full,Responsable de ARAI,0,3,https://www.lisn.upsaclay.fr/membres/sandor-christian/
+2026-08-06-sonnet,fr-paris-saclay,Agata Savary Chrobot,,no_match,Professeure,0,0,https://www.lisn.upsaclay.fr/membres/savary-agata/
+2026-08-06-sonnet,fr-paris-saclay,Marc Schoenauer,Marc Schoenauer,full,Directeur de Recherche émérite,5,0,https://www.lisn.upsaclay.fr/membres/schoenauer-marc/
+2026-08-06-sonnet,fr-paris-saclay,Nacéra Seghouani,,no_match,Professeure CentraleSupélec - Département Informatique,0,0,https://www.lisn.upsaclay.fr/membres/seghouani-nacera/
+2026-08-06-sonnet,fr-paris-saclay,Anne Sergent,,no_match,Professeure des Universités,0,0,https://www.lisn.upsaclay.fr/membres/sergent-anne/
+2026-08-06-sonnet,fr-paris-saclay,Nicolas Spyratos,,no_match,Professeur émérite,0,0,https://www.lisn.upsaclay.fr/membres/spyratos-nicolas/
+2026-08-06-sonnet,fr-paris-saclay,Nicolas Thiery,,no_match,Enseignant-Chercheur,0,0,https://www.lisn.upsaclay.fr/membres/thiery-nicolas/
+2026-08-06-sonnet,fr-paris-saclay,Joanna Tomasik,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/tomasik-joanna/
+2026-08-06-sonnet,fr-paris-saclay,Ioana Vasilescu,Ioana Vasilescu,full,Directrice de recherche (DR2),6,0,https://www.lisn.upsaclay.fr/membres/vasilescu-ioana/
+2026-08-06-sonnet,fr-paris-saclay,Frédéric Vernier,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/vernier-frederic/
+2026-08-06-sonnet,fr-paris-saclay,Stéphane Vialle,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/vialle-stephane/
+2026-08-06-sonnet,fr-paris-saclay,Emmanuel Waller,,no_match,Enseignant-chercheur,0,0,https://www.lisn.upsaclay.fr/membres/waller-emmanuel/
+2026-08-06-sonnet,fr-paris-saclay,Marc-Antoine Weisser,,no_match,Professeur,0,0,https://www.lisn.upsaclay.fr/membres/weisser-marc-antoine/
+2026-08-06-sonnet,fr-paris-saclay,Matthew Wiesner,Matthew Wiesner,full,Chercheur,12,8,https://www.lisn.upsaclay.fr/membres/wiesner-matthew/
+2026-08-06-sonnet,fr-paris-saclay,Tara Yahiya,,no_match,Enseignante-chercheuse,0,0,https://www.lisn.upsaclay.fr/membres/yahiya-tara/
+2026-08-06-sonnet,fr-paris-saclay,Nicola Zema,,no_match,Maître de conférences,0,0,https://www.lisn.upsaclay.fr/membres/zema-nicola-roberto/
+2026-08-06-sonnet,fr-paris-saclay,Pierre Zweigenbaum,Pierre Zweigenbaum,full,Directeur de recherche,2,0,https://www.lisn.upsaclay.fr/membres/zweigenbaum-pierre/
+2026-08-06-sonnet,fr-paris-saclay,Matthieu Kowalski,Matthieu Kowalski,full,"Chercheurs, enseignants-chercheurs",3,2,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Alena Shilova,Alena Shilova,full,"Chercheurs, enseignants-chercheurs",3,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Frédéric Gruau,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Benoit Groz,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Léo Planche,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Vanessa Pena-Araya,Vanessa Peña Araya,full,"Chercheurs, enseignants-chercheurs",0,1,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Theophanis Tsandilas,Theophanis Tsandilas,full,"Chercheurs, enseignants-chercheurs",0,1,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Lionel Mathelin,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Onofrio Semeraro,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Sahar Ghannay,Sahar Ghannay,full,"Chercheurs, enseignants-chercheurs",6,2,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Kim Gerdes,Kim Gerdes,full,"Chercheurs, enseignants-chercheurs",1,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Michèle Sebag,Michèle Sebag,full,"Chercheurs, enseignants-chercheurs (Émérite)",7,1,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Lin Chen,Lin Chen 0019,full,"Chercheurs, enseignants-chercheurs",3,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Daniel Etiemble,,no_match,"Chercheurs, enseignants-chercheurs (Émérite)",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Frédéric Gava,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Alain Lambert,Alain Lambert,full,"Chercheurs, enseignants-chercheurs",1,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Bogdan Cautis,Bogdan Cautis,full,"Chercheurs, enseignants-chercheurs",1,6,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Brigitte Safar,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Khaldoun Al Agha,,no_match,"Chercheurs, enseignants-chercheurs",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Christine Froidevaux,,no_match,"Chercheurs, enseignants-chercheurs (Émérite)",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Michel Pons,Mirelys Mendez Pons,initial_last,"Chercheurs, enseignants-chercheurs (Émérite)",0,1,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Anne Vilnat,,no_match,"Chercheurs, enseignants-chercheurs (Émérite)",0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Isabelle Guyon,Isabelle Guyon,full,"part-time Professor, Université Paris-Sud / Chaire d'excellence Big Data for E-Science, Univ. Paris-Saclay (+ on leave as Senior Researcher, Google)",17,0,https://team.inria.fr/tau2/team-members/

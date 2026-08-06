@@ -169,6 +169,22 @@ that way while leaving the others unaudited tilts the comparison toward the audi
 T3 is therefore applied to every city or to none, and the site marks the layer as incomplete
 until coverage is uniform.
 
+## 8b. Quality gates
+
+Two gates decide whether a city may appear in the main ranking. Both exist because the
+project cannot have a local expert for every city, and pretending otherwise is the failure
+mode most likely to discredit it. `audit/02-quality-assurance.md` gives the evidence.
+
+**Reconciliation gate.** Institution directories and publication records fail in opposite
+directions: directories omit people who are there, publication records retain people who
+have left. A city is publishable only once every name found by one modality and not the
+other has an explicit disposition — included, or excluded with a code and a source.
+
+**Redundancy gate.** Twenty of the forty-five people in the merged Tübingen roster were
+found by exactly one source, in a city with five overlapping sources. A city served by a
+single institution has no such cross-checking and is published with a low-confidence flag
+rather than presented as equivalent.
+
 ## 9. Reproducibility
 
 Every source snapshot in `data/raw/` carries its URL and retrieval date and is never

@@ -1,0 +1,14 @@
+inst_id,directory_url,not_this_entity,note
+de-ellis-institute-tue,https://institute-tue.ellis.eu/en/faculty,https://ellis.eu/units/tubingen,Independent institute founded 2023 with its own hires. NOTE institute.ellis.eu and ellis-institute-tuebingen.eu do not resolve; the live host is institute-tue.ellis.eu. The ELLIS Unit at ellis.eu is a network node whose members hold primary posts elsewhere.
+de-ellis-unit-tue,https://ellis.eu/units/tubingen,https://institute.ellis.eu,"Network node, not an employer. Use for cross-validation only; never as a headcount source."
+de-tue-ai-center,https://tuebingen.ai/people,,Virtual centre spanning University of Tübingen MPI-IS and the ELLIS Institute
+de-mpi-is-tue,https://is.mpg.de/people,,Filter to the Tübingen campus; this institute also has a Stuttgart site
+de-mpi-is-stu,https://is.mpg.de/people,,Filter to the Stuttgart campus
+de-mpi-inf,https://www.mpi-inf.mpg.de/departments,,
+de-mpi-sws-sb,https://www.mpi-sws.org/people/,,Filter to the Saarbrücken site
+de-mpi-sws-kl,https://www.mpi-sws.org/people/,,Filter to the Kaiserslautern site
+de-hertie-ai,https://hertie.ai/the-institute/team,,Discovered via the Tübingen AI Center directory pass
+fr-inria-saclay,https://www.inria.fr/en/inria-centre-university-paris-saclay,,inria.fr filtered team listings return 403; use team.inria.fr pages instead
+fr-paris-saclay,https://www.lisn.upsaclay.fr,,"Large joint unit; team landing pages alone under-recall, use the full member directory"
+ch-idsia,https://www.idsia.ch/people,,Joint USI-SUPSI institute
+gb-turing,https://www.turing.ac.uk/people,,"Fellows are seconded from UK universities; cross-validation only, never a headcount source"

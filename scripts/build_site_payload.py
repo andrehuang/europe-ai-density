@@ -178,7 +178,8 @@ def main() -> int:
         points.append({
             "n": name, "c": inst["country"], "city": inst["ror_city"],
             "lat": round(float(inst["lat"]), 4), "lon": round(float(inst["lon"]), 4),
-            "k": len(papers), "prec": inst["geocode_precision"],
+            "k": len(papers), "pp": sorted(papers, reverse=True),
+            "prec": inst["geocode_precision"],
         })
     points.sort(key=lambda p: -p["k"])
 

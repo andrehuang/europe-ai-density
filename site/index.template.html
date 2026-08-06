@@ -1,0 +1,292 @@
+<title>Europe AI Density</title>
+<style>
+  :root {
+    --bg: #f4f7f8;
+    --surface: #ffffff;
+    --surface-map: #eef3f5;
+    --raised: #e9eff2;
+    --ink: #10202a;
+    --ink-2: #35505f;
+    --muted: #5f7887;
+    --line: #d5e0e6;
+    --series-audited: #b8641f;
+    --series-preview: #1f7fa6;
+    --sel-stroke: #10202a;
+    --sel-fill: rgba(16, 32, 42, 0.07);
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #080d12;
+      --surface: #0f1720;
+      --surface-map: #060a0e;
+      --raised: #16212b;
+      --ink: #dce7ef;
+      --ink-2: #a9bcc9;
+      --muted: #7d93a4;
+      --line: #22303c;
+      --series-audited: #cf7a2e;
+      --series-preview: #2e93ba;
+      --sel-stroke: #dce7ef;
+      --sel-fill: rgba(220, 231, 239, 0.07);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="light"] {
+    --bg: #f4f7f8; --surface: #ffffff; --surface-map: #eef3f5; --raised: #e9eff2;
+    --ink: #10202a; --ink-2: #35505f; --muted: #5f7887; --line: #d5e0e6;
+    --series-audited: #b8641f; --series-preview: #1f7fa6;
+    --sel-stroke: #10202a; --sel-fill: rgba(16, 32, 42, 0.07);
+    color-scheme: light;
+  }
+  :root[data-theme="dark"] {
+    --bg: #080d12; --surface: #0f1720; --surface-map: #060a0e; --raised: #16212b;
+    --ink: #dce7ef; --ink-2: #a9bcc9; --muted: #7d93a4; --line: #22303c;
+    --series-audited: #cf7a2e; --series-preview: #2e93ba;
+    --sel-stroke: #dce7ef; --sel-fill: rgba(220, 231, 239, 0.07);
+    color-scheme: dark;
+  }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 28px 20px 64px; display: flex; flex-direction: column; gap: 22px; }
+
+  .eyebrow {
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--muted);
+  }
+  h1 { font-size: clamp(26px, 4vw, 38px); line-height: 1.1; margin: 6px 0 8px; text-wrap: balance; letter-spacing: -0.02em; }
+  .lede { max-width: 66ch; color: var(--ink-2); margin: 0; }
+  .metaline { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px 18px; }
+
+  .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 4px; }
+
+  .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 20px; padding: 12px 14px; }
+  .ctl { display: flex; align-items: center; gap: 8px; }
+  .ctl > label, .ctl > .lbl {
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--muted);
+  }
+  .seg { display: flex; border: 1px solid var(--line); border-radius: 3px; overflow: hidden; }
+  .seg button {
+    font-family: var(--mono); font-size: 12px; padding: 5px 10px; border: 0;
+    background: transparent; color: var(--ink-2); cursor: pointer;
+  }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button[aria-pressed="true"] { background: var(--raised); color: var(--ink); font-weight: 600; }
+  .seg button:focus-visible, .goto:focus-visible, th[data-sort]:focus-visible { outline: 2px solid var(--series-preview); outline-offset: 1px; }
+  input[type="range"] { accent-color: var(--series-preview); width: 150px; }
+  .val { font-family: var(--mono); font-size: 12px; color: var(--ink); min-width: 52px; font-variant-numeric: tabular-nums; }
+  .goto {
+    font-family: var(--mono); font-size: 12px; padding: 5px 9px; cursor: pointer;
+    background: transparent; color: var(--ink-2); border: 1px solid var(--line); border-radius: 3px;
+  }
+  .goto:hover { background: var(--raised); color: var(--ink); }
+  .switch { display: flex; align-items: center; gap: 7px; font-family: var(--mono); font-size: 12px; color: var(--ink-2); cursor: pointer; }
+
+  .stage { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 0; }
+  #map { width: 100%; height: 560px; display: block; touch-action: none; cursor: crosshair; background: var(--surface-map); }
+  .readout { border-left: 1px solid var(--line); padding: 16px 16px 18px; display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+  .hero-num {
+    font-family: var(--mono); font-size: 46px; line-height: 1; font-weight: 600;
+    font-variant-numeric: tabular-nums; letter-spacing: -0.02em;
+  }
+  .hero-unit { font-family: var(--mono); font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-top: 6px; }
+  .pairs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 12px; }
+  .pair .k { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+  .pair .v { font-family: var(--mono); font-size: 17px; font-variant-numeric: tabular-nums; }
+  .sub { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+  ul.inrange-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 3px; max-height: 224px; overflow-y: auto; }
+  li.inrange { display: grid; grid-template-columns: 9px minmax(0, 1fr) auto; align-items: center; gap: 7px; font-family: var(--mono); font-size: 11.5px; }
+  li.inrange .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--ink-2); }
+  li.inrange .ct { font-variant-numeric: tabular-nums; color: var(--ink); }
+  li.inrange .mark { width: 8px; height: 8px; border-radius: 50%; }
+  li.audited .mark { background: var(--series-audited); }
+  li.preview .mark { border: 1.5px solid var(--series-preview); }
+  li.empty { color: var(--muted); grid-template-columns: 1fr; }
+
+  .lower { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 22px; }
+  .panel-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 13px 14px; border-bottom: 1px solid var(--line); }
+  .panel-head h2 { font-size: 14px; margin: 0; letter-spacing: -0.01em; }
+  .tablewrap { overflow-x: auto; max-height: 460px; overflow-y: auto; }
+  table { border-collapse: collapse; width: 100%; font-family: var(--mono); font-size: 12px; }
+  th, td { padding: 6px 10px; text-align: left; white-space: nowrap; }
+  thead th {
+    position: sticky; top: 0; background: var(--surface); border-bottom: 1px solid var(--line);
+    font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 500;
+  }
+  th[data-sort] { cursor: pointer; }
+  th[data-sort][aria-sort="descending"] { color: var(--ink); }
+  th[data-sort][aria-sort="descending"]::after { content: " ↓"; }
+  tbody tr + tr td { border-top: 1px solid var(--line); }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  td.strong { color: var(--ink); font-weight: 600; }
+  td.rank { color: var(--muted); }
+  td.name { color: var(--ink); }
+  td.prov { color: var(--muted); font-size: 11px; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 7px; vertical-align: baseline; }
+  .dot.audited { background: var(--series-audited); }
+  .dot.preview { border: 1.5px solid var(--series-preview); }
+  #scatter { width: 100%; height: 400px; display: block; }
+  .legend { display: flex; gap: 16px; font-family: var(--mono); font-size: 11px; color: var(--muted); padding: 10px 14px 0; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+
+  .notes { display: grid; grid-template-columns: repeat(auto-fit, minmax(258px, 1fr)); gap: 18px 26px; }
+  .notes h3 { font-family: var(--mono); font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0 0 6px; font-weight: 500; }
+  .notes p { margin: 0; font-size: 13.5px; color: var(--ink-2); max-width: 62ch; }
+  .caution { border-left: 2px solid var(--series-audited); padding-left: 13px; }
+
+  @media (max-width: 900px) {
+    .stage { grid-template-columns: 1fr; }
+    .readout { border-left: 0; border-top: 1px solid var(--line); }
+    .lower { grid-template-columns: 1fr; }
+    #map { height: 420px; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Counting people, not papers</div>
+    <h1>Where in Europe is academic AI actually dense?</h1>
+    <p class="lede">
+      Every independent academic AI principal investigator in this ranking is a named row with a
+      title, a source and a retrieval date. Drag the circle to draw a region; the headcount and the
+      population underneath it are summed over the same piece of ground, so the numerator and the
+      denominator always describe the same place.
+    </p>
+    <div class="metaline">
+      <span>snapshot <span id="meta-snapshot"></span></span>
+      <span>window <span id="meta-window"></span></span>
+      <span>population GHS-POP R2023A · 30″</span>
+      <span>4 cities audited · rest is a CSRankings-only preview</span>
+    </div>
+  </header>
+
+  <div class="panel controls">
+    <div class="ctl">
+      <span class="lbl" id="thr-label">Activity floor</span>
+      <div class="seg" role="group" aria-labelledby="thr-label">
+        <button type="button" data-threshold="1" aria-pressed="false">≥1</button>
+        <button type="button" data-threshold="3" aria-pressed="true">≥3</button>
+        <button type="button" data-threshold="5" aria-pressed="false">≥5</button>
+      </div>
+    </div>
+    <div class="ctl">
+      <label for="radius">Radius</label>
+      <input type="range" id="radius" min="2" max="60" step="1" value="15" />
+      <span class="val" id="radius-val">15 km</span>
+    </div>
+    <div class="ctl">
+      <span class="lbl">Jump to</span>
+      <button type="button" class="goto" data-goto="48.53,9.06,90,15">Tübingen</button>
+      <button type="button" class="goto" data-goto="48.68,9.10,26,45">+ Stuttgart</button>
+      <button type="button" class="goto" data-goto="49.25,7.04,90,15">Saarbrücken</button>
+      <button type="button" class="goto" data-goto="48.60,8.60,7,260">Europe</button>
+    </div>
+    <label class="switch">
+      <input type="checkbox" id="toggle-preview" checked /> show preview layer
+    </label>
+  </div>
+
+  <div class="panel stage">
+    <canvas id="map" aria-label="Population raster of Europe with AI principal investigator clusters"></canvas>
+    <aside class="readout">
+      <div>
+        <div class="hero-num" id="r-density">—</div>
+        <div class="hero-unit">PIs per 100,000 residents</div>
+      </div>
+      <div class="pairs">
+        <div class="pair"><div class="k">PIs</div><div class="v" id="r-people">0</div></div>
+        <div class="pair"><div class="k">Residents</div><div class="v" id="r-pop">0</div></div>
+      </div>
+      <div class="sub" id="r-split"></div>
+      <div class="sub" id="r-where"></div>
+      <div>
+        <div class="pair"><div class="k">In range</div></div>
+        <ul class="inrange-list" id="r-list"></ul>
+      </div>
+    </aside>
+  </div>
+
+  <div class="lower">
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Clusters</h2>
+        <span class="sub">sort by column</span>
+      </div>
+      <div class="tablewrap">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Cluster</th>
+              <th class="num" data-sort="n" tabindex="0" aria-sort="none">PIs</th>
+              <th class="num">Residents 15 km</th>
+              <th class="num" data-sort="per100k" tabindex="0" aria-sort="descending">per 100k</th>
+              <th>Provenance</th>
+            </tr>
+          </thead>
+          <tbody id="rank-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Scale against density</h2>
+        <span class="sub">log–log</span>
+      </div>
+      <div class="legend">
+        <span><span class="dot audited"></span>audited city</span>
+        <span><span class="dot preview"></span>preview cluster</span>
+        <span>dashed lines: equal density</span>
+      </div>
+      <canvas id="scatter" aria-label="Cluster size against population, log-log, with iso-density diagonals"></canvas>
+    </section>
+  </div>
+
+  <section class="notes">
+    <div class="caution">
+      <h3>Read this before quoting a number</h3>
+      <p>
+        Only Tübingen, Saarbrücken, Stuttgart and Kaiserslautern have been through the full
+        protocol. Everything else is a CSRankings-only preview that inherits every gap in that
+        source: France and Spain are badly under-counted, and the Max Planck AI institute in
+        Tübingen is invisible to it entirely.
+      </p>
+    </div>
+    <div>
+      <h3>Why the radius matters so much</h3>
+      <p>
+        Tübingen reads 69.7 PIs per 100k at a 3 km radius and 1.8 at 40 km — the same 43 people,
+        a factor of thirty-nine apart. No single radius is correct, which is why you draw the
+        boundary rather than being handed one. 15 km is a default, not a claim.
+      </p>
+    </div>
+    <div>
+      <h3>Who counts</h3>
+      <p>
+        Independent principal investigators at universities and public research institutes, with at
+        least three papers at a core AI venue inside the window. Corporate labs are tracked
+        separately and never enter this ranking. Cross-appointed people are counted once.
+      </p>
+    </div>
+    <div>
+      <h3>The map has no tiles</h3>
+      <p>
+        Every bright cell is inhabited ground from the population raster, which is also the
+        denominator. Cities appear because people live in them, not because a basemap drew them.
+      </p>
+    </div>
+  </section>
+</div>

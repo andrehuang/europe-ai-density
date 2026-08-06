@@ -99,6 +99,27 @@ rather than pre-aggregated counts, switching modes rebuilds the ranking from the
 
 ## 6. Geography
 
+### People are placed, not institutions
+
+A person is located at the site where they actually work, never at their institution's
+registered address. The two diverge often enough to matter: MPI for Intelligent Systems runs
+campuses in Tübingen and Stuttgart 30 km apart, MPI for Software Systems sits in Saarbrücken
+and Kaiserslautern 130 km apart, the University of Duisburg-Essen occupies two cities, and
+KTH's EECS school is split between central Stockholm and Kista.
+
+Placing everyone at the institution's coordinate would move real people into cities they have
+never worked in, and inflate whichever city held the registered address.
+
+`data/institution_sites.csv` enumerates the sites of every multi-site institution and marks
+them `requires_person_site`. For those institutions the directory pass must record a site per
+person — the MPI-IS roster already carries a `campus` column — and a person with no site
+recorded is held out rather than assigned to a default. Institutions on a single site need no
+per-person data.
+
+Geocoding targets the department or institute rather than the parent university, for the same
+reason: a university's registered address is its administration, not its computer science
+building.
+
 ### From institutions to cities
 
 Cities are derived, not chosen. Each verified person is geocoded to the street address of

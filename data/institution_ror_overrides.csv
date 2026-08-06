@@ -12,7 +12,7 @@ nl,CWI,Centrum Wiskunde & Informatica,,
 no,NTNU,Norwegian University of Science and Technology,,
 gr,AUEB,Athens University of Economics and Business,,
 cz,Czech Technical University,Czech Technical University in Prague,,
-pl,IPI PAN,Institute of Computer Science Polish Academy of Sciences,,
+pl,IPI PAN,Instytut Podstaw Informatyki Polskiej Akademii Nauk,pl-university-of-warsaw,"ROR identity unresolved (best match is ""Institute of Art""); city Warsaw is correct, coordinates anchored"
 de,University of Magdeburg,Otto von Guericke University Magdeburg,,
 fr,INRIA,Institut National de Recherche en Informatique et en Automatique,,National body across nine centres; members need per-person centre resolution
 de,University of Kiel,Kiel University,,
@@ -127,6 +127,12 @@ ch,ZHAW,ZHAW Zurich University of Applied Sciences,ch-university-of-zurich,"Wint
 ch,University of St. Gallen,Universität St. Gallen,,
 gr,Athena Research Center (Archimedes AI),Athena Research and Innovation Center,,ROR display name differs from the common short form
 ro,University Politehnica of Bucharest,Politehnica University of Bucharest,,
-pl,IPI PAN,Institute of Computer Science of the Polish Academy of Sciences,,
+pl,IPI PAN,Instytut Podstaw Informatyki Polskiej Akademii Nauk,pl-university-of-warsaw,"ROR identity unresolved (best match is ""Institute of Art""); city Warsaw is correct, coordinates anchored"
 cz,UTIA Czech Academy of Sciences,Institute of Information Theory and Automation of the Czech Academy of Sciences,,
 bg,INSAIT,INSAIT,bg-su,"Founded 2022; not in ROR. Anchored to Sofia University, its host campus"
+de,TU Munich,Technische Universität München,,Bare 'TU Munich' matched EU Business School's Munich campus
+at,JKU Linz,Johannes Kepler University Linz,,Matched Sigmund Freud Privatuniversität
+pl,IPI PAN,Instytut Podstaw Informatyki Polskiej Akademii Nauk,pl-university-of-warsaw,"ROR identity unresolved (best match is ""Institute of Art""); city Warsaw is correct, coordinates anchored"
+de,TU Kaiserslautern,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,,"Matched the Hochschule Kaiserslautern, a different institution in the same city"
+de,University of Marburg,Philipps-Universität Marburg,,Matched Wismar University of Applied Sciences 450 km away
+de,University of Mannheim,Universität Mannheim,,ROR identity unresolved (best match is the city government); city Mannheim is correct so the coordinate stands

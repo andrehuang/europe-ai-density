@@ -1,0 +1,26 @@
+inst_id,site_id,site_name,city,geocode_query,requires_person_site,note
+de-mpi-is-tue,mpi-is-tue,MPI-IS Tübingen campus,Tübingen,"Max-Planck-Institut für Intelligente Systeme, Tübingen",yes,30 km from the Stuttgart campus; the roster agent already records a campus per person
+de-mpi-is-stu,mpi-is-stu,MPI-IS Stuttgart campus,Stuttgart,"Max-Planck-Institut für Intelligente Systeme, Stuttgart",yes,
+de-mpi-sws-sb,mpi-sws-sb,MPI-SWS Saarbrücken,Saarbrücken,"Max Planck Institute for Software Systems, Saarbrücken",yes,Two sites 130 km apart; a person belongs to one of them
+de-mpi-sws-kl,mpi-sws-kl,MPI-SWS Kaiserslautern,Kaiserslautern,"Max Planck Institute for Software Systems, Kaiserslautern",yes,
+de-dfki-sb,dfki-sb,DFKI Saarbrücken,Saarbrücken,"DFKI, Saarbrücken",yes,DFKI spans six German cities
+de-dfki-kl,dfki-kl,DFKI Kaiserslautern,Kaiserslautern,"DFKI, Kaiserslautern",yes,
+de-dfki-hb,dfki-hb,DFKI Robotics Innovation Center,Bremen,"DFKI Robotics Innovation Center, Bremen",yes,
+de-dfki-be,dfki-be,DFKI Berlin,Berlin,"DFKI, Berlin",yes,
+de-university-of-duisburg-essen,ude-duisburg,Duisburg campus,Duisburg,"Universität Duisburg-Essen, Duisburg",yes,Two cities 20 km apart; computer science sits mainly in Duisburg
+de-university-of-duisburg-essen,ude-essen,Essen campus,Essen,"Universität Duisburg-Essen, Essen",yes,
+de-lamarr,lamarr-dortmund,Lamarr Dortmund,Dortmund,"Lamarr Institute, Dortmund",yes,Sites in Dortmund Bonn Aachen and Sankt Augustin
+de-lamarr,lamarr-bonn,Lamarr Bonn,Bonn,"Lamarr Institute, Bonn",yes,
+de-scads,scads-dresden,ScaDS.AI Dresden,Dresden,"ScaDS.AI, Dresden",yes,Two-city centre
+de-scads,scads-leipzig,ScaDS.AI Leipzig,Leipzig,"ScaDS.AI, Leipzig",yes,
+fr-paris-saclay,ups-orsay,Orsay,Orsay,"Université Paris-Saclay, Orsay",yes,LISN spans Orsay and Gif-sur-Yvette; the plateau sites are ~5 km apart
+fr-paris-saclay,ups-gif,Gif-sur-Yvette,Gif-sur-Yvette,"Université Paris-Saclay, Gif-sur-Yvette",yes,
+fr-imt-atlantique,imt-brest,Brest,Brest,"IMT Atlantique, Brest",yes,Campuses in Brest Nantes and Rennes
+fr-imt-atlantique,imt-nantes,Nantes,Nantes,"IMT Atlantique, Nantes",yes,
+se-kth-royal-inst-of-technology,kth-valhallavagen,KTH main campus,Stockholm,"KTH Royal Institute of Technology, Valhallavägen, Stockholm",yes,"EECS is split between the main campus and Kista, 12 km apart"
+se-kth-royal-inst-of-technology,kth-kista,KTH Kista,Stockholm,"KTH Kista, Stockholm",yes,
+es-ehu,ehu-donostia,San Sebastián,San Sebastián,"University of the Basque Country, San Sebastián",yes,Four campuses across the Basque Country
+es-ehu,ehu-leioa,Leioa,Leioa,"University of the Basque Country, Leioa",yes,
+ch-eth-zurich,ethz-zentrum,ETH Zentrum,Zürich,"ETH Zürich, Rämistrasse, Zürich",yes,"Zentrum, Hönggerberg and Oerlikon are 3-6 km apart"
+ch-eth-zurich,ethz-honggerberg,ETH Hönggerberg,Zürich,"ETH Hönggerberg, Zürich",yes,
+ch-epfl,epfl-ecublens,EPFL main campus,Lausanne,"EPFL, Route Cantonale, Écublens",no,"Generic query returned the Sport UNIL-EPFL hall by the lake, ~2 km from the campus"

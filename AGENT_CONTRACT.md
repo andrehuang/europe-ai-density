@@ -15,6 +15,12 @@ publication-based AI filter afterwards, and it works: of 78 people scraped from 
 survived it. A directory pass that pre-filters by topic loses people whose AI work is not
 visible in a job title, and that loss is invisible downstream.
 
+**AI faculty are not confined to the computer science department.** At LMU Munich, 18 of
+43 qualifying people sit in the Institute of Statistics rather than Informatics, and a
+computer-science-only sweep would have missed most of the university's machine-learning
+chairs. Check statistics, mathematics, electrical engineering, cognitive science and the
+medical faculty wherever the institution has them.
+
 **Never enumerate the sub-units to visit.** Ask for the institution's own structure and
 work through all of it. Naming "D1, D2, D4, D5, D6" caused an agent to skip D3 exactly as
 instructed.

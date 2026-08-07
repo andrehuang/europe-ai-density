@@ -1,0 +1,150 @@
+name,core_papers,sources,dblp_current,status,reason_code,reason
+Bernt Schiele,103,de-mpi-inf;de-saarland-university,,queue,,"on a local directory, but DBLP's current affiliation is Max Planck Institute for Informatics"
+Christian Theobalt,95,de-mpi-inf;de-saarland-university,"Max Planck Institute for Informatics, Saarbrücken, Germany",include,,on an institution directory here
+Jan Kautz,89,,"NVIDIA Corp., Santa Clara, CA, USA|Saarland University, Saarbrücken, Germany",exclude,E08,DBLP's primary current affiliation is NVIDIA Corp.; on none of the local directories
+Dietrich Klakow,46,de-saarland-university;csrankings,"Saarland University, Saarbrücken, Germany",include,,on an institution directory here
+Vladislav Golyanik,43,de-mpi-inf,"Max Planck Institute for Informatics, Saarbrücken, Germany",include,,on an institution directory here
+Adam Kortylewski,41,de-cispa-helmholtz-center;de-mpi-inf;csrankings,"University of Freiburg, Germany|Max Planck Institut for Informatics, Saarbrücken, Germany",include,,on an institution directory here
+Sebastian U. Stich,41,de-cispa-helmholtz-center;csrankings;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Mario Fritz,39,de-cispa-helmholtz-center;csrankings,"CISPA Helmholtz Center for Information Security, Saarland Informatics Campus, Germany",include,,on an institution directory here
+Thomas Brox,39,,"University of Freiburg, Department of Computer Science, Germany",exclude,E08,CSRankings files them at University of Freiburg (de)
+Juergen Gall,37,,"ETH Zurich, Computer Vision Laboratory, Switzerland|Max Planck Institute for Informatics, Saarbrücken, Germany",exclude,E08,CSRankings files them at University of Bonn (de)
+Adish Singla,35,de-mpi-sws,,queue,,"on a local directory, but DBLP's current affiliation is Max Planck Institute for Software Systems"
+Margret Keuper,34,de-mpi-inf,"Mannheim University, Germany",queue,,"on a local directory, but DBLP's current affiliation is Mannheim University"
+Li Jiang 0009,34,,"Chinese University of Hong Kong-Shenzhen (CUHK-SZ), Shenzhen, China|Max Planck Institute for Informatics, Saarbrücken, G",exclude,E08,DBLP's primary current affiliation is Chinese University of Hong Kong-Shenzhen (CUHK-SZ); on none of the local directories
+Ivan Titov 0001,34,,"University of Amsterdam, The Netherlands|University of Edinburgh, UK",exclude,E08,CSRankings files them at University of Edinburgh (gb)
+Matthias Hein 0001,33,,"Max Planck Institute for Intelligent Systems, Tübingen, Germany|Faculty of Mathematics and Computer Science, Saarland Un",exclude,E08,CSRankings files them at University of Tübingen (de)
+Jilles Vreeken,29,de-cispa-helmholtz-center;csrankings,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany|Saarland University, Saarbrücken, Germany",include,,on an institution directory here
+Gerard Pons-Moll,29,de-mpi-inf,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Adam Dziedzic,28,de-cispa-helmholtz-center;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Michael Backes 0001,28,de-cispa-helmholtz-center;de-saarland-university;csrankings,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany|Saarland University, Computer Science Department, ",include,,on an institution directory here
+Xiaoyu Shen 0001,27,,"Eastern Institute of Technology, Ningbo",exclude,E08,DBLP labels the affiliation former
+Goran Radanovic,26,de-mpi-sws,"Max Planck Institute for Software Systems, Saarbrücken, Germany",include,,on an institution directory here
+Anil Vullikanti,26,,"Virginia Tech, Biocomplexity Institute, Blacksburg, VA, USA|Los Alamos National Laboratory, NM, USA|Max Planck Institute",exclude,E08,DBLP's primary current affiliation is Virginia Tech; on none of the local directories
+Yang Zhang 0016,25,csrankings,"CISPA, Helmholtz Center for Information Security, Saarbrücken, Germany|Saarland University, Saarland Informatics Campus,",include,,on an institution directory here
+Benjamin Doerr,25,,"École Polytechnique de Paris, Computer Science Laboratory (LIX), France|Saarland University, Department of Computer Scie",exclude,E08,DBLP's primary current affiliation is École Polytechnique de Paris; on none of the local directories
+Marc Habermann,25,de-mpi-inf,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Anna Rohrbach,24,,"TU Darmstadt, Germany",exclude,E08,CSRankings files them at TU Darmstadt (de)
+Franziska Boenisch,24,de-cispa-helmholtz-center;csrankings,,queue,,"on a local directory, but DBLP's current affiliation is CISPA Helmholtz Center for Information Security"
+Vera Demberg,24,de-mpi-inf;de-saarland-university;csrankings;csrankings,"Saarland University, Cluster of Excellence Multimodal Computing and Interaction, Saarbrücken, Germany",include,,on an institution directory here
+Krikamol Muandet,22,de-cispa-helmholtz-center;csrankings,"CISPA, Saarbrücken, Germany",include,,on an institution directory here
+Jan Eric Lenssen,22,de-mpi-inf;de-saarland-university,"Max Planck Institute for Informatics, Saarbrücken, Germany",include,,on an institution directory here
+Rebekka Burkholz,21,de-cispa-helmholtz-center;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Gjergji Kasneci,21,,"Technical University of Munich, Germany",exclude,E08,DBLP labels the affiliation former
+Ashutosh Modi,20,,Indian Institute of Technology Kanpur (IIT Kanpur),exclude,E02,DBLP records this as the PhD institution (2017)
+Michael Katz 0001,20,,"IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA",exclude,E08,DBLP labels the affiliation former
+Christian Ott 0001,20,,"TU Wien, Austria|German Aerospace Center (DLR), Institute of Robotics and Mechatronics, Wessling, Germany|University of ",exclude,E02,DBLP records this as the PhD institution (2005)
+Alexander Koller,18,de-mpi-inf;de-saarland-university;csrankings,"Saarland University, Saarbrücken, Germany",include,,on an institution directory here
+Josef van Genabith,18,de-saarland-university;csrankings,"German Research Center for Artificial Intelligence (DFKI), Germany|Saarland University, Germany",include,,on an institution directory here
+Jian Ding 0001,18,,"King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",exclude,E08,DBLP labels the affiliation former
+Lei Song 0001,18,,"Microsoft Research Asia, China|Saarland University, Department of Computer Science, Saarbrücken, Germany|Max Planck Inst",exclude,E08,DBLP's primary current affiliation is Microsoft Research Asia; on none of the local directories
+Kwang In Kim,17,,"Lancaster University, School of Computing & Communications|Max Planck Institute for Informatics|Saarland University, Dep",exclude,E08,DBLP's primary current affiliation is Lancaster University; on none of the local directories
+Shanshan Zhang 0001,17,,"Nanjing University of Science and Technology, School of Computer Science and Engineering, China|Max Planck Institute for",exclude,E08,DBLP's primary current affiliation is Nanjing University of Science and Technology; on none of the local directories
+Sara Magliacane,16,de-saarland-university,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Janis Keuper,16,,"Saarland University, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Michael Hahn 0001,15,de-saarland-university;csrankings,"Saarland University, Department of Language Science and Technology, Saarbrücken, Germany|Stanford University, Linguistic",include,,on an institution directory here
+Markus Gross 0001,15,,"ETH Zurich, Computer Graphics Laboratory, Switzerland|Walt Disney Studios, Chief Scientist, Burbank, CA, USA|Saarland Un",exclude,E08,CSRankings files them at ETH Zurich (ch)
+Jörg Hoffmann 0001,14,de-saarland-university;csrankings,"Saarland University, Department of Computer Science, Saarbrücken, Germany|INRIA, Nancy, France|SAP Research Karlsruhe, G",include,,on an institution directory here
+Bernd Möbius,14,,"Saarland University, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Rishabh Dabral,13,de-mpi-inf,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Yaoyao Liu 0001,13,,"University of Illinois Urbana-Champaign, IL, USA",exclude,E08,DBLP labels the affiliation former
+Mingjie Li 0007,12,,"CISPA, Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Isabel Valera,12,de-saarland-university;csrankings;csrankings,"Saarland University, Department of Computer Science, Saarbrücken, Germany|Max Planck Institute for Intelligent Systems, ",include,,on an institution directory here
+Benjamin Roth 0001,12,,"University of Vienna, Austria",exclude,E08,CSRankings files them at University of Vienna (at)
+Mohamed A. Elgharib,12,,"MPI for Informatics, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Sebastian Padó,12,,"University of Stuttgart, Germany|Saarland University, Saarbrücken, Germany",exclude,E08,CSRankings files them at University of Stuttgart (de)
+Sabine Schulte im Walde,12,,"University of Stuttgart, Institute for Natural Language Processing, Germany",exclude,E08,CSRankings files them at University of Stuttgart (de)
+Jonas Fischer,11,de-mpi-inf,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Krishna P. Gummadi,11,de-saarland-university,,queue,,"on a local directory, but DBLP's current affiliation is Max Planck Institute for Software Systems"
+Álvaro Torralba,11,,"Aalborg University, Department of Computer Science, Denmark",exclude,E08,DBLP labels the affiliation former
+Michael Kamp,10,,"TU Dortmund University, Germany",exclude,E08,CSRankings files them at TU Dortmund (de)
+Yi Li 0002,10,,"Nanyang Technological University, Singapore|Facebook|Max Planck Institute for Informatics, Saarbrücken, Germany",exclude,E08,DBLP's primary current affiliation is Nanyang Technological University; on none of the local directories
+Jannik Strötgen,10,,"Bosch Center for Artificial Intelligence, Renningen, Germany",exclude,E08,DBLP labels the affiliation former
+He Sun 0001,10,,"University of Edinburgh, UK",exclude,E08,CSRankings files them at University of Edinburgh (gb)
+Mariya Toneva,10,de-mpi-sws,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Andreas Bulling,10,,"University of Stuttgart, Stuttgart, Germany",exclude,E08,CSRankings files them at University of Stuttgart (de)
+Xinlei He 0001,10,,"Hong Kong University of Science and Technology, Hong Kong",exclude,E02,DBLP records this as the PhD institution (2023)
+Hans-Peter Seidel,10,de-mpi-inf;de-saarland-university,"Max-Planck-Institut Informatik, Saarbrücken, Germany",include,,on an institution directory here
+Alexander Marx 0001,10,,"TU Dortmund University, Dortmund, Germany",exclude,E08,DBLP labels the affiliation former
+Zhao Dong 0001,9,,"Meta Reality Labs, Redmond, WA, USA|Cornell University, Ithaca, NY, USA|Saarland University, Saarbrücken, Germany|Zhejia",exclude,E08,DBLP's primary current affiliation is Meta Reality Labs; on none of the local directories
+Tobias Friedrich 0001,9,,"Hasso Plattner Institute, Potsdam, Germany|Friedrich Schiller University Jena, Faculty of Mathematics and Computer Scien",exclude,E08,CSRankings files them at Hasso Plattner Institute (de)
+Frank Neumann 0001,9,,"University of Adelaide, Australia|Max Planck Institute for Informatics, Saarbrücken, Germany",exclude,E08,DBLP's primary current affiliation is University of Adelaide; on none of the local directories
+Leif Kobbelt,9,,"RWTH Aachen University, Institute for Computer Graphics and Multimedia, Germany|University of Karlsruhe, Germany",exclude,E08,CSRankings files them at RWTH Aachen University (de)
+Markus Bläser,9,de-saarland-university;csrankings,"Saarland University, Saarbrücken, Germany",include,,on an institution directory here
+Simon Razniewski,9,,"TU Dresden, Germany",exclude,E08,CSRankings files them at TU Dresden (de)
+Simon Ostermann 0002,9,de-dfki-sb,"DFKI, Saarbrücken, Germany|Saarland University, Saarbrücken, Germany",include,,on an institution directory here
+Lijun Zhang 0001,8,,"Chinese Academy of Sciences, School of Software, Beijing, China",exclude,E08,DBLP labels the affiliation former
+Sukrut Rao,8,,"Max Planck Institute for Informatics, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Andrew Lowy,8,de-cispa-helmholtz-center;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Rui Wang 0005,8,,"Vipshop (China) Co., Ltd., Guangzhou, China",exclude,E02,DBLP records this as the PhD institution (2011)
+Jian Wang 0042,8,,"Saarland Informatics Campus, Max Planck Institute for Informatics, Saarbrücken, Germany|Chinese Academy of Sciences, Ins",queue,,current DBLP affiliation here but on no institution directory
+Stefano Leonardi 0001,8,,,exclude,E08,CSRankings files them at Sapienza University of Rome (it)
+Cheng Li 0001,8,,"University of Science and Technology of China (USTC), China",exclude,E08,DBLP labels the affiliation former
+Dan Casas,7,,"Universidad Rey Juan Carlos, Madrid, Spain",exclude,E08,DBLP labels the affiliation former
+Steffen Jung 0001,7,,"Max Planck Institute for Informatics, Saarbrücken, Germany|University of Mannheim, Data and Web Science Group, Germany",queue,,current DBLP affiliation here but on no institution directory
+Mallikarjun B. R. 0001,7,,"Max Planck Institute for Informatics, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Osman Mian,7,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Lea Schönherr,7,de-cispa-helmholtz-center;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Xiao Zhang 0016,7,csrankings,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",include,,on an institution directory here
+Xinyue Shen 0001,6,,"CISPA Helmholtz Center for Information Security, Saarbrucken, Saarland, Germany",queue,,current DBLP affiliation here but on no institution directory
+Bernd Finkbeiner,6,de-cispa-helmholtz-center;csrankings,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany|Technical University of Munich, Germany",include,,on an institution directory here
+Muhammad Bilal Zafar,6,,"Ruhr University Bochum, Germany",exclude,E08,DBLP labels the affiliation former
+David Kaltenpoth,6,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Sebastian Schuster 0001,6,,"University of Vienna, Faculty of Computer Science, Vienna, Austria|University College London, Division of Psychology and",exclude,E08,CSRankings files them at University of Vienna (at)
+Sebastian Dalleiger,6,,"KTH Royal Institute of Technology, Stockholm, Sweden|CISPA Helmholtz Center for Information Security, Saarbrücken, Germa",exclude,E08,DBLP's primary current affiliation is KTH Royal Institute of Technology; on none of the local directories
+Peter Ochs,6,de-saarland-university;csrankings,"Saarland University, Department of Mathematics, Germany|University of Freiburg, Department of Computer Science, Germany",include,,on an institution directory here
+Viktor Zaverkin,6,de-saarland-university,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Fionn Mc Inerney,6,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Mayank Goswami 0001,6,,"City University of New York, NY, USA|Max-Planck Institute for Informatics, Saarbrücken, Germany,",exclude,E08,DBLP's primary current affiliation is City University of New York; on none of the local directories
+Linlin Li 0001,6,,"Huawei Technologies Co., Ltd., Huawei Device Co., Ltd., Institute of Speech and Semantics, Voice Assistant Department, C",exclude,E02,DBLP records this as the PhD institution (2012)
+Ahmed Salem 0001,6,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Yulia Gryaditskaya,6,,"Max Planck Institute for Informatics (MPII), Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Philipp Slusallek,6,de-dfki-sb;de-saarland-university;csrankings,"Saarland University, Saarbrücken, Germany",include,,on an institution directory here
+Dongqi Liu 0001,5,,"Saarland University, Department of Language Science and Technology, Saarbrücken, Germany|University of Amsterdam, Instit",queue,,current DBLP affiliation here but on no institution directory
+Golnoosh Shahkarami,5,,"MPI for Informatics, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Gaurav Sharma 0004,5,,"Max Planck Institute for Informatics (MPII), Saarbrücken, Germany|University of Caen, Laboratory GREYC, France|Technicol",queue,,current DBLP affiliation here but on no institution directory
+Nicola Wolpert,5,,"Hochschule für Technik Stuttgart, Germany",exclude,E08,DBLP labels the affiliation former
+Edith Tretschk,5,,"Meta, San Francisco, CA, USA",exclude,E02,DBLP records this as the PhD institution ()
+Matthias W. Seeger,5,,"Amazon Development Center Germany, Berlin|École Polytechnique Fédérale de Lausanne, School of Computer and Communication",exclude,E08,DBLP's primary current affiliation is Amazon Development Center Germany; on none of the local directories
+Zheng Li 0023,5,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Daniel Höller,5,,"Saarland University, Germany",queue,,current DBLP affiliation here but on no institution directory
+Gerhard Weikum,5,de-mpi-inf,"Max Planck Institute for Informatics, Saarbrücken, Germany",include,,on an institution directory here
+Daniel Fiser,5,,"Aalborg University, Denmark",exclude,E08,DBLP labels the affiliation former
+Tobias Lorenz 0002,4,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Ziqing Yang 0002,4,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Guoxing Sun 0001,4,,"Max Planck Institute for Informatics, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Antonio Krüger,4,de-dfki-sb;de-saarland-university;csrankings,"German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany",include,,on an institution directory here
+Wolfgang Maass 0002,4,csrankings;csrankings,"DFKI, Germany|Saarland University, Saarbrücken, Germany",include,,on an institution directory here
+Yuan Gao 0025,4,,"Saarland University, CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Carsten Stoll,4,,"Max Planck Institute for Informatics, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Yukun Jiang 0001,4,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany|Sichuan University, School of Cyber Science and En",queue,,current DBLP affiliation here but on no institution directory
+Michael Wand 0001,4,,"University of Mainz, Germany",exclude,E08,CSRankings files them at University of Mainz (de)
+Kurt Mehlhorn,4,,"Max Planck Institute for Informatics, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Noshaba Cheema,4,,"Max Planck Institute for Informatics, Saarbrücken, Germany|German Research Centre for Artificial Intelligence (DFKI), Sa",queue,,current DBLP affiliation here but on no institution directory
+Joscha Cüppers,4,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Stefanie Wuhrer,4,,"INRIA Research Center Grenoble Rhône-Alpes|Max Planck Institute for Informatics (MPII), Saarbrücken",exclude,E08,DBLP's primary current affiliation is INRIA Research Center Grenoble Rhône-Alpes; on none of the local directories
+Janis Kalofolias,3,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Quynh Nguyen 0001,3,,"Saarland University, Department of Computer Science, Saarbrücken, Germany|Max Planck Institute for Informatics, Saarbrüc",queue,,current DBLP affiliation here but on no institution directory
+Thomas Leimkühler,3,de-mpi-inf,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Tania Avgustinova,3,,"Universität des Saarlandes, Germany|University of Trier, Germany",queue,,current DBLP affiliation here but on no institution directory
+Maximilian Fickert,3,,"Saarland University, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Renjie Chen 0001,3,,"University of Science and Technology of China, School of Mathematical Sciences, Hefei|Max Planck Institute for Informati",exclude,E08,DBLP's primary current affiliation is University of Science and Technology of China; on none of the local directories
+Rui Wen 0002,3,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Markus N. Rabe,3,,Google Inc.,exclude,E08,DBLP labels the affiliation former
+Yihan Ma 0001,3,,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Yash Raj Sarrof,3,,"Saarland University, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Elmar Eisemann,3,,"Delft University of Technology, INSY, Delft, The Netherlands|Joseph Fourier University, Grenoble, France",exclude,E08,CSRankings files them at TU Delft (nl)
+Yifan Wang 0019,3,,"Saarland University, Saarland Informatics Campus, Department of Language Science and Technology, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Jingyi Zhang 0002,3,,"German Research Center for Artificial Intelligence (DFKI), Saarland Informatics Campus, Saarbrucken, Germany",queue,,current DBLP affiliation here but on no institution directory
+T.-H. Hubert Chan,3,,"University of Hong Kong, Department of Computer Science, Hong Kong",exclude,E08,DBLP labels the affiliation former
+Michael Stark 0003,3,,"Intrinsic Innovation LLC, USA",exclude,E08,DBLP labels the affiliation former
+Sabine Janzen,3,de-dfki-sb,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Franziska Mueller 0001,3,,"Google, Zurich, Switzerland",exclude,E08,DBLP labels the affiliation former
+Hannah Bast,3,,"University of Freiburg, Department of Computer Science, Germany",exclude,E08,CSRankings files them at University of Freiburg (de)
+Tobias Scheffer,3,,"University of Potsdam, Germany",exclude,E08,CSRankings files them at University of Potsdam (de)
+Anurag Singh 0006,3,,"CISPA, Helmholtz Center for Information Security, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Merel C. J. Scholman,3,,"Saarland University, Saarbrücken, Germany",queue,,current DBLP affiliation here but on no institution directory
+Rafal Mantiuk,3,,"University of Cambridge, UK",exclude,E08,CSRankings files them at University of Cambridge (gb)
+Yongjie Yang 0001,3,,"Central South University, School of Information Science and Engineering, Changsha, China|Saarland University, Chair of E",exclude,E08,DBLP's primary current affiliation is Central South University; on none of the local directories
+Hanwei Zhang 0001,3,,"Saarland University, Germany",queue,,current DBLP affiliation here but on no institution directory
+Alexandra Lassota,2,,"Eindhoven University of Technology, The Netherlands",exclude,E08,DBLP labels the affiliation former

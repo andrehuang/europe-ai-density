@@ -39,6 +39,26 @@ CITIES = {
             "de-tue-ai-center", "de-mpi-kyb", "de-hertie-ai",
         ),
         "csrankings": ("University of Tübingen",),
+        "sites": {"de-mpi-is-tue": ("Tübingen", "unclear", "")},
+    },
+    "saarbruecken": {
+        "pattern": re.compile(r"Saarbr(ü|ue)cken|Saarland", re.I),
+        "inst_ids": ("de-saarland-university", "de-cispa-helmholtz-center",
+                     "de-mpi-inf", "de-dfki-sb", "de-mpi-sws"),
+        "csrankings": ("Saarland University", "CISPA Helmholtz Center"),
+        "sites": {"de-mpi-sws": ("Saarbrücken",), "de-dfki-sb": ("Saarbrücken", "")},
+    },
+    "stuttgart": {
+        "pattern": re.compile(r"Stuttgart", re.I),
+        "inst_ids": ("de-university-of-stuttgart", "de-mpi-is-stu"),
+        "csrankings": ("University of Stuttgart",),
+        "sites": {"de-mpi-is-stu": ("Stuttgart",)},
+    },
+    "kaiserslautern": {
+        "pattern": re.compile(r"Kaiserslautern|RPTU", re.I),
+        "inst_ids": ("de-mpi-sws",),
+        "csrankings": ("TU Kaiserslautern",),
+        "sites": {"de-mpi-sws": ("Kaiserslautern",)},
     },
 }
 
@@ -69,7 +89,14 @@ def main() -> int:
     # Roster-driven: institution directory passes plus the CSRankings layer.
     roster = {}
     for r in csv.DictReader((DERIVED / "roster_checked.csv").open(encoding="utf-8")):
-        if r["inst_id"] in cfg["inst_ids"] and int(r["core_papers"]) >= CORE_MIN:
+        if r["inst_id"] not in cfg["inst_ids"] or int(r["core_papers"]) < CORE_MIN:
+            continue
+        allowed = cfg.get("sites", {}).get(r["inst_id"])
+        # A multi-site institution's two halves belong to different cities, so a person
+        # recorded at the other campus must not leak into this one.
+        if allowed is not None and r.get("site", "") not in allowed:
+            continue
+        if True:
             name = r["dblp_name"] or r["name"]
             roster.setdefault(name, []).append(r["inst_id"])
     csr_elsewhere = {}

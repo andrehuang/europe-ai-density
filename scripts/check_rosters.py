@@ -76,6 +76,9 @@ def main() -> int:
                         "dblp_name": resolved or "",
                         "match": reason,
                         "title_verbatim": r.get("title_verbatim", ""),
+                        # Multi-site institutions record a campus per person; the column
+                        # is named differently by different rosters.
+                        "site": (r.get("campus") or r.get("site") or r.get("location") or ""),
                         "core_papers": n,
                         "extended_papers": extended.get(resolved, 0) if resolved else 0,
                         "evidence_url": r.get("evidence_url", ""),

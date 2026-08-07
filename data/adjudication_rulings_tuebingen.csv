@@ -1,5 +1,5 @@
 name,ruling,reason_code,tier,city_if_elsewhere,reason,evidence_confidence
-Yong Cao 0001,include,,T1,,"Group Leader for NLP at the University of Tübingen; missed by all five local directories",high
+Yong Cao 0001,exclude,E15,,,"Postdoctoral researcher leading the NLP sub-team inside Andreas Geiger's Autonomous Vision Group — the same position as Wenjing Bian. The team page titles him Group Leader; his own page says postdoc, and the adjudicator recorded leads_own_group=unclear. Originally ruled include on the team page's title alone, which contradicted both the other evidence and titles.csv",high
 Harrisen Scells,include,,T1,,"W1-Juniorprofessur für Humansprachtechnologie, University of Tübingen; DE rule counts W1 as an independent post",high
 Dmitry Kobak,exclude,E08,,Ghent,"Now Professor in the Department of Mathematics, Ghent University, Belgium — counts toward Ghent, not Tübingen",high
 Mijung Park,exclude,E07,,Vancouver,Assistant Professor in Vancouver; outside EU + EFTA + UK,high
@@ -17,9 +17,9 @@ Jan Schneider 0007,exclude,E02,,,Doctoral researcher at MPI for Intelligent Syst
 Jonathan Schmidt 0001,exclude,E01,,,Postdoc at the University of Tübingen,high
 Michael Tiemann 0001,exclude,E15,,,Researcher without an independent group,high
 Muhammad Waleed Gondal,exclude,E06,,,Applied scientist in industry,high
-Ilia A. Petrov 0001,exclude,E02,,,"PhD candidate; note the agent flagged that this DBLP id may collide with a Reutlingen professor of a similar name",high
-Bernhard Jaeger,exclude,E13,,,"Describes himself as co-founder of a startup while publishing with the Autonomous Vision group; independent status not established",medium
+Ilia A. Petrov 0001,exclude,E02,,,PhD candidate; note the agent flagged that this DBLP id may collide with a Reutlingen professor of a similar name,high
+Bernhard Jaeger,exclude,E13,,,Describes himself as co-founder of a startup while publishing with the Autonomous Vision group; independent status not established,medium
 Hilde Kuehne,include,,T1,,"University of Tübingen's own Arbeitsgruppen page lists her as Prof. Dr. Hilde Kühne (kooptiert), Multimodal Learning; DBLP's Bonn note is stale",high
-Shiwei Liu 0003,include,,T2,,"Group Leader at MPI-IS and PI at ELLIS Institute Tübingen; Oxford and UT Austin are past roles",high
+Shiwei Liu 0003,include,,T2,,Group Leader at MPI-IS and PI at ELLIS Institute Tübingen; Oxford and UT Austin are past roles,high
 Moritz Hardt,include,,T2,,"Managing Director at MPI-IS Tübingen campus (Max-Planck-Ring 4); the University of Tübingen listing is an honorary professorship, so he counts as an institute PI not a university chair",high
 Frank Hutter,include,,T2,Freiburg,"Cross-appointment: full professor at Freiburg is the primary post, PI at ELLIS Institute Tübingen the secondary. Counts here under count-everywhere and split attribution; under primary-only he counts at Freiburg",high

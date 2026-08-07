@@ -86,9 +86,11 @@ def rule_for(title, country, rules):
         contained = [r for r in pool if r[0] and r[0] in t]
         if contained:
             return max(contained, key=lambda r: len(r[0]))
-        looser = [r for r in pool if r[0] and t in r[0]]
-        if looser:
-            return min(looser, key=lambda r: len(r[0]))
+        # No "title is a substring of the rule" branch. It let a less specific title
+        # inherit a more specific rule's ruling: a bare "Research Group Leader" matched
+        # "Max Planck Research Group Leader" and with it the note "independent group with
+        # own budget", admitting four members of Moritz Hardt's department as independent
+        # PIs. A title that lacks the qualifier has not earned the qualifier's ruling.
     return None
 
 
@@ -102,25 +104,46 @@ def main() -> int:
     out_rows = []
     unknown = Counter()
     per_inst = {}
+    resolved_by_group = 0
     for path in rosters:
         inst_id = path.parent.name
         country = inst_id.split("-", 1)[0]
         rows = list(csv.DictReader(path.open(encoding="utf-8")))
+        # A bare "group leader" title cannot be ruled from the words alone: at MPI-IS the
+        # same string covers Michael Muehlebach, who leads his own group, and four members
+        # of Moritz Hardt's department. The group name settles it. Anyone whose
+        # group_or_dept is a unit that a director or department head owns is inside that
+        # unit; anyone whose unit is their own is not.
+        owned = {
+            (r.get("group_or_dept") or "").strip().lower()
+            for r in rows
+            if re.search(r"\bdirector\b|departmentsleiter|abteilungsleiter|head of department",
+                         (r.get("title_verbatim") or ""), re.I)
+        }
+        owned.discard("")
         kept = dropped = unmatched = 0
         for r in rows:
             title = r.get("title_verbatim", "")
             hit = rule_for(title, country, rules)
             if hit is None:
                 hit = rule_for(normalise_title(title), country, rules)
+            group = (r.get("group_or_dept") or "").strip().lower()
             if hit is None:
                 verdict, tier, matched = "unknown", "", ""
                 unknown[(country, title)] += 1
                 unmatched += 1
             else:
                 _, is_pi, tier, matched = hit
-                verdict = "include" if is_pi == "yes" else "exclude"
+                verdict = ("include" if is_pi == "yes"
+                           else "review" if is_pi == "review" else "exclude")
+                # A group-versus-department heuristic was tried here and removed. It
+                # only works when the department's director appears in the same roster
+                # file, and at MPI-IS Tübingen he does not — so it silently defaulted to
+                # admitting everyone, which is the failure it was written to prevent.
+                # This class needs per-person evidence, not a rule over the data on hand.
                 kept += verdict == "include"
                 dropped += verdict == "exclude"
+                unmatched += verdict == "review"
             out_rows.append(
                 {
                     "inst_id": inst_id,

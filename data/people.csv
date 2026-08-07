@@ -3,8 +3,8 @@ bernhard-schölkopf,Bernhard Schölkopf,tuebingen,172,de-ellis-inst-tue;de-ellis
 michael-j.-black,Michael J. Black,tuebingen,97,de-ellis-inst-tue,1,T2,verified,de-ellis-inst-tue
 andreas-geiger-0001,Andreas Geiger 0001,tuebingen,75,csrankings;de-ellis-inst-tue;de-tue-ai-center,3,T1,verified,de-ellis-inst-tue;de-tue-ai-center;csrankings
 frank-hutter,Frank Hutter,tuebingen,74,de-ellis-institute-tue,1,T2,verified,de-ellis-institute-tue
-georg-martius,Georg Martius,tuebingen,48,csrankings;de-tue-ai-center,2,T1,verified,de-tue-ai-center;csrankings
 shiwei-liu-0003,Shiwei Liu 0003,tuebingen,48,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,3,T2,verified,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center
+georg-martius,Georg Martius,tuebingen,48,csrankings;de-tue-ai-center,2,T1,verified,de-tue-ai-center;csrankings
 philipp-hennig,Philipp Hennig,tuebingen,46,csrankings;de-ellis-inst-tue;de-tue-ai-center,3,T1,verified,de-ellis-inst-tue;de-tue-ai-center;csrankings
 hilde-kuehne,Hilde Kuehne,tuebingen,43,csrankings,1,T1,verified,csrankings;csrankings;csrankings
 jonas-geiping,Jonas Geiping,tuebingen,41,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,3,T2,verified,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center
@@ -17,29 +17,28 @@ gerard-pons-moll,Gerard Pons-Moll,tuebingen,29,csrankings;de-ellis-inst-tue;de-t
 moritz-hardt,Moritz Hardt,tuebingen,24,de-ellis-inst-tue;de-tue-ai-center,2,T2,verified,de-ellis-inst-tue;de-tue-ai-center
 jakob-h.-macke,Jakob H. Macke,tuebingen,23,csrankings;de-ellis-inst-tue;de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,5,T1,verified,de-ellis-inst-tue;de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center;csrankings
 maksym-andriushchenko,Maksym Andriushchenko,tuebingen,21,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,3,T2,verified,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center
-andreas-zell,Andreas Zell,tuebingen,20,csrankings,1,T1,verified,csrankings
 carsten-eickhoff,Carsten Eickhoff,tuebingen,20,csrankings,1,T1,verified,csrankings
+andreas-zell,Andreas Zell,tuebingen,20,csrankings,1,T1,verified,csrankings
 michael-muehlebach,Michael Muehlebach,tuebingen,18,de-ellis-inst-tue;de-mpi-is-tue,2,T2,verified,de-ellis-inst-tue;de-mpi-is-tue
 ulrike-von-luxburg,Ulrike von Luxburg,tuebingen,17,csrankings;de-tue-ai-center,2,T1,verified,de-tue-ai-center;csrankings
 kashyap-chitta,Kashyap Chitta,tuebingen,16,de-ellis-institute-tue,1,T2,verified,de-ellis-institute-tue
 dieter-büchler,Dieter Büchler,tuebingen,13,de-mpi-is-tue,1,T2,verified,de-mpi-is-tue
 a.-sophia-koepke,A. Sophia Koepke,tuebingen,12,de-tue-ai-center,1,T2,verified,de-tue-ai-center
 philipp-berens,Philipp Berens,tuebingen,11,csrankings;de-tue-ai-center,2,T1,verified,de-tue-ai-center;csrankings
-sahar-abdelnabi,Sahar Abdelnabi,tuebingen,10,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,3,T2,verified,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center
 hendrik-p.-a.-lensch,Hendrik P. A. Lensch,tuebingen,10,csrankings,1,T1,verified,csrankings
+sahar-abdelnabi,Sahar Abdelnabi,tuebingen,10,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,3,T2,verified,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center
 samira-samadi,Samira Samadi,tuebingen,9,de-mpi-is-tue;de-tue-ai-center,2,T2,verified,de-mpi-is-tue;de-tue-ai-center
 t.-konstantin-rusch,T. Konstantin Rusch,tuebingen,8,de-ellis-institute-tue;de-tue-ai-center,2,T2,verified,de-ellis-institute-tue;de-tue-ai-center
-rediet-abebe,Rediet Abebe,tuebingen,8,de-ellis-institute-tue;de-tue-ai-center,2,T2,verified,de-ellis-institute-tue;de-tue-ai-center
-yong-cao-0001,Yong Cao 0001,tuebingen,8,adjudication,1,T1,verified,adjudication queue
 robert-c.-williamson,Robert C. Williamson,tuebingen,8,csrankings;de-tue-ai-center,2,T1,verified,de-tue-ai-center;csrankings
-dingfan-chen,Dingfan Chen,tuebingen,7,de-mpi-is-tue,1,T2,verified,de-mpi-is-tue
+rediet-abebe,Rediet Abebe,tuebingen,8,de-ellis-institute-tue;de-tue-ai-center,2,T2,verified,de-ellis-institute-tue;de-tue-ai-center
 peter-dayan,Peter Dayan,tuebingen,7,de-ellis-inst-tue;de-tue-ai-center,2,T2,verified,de-ellis-inst-tue;de-tue-ai-center
+dingfan-chen,Dingfan Chen,tuebingen,7,de-mpi-is-tue,1,T2,verified,de-mpi-is-tue
 nastaran-okati,Nastaran Okati,tuebingen,6,de-mpi-is-tue,1,T2,verified,de-mpi-is-tue
 peter-v.-gehler,Peter V. Gehler,tuebingen,5,csrankings,1,T1,verified,csrankings
 ana-andreea-stoica,Ana-Andreea Stoica,tuebingen,4,de-mpi-is-tue,1,T2,verified,de-mpi-is-tue
 martin-v.-butz,Martin V. Butz,tuebingen,4,csrankings,1,T1,verified,csrankings
 maximilian-dax,Maximilian Dax,tuebingen,4,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,3,T2,verified,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center
-harrisen-scells,Harrisen Scells,tuebingen,3,adjudication,1,T1,verified,adjudication queue
 anna-levina,Anna Levina,tuebingen,3,csrankings,1,T1,verified,csrankings;csrankings
-felix-a.-wichmann,Felix A. Wichmann,tuebingen,3,csrankings,1,T1,verified,csrankings
 oliver-bringmann-0001,Oliver Bringmann 0001,tuebingen,3,csrankings,1,T1,verified,csrankings
+harrisen-scells,Harrisen Scells,tuebingen,3,adjudication,1,T1,verified,adjudication queue
+felix-a.-wichmann,Felix A. Wichmann,tuebingen,3,csrankings,1,T1,verified,csrankings

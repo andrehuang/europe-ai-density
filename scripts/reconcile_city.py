@@ -82,7 +82,7 @@ def main() -> int:
         for a in csv.DictReader(fh):
             if not a["author"]:
                 continue
-            index.add(a["author"])
+            index.add(a["author"], weak=True)
             if a["layer"] == "core" and a["is_findings"] == "0":
                 core[a["author"]] += 1
 

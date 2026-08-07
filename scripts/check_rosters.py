@@ -36,7 +36,7 @@ def main() -> int:
             name = a["author"]
             if not name:
                 continue
-            index.add(name)
+            index.add(name, weak=True)
             if a["layer"] == "core" and a["is_findings"] == "0":
                 core[name] += 1
             else:

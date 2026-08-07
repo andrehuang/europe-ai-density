@@ -88,11 +88,20 @@ class NameIndex:
         self.initial_last = defaultdict(set)
         self.ambiguous = 0
 
-    def add(self, dblp_name, canonical=None):
-        """Register a name form. `canonical` lets an alias resolve to the primary name."""
+    def add(self, dblp_name, canonical=None, weak=False):
+        """Register a name form. `canonical` lets an alias resolve to the primary name.
+
+        `weak` marks a name harvested from a publication's author string rather than from
+        a DBLP person record. Those must not overwrite or compete with what a person
+        record already established: DBLP knows "Alois Knoll" is an alias of "Alois C.
+        Knoll", and re-adding the bare form from the authorship pass made the key
+        ambiguous, so the matcher refused it and the same man was counted twice in Munich.
+        """
         target = canonical or dblp_name
         full, fl, il = keys_for(dblp_name)
         if not full:
+            return
+        if weak and (full in self.full or fold_keep_suffix(dblp_name) in self.exact):
             return
         self.exact.setdefault(fold_keep_suffix(dblp_name), target)
         self.full[full].add(target)

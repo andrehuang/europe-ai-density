@@ -7,7 +7,7 @@ DE,Privatdozent,Habilitated lecturer without chair,university,no,,Include only i
 DE,Akademischer Rat / Oberrat,Permanent academic staff,university,no,,Teaching and service role; no independent group
 DE,Emmy-Noether-Gruppenleiter (DFG),Emmy Noether group leader,university,yes,T2,DFG-funded independent junior group
 DE,Direktor (Max-Planck-Institut),MPI Director,research institute,yes,T2,
-DE,Max-Planck-Forschungsgruppenleiter,MPI Research Group Leader,research institute,yes,T2,Independent group with own budget
+DE,Max-Planck-Forschungsgruppenleiter,Max Planck Research Group Leader,research institute,yes,T2,"Independent group with own budget. The qualifier is required: a bare ""Research Group Leader"" at an MPI may be a department member, not an independent group"
 DE,Wissenschaftlicher Mitarbeiter,Research associate,university,no,,Covers doctoral students and postdocs
 DE,Abteilungsleiter (Fraunhofer/DLR),Department head (applied institute),research institute,no,,E14 unless jointly appointed at a university
 DE,Helmholtz Young Investigator Group Leader,Helmholtz junior group leader,research institute,yes,T2,
@@ -112,8 +112,8 @@ XX,Tenure Track Professor,Tenure-track Professor,any,yes,T1,Generic fallback
 XX,Director,Institute or department director,any,yes,T2,Generic fallback
 XX,Co-Director,Institute co-director,any,yes,T2,Generic fallback
 XX,Managing Director,Managing director,any,yes,T2,Generic fallback
-XX,Group Leader,Independent research group leader,any,yes,T2,Generic fallback
-XX,Research Group Leader,Independent research group leader,any,yes,T2,Generic fallback
+XX,Group Leader,Independent research group leader,any,review,,"Insufficient on its own. At MPI-IS four people titled ""Research Group Leader"" sit inside Moritz Hardt's department while Michael Muehlebach leads his own group under the identical title; at a university it is usually a sub-team inside somebody else's chair. Needs the group-versus-department check or a per-person ruling"
+XX,Research Group Leader,Independent research group leader,any,review,,"Insufficient on its own. At MPI-IS four people titled ""Research Group Leader"" sit inside Moritz Hardt's department while Michael Muehlebach leads his own group under the identical title; at a university it is usually a sub-team inside somebody else's chair. Needs the group-versus-department check or a per-person ruling"
 XX,Independent Group Leader,Independent research group leader,any,yes,T2,Generic fallback
 XX,Junior Group Leader,Junior research group leader,any,yes,T2,Generic fallback
 XX,Principal Investigator,Principal investigator,any,yes,T2,Generic fallback
@@ -131,18 +131,18 @@ XX,Visiting Professor,Visiting professor,any,no,,Generic fallback
 XX,Honorary Professor,Honorary professor,any,no,,Generic fallback
 XX,Prof,Professor (decorated German form),any,yes,T1,"Matches Prof. Dr., Prof. Dr.-Ing., Prof. Dr. rer. nat. after decoration stripping"
 XX,Jun-Prof,Juniorprofessor,any,yes,T1,Tenure-track professor in the German system
-XX,Faculty,Institute faculty,any,yes,T2,"MPI-SWS and CISPA style; independent by the institute's own definition"
+XX,Faculty,Institute faculty,any,yes,T2,MPI-SWS and CISPA style; independent by the institute's own definition
 XX,Adjunct Faculty,Adjunct faculty,any,no,,Primary post is elsewhere; E04
 XX,Max Planck Fellow,Max Planck Fellow,any,yes,T2,University professor leading an MPI group
 XX,Deputy Head,Deputy department head,any,no,,Not independent unless they separately lead a group
 XX,Enseignant-chercheur,Academic staff (France),any,yes,T1,Covers the feminine and hyphenation variants
 XX,Professeure,Professor (France),any,yes,T1,
 XX,Directrice de recherche,Research Director (France),any,yes,T2,
-XX,Chercheur,Researcher (France; ambiguous),any,no,,"Bare 'Chercheur' does not distinguish a permanent CR from any researcher; needs the employer to settle it"
+XX,Chercheur,Researcher (France; ambiguous),any,no,,Bare 'Chercheur' does not distinguish a permanent CR from any researcher; needs the employer to settle it
 XX,Senior Researcher,Senior researcher,any,no,,E15 unless they separately lead a group
 XX,Enseignante-chercheuse,Academic staff (France; feminine),any,yes,T1,
 XX,Chercheuse,Researcher (France; feminine; ambiguous),any,no,,
-XX,Chercheurs enseignants-chercheurs,Permanent research staff (France; collective heading),any,yes,T1,"Used as a section heading on French laboratory organigrammes"
+XX,Chercheurs enseignants-chercheurs,Permanent research staff (France; collective heading),any,yes,T1,Used as a section heading on French laboratory organigrammes
 XX,Professeur,Professor (France),any,yes,T1,
 XX,Maitresse de conferences,Maître de conférences (feminine),any,yes,T1,
 XX,Directeur de Recherche,Research Director (France),any,yes,T2,

@@ -34,6 +34,9 @@
     sel: { lat: 48.53, lon: 9.06, r: 15 },
     threshold: 3,
     tiers: { T1: true, T2: true, T3: true },
+    // How a person appointed in two cities is attributed. "all" counts them in full in
+    // each, "split" divides them evenly, "primary" credits only their main employer.
+    attribution: "all",
     showPreview: true,
     dragging: false,
   };
@@ -76,6 +79,20 @@
   function auditedPeople(city) {
     return D.audited[city].people.filter((p) => p.p >= state.threshold && state.tiers[p.t]);
   }
+  // Weight of one person toward the city they were found in. Only adjudicated
+  // cross-appointments carry a second city, so the switch moves nobody else.
+  function weightOf(p) {
+    if (!p.pc) return 1;
+    if (state.attribution === "all") return 1;
+    if (state.attribution === "split") return 1 / (p.nc || 2);
+    return 0;
+  }
+  function auditedWeight(city) {
+    return auditedPeople(city).reduce((a, p) => a + weightOf(p), 0);
+  }
+  function crossCount(city) {
+    return auditedPeople(city).filter((p) => p.pc).length;
+  }
   // Preview people all come from the CSRankings faculty layer, which is T1 by definition.
   function previewPeople(inst) {
     if (!state.tiers.T1) return [];
@@ -95,7 +112,7 @@
     Object.keys(D.audited).forEach((city) => {
       const a = D.audited[city];
       if (a.lat == null) return;
-      pts.push({ kind: "audited", label: city, lat: a.lat, lon: a.lon, n: auditedPeople(city).length });
+      pts.push({ kind: "audited", label: city, lat: a.lat, lon: a.lon, n: auditedWeight(city) });
     });
     if (state.showPreview) {
       D.institutions.forEach((i) => {
@@ -139,7 +156,7 @@
       const a = D.audited[city];
       if (a.lat == null) return;
       if (haversine(lat, lon, a.lat, a.lon) <= r) {
-        const n = auditedPeople(city).length;
+        const n = auditedWeight(city);
         audited += n; people += n;
         inRange.push({ kind: "audited", label: city, n: n, status: D.audited[city].status });
       }
@@ -168,15 +185,15 @@
       const a = D.audited[city];
       if (a.lat == null || haversine(lat, lon, a.lat, a.lon) > r) return;
       auditedPeople(city).forEach((p) =>
-        rows.push({ name: p.n, papers: p.p, tier: p.t, where: city,
-                    kind: "audited", src: p.s.join(" · ") }));
+        rows.push({ name: p.n, papers: p.p, tier: p.t, where: city, primary: p.pc || "",
+                    weight: weightOf(p), kind: "audited", src: p.s.join(" · ") }));
     });
     if (state.showPreview) {
       D.institutions.forEach((i) => {
         if (isCoveredByAudited(i) || haversine(lat, lon, i.lat, i.lon) > r) return;
         previewPeople(i).forEach((e) =>
           rows.push({ name: e[0], papers: e[1], tier: "T1", where: i.city || i.n,
-                      kind: "preview", src: "csrankings" }));
+                      primary: "", weight: 1, kind: "preview", src: "csrankings" }));
       });
     }
     rows.sort((a, b) => b.papers - a.papers);
@@ -322,10 +339,18 @@
     const s = selectionStats();
     const per100k = s.pop > 0 ? (1e5 * s.people) / s.pop : 0;
     document.getElementById("r-density").textContent = s.pop > 0 ? per100k.toFixed(2) : "—";
-    document.getElementById("r-people").textContent = fmt(s.people);
+    document.getElementById("r-people").textContent =
+      Number.isInteger(s.people) ? fmt(s.people) : s.people.toFixed(1);
     document.getElementById("r-pop").textContent = fmt(s.pop);
+    const cross = Object.keys(D.audited).reduce((a, c) => {
+      const x = D.audited[c];
+      return a + (x.lat != null &&
+        haversine(state.sel.lat, state.sel.lon, x.lat, x.lon) <= state.sel.r ? crossCount(c) : 0);
+    }, 0);
     document.getElementById("r-split").textContent =
-      s.audited + " audited · " + s.preview + " preview";
+      (Number.isInteger(s.audited) ? s.audited : s.audited.toFixed(1)) +
+      " audited \u00b7 " + s.preview + " preview" +
+      (cross ? " \u00b7 " + cross + " cross-appointed" : "");
     document.getElementById("r-where").textContent =
       state.sel.lat.toFixed(3) + ", " + state.sel.lon.toFixed(3) + " · r " + state.sel.r + " km";
 
@@ -359,11 +384,13 @@
       : "nothing in range";
     rows.slice(0, rosterLimit).forEach((r) => {
       const tr = document.createElement("tr");
+      if (r.weight === 0) tr.className = "muted-row";
       tr.innerHTML =
         "<td class='name'><span class='dot " + r.kind + "'></span>" + escapeHtml(r.name) + "</td>" +
         "<td class='num strong'>" + r.papers + "</td>" +
         "<td><span class='tier t-" + r.tier + "'>" + r.tier + "</span></td>" +
-        "<td class='prov'>" + escapeHtml(r.where) + "</td>" +
+        "<td class='prov'>" + escapeHtml(r.where) +
+          (r.primary ? " <span class='xa'>\u2192 " + escapeHtml(r.primary) + "</span>" : "") + "</td>" +
         "<td class='prov src'>" + escapeHtml(r.src) + "</td>";
       tb.appendChild(tr);
     });
@@ -385,7 +412,7 @@
     Object.keys(D.audited).forEach((city) => {
       const a = D.audited[city];
       if (a.lat == null) return;
-      const n = auditedPeople(city).length;
+      const n = auditedWeight(city);
       if (!n) return;
       const { pop } = populationWithin(a.lat, a.lon, 15);
       rows.push({ name: city, kind: "audited", n, pop, status: a.status });
@@ -423,7 +450,7 @@
       tr.innerHTML =
         "<td class='rank'>" + (idx + 1) + "</td>" +
         "<td class='name'><span class='dot " + r.kind + "'></span>" + escapeHtml(r.name) + "</td>" +
-        "<td class='num'>" + r.n + "</td>" +
+        "<td class='num'>" + (Number.isInteger(r.n) ? r.n : r.n.toFixed(1)) + "</td>" +
         "<td class='num'>" + fmt(r.pop) + "</td>" +
         "<td class='num strong'>" + r.per100k.toFixed(2) + "</td>" +
         "<td class='prov'>" + r.status + "</td>";
@@ -572,6 +599,15 @@
       const t = b.dataset.tier;
       state.tiers[t] = !state.tiers[t];
       b.setAttribute("aria-pressed", String(state.tiers[t]));
+      draw(); renderTable();
+    });
+  });
+
+  document.querySelectorAll("[data-attr]").forEach((b) => {
+    b.addEventListener("click", () => {
+      state.attribution = b.dataset.attr;
+      document.querySelectorAll("[data-attr]").forEach((x) =>
+        x.setAttribute("aria-pressed", String(x === b)));
       draw(); renderTable();
     });
   });

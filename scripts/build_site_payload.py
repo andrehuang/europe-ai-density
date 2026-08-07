@@ -62,6 +62,21 @@ AUDITED = {
 }
 
 
+def same_city(a, b):
+    """Compare city names across German transliteration: Tübingen == Tuebingen."""
+    def norm(x):
+        x = fold(x)
+        for pair in (("ue", "u"), ("oe", "o"), ("ae", "a"), ("ss", "s")):
+            x = x.replace(*pair)
+        return x
+    return norm(a) == norm(b)
+
+
+def slugify(city):
+    return (city.lower().replace("ü", "ue").replace("ö", "oe").replace("ä", "ae")
+            .replace("ß", "ss").replace(" ", "-"))
+
+
 def b64(arr):
     return base64.b64encode(np.ascontiguousarray(arr).tobytes()).decode("ascii")
 
@@ -139,6 +154,28 @@ def main() -> int:
                       "s": ["adjudication"]}
             )
 
+    # Cross-appointments established by adjudication. Only these can drive the
+    # attribution switch: a roster's free-text "other affiliations" column names
+    # institutions, not cities, and guessing the city from it would put made-up
+    # precision behind a control that changes the ranking.
+    primary_city = {}
+    for city in AUDITED:
+        rp = ROOT / "data" / f"adjudication_rulings_{slugify(city)}.csv"
+        if rp.exists():
+            for r in csv.DictReader(rp.open(encoding="utf-8")):
+                if (r["ruling"] == "include" and r.get("city_if_elsewhere")
+                        and not same_city(r["city_if_elsewhere"], city)):
+                    name, _ = index.resolve(r["name"])
+                    primary_city[name or fold(r["name"])] = r["city_if_elsewhere"]
+        cp = (ROOT / "data" / "raw" / "adjudication" / "2026-08-06"
+              / slugify(city) / "conflicts.csv")
+        if cp.exists():
+            for r in csv.DictReader(cp.open(encoding="utf-8")):
+                pc = (r.get("primary_city") or "").strip()
+                if pc and not same_city(pc, city):
+                    name, _ = index.resolve(r["name"])
+                    primary_city[name or fold(r["name"])] = pc
+
     reconciled = {"Tübingen"}
     audited_out = {}
     for city, people in audited.items():
@@ -158,6 +195,11 @@ def main() -> int:
             v["t"] = ("T1" if "csrankings" in srcs
                       else "T3" if srcs == {"adjudication"}
                       else "T2")
+        for key, v in people.items():
+            pc = primary_city.get(key)
+            if pc:
+                v["pc"] = pc      # primary city, when it is not this one
+                v["nc"] = 2       # cities this person is counted in
         kept = [v for v in people.values() if v["p"] >= CORE_MIN]
         kept.sort(key=lambda v: -v["p"])
         ref = insts.get(city) or next(

@@ -140,6 +140,9 @@
   .legend { display: flex; gap: 16px; font-family: var(--mono); font-size: 11px; color: var(--muted); padding: 10px 14px 0; }
   .legend span { display: inline-flex; align-items: center; gap: 6px; }
 
+  .xa { color: var(--series-audited); }
+  tr.muted-row td { opacity: 0.42; }
+  tr.muted-row td.name { text-decoration: line-through; text-decoration-thickness: 1px; }
   .tier {
     font-family: var(--mono); font-size: 10px; letter-spacing: 0.06em; padding: 1px 5px;
     border-radius: 2px; border: 1px solid var(--line); color: var(--ink-2);
@@ -203,6 +206,14 @@
       <button type="button" class="goto" data-goto="48.68,9.10,26,45">+ Stuttgart</button>
       <button type="button" class="goto" data-goto="49.25,7.04,90,15">Saarbrücken</button>
       <button type="button" class="goto" data-goto="48.60,8.60,7,260">Europe</button>
+    </div>
+    <div class="ctl">
+      <span class="lbl" id="attr-label">Cross-appointed</span>
+      <div class="seg" role="group" aria-labelledby="attr-label">
+        <button type="button" data-attr="all" aria-pressed="true" title="Count them in full in every city">count in both</button>
+        <button type="button" data-attr="split" aria-pressed="false" title="Divide them evenly between their cities">split</button>
+        <button type="button" data-attr="primary" aria-pressed="false" title="Credit only their main employer">primary only</button>
+      </div>
     </div>
     <div class="ctl">
       <span class="lbl" id="tier-label">Tiers</span>
@@ -312,6 +323,16 @@
         Tübingen reads 69.7 PIs per 100k at a 3 km radius and 1.8 at 40 km — the same 43 people,
         a factor of thirty-nine apart. No single radius is correct, which is why you draw the
         boundary rather than being handed one. 15 km is a default, not a claim.
+      </p>
+    </div>
+    <div>
+      <h3>Cross-appointments</h3>
+      <p>
+        Frank Hutter holds a chair at Freiburg and a PI post at the ELLIS Institute in
+        Tübingen. Counting him in both inflates Europe; counting him nowhere loses him. The
+        switch exposes the choice instead of burying it — and it only moves people whose
+        second post has actually been adjudicated, which is one person here, not a guess
+        applied to everyone.
       </p>
     </div>
     <div>

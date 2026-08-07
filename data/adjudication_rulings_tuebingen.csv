@@ -19,3 +19,7 @@ Michael Tiemann 0001,exclude,E15,,,Researcher without an independent group,high
 Muhammad Waleed Gondal,exclude,E06,,,Applied scientist in industry,high
 Ilia A. Petrov 0001,exclude,E02,,,"PhD candidate; note the agent flagged that this DBLP id may collide with a Reutlingen professor of a similar name",high
 Bernhard Jaeger,exclude,E13,,,"Describes himself as co-founder of a startup while publishing with the Autonomous Vision group; independent status not established",medium
+Hilde Kuehne,include,,T1,,"University of Tübingen's own Arbeitsgruppen page lists her as Prof. Dr. Hilde Kühne (kooptiert), Multimodal Learning; DBLP's Bonn note is stale",high
+Shiwei Liu 0003,include,,T2,,"Group Leader at MPI-IS and PI at ELLIS Institute Tübingen; Oxford and UT Austin are past roles",high
+Moritz Hardt,include,,T2,,"Managing Director at MPI-IS Tübingen campus (Max-Planck-Ring 4); the University of Tübingen listing is an honorary professorship, so he counts as an institute PI not a university chair",high
+Frank Hutter,include,,T2,Freiburg,"Cross-appointment: full professor at Freiburg is the primary post, PI at ELLIS Institute Tübingen the secondary. Counts here under count-everywhere and split attribution; under primary-only he counts at Freiburg",high

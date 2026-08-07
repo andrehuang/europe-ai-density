@@ -47,6 +47,14 @@ def fold(text):
     return stripped
 
 
+def fold_keep_suffix(text):
+    """Fold for comparison but keep DBLP's homonym suffix, which is part of identity."""
+    decomposed = unicodedata.normalize("NFKD", (text or "").lower())
+    stripped = "".join(c for c in decomposed if not unicodedata.combining(c))
+    stripped = re.sub(r"[^a-z0-9 ]+", " ", stripped)
+    return re.sub(r"\s+", " ", stripped).strip()
+
+
 def keys_for(name):
     """Return (full, first_last, initial_last) keys for a name."""
     f = fold(name)
@@ -69,7 +77,13 @@ class NameIndex:
     """Maps DBLP author names to a canonical form, refusing ambiguous keys."""
 
     def __init__(self):
-        self.full = {}
+        # Keyed on the name *including* DBLP's homonym suffix. That suffix is identity,
+        # not noise: "Matthias Hein 0001" runs a machine-learning group at MPI-IS in
+        # Tübingen and "Matthias Hein 0002" is at TU Ilmenau. Folding it away made them
+        # one key, and whichever was indexed first silently won — which put the Ilmenau
+        # physicist in Tübingen's roster.
+        self.exact = {}
+        self.full = defaultdict(set)
         self.first_last = defaultdict(set)
         self.initial_last = defaultdict(set)
         self.ambiguous = 0
@@ -80,7 +94,8 @@ class NameIndex:
         full, fl, il = keys_for(dblp_name)
         if not full:
             return
-        self.full.setdefault(full, target)
+        self.exact.setdefault(fold_keep_suffix(dblp_name), target)
+        self.full[full].add(target)
         if fl:
             self.first_last[fl].add(target)
             self.initial_last[il].add(target)
@@ -104,8 +119,21 @@ class NameIndex:
         full, fl, il = keys_for(name)
         if not full:
             return None, "empty"
+        # A query carrying a homonym suffix is unambiguous by construction. A query
+        # without one must NOT prefer the unsuffixed DBLP entry: that entry is itself a
+        # specific person, not a wildcard. A roster reading "Shiwei Liu" matched DBLP's
+        # bare "Shiwei Liu" — two papers — while the ELLIS Institute group leader is
+        # "Shiwei Liu 0003" with forty-eight.
+        if re.search(r"\s\d{4}$", (name or "").strip()):
+            exact = self.exact.get(fold_keep_suffix(name))
+            if exact:
+                return exact, "exact"
         if full in self.full:
-            return self.full[full], "full"
+            hits = self.full[full]
+            if len(hits) == 1:
+                return next(iter(hits)), "full"
+            self.ambiguous += 1
+            return None, f"ambiguous_full({len(hits)})"
         if fl and fl in self.first_last:
             hits = self.first_last[fl]
             if len(hits) == 1:

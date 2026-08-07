@@ -136,3 +136,5 @@ pl,IPI PAN,Instytut Podstaw Informatyki Polskiej Akademii Nauk,pl-university-of-
 de,TU Kaiserslautern,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,,"Matched the Hochschule Kaiserslautern, a different institution in the same city"
 de,University of Marburg,Philipps-Universität Marburg,,Matched Wismar University of Applied Sciences 450 km away
 de,University of Mannheim,Universität Mannheim,,ROR identity unresolved (best match is the city government); city Mannheim is correct so the coordinate stands
+de,Hertie Institute for AI in Brain Health,Hertie Institute for AI in Brain Health,de-university-of-t-bingen,"ROR matched a Munich record and dragged 2M residents into Tübingen's catchment; anchored to the university campus it sits on"
+es,IIIA-CSIC,Artificial Intelligence Research Institute,,"Bellaterra is a locality inside Cerdanyola del Vallès, so the city-name mismatch is genuine and the ROR record is right"

@@ -173,9 +173,21 @@ def main() -> int:
             # ("Torino" vs ROR's "Turin"), so a mismatch is reported, not enforced.
             ror_city = geo.get("name", "")
             city_note = ""
+            city_ok = True
             if t["city_expected"] and fold(t["city_expected"])[:5] not in fold(ror_city):
+                # A city disagreement is usually a language difference — Torino against
+                # Turin, Gent against Ghent — which is why this was demoted to a note.
+                # Demoting it entirely was wrong: the Hertie Institute, which is in
+                # Tübingen, matched a record in Munich and dragged that city's two
+                # million residents into Tübingen's catchment. String similarity tells
+                # the two cases apart, since a translation still looks like its original
+                # and an unrelated city does not.
+                sim_city = name_similarity(t["city_expected"], ror_city)
                 city_note = f"expected {t['city_expected']}, ROR says {ror_city}"
-            status = "auto" if ok else "needs_review"
+                if sim_city < 0.45:
+                    city_ok = False
+                    city_note += " — unrelated names, not a translation"
+            status = "auto" if (ok and city_ok) else "needs_review"
             auto += status == "auto"
             review += status == "needs_review"
             rows.append(

@@ -43,6 +43,14 @@ def main() -> int:
                 extended[name] += 1
     print(f"DBLP author names indexed: {len(index.full)}")
 
+    # Adjudicated identity decisions override the matcher: some names are genuinely
+    # ambiguous in DBLP and only a human check can say which person a roster meant.
+    overrides = {}
+    ov_path = ROOT / "data" / "name_overrides.csv"
+    if ov_path.exists():
+        for o in csv.DictReader(ov_path.open(encoding="utf-8")):
+            overrides[(o["roster_name"], o["inst_id"])] = o["dblp_name"]
+
     roots = sorted((ROOT / "data" / "raw" / "directories").glob("*/"))
     rows_out = []
     for root in roots:
@@ -54,6 +62,8 @@ def main() -> int:
             active = 0
             for r in rows:
                 resolved, reason = index.resolve(r.get("name", ""))
+                if (r.get("name", ""), inst_id) in overrides:
+                    resolved, reason = overrides[(r.get("name", ""), inst_id)], "override"
                 how[reason if resolved is None else reason] += 1
                 n = core.get(resolved, 0) if resolved else 0
                 if n >= CORE_MIN:

@@ -54,6 +54,19 @@ AUDITED = {
         "csrankings": ("University of Stuttgart",),
         "site_filter": {"de-mpi-is-stu": ("campus", ("Stuttgart",))},
     },
+    "München": {
+        "rosters": ("de-tu-munich", "de-lmu-munich", "de-mcml"),
+        "csrankings": ("TU Munich", "LMU Munich", "Bundeswehr University Munich"),
+        # Garching is 12 km out and part of the same cluster; Heilbronn and Straubing
+        # are 120 km away and are not.
+        "site_filter": {"de-tu-munich": ("campus", ("Garching", "Munich city centre",
+                                                    "Munich", "München", "unclear", ""))},
+    },
+    "Berlin": {
+        "rosters": ("de-tu-berlin",),
+        "csrankings": ("TU Berlin", "Humboldt University of Berlin", "Freie Universitaet Berlin"),
+        "site_filter": {},
+    },
     "Kaiserslautern": {
         "rosters": ("de-mpi-sws",),
         "csrankings": ("TU Kaiserslautern",),
@@ -106,6 +119,16 @@ def main() -> int:
             insts[r["name"]] = r
             insts[r["inst_id"]] = r
 
+    # The title ruling, which until now was computed and never applied. data/titles.csv
+    # exists so the PI judgement happens once, in one auditable place — but the counting
+    # path took anyone on a roster who cleared the publication filter, whatever their
+    # title. Postdocs and doctoral students on a directory page were being counted.
+    verdicts = {}
+    tp = DERIVED / "roster_titled.csv"
+    if tp.exists():
+        for r in csv.DictReader(tp.open(encoding="utf-8")):
+            verdicts[(r["inst_id"], r["name"])] = r["verdict"]
+
     # --- audited people, one entry each, with the sources that found them -------------
     audited = defaultdict(dict)
     for city, cfg in AUDITED.items():
@@ -116,6 +139,10 @@ def main() -> int:
             col, allowed = cfg["site_filter"].get(inst_id, (None, None))
             for r in csv.DictReader(path.open(encoding="utf-8")):
                 if col and r.get(col, "") not in allowed:
+                    continue
+                # An unruled title is held out rather than assumed to qualify: it stays
+                # visible in data/derived/roster_titled.csv as a review item.
+                if verdicts.get((inst_id, r["name"]), "unknown") != "include":
                     continue
                 name, _ = index.resolve(r["name"])
                 key = name or fold(r["name"])

@@ -24,6 +24,28 @@ DIRS = ROOT / "data" / "raw" / "directories"
 OUT = ROOT / "data" / "derived" / "roster_titled.csv"
 
 
+# German and French titles stack degrees, disciplines and honorifics around the rank
+# word: "Prof. Dr. rer. nat. habil.", "Prof. Dr.-Ing.", "Prof. Dr. sc. ETH Zürich".
+# Matching the whole string fails on all of them, so the decorations come off first and
+# only the rank word is compared. 739 of 939 roster rows went unmatched without this.
+DECORATION = re.compile(
+    r"\b(?:"
+    r"dr|drs|doktor|rer|nat|pol|oec|phil|med|jur|habil|ing|sc|scient|techn|"
+    r"phd|ph|mult|hc|h\.?c|eth|zurich|zuerich|univ|mag|dipl|msc|bsc|"
+    r"em|emerit\w*|i\.?r"
+    r")\b\.?"
+)
+
+
+def normalise_title(text):
+    """Reduce a decorated title to its rank word, keeping any qualifier in brackets."""
+    t = fold(text)
+    # A trailing role after a comma is a separate fact: "Prof. Dr., Core PI".
+    t = t.split(",")[0]
+    t = DECORATION.sub(" ", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
 def fold(text):
     decomposed = unicodedata.normalize("NFKD", (text or "").lower())
     stripped = "".join(c for c in decomposed if not unicodedata.combining(c))
@@ -88,6 +110,8 @@ def main() -> int:
         for r in rows:
             title = r.get("title_verbatim", "")
             hit = rule_for(title, country, rules)
+            if hit is None:
+                hit = rule_for(normalise_title(title), country, rules)
             if hit is None:
                 verdict, tier, matched = "unknown", "", ""
                 unknown[(country, title)] += 1

@@ -129,3 +129,22 @@ XX,Doctoral Researcher,Doctoral student,any,no,,Generic fallback
 XX,Emeritus,Emeritus,any,no,,Generic fallback
 XX,Visiting Professor,Visiting professor,any,no,,Generic fallback
 XX,Honorary Professor,Honorary professor,any,no,,Generic fallback
+XX,Prof,Professor (decorated German form),any,yes,T1,"Matches Prof. Dr., Prof. Dr.-Ing., Prof. Dr. rer. nat. after decoration stripping"
+XX,Jun-Prof,Juniorprofessor,any,yes,T1,Tenure-track professor in the German system
+XX,Faculty,Institute faculty,any,yes,T2,"MPI-SWS and CISPA style; independent by the institute's own definition"
+XX,Adjunct Faculty,Adjunct faculty,any,no,,Primary post is elsewhere; E04
+XX,Max Planck Fellow,Max Planck Fellow,any,yes,T2,University professor leading an MPI group
+XX,Deputy Head,Deputy department head,any,no,,Not independent unless they separately lead a group
+XX,Enseignant-chercheur,Academic staff (France),any,yes,T1,Covers the feminine and hyphenation variants
+XX,Professeure,Professor (France),any,yes,T1,
+XX,Directrice de recherche,Research Director (France),any,yes,T2,
+XX,Chercheur,Researcher (France; ambiguous),any,no,,"Bare 'Chercheur' does not distinguish a permanent CR from any researcher; needs the employer to settle it"
+XX,Senior Researcher,Senior researcher,any,no,,E15 unless they separately lead a group
+XX,Enseignante-chercheuse,Academic staff (France; feminine),any,yes,T1,
+XX,Chercheuse,Researcher (France; feminine; ambiguous),any,no,,
+XX,Chercheurs enseignants-chercheurs,Permanent research staff (France; collective heading),any,yes,T1,"Used as a section heading on French laboratory organigrammes"
+XX,Professeur,Professor (France),any,yes,T1,
+XX,Maitresse de conferences,Maître de conférences (feminine),any,yes,T1,
+XX,Directeur de Recherche,Research Director (France),any,yes,T2,
+XX,Research Scientist,Research scientist,any,no,,E15 unless they separately lead a group
+XX,Group Leader (university chair),Sub-team lead inside a professorial chair,university,no,,"A 'group leader' inside someone else's chair is not independent — Wenjing Bian leads 3D Vision inside Andreas Geiger's group at Tübingen. At a research institute the same words do mean an independent group, which is why the ruling depends on the institution type"

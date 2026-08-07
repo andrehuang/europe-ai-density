@@ -190,6 +190,34 @@ that way while leaving the others unaudited tilts the comparison toward the audi
 T3 is therefore applied to every city or to none, and the site marks the layer as incomplete
 until coverage is uniform.
 
+## 3a. What the publication modality can and cannot see — a correction
+
+An earlier version of this document claimed that two recall modalities with opposite
+failure modes bound the miss rate, turning "did we miss anyone?" into a finite list. That
+overstated what the publication side contributes.
+
+The publication modality places people using DBLP's affiliation notes, and those notes are
+sparse. Of the **67,125 authors with at least three core-venue papers in the window, only
+15,834 — 24% — carry any affiliation record at all.** For the other three quarters the
+publication record proves they are active but says nothing about where, so the modality
+cannot corroborate a roster, contradict it, or surface anyone the roster missed.
+
+Recall therefore rests almost entirely on the institution rosters. The reconciliation is
+still worth running — it caught Yong Cao and Harrisen Scells at Tübingen, and it queued the
+Hilde Kuehne conflict — but it operates on the quarter of people DBLP happens to place, not
+on the whole field.
+
+What actually bounds recall is narrower and should be stated as such:
+
+1. **Roster completeness per institution**, measured once against CSRankings as ground truth
+   at CISPA: 15 of 15.
+2. **Institution coverage per city** — whether every institution that employs PIs there was
+   collected at all. A person at an uncollected institution is invisible to both modalities.
+
+Wenjing Bian is the case that exposed this: four core-venue papers in the window, no DBLP
+affiliation record, and on no collected roster. Nothing in the pipeline can place her, and
+nothing would have flagged her absence.
+
 ## 3b. Sources are ranked, not pooled
 
 Recall takes the union of five sources. Deciding *where somebody works* does not: the

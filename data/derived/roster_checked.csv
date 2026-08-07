@@ -90,6 +90,138 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-ellis-institute-tue,Antonio Orvieto,Antonio Orvieto,full,PI,,33,0,https://institute-tue.ellis.eu/en/people/aorvieto
 2026-08-06,de-ellis-institute-tue,T. Konstantin Rusch,T. Konstantin Rusch,full,PI,,8,0,https://institute-tue.ellis.eu/en/people/tkrusch
 2026-08-06,de-ellis-institute-tue,Bernhard Schölkopf,Bernhard Schölkopf,full,Scientific Director,,172,8,https://institute-tue.ellis.eu/en/people/bernhard-scholkopf
+2026-08-06,de-lmu-munich,Dieter Kranzlmüller,Dieter Kranzlmüller,full,Prof. Dr.,,0,0,https://www.ifi.lmu.de/institut/
+2026-08-06,de-lmu-munich,Thomas Seidl,Thomas Seidl 0001,full,Prof. Dr.,,6,2,https://mcml.ai/team/directors/
+2026-08-06,de-lmu-munich,Marcus Paradies,,no_match,Prof. Dr.,,0,0,https://www.ifi.lmu.de/dbs/
+2026-08-06,de-lmu-munich,Volker Tresp,Volker Tresp,full,Prof. Dr.,,42,11,https://www.ifi.lmu.de/dbs/
+2026-08-06,de-lmu-munich,Matthias Schubert,Matthias Schubert,full,Prof. Dr.,,4,3,https://www.ifi.lmu.de/dbs/
+2026-08-06,de-lmu-munich,Dirk Beyer,,no_match,Prof. Dr.,,0,0,https://www.sosy-lab.org/people.php
+2026-08-06,de-lmu-munich,Marie-Christine Jakobs,,no_match,Prof. Dr.,,0,0,https://www.sosy-lab.org/people/jakobs/
+2026-08-06,de-lmu-munich,Gidon Ernst,,no_match,Prof. Dr.,,0,0,https://www.sosy-lab.org/people.php
+2026-08-06,de-lmu-munich,Rolf Hennicker,,no_match,Prof. Dr.,,0,0,https://www.sosy-lab.org/people.php
+2026-08-06,de-lmu-munich,Wolfgang Hesse,,no_match,Prof. Dr.,,0,0,https://www.sosy-lab.org/people/hesse/
+2026-08-06,de-lmu-munich,Mila Majster-Cederbaum,,no_match,Prof. Dr.,,0,0,https://www.sosy-lab.org/people/majster-cederbaum/
+2026-08-06,de-lmu-munich,Johannes Kinder,,no_match,Prof. Dr.,,0,0,https://www.plai.ifi.lmu.de/
+2026-08-06,de-lmu-munich,Sven Strickroth,,no_match,Prof. Dr. (Professur für Technology-Enhanced Learning),,0,0,https://www.tel.ifi.lmu.de/
+2026-08-06,de-lmu-munich,Jasmin Blanchette,Jasmin Blanchette,full,Prof. Dr. (Lehrstuhlinhaber),,0,0,https://www.tcs.ifi.lmu.de/staff
+2026-08-06,de-lmu-munich,Claudia Linnhoff-Popien,Claudia Linnhoff-Popien,full,Prof. Dr.,,7,4,https://www.ifi.lmu.de/institut/
+2026-08-06,de-lmu-munich,Ralf Zimmer,Ralf Zimmer,full,Univ.-Prof. Dr. (Ordinarius),,0,0,https://www.bio.ifi.lmu.de/
+2026-08-06,de-lmu-munich,Caroline Friedel,Caroline C. Friedel,first_last,Univ.-Prof. Dr. (Extraordinaria),,0,0,https://www.bio.ifi.lmu.de/
+2026-08-06,de-lmu-munich,Volker Heun,,no_match,Univ.-Prof. Dr. (Extraordinarius),,0,0,https://www.bio.ifi.lmu.de/
+2026-08-06,de-lmu-munich,Florian Alt,Florian Alt,full,Prof. Dr. (Lehrstuhl für Angewandte Informatik und Medieninformatik),,0,27,https://www.medien.ifi.lmu.de/
+2026-08-06,de-lmu-munich,Andreas Butz,Andreas Butz,full,Prof. Dr. (Lehrstuhl für Mensch-Maschine-Interaktion),,0,8,https://www.mmi.ifi.lmu.de/
+2026-08-06,de-lmu-munich,Alexander Wiethoff,Alexander Wiethoff,full,Prof. Dr.,,0,1,https://www.mmi.ifi.lmu.de/team/alexander.wiethoff/
+2026-08-06,de-lmu-munich,Albrecht Schmidt,Albrecht Schmidt 0001,full,Prof. Dr. (Lehrstuhlinhaber),,0,37,https://www.um.informatik.uni-muenchen.de/personen/professoren/schmidt/index.html
+2026-08-06,de-lmu-munich,Eyke Hüllermeier,Eyke Hüllermeier,full,Prof. Dr.,,56,2,https://www.ifi.lmu.de/kiml/en/
+2026-08-06,de-lmu-munich,Björn Ommer,Björn Ommer,full,Prof. Dr.,,40,2,https://ommer-lab.com/people/ommer/
+2026-08-06,de-lmu-munich,Stefan Feuerriegel,Stefan Feuerriegel,full,Prof. Dr. (Head of Institute),,29,14,https://www.som.lmu.de/ai/de/institut/kontaktseite/stefan-feuerriegel-840c1071.html
+2026-08-06,de-lmu-munich,Thomas Augustin,Thomas Augustin 0001,full,Prof. Dr.,,6,0,https://www.stat.lmu.de/en/people/
+2026-08-06,de-lmu-munich,Bernd Bischl,Bernd Bischl,full,Prof. Dr.,,23,2,https://mcml.ai/team/directors/
+2026-08-06,de-lmu-munich,Anne-Laure Boulesteix,Anne-Laure Boulesteix,full,Prof. Dr. HDR,,1,0,https://www.stat.lmu.de/en/people/contact-page/anne-laure-boulesteix-22613f94.html
+2026-08-06,de-lmu-munich,Jörg Drechsler,,no_match,Prof. Dr.,,0,0,https://www.stat.lmu.de/en/people/
+2026-08-06,de-lmu-munich,Sabine Hoffmann,,no_match,Dr.,,0,0,https://www.stat.lmu.de/en/people/contact-page/sabine-hoffmann-1b1ce4c9.html
+2026-08-06,de-lmu-munich,Christian Heumann,Christian Heumann,full,Prof. Dr.,,2,4,https://www.stat.lmu.de/en/people/
+2026-08-06,de-lmu-munich,Göran Kauermann,,no_match,Prof. Dr.,,0,0,https://www.stat.lmu.de/en/people/
+2026-08-06,de-lmu-munich,Christoph Kern,Christoph Kern 0001,full,Junior Professor of Social Data Science and Statistical Learning,,2,3,https://www.stat.lmu.de/en/people/contact-page/christoph-kern-11bd67d0.html
+2026-08-06,de-lmu-munich,Frauke Kreuter,Frauke Kreuter,full,Prof. Dr.,,7,5,https://www.stat.lmu.de/en/people/contact-page/frauke-kreuter-825909f7.html
+2026-08-06,de-lmu-munich,Christian L. Müller,Christian L. Müller,full,Prof. Dr.,,0,0,https://www.helmholtz-munich.de/en/icb
+2026-08-06,de-lmu-munich,Thomas Nagler,Thomas Nagler,full,Prof. Dr.,,10,0,https://www.stat.lmu.de/en/people/contact-page/thomas-nagler-0645d7ca.html
+2026-08-06,de-lmu-munich,David Rügamer,David Rügamer,full,"Prof. Dr. (Associate Professor and Group Leader at LMU since summer 2023, per his personal site)",,26,1,https://www.stat.lmu.de/en/people/contact-page/david-ruegamer-586a539c.html
+2026-08-06,de-lmu-munich,Joseph Sakshaug,,no_match,"Prof. Joseph Sakshaug, Ph.D.",,0,0,https://www.stat.lmu.de/en/people/
+2026-08-06,de-lmu-munich,Fabian Scheipl,,no_match,PD Dr.,,0,0,https://www.stat.lmu.de/en/people/contact-page/fabian-scheipl-a3cef099.html
+2026-08-06,de-lmu-munich,Volker Schmid,,no_match,Prof. Dr.,,0,0,https://www.stat.lmu.de/en/people/
+2026-08-06,de-lmu-munich,Michael Schomaker,,no_match,Prof. Dr.,,0,0,https://www.stat.lmu.de/en/people/
+2026-08-06,de-lmu-munich,Daniel Wilhelm,Daniel Wilhelm,full,"Prof. Daniel Wilhelm, Ph.D.",,0,1,https://www.stat.lmu.de/en/people/
+2026-08-06,de-lmu-munich,Wolfgang zu Castell,,no_match,Prof.,,0,0,https://www.stat.lmu.de/en/people/
+2026-08-06,de-mcml,Elke Achtert,,no_match,"Dr., Managing Director",,0,0,https://mcml.ai/team/directors/
+2026-08-06,de-mcml,Zeynep Akata,Zeynep Akata,full,"Prof. Dr., Core PI",,75,1,https://mcml.ai/research/groups/akata/
+2026-08-06,de-mcml,Matthias Althoff,Matthias Althoff,full,"Prof. Dr., Core PI",,29,0,https://mcml.ai/research/groups/althoff/
+2026-08-06,de-mcml,Stefan Bauer,Stefan Bauer,full,"Prof. Dr., Core PI",,32,0,https://mcml.ai/research/groups/bauer-s/
+2026-08-06,de-mcml,Ulrich Bauer,Ulrich Bauer,full,"Prof. Dr., Core PI",,3,1,https://mcml.ai/research/groups/bauer-u/
+2026-08-06,de-mcml,Bernd Bischl,Bernd Bischl,full,"Prof. Dr., Director",,23,2,https://mcml.ai/research/groups/bischl/
+2026-08-06,de-mcml,Karsten Borgwardt,Karsten M. Borgwardt,first_last,"Prof. Dr., Core PI",,12,3,https://mcml.ai/research/groups/borgwardt/
+2026-08-06,de-mcml,Anne-Laure Boulesteix,Anne-Laure Boulesteix,full,"Prof. Dr., Core PI",,1,0,https://mcml.ai/research/groups/boulesteix/
+2026-08-06,de-mcml,Benjamin Busam,Benjamin Busam,full,"Prof. Dr., Core PI",,42,5,https://mcml.ai/research/groups/busam/
+2026-08-06,de-mcml,Alena Buyx,Alena Buyx,full,"Prof. Dr., Core PI",,0,1,https://mcml.ai/research/groups/buyx/
+2026-08-06,de-mcml,Daniel Cremers,Daniel Cremers,full,"Prof. Dr., Director",,104,0,https://mcml.ai/research/groups/cremers/
+2026-08-06,de-mcml,Angela Dai,Angela Dai,full,"Prof. Dr., Core PI",,50,1,https://mcml.ai/research/groups/dai/
+2026-08-06,de-mcml,Jana Diesner,Jana Diesner,full,"Prof. Dr., Collaborating PI",,6,3,https://mcml.ai/research/groups/diesner/
+2026-08-06,de-mcml,Felix Dietrich,Felix Dietrich,full,"Prof. Dr., Collaborating PI",,2,0,https://mcml.ai/research/groups/dietrich/
+2026-08-06,de-mcml,Mathias Drton,Mathias Drton,full,"Prof. Dr., Core PI",,10,0,https://mcml.ai/research/groups/drton/
+2026-08-06,de-mcml,Andreas Döpp,,no_match,"Dr. habil, Collaborating PI",,0,0,https://mcml.ai/research/groups/doepp/
+2026-08-06,de-mcml,David Egger,,no_match,"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/egger/
+2026-08-06,de-mcml,Björn Eskofier,Björn M. Eskofier,first_last,"Prof. Dr., Core PI",,5,1,https://mcml.ai/research/groups/eskofier/
+2026-08-06,de-mcml,Stefan Feuerriegel,Stefan Feuerriegel,full,"Prof. Dr., Core PI",,29,14,https://mcml.ai/research/groups/feuerriegel/
+2026-08-06,de-mcml,Massimo Fornasier,Massimo Fornasier,full,"Prof. Dr., Core PI",,1,0,https://mcml.ai/research/groups/fornasier/
+2026-08-06,de-mcml,Vincent Fortuin,Vincent Fortuin,full,"Dr., Collaborating PI",,20,1,https://mcml.ai/research/groups/fortuin/
+2026-08-06,de-mcml,Alexander Fraser,Alexander Fraser 0001,full,"Prof. Dr., Core PI",,20,13,https://mcml.ai/research/groups/fraser/
+2026-08-06,de-mcml,Thomas Gabor,Thomas Gabor,full,"Prof. Dr., Collaborating PI",,3,2,https://mcml.ai/research/groups/gabor/
+2026-08-06,de-mcml,Julien Gagneur,,no_match,"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/gagneur/
+2026-08-06,de-mcml,Debarghya Ghoshdastidar,Debarghya Ghoshdastidar,full,"Prof. Dr., Core PI",,17,0,https://mcml.ai/research/groups/ghoshdastidar/
+2026-08-06,de-mcml,Daniel Grün,,no_match,"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/gruen/
+2026-08-06,de-mcml,Stephan Günnemann,Stephan Günnemann,full,"Prof. Dr., Core PI",,94,1,https://mcml.ai/research/groups/guennemann/
+2026-08-06,de-mcml,Reinhard Heckel,Reinhard Heckel,full,"Prof. Dr., Core PI",,19,0,https://mcml.ai/research/groups/heckel/
+2026-08-06,de-mcml,Michael Hedderich,Michael A. Hedderich,first_last,"Dr., JRG Leader Human-Centered NLP",,12,9,https://mcml.ai/research/groups/hedderich/
+2026-08-06,de-mcml,Lukas Heinrich,Lukas Heinrich,full,"Prof. Dr., Collaborating PI",,1,0,https://mcml.ai/research/groups/heinrich/
+2026-08-06,de-mcml,Valentin Hofmann,Valentin Hofmann,full,"Prof. Dr., Collaborating PI",,17,1,https://mcml.ai/research/groups/hofmann/
+2026-08-06,de-mcml,Eyke Hüllermeier,Eyke Hüllermeier,full,"Prof. Dr., Core PI",,56,2,https://mcml.ai/research/groups/huellermeier/
+2026-08-06,de-mcml,Michael Ingrisch,Michael Ingrisch,full,"Prof. Dr., Core PI",,0,2,https://mcml.ai/research/groups/ingrisch/
+2026-08-06,de-mcml,Stefanie Jegelka,Stefanie Jegelka,full,"Prof. Dr., Core PI",,58,0,https://mcml.ai/research/groups/jegelka/
+2026-08-06,de-mcml,Enkelejda Kasneci,Enkelejda Kasneci,full,"Prof. Dr., Core PI",,13,6,https://mcml.ai/research/groups/kasneci-enkelejda/
+2026-08-06,de-mcml,Gjergji Kasneci,Gjergji Kasneci,full,"Prof. Dr., Core PI",,21,10,https://mcml.ai/research/groups/kasneci-gjergji/
+2026-08-06,de-mcml,Göran Kauermann,,no_match,"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/kauermann/
+2026-08-06,de-mcml,Christoph Kern,Christoph Kern 0001,full,"Prof. Dr., Core PI",,2,3,https://mcml.ai/research/groups/kern/
+2026-08-06,de-mcml,Niki Kilbertus,Niki Kilbertus,full,"Prof. Dr., Core PI",,18,0,https://mcml.ai/research/groups/kilbertus/
+2026-08-06,de-mcml,Johannes Kinder,,no_match,"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/kinder/
+2026-08-06,de-mcml,Almut Sophia Koepke,A. Sophia Koepke,full,"Dr., JRG Leader Multi-Modal Learning",,12,1,https://mcml.ai/research/groups/koepke/
+2026-08-06,de-mcml,Frauke Kreuter,Frauke Kreuter,full,"Prof. Dr., Core PI",,7,5,https://mcml.ai/research/groups/kreuter/
+2026-08-06,de-mcml,Gitta Kutyniok,Gitta Kutyniok,full,"Prof. Dr., Core PI",,19,4,https://mcml.ai/research/groups/kutyniok/
+2026-08-06,de-mcml,Helmut Küchenhoff,,no_match,"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/kuechenhoff/
+2026-08-06,de-mcml,Christian Kühn,,ambiguous_full(2),"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/kuehn/
+2026-08-06,de-mcml,Benjamin Lange,,no_match,"Dr., JRG Leader Ethics of AI",,0,0,https://mcml.ai/research/groups/lange/
+2026-08-06,de-mcml,Achim J. Lilienthal,Achim J. Lilienthal,full,"Prof. Dr., Collaborating PI",,15,0,https://mcml.ai/research/groups/lilienthal/
+2026-08-06,de-mcml,Johannes Maly,Johannes Maly,full,"Prof. Dr., Collaborating PI",,2,0,https://mcml.ai/research/groups/maly/
+2026-08-06,de-mcml,Riccardo Marin,Riccardo Marin,full,"Prof. Dr., Core PI",,12,1,https://mcml.ai/research/groups/marin-riccardo/
+2026-08-06,de-mcml,Carsten Marr,Carsten Marr,full,"Prof. Dr., Core PI",,4,16,https://mcml.ai/research/groups/marr/
+2026-08-06,de-mcml,Martin Menten,Martin J. Menten,first_last,"Dr., JRG Leader AI for Vision",,4,13,https://mcml.ai/research/groups/menten/
+2026-08-06,de-mcml,Christian Müller,,ambiguous_full(4),"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/mueller/
+2026-08-06,de-mcml,Thomas Nagler,Thomas Nagler,full,"Prof. Dr., Core PI",,10,0,https://mcml.ai/research/groups/nagler/
+2026-08-06,de-mcml,Nassir Navab,Nassir Navab,full,"Prof. Dr., Core PI",,91,100,https://mcml.ai/research/groups/navab/
+2026-08-06,de-mcml,Matthias Nießner,Matthias Nießner,full,"Prof. Dr., Core PI",,92,3,https://mcml.ai/research/groups/niessner/
+2026-08-06,de-mcml,Sven Nyholm,Sven Nyholm,full,"Prof. Dr., Core PI",,0,2,https://mcml.ai/research/groups/nyholm/
+2026-08-06,de-mcml,Björn Ommer,Björn Ommer,full,"Prof. Dr., Core PI",,40,2,https://mcml.ai/research/groups/ommer/
+2026-08-06,de-mcml,Marcus Paradies,,no_match,"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/paradies/
+2026-08-06,de-mcml,Barbara Plank,Barbara Plank,full,"Prof. Dr., Core PI",,52,26,https://mcml.ai/research/groups/plank/
+2026-08-06,de-mcml,Holger Rauhut,Holger Rauhut,full,"Prof. Dr., Core PI",,3,2,https://mcml.ai/research/groups/rauhut/
+2026-08-06,de-mcml,Patrick Rinke,Patrick Rinke,full,"Prof. Dr., Core PI",,1,0,https://mcml.ai/research/groups/rinke/
+2026-08-06,de-mcml,Daniel Rückert,,ambiguous_full(2),"Prof. Dr., Director",,0,0,https://mcml.ai/research/groups/rueckert/
+2026-08-06,de-mcml,David Rügamer,David Rügamer,full,"Prof. Dr., Core PI",,26,1,https://mcml.ai/research/groups/ruegamer/
+2026-08-06,de-mcml,Fabian Scheipl,,no_match,"PD Dr., Core PI",,0,0,https://mcml.ai/research/groups/scheipl/
+2026-08-06,de-mcml,Volker Schmid,,no_match,"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/schmid/
+2026-08-06,de-mcml,Albrecht Schmidt,Albrecht Schmidt 0001,full,"Prof. Dr., Core PI",,0,37,https://mcml.ai/research/groups/schmidt/
+2026-08-06,de-mcml,Julia Schnabel,Julia A. Schnabel,first_last,"Prof. Dr., Core PI",,5,32,https://mcml.ai/research/groups/schnabel/
+2026-08-06,de-mcml,Steffen Schneider,,ambiguous_full(2),"Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/schneider/
+2026-08-06,de-mcml,Michael Schomaker,,no_match,"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/schomaker/
+2026-08-06,de-mcml,Matthias Schubert,Matthias Schubert,full,"Prof. Dr., Core PI",,4,3,https://mcml.ai/research/groups/schubert/
+2026-08-06,de-mcml,Björn Schuller,,ambiguous_first_last(2),"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/schuller/
+2026-08-06,de-mcml,Angela P. Schöllig,Angela P. Schoellig,first_last,"Prof. Dr., Core PI",,23,0,https://mcml.ai/research/groups/schoellig/
+2026-08-06,de-mcml,Peter Schüffler,Peter J. Schüffler,full,"Prof. Dr., Core PI",,0,6,https://mcml.ai/research/groups/schueffler/
+2026-08-06,de-mcml,Hinrich Schütze,Hinrich Schütze,full,"Prof. Dr., Core PI",,73,40,https://mcml.ai/research/groups/schuetze/
+2026-08-06,de-mcml,Thomas Seidl,Thomas Seidl 0001,full,"Prof. Dr., Director",,6,2,https://mcml.ai/research/groups/seidl/
+2026-08-06,de-mcml,Suvrit Sra,Suvrit Sra,full,"Prof. Dr., Core PI",,28,0,https://mcml.ai/research/groups/sra/
+2026-08-06,de-mcml,Alexandra Stang,,no_match,"Dr., Managing Director, Collaborations, and DEI Official",,0,0,https://mcml.ai/team/directors/
+2026-08-06,de-mcml,Helge Stein,,no_match,"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/stein/
+2026-08-06,de-mcml,Tom Sterkenburg,Tom F. Sterkenburg,first_last,"Dr., Associated JRG Leader Epistemology in ML",,1,0,https://mcml.ai/research/groups/sterkenburg/
+2026-08-06,de-mcml,Fabian Theis,Fabian J. Theis,first_last,"Prof. Dr., Core PI",,17,7,https://mcml.ai/research/groups/theis/
+2026-08-06,de-mcml,Nils Thuerey,,ambiguous_full(2),"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/thuerey/
+2026-08-06,de-mcml,Federico Tombari,Federico Tombari,full,"PD Dr., Collaborating PI",,111,3,https://mcml.ai/research/groups/tombari/
+2026-08-06,de-mcml,Volker Tresp,Volker Tresp,full,"Prof. Dr., Core PI",,42,11,https://mcml.ai/research/groups/tresp/
+2026-08-06,de-mcml,Christian Wachinger,Christian Wachinger,full,"Prof. Dr., Core PI",,6,18,https://mcml.ai/research/groups/wachinger/
+2026-08-06,de-mcml,Xi Wang,,ambiguous_full(14),"Dr., JRG Leader Egocentric Vision",,0,0,https://mcml.ai/research/groups/wang-xi/
+2026-08-06,de-mcml,Rüdiger Westermann,Rüdiger Westermann,full,"Prof. Dr., Core PI",,4,0,https://mcml.ai/research/groups/westermann/
+2026-08-06,de-mcml,Benedikt Wiestler,Benedikt Wiestler,full,"Prof. Dr., Core PI",,4,19,https://mcml.ai/research/groups/wiestler/
+2026-08-06,de-mcml,Xiaoxiang Zhu,,ambiguous_full(2),"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/zhu/
+2026-08-06,de-mcml,Ralf Zimmer,Ralf Zimmer,full,"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/zimmer/
 2026-08-06,de-mpi-inf,Danupon Na Nongkai,,no_match,"Prof. Danupon Na Nongkai, Ph.D.",,0,0,https://www.mpi-inf.mpg.de/departments/algorithms-complexity/people/current-members/danupon-na-nongkai
 2026-08-06,de-mpi-inf,Bernt Schiele,Bernt Schiele,full,Prof. Dr. Bernt Schiele,,103,2,https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/
 2026-08-06,de-mpi-inf,Jonas Fischer,Jonas Fischer,full,Dr. Jonas Fischer,,11,2,https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/jonas-fischer/
@@ -217,6 +349,271 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-saarland-university,Michael Hahn,Michael Hahn 0001,full,Professur für Computerlinguistik,,15,1,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-p/sprache.html
 2026-08-06,de-saarland-university,Dietrich Klakow,Dietrich Klakow,full,Professur für Sprach- und Signalverarbeitung,,46,11,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-p/sprache.html
 2026-08-06,de-saarland-university,Alexander Koller,Alexander Koller,full,Professur für Computerlinguistik,,18,4,https://www.uni-saarland.de/universitaet/organisation/fakultaeten/professuren/fak-p/sprache.html
+2026-08-06,de-tu-berlin,Ziawasch Abedjan,Ziawasch Abedjan,full,Professor Dr. Ziawasch Abedjan,,0,1,https://www.tu.berlin/d2ip/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Steve Albrecht,,no_match,Professor (exact title string not found on cited page; TU Berlin's own Fachgebiete table lists him as Fachgebietsleitung for 'Perowskit Solarzellen' / PET),,0,0,https://www.helmholtz-berlin.de/forschung/oe/se/perovskite-tandemsolarcells/index_de.html
+2026-08-06,de-tu-berlin,Marc Alexa,Marc Alexa,full,Prof. Dr. Marc Alexa (FGL Strukturprofessur),,4,3,https://www.tu.berlin/vcard/marc.alexa/32432
+2026-08-06,de-tu-berlin,Bettina Berendt,Bettina Berendt,full,Prof. Dr. Bettina Berendt,,2,2,https://www.tu.berlin/ias/ueber-uns/leitung
+2026-08-06,de-tu-berlin,David Bermbach,,no_match,Prof. Dr.-Ing. David Bermbach,,0,0,https://www.tu.berlin/3s/ueber-uns/team/prof-dr-ing-david-bermbach
+2026-08-06,de-tu-berlin,Benjamin Blankertz,,no_match,Prof. Dr. Benjamin Blankertz,,0,0,https://www.tu.berlin/neuro/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Oliver Brock,Oliver Brock,full,"Professor Dr. Oliver Brock (Alexander von Humboldt-Professor, seit 2009)",,17,0,https://www.tu.berlin/go31479
+2026-08-06,de-tu-berlin,Maurizio Burla,,no_match,Prof. Dr.-Ing. Maurizio Burla (FGL Strukturprofessur),,0,0,https://www.tu.berlin/hft/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Matthias Böhm,Matthias Boehm 0001,full,Prof. Dr. Matthias Böhm (FGL Strukturprofessur),,0,0,https://www.tu.berlin/dams/ueber-uns/team
+2026-08-06,de-tu-berlin,Giuseppe Caire,Giuseppe Caire,full,Prof. Dr. Giuseppe Caire (FGL Strukturprofessur),,0,8,https://www.tu.berlin/commit/mitglieder
+2026-08-06,de-tu-berlin,Corrado Carta,,no_match,Prof. Dr. Corrado Carta (FGL Gem. Berufung Berliner Modell),,0,0,https://www.tu.berlin/vcard/corrado.carta/32432
+2026-08-06,de-tu-berlin,Begüm Demir,Begüm Demir,full,Prof. Dr. Begüm Demir (FGL Strukturprofessur),,2,1,https://www.tu.berlin/vcard/demir/32432
+2026-08-06,de-tu-berlin,Fatma Deniz,Fatma Deniz,full,Prof. Dr. Fatma Deniz,,2,1,https://www.tu.berlin/coco/ueber-uns
+2026-08-06,de-tu-berlin,Sibylle Dieckerhoff,,no_match,Prof. Dr.-Ing. Sibylle Dieckerhoff (FGL Strukturprofessur),,0,0,https://www.tu.berlin/pe/team/fachgebietsleiterin/prof-dr-ing-sibylle-dieckerhoff
+2026-08-06,de-tu-berlin,Falko Dressler,Falko Dressler,full,Prof. Dr. Falko Dressler,,1,0,https://www.tu.berlin/tkn/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Ronald Freund,,no_match,Prof. Dr. Ronald Freund (FGL Gem. Berufung Berliner Modell),,0,0,https://www.tu.berlin/vcard/ronald.freund/32432
+2026-08-06,de-tu-berlin,Guillermo Gallego,Guillermo Gallego 0002,full,Prof. Guillermo Gallego (Fachgebietsleitung),,26,0,https://www.tu.berlin/vcard/guillermo.gallego/32432
+2026-08-06,de-tu-berlin,Ulrike Ganesh,,no_match,Prof. Dr.-Ing. Ulrike Ganesh,,0,0,https://www.tu.berlin/dhimes/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Ceenu George,Ceenu George,full,Title not established — TU Berlin's own Fachgebiete table names her as Fachgebietsleitung for Mensch-Computer-Interaktion (HCI); her linked profile (hci.tu-berlin.de) is a JavaScript single-page app whose content does not render via HTTP fetch and could not be read.,,0,5,https://www.hci.tu-berlin.de/#/people/4228f652-dc71-11f0-85bb-c8f75040ed17
+2026-08-06,de-tu-berlin,Friedel Gerfers,,no_match,Prof. Dr.-Ing. Friedel Gerfers,,0,0,https://www.tu.berlin/msc/ueber-uns/leitung/prof-dr-ing-friedel-gerfers
+2026-08-06,de-tu-berlin,Sabine Glesner,,no_match,Prof. Dr. rer. nat. Sabine Glesner,,0,0,https://www.tu.berlin/sese/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Clemens Gühmann,,no_match,Prof. Dr.-Ing. Clemens Gühmann,,0,0,https://www.tu.berlin/mdt/ueber-uns/leitung/prof-dr-ing-clemens-guehmann
+2026-08-06,de-tu-berlin,Stefan Haufe,Stefan Haufe,full,"Prof. Dr. Stefan Haufe (Professor W2, per own CV: 'Since 05/2021 Professor (W2), Head of FG UNIML TU Berlin')",,2,0,https://www.tu.berlin/uniml/about/head-of-group
+2026-08-06,de-tu-berlin,Manfred Hauswirth,Manfred Hauswirth,full,Prof. Dr. Manfred Hauswirth,,1,4,https://www.tu.berlin/ods/ueber-uns/prof-dr-manfred-hauswirth
+2026-08-06,de-tu-berlin,Olaf Hellwich,Olaf Hellwich,full,Prof. Dr.-Ing. Olaf Hellwich,,4,0,https://www.tu.berlin/cv/ueber-uns/olaf-hellwich
+2026-08-06,de-tu-berlin,Anja Hennemuth,Anja Hennemuth,full,Prof. Dr.-Ing. Anja Hennemuth,,0,3,https://icm.charite.de/metas/person/person/address_detail/prof_dr_ing_anja_hennemuth
+2026-08-06,de-tu-berlin,Wolfgang Hönig,Wolfgang Hönig,full,Assistant Professor (tenure-track) [self-described in English on personal site; exact German title (likely Juniorprofessor W1 mit Tenure Track) not confirmed on a TU Berlin page],,12,0,https://whoenig.github.io
+2026-08-06,de-tu-berlin,Priyamvada Jadaun,,no_match,Prof. Dr. Priyamvada Jadaun,,0,0,https://www.tu.berlin/sam/forschung/leitung
+2026-08-06,de-tu-berlin,Odej Kao,,no_match,Prof. Dr. habil. Odej Kao,,0,0,https://www.tu.berlin/dos/team/fachgebietsleitung
+2026-08-06,de-tu-berlin,Wilhelm Keusgen,,no_match,Prof. Dr.-Ing. Wilhelm Keusgen (FGL Strukturprofessur),,0,0,https://www.tu.berlin/hfs/ueber-uns/team/prof-dr-ing-wilhelm-keusgen
+2026-08-06,de-tu-berlin,Dorothea Kolossa,Dorothea Kolossa,full,Prof. Dr.-Ing. Dorothea Kolossa,,3,3,https://www.tu.berlin/mtec/ueber-uns/leitung/dorothea-kolossa
+2026-08-06,de-tu-berlin,Julia Kowal,,no_match,Prof. Dr.-Ing. Julia Kowal,,0,0,https://www.tu.berlin/eet/ueber-uns/team/prof-dr-ing-julia-kowal
+2026-08-06,de-tu-berlin,Stephan Kreutzer,,no_match,Prof. Dr. Stephan Kreutzer,,0,0,https://www.tu.berlin/las/team/leitung-der-forschungsgruppe/kreutzer
+2026-08-06,de-tu-berlin,Axel Küpper,,no_match,"Prof. Dr. Axel Küpper (Stiftungsprofessur, gefördert durch die Deutsche Telekom AG)",,0,0,https://www.tu.berlin/snet/ueber-uns/leitung/prof-dr-axel-kuepper
+2026-08-06,de-tu-berlin,Marianne Maertens,,no_match,Prof. Dr. Marianne Maertens,,0,0,https://www.psyco.tu-berlin.de/maertens.html
+2026-08-06,de-tu-berlin,Thomas Magedanz,,no_match,Prof. Dr.-Ing. habil. Thomas Magedanz,,0,0,https://www.tu.berlin/av/ueber-uns/prof-dr-thomas-magedanz
+2026-08-06,de-tu-berlin,Volker Markl,Volker Markl,full,Prof. Dr. rer. nat. Volker Markl,,0,1,https://www.tu.berlin/dima/ueber-uns/prof-dr-volker-markl
+2026-08-06,de-tu-berlin,Sebastian Möller,Sebastian Möller 0001,full,Prof. Dr.-Ing. Sebastian Möller,,14,8,https://www.tu.berlin/qu/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Klaus-Robert Müller,Klaus-Robert Müller,full,Prof. Dr. Klaus-Robert Müller (Full Professor and Chair),,23,4,https://web.ml.tu-berlin.de/author/prof.-dr.-klaus-robert-muller/
+2026-08-06,de-tu-berlin,Uwe Nestmann,,no_match,Prof. Dr.-Ing. Uwe Nestmann (Professor für Informatik),,0,0,https://www.tu.berlin/mtv/team/leitung/uwe-nestmann
+2026-08-06,de-tu-berlin,Klaus Obermayer,,no_match,Prof. Dr. Klaus Obermayer (FGL Strukturprofessur),,0,0,https://www.tu.berlin/ni/mitarbeitende/leitung-der-forschungsgruppe/klaus-obermayer
+2026-08-06,de-tu-berlin,Anna Pappa,,no_match,Prof. Dr. Anna Pappa (Fachgebietsleitung),,0,0,https://www.tu.berlin/qcc/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Ronald Plath,,no_match,Prof. Dr.-Ing. Ronald Plath,,0,0,https://www.tu.berlin/ht/ueber-uns/team
+2026-08-06,de-tu-berlin,Jörg Raisch,,no_match,Prof. Dr.-Ing. Jörg Raisch,,0,0,https://www.tu.berlin/control/user-jraisch
+2026-08-06,de-tu-berlin,Bernd Rech,,no_match,Prof. Dr. Bernd Rech,,0,0,https://www.helmholtz-berlin.de/zentrum/organisation/gf_de.html
+2026-08-06,de-tu-berlin,Konrad Rieck,Konrad Rieck,full,Prof. Dr. Konrad Rieck,,2,0,https://www.tu.berlin/mlsec
+2026-08-06,de-tu-berlin,Wojciech Samek,Wojciech Samek,full,Prof. Dr. Wojciech Samek (FGL Gem. Berufung Berliner Modell),,28,7,https://www.tu.berlin/vcard/wojciech.samek/32432
+2026-08-06,de-tu-berlin,Patrick Scheele,,no_match,"No 'Prof.' title shown on the TU Berlin vcard page (heading reads plainly 'Patrick Scheele'), despite 'FGL Gem. Berufung Berliner Modell' (joint-appointment department-head classification) and his listing in the main Fachgebiete table as chair holder for Mikrowellen- und Optoelektronik (MO).",,0,0,https://www.tu.berlin/vcard/patrick.scheele
+2026-08-06,de-tu-berlin,Sebastian Schelter,Sebastian Schelter,full,Prof. Dr.-Ing. Sebastian Schelter (Full Professor at Technische Universität Berlin and BIFOLD),,2,8,https://deem.berlin/#professor
+2026-08-06,de-tu-berlin,Stefan Schmid,,ambiguous_full(3),Prof. Dr. Stefan Schmid,,0,0,https://www.tu.berlin/eninet/ueber-uns
+2026-08-06,de-tu-berlin,Martin Schneider-Ramelow,,no_match,Prof. Dr.-Ing. Martin Schneider-Ramelow,,0,0,https://www.tu.berlin/whs/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Rolf Schuhmann,,no_match,Prof. Dr. Rolf Schuhmann (FGL Strukturprofessur),,0,0,https://www.tu.berlin/vcard/rolf.schuhmann/32432
+2026-08-06,de-tu-berlin,Stefan Schulte,,no_match,Prof. Dr.-Ing. Stefan Schulte,,0,0,https://www.tu.berlin/sbe/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Jean-Pierre Seifert,,no_match,Prof. Jean-Pierre Seifert (Chair),,0,0,https://www.tu.berlin/sect/ueber-uns/team
+2026-08-06,de-tu-berlin,Henning Sprekeler,Henning Sprekeler,full,Prof. Dr. Henning Sprekeler (W3 Professur),,4,0,https://www.tu.berlin/cognition/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Slawomir Stanczak,Slawomir Stanczak,full,Prof. Dr.-Ing. Slawomir Stanczak (ordentlicher Professor),,0,5,https://www.tu.berlin/netit/prof-dr-ing-slawomir-stanczak
+2026-08-06,de-tu-berlin,Michel Steuwer,,no_match,Prof. Dr. Michel Steuwer,,0,0,https://www.tu.berlin/compl/ueber-uns/leitung-des-fachgebietes
+2026-08-06,de-tu-berlin,Kai Strunz,,no_match,Prof. Dr.-Ing. Kai Strunz,,0,0,https://www.tu.berlin/sense/ueber-uns/leitung
+2026-08-06,de-tu-berlin,Bernd Szyszka,,no_match,Prof. Dr. Bernd Szyszka,,0,0,https://www.tu.berlin/tfd/ueber-uns
+2026-08-06,de-tu-berlin,Stefan Tai,,no_match,Prof. Dr.-Ing. Stefan Tai,,0,0,https://www.tu.berlin/ise/team/prof-dr-ing-stefan-tai
+2026-08-06,de-tu-berlin,Roland Thewes,,no_match,Prof. Dr. Roland Thewes (FGL Strukturprofessur),,0,0,https://www.tu.berlin/se/ueber-uns/team
+2026-08-06,de-tu-berlin,Marc Toussaint,Marc Toussaint,full,Prof. Dr. Marc Toussaint (FGL Strukturprofessur),,39,2,https://www.tu.berlin/vcard/toussaint/32432
+2026-08-06,de-tu-berlin,Stephan Völker,,no_match,Prof. Dr.-Ing. Stephan Völker,,0,0,https://www.tu.berlin/li/ueber-uns/team-personen/prof-dr-ing-stephan-voelker
+2026-08-06,de-tu-berlin,Thomas Wiegand,Thomas Wiegand 0001,full,Prof. Dr. Thomas Wiegand (FGL Strukturprofessur),,7,2,https://www.tu.berlin/vcard/thomas.wiegand
+2026-08-06,de-tu-berlin,Lars Zimmermann,Lars Zimmermann,full,Prof. Dr. Lars Zimmermann (FGL Gem. Berufung Berliner Modell),,1,0,https://www.tu.berlin/vcard/lars.zimmermann/32432
+2026-08-06,de-tu-berlin,Thorsten Koch,,no_match,Prof. Dr. Thorsten Koch (FGL Gem. Berufung Berliner Modell),,0,0,https://www.tu.berlin/vcard/thorsten.koch
+2026-08-06,de-tu-berlin,Sebastian Pokutta,Sebastian Pokutta,full,Prof. Dr. Sebastian Pokutta (FGL Strukturprofessur),,33,2,https://www.tu.berlin/ai
+2026-08-06,de-tu-berlin,Martin Skutella,Martin Skutella,full,Prof. Dr. Martin Skutella (Einstein Professor of Mathematics and Computer Science),,4,0,https://www3.math.tu-berlin.de/coga/team/skutella/
+2026-08-06,de-tu-berlin,Gabriele Steidl,Gabriele Steidl,full,Prof. Dr. Gabriele Steidl,,9,0,https://www.tu.berlin/imageanalysis
+2026-08-06,de-tu-berlin,Stefan Chmiela,Stefan Chmiela,full,"Dr. Stefan Chmiela (Research Junior Group Lead, BIFOLD)",,2,0,https://bifold.berlin/people/dr-stefan-chmiela.html
+2026-08-06,de-tu-berlin,Shinichi Nakajima,Shinichi Nakajima,full,"PhD Shinichi Nakajima (Research Junior Group Lead, BIFOLD)",,15,0,https://bifold.berlin/people/phd-shinichi-nakajima.html
+2026-08-06,de-tu-berlin,Alexander von Lühmann,,no_match,"Dr. Alexander von Lühmann (Research Junior Group Lead, BIFOLD)",,0,0,https://bifold.berlin/people/dr-alexander-von-luehmann.html
+2026-08-06,de-tu-berlin,Steffen Zeuch,,no_match,"Dr. Steffen Zeuch (Research Junior Group Lead, BIFOLD)",,0,0,https://bifold.berlin/people/dr-steffen-zeuch.html
+2026-08-06,de-tu-berlin,Manfred Opper,Manfred Opper,full,"Prof. Dr. Manfred Opper — status as of the snapshot date is UNCLEAR. BIFOLD's own directory still lists him as 'Fellow | BIFOLD, Professor for Computer Science | School IV EECS, Technische Universität Berlin', but he does NOT appear on TU Berlin's current (2026-08-06) Fakultät IV 'Professuren & Fachgebiete' table, and his linked group homepage (ki.tu-berlin.de) resolves to a TU Berlin 'page not found' notice for a defunct predecessor site.",,4,0,https://bifold.berlin/people/prof-dr-manfred-opper.html
+2026-08-06,de-tu-munich,Achim Lilienthal,Achim J. Lilienthal,first_last,Prof. Dr.,Munich city centre,15,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6F846EED5618D470&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Alessio Gagliardi,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6990AC98818D0A4F&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Alexander Fraser,Alexander Fraser 0001,full,Prof. Dr.,Heilbronn,20,13,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=D2EC663DE586CD9A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Alexander König,,ambiguous_full(2),Prof. Dr. M.Sc.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F6BBC641019F091B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Alexander Pretschner,Alexander Pretschner,full,Prof. Dr.,Garching,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0DB21F05BD46AFEE&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Ali Sunyaev,Ali Sunyaev,full,Prof. Dr. rer. nat.,Heilbronn,0,4,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7476D81B96E50CEA&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Alin Olimpiu Albu-Schäffer,Alin Albu-Schäffer,full,Prof. Dr.-Ing.,unclear,15,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6E0408F2712A90CA&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Alois Christian Knoll,,ambiguous_full(2),Prof. Dr.-Ing. habil.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1AE394A566BFB49C&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Amelie Hagelauer,Amelie Hagelauer,full,Prof. Dr.-Ing.,Garching,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=8BBFF01339341946&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Amr Abdelhafez,Amr Al-Anwar 0001,first_last,Prof. Dr. rer. nat.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5C63F7FD827C4D63&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Andrea Stocco,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=A01F0B3AF661A080&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Andreas Herkersdorf,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=CE6105D4B551893D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Andreas Obersteiner,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=A8FF7702C9ECFDE1&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Andreas Schulz,,no_match,Prof. Dr. rer. nat.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=ABFA9B06147F16C6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Andreas Wiese,Andreas Wiese,full,Prof. Dr. rer. nat.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6CCF08900F9C78E9&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Angela Dai,Angela Dai,full,Prof. Dr. Ph.D.,Garching,50,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=855090D822C5409A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Angela Schöllig,Angela P. Schoellig,full,Prof. Dr.sc. ETH Zürich,Munich city centre,23,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=43906B8D455EC438&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Antonia Wachter-Zeh,Antonia Wachter-Zeh,full,Prof. Dr.-Ing.,Munich city centre,1,2,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=9E629B101EE99C70&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Barbara Wohlmuth,Barbara I. Wohlmuth,first_last,Prof. Dr. rer. nat.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5EE13E0A2C5026D1&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Benedikt Wiestler,Benedikt Wiestler,full,Prof. Dr.,Munich city centre,4,19,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5A72DBCFFBFFA9F3&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Benjamin Nuß,,no_match,Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=975406360E0785FE&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Berna Özkale Edelmann,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=932D1F13AF8CFE22&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Bernd Finkbeiner,Bernd Finkbeiner,full,Prof. Ph.D.,Garching,6,6,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F493F8D2C936D22B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Bernhard Seeber,Bernhard U. Seeber,first_last,Prof. Dr.-Ing.,Munich city centre,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=8DD6C79A905DFE42&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Bernhard Wolfrum,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B9780C4E5EE7082D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Berthold Bäuml,Berthold Bäuml,full,Prof. Dr.-Ing.,Garching,10,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=716BA3488FEBED66&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Björn Schuller,,ambiguous_first_last(2),Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C81D6E2A817253F0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Boris Lohmann,,no_match,Prof. Dr.-Ing.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C4B6234ADD394944&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Boris Vexler,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F1C45C8297BE5A0A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Burkhard Rost,Burkhard Rost,full,Prof. Dr.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6484F634B7468977&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Can Dincer,,no_match,Prof. Dr.-Ing.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7BD2759EE7022D26&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Caroline Lasser,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B23CDB6F32470320&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Carsten Trinitis,Carsten Trinitis,full,Prof. Dr.-Ing.,Garching,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=926E31D3E1E35E04&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Christian Jirauschek,,no_match,Prof. Dr.-Ing.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B72803E2D2D282A1&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Christian Kühn,,ambiguous_full(2),Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=D510DABE8741F0C3&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Christian Liedtke,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0F1EC6538E77675A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Christian Mendl,Christian B. Mendl,first_last,Prof. Dr. rer. nat.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=DB6A988558BD78D9&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Christian Wachinger,Christian Wachinger,full,Prof. Dr.,Munich city centre,6,18,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=00971538A2596A42&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Christina Kuttler,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0E7721100F59189F&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Christoph Knochenhauer,Christoph Knochenhauer,full,Prof. Dr. rer. nat.,Garching,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=19F4F4257F9AF912&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Chunyang Chen,,ambiguous_full(4),Prof.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=125BC29A0AE1A036&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Claudia Eckert,Claudia M. Eckert,full,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5B2150D73A8ADFB4&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Claudia Scheimbauer,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F64940ABF0A3DE79&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Clemens Thielen,,no_match,Prof. Dr.,Straubing,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=CA907F200B68BB0F&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Cristina Piazza,Cristina Piazza,full,Prof. Dr.,Garching,3,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=76E9C2C0B8A0633F&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Daniel Cremers,Daniel Cremers,full,Prof. Dr.,Garching,104,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B53F0E7568B34CDA&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Daniel Matthes,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=25BDDF58138DE46D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Daniel Roth,,ambiguous_full(2),Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6527F70CDE2DF847&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Daniel Rückert,,ambiguous_full(2),Univ.-Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C83784B52D9745FE&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Darius Burschka,Darius Burschka,full,Prof. Dr.-Ing.,Garching,10,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=57E79D7223A6A11D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Debarghya Ghoshdastidar,Debarghya Ghoshdastidar,full,Prof. Dr. Ph.D.,Garching,17,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C9951A6320A69B35&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Deniz Kus,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6448174BF2B5D7D5&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Dirk Heckmann,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=99BD577986D760F5&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Dominik Grimm,,ambiguous_first_last(2),Prof. Dr.,Straubing,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=3B48C63CC5D3EBAC&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Donna Ankerst,,no_match,Prof. Ph.D.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6C4DA60D5E80F915&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Eckehard Steinbach,,ambiguous_full(2),Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7A6220365686FFC6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Elisabeth Ullmann,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=10FD9EFDE2A58069&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Enkelejda Kasneci,Enkelejda Kasneci,full,Prof. Dr.,Munich city centre,13,6,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=74C17DE89B4BE2A6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Eric Sonnendrücker,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E296BFDB42644DE0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Erika Covi,Erika Covi,full,Prof. Dr.,Garching,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5C54CCAA9D328F2C&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Eva Weig,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0789B697816BBEF0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Fabian Theis,Fabian J. Theis,first_last,Prof. Dr.,Garching,17,7,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=89DCC1892A841638&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Felix Brandt,Felix Brandt 0001,full,Prof. Dr.,Garching,4,3,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E4E0504B707FF8CF&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Felix Dietrich,Felix Dietrich,full,Prof. Dr. rer. nat.,Garching,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=D3E6A3C331EDCCE3&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Florian Bruse,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=8E421E853365202B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Florian Matthes,Florian Matthes,full,Prof. Dr. rer. nat.,Garching,10,9,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=4A92FF15657D7B00&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Florian Zuleger,Florian Zuleger,full,Prof. Dr.,Garching,1,2,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1C81B0EC4DD25E28&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Folkmar Bornemann,Folkmar Bornemann,full,Prof. Dr. rer. nat. habil.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=06490DF66EF3A436&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Francisco Javier Esparza Estaun,,no_match,Prof.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=2B2CA7120B2D22C1&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Frank Petzold,Frank Petzold,full,Prof. Dr.-Ing.,Munich city centre,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=CA240DE5EB7454E6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Franz Kreupl,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0C021E25F456B6BF&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Gabriele Schrag,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F8C74B5BFAD29602&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Georg Carle,,no_match,Prof. Dr.-Ing.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=93604C5C4336A22D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Georg Groh,Georg Groh,full,Apl. Prof. Dr.,Garching,2,4,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1CBEBE19A0AD46CC&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Georg Sigl,,no_match,Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=8A69DCD2945DEA34&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Gerhard Kramer,,no_match,Prof. Dr.sc.tech.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F259B7D98D0C1057&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Gero Friesecke,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=08CFBD84FF80FAF6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Ghulam Destgeer,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C8319F75D6115C7B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Gjergji Kasneci,Gjergji Kasneci,full,Prof. Dr.,Munich city centre,21,10,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1373256A21594B45&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Gordon Cheng,Gordon Cheng,full,Prof. Dr.,Munich city centre,9,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E0A7569606CE4462&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Gregor Kemper,,no_match,Prof. Dr. rer. nat. habil.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=DCBB2AF9D0C05648&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Hans Michael Gerndt,Michael Gerndt,full,Prof. Dr. rer. nat. habil.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=2F73BCF90A58B0E0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Hans-Joachim Bungartz,,no_match,Prof. Dr. rer. nat. habil.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=3241760AB73BA3F7&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Harald Räcke,Harald Räcke,full,Prof. Dr.,Garching,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7B1A2E9A458135E3&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Hartwig Anzt,,no_match,Prof. Dr. rer. nat.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=72BFB36BA19D260C&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Holger Boche,Holger Boche,full,Prof. Dr. rer. nat. Dr.-Ing.,Munich city centre,1,6,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=2E80BAF3692A94FD&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Hussam Amrouch,Hussam Amrouch,full,Prof. Dr.-Ing.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=894A6D4391C7631E&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Ingo Weber,Ingo Weber,full,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7FEB3809FD0D837E&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Jana Diesner,Jana Diesner,full,Prof. Dr.,Munich city centre,6,3,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=12B7728FDB5773AA&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Jana Giceva Makreshanska,Jana Giceva,first_last,Prof. Dr.sc. ETH Zürich,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=50C4280A382D8E63&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Jens Großklags,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E24E0D1468539BBD&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Jia Chen,,ambiguous_full(8),Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1FFCB0A4079A2968&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Joachim Henkel,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C6EA5BC8C0B66FAB&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Johanna Pirker,Johanna Pirker,full,Prof. Dr. techn.,Garching,0,2,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=2396A8E6F76F455B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Johannes Betz,Johannes Betz,full,Prof. Dr.,Garching,8,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=3D84811277C5B6A7&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Johannes Müller,,ambiguous_full(4),Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=9CB1354F33A33774&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Johannes Zimmer,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=44E8CEC761DD4C15&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Julia Schnabel,Julia A. Schnabel,first_last,Prof. Dr.,Garching,5,32,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=29674689347A83BE&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Julien Gagneur,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C9CFC361C822E631&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Jörg Ott,Jörg Ott,full,Prof. Dr.-Ing.,Garching,0,2,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7C9816A26AEE1B83&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Jürgen Pfeffer,Jürgen Pfeffer,full,Prof. Dr.,Munich city centre,1,5,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B83EC1FCBE8B3767&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Jürgen Richter-Gebert,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F4B96B6065145B40&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Kai Müller,Kai Müller,full,Prof. Dr. rer. nat.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=BEA3D79D870A748F&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Klaus Diepold,Klaus Diepold,full,Prof. Dr.-Ing.,Munich city centre,4,3,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=22419431DE9BF8FB&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Kristen Kozielski,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=05648D062535EBD6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Lorenz Panny,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=4FEFAAAEC350E08B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Lorenzo Masia,Lorenzo Masia,full,Prof. Dr.,Garching,6,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=FB9A55D9B0EE553E&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Luise Pufahl,,no_match,Prof. Dr. rer. nat.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7432984DB73E450E&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Majid Khadiv,Majid Khadiv,full,Dr. Ph.D.,Munich city centre,9,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=29203C5290445CDC&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Marc Tornow,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=144073B88FDC7542&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Marco Caccamo,Marco Caccamo,full,Prof. Dr.,Garching,6,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=58AD2F4423DC5C27&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Marco Cicalese,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C4D82285EAA77A01&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Maria Bannert,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=77793C4C3E415BB3&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Maribel Acosta Deibe,Maribel Acosta,full,Prof. Dr.-Ing.,Heilbronn,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=991E7768FD13FD70&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Marie-Christine Düker,Marie-Christine Düker,full,Prof. Dr. rer. nat.,Garching,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=58CA68BB208983E0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Mario Trapp,Mario Trapp,full,Prof. Dr.-Ing. habil.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1A5CEA1F33BE9477&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Markus Becherer,,no_match,Prof. Dr.-Ing. habil.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=A16DE761DB17020D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Markus Lienkamp,Markus Lienkamp,full,Prof. Dr.-Ing.,Garching,6,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=2119862DB62E67CD&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Martin Bichler,Martin Bichler,full,Prof. Dr.,Garching,3,2,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0DA3F6155518B803&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Martin Boeker,Martin Boeker,full,Prof. Dr.,Munich city centre,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C5D1096313890098&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Martin Buss,Martin Buss,full,Prof. Dr.,Munich city centre,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=9F4B7EE195737A6A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Martin Schulz,Martin Schulz 0001,full,Prof. Dr. rer. nat.,Garching,1,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1298D37F771F06D6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Martin Werner,Martin Werner 0001,full,Prof. Dr.,unclear,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=81DFAC8EFF7FE142&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Massimo Fornasier,Massimo Fornasier,full,Prof. Dr.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5DDABFD83703825F&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Mathias Drton,Mathias Drton,full,Prof. Ph.D.,Garching,10,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=ADAF8D183918658D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Mathias Wilhelm,Mathias Wilhelm 0001,full,Prof. Dr.,Weihenstephan,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=BEC3FD83B7D35D34&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Matthias Althoff,Matthias Althoff,full,Prof. Dr.-Ing.,Garching,29,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=86652003E13F118F&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Matthias Grabmair,Matthias Grabmair,full,Prof. Ph.D.,Garching,9,9,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=74444C3255D5F673&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Matthias Nießner,Matthias Nießner,full,Prof. Dr.-Ing.,Garching,92,3,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0E2DF60061BD1B05&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Matthias Scherer,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=825F6CBFDD7DAD5D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Michael Bader,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7AD358E6CBA98AE7&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Michael Marc Wolf,,ambiguous_first_last(2),Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=D653EACBAD211875&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Michael Ulbrich,Michael Ulbrich,full,Prof. Dr. rer. nat.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=8F2ABA81BA28C8FB&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Mikhail Belkin,Mikhail Belkin,full,Prof. Dr.,Garching,22,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=BF34E2B33E72E384&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Murad Alim,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=CF3D1761767C4ACD&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Nassir Navab,Nassir Navab,full,Prof. Ph.D.,Garching,91,100,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E6B642962195591B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Niki Kilbertus,Niki Kilbertus,full,Prof. Dr.,Garching,18,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=FF08663B8DECE99B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Nils Thürey,Nils Thürey,full,Prof. Dr.-Ing.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=38AE07215465C3BB&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Nina Gantert,,no_match,Prof. Dr. rer. nat. habil.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=9B13085FBF42B5E5&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Noam Berger Steiger,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6654E01A41F49CD0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Norbert Hanik,,no_match,Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=D523BFE65A546F1C&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Oliver Hayden,,no_match,Prof. Dr. rer. nat.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=808EB50C9B95AB17&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Oliver Junge,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=94DB643B84B98A96&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Orestis Papakyriakopoulos,Orestis Papakyriakopoulos,full,Prof. Dr.,Munich city centre,5,2,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5B7DE89893E3FCCA&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Peter Schüffler,Peter J. Schüffler,full,Prof. Dr.,Munich city centre,0,6,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=BE49BB7D93E6BFFC&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Pramod Bhatotia,,no_match,Prof. Dr.-Ing.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=788ACEDD11CEF366&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Prof. Dr. Jennifer L.M. Rupp FRSC,,no_match,Prof.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=A2B5E09CA5D0B72B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Prof. Dr. Tilman Michaeli,,no_match,Prof.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=4168F0D6DE0CC4E9&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Rainer Kolisch,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=9E2F335EA4282F3F&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Ralf Brederlow,,no_match,Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=51DB7CF35234DDFF&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Reinhard Heckel,Reinhard Heckel,full,Prof. Dr.sc. ETH Zürich,Munich city centre,19,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=40D982107C077943&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Reinhard Kienberger,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=A76D6EAE690F470C&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Reto Achermann,Reto Achermann,full,Prof. Dr.sc. ETH Zürich,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=3574A820DFD42167&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Riccardo Marin,Riccardo Marin,full,Prof. Dr.,Garching,12,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B6CBBEDDE09EE6BC&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Robert König,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=800CCB34B4CB33E0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Robert Wille,Robert Wille,full,Prof. Dr.-Ing.,Munich city centre,4,4,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=CF9DF60C095A95F1&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Rudi Zagst,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0FF2F4780BE44FD6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Rüdiger Westermann,Rüdiger Westermann,full,Prof. Dr.,Garching,4,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=8E19876E54F03B5E&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Sandra Hirche,Sandra Hirche,full,Prof. Dr.-Ing.,Munich city centre,16,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F8E4B4CD2678ABC1&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Sebastian Steinhorst,Sebastian Steinhorst,full,Prof. Dr.,Munich city centre,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=A91B8DCB32FB928E&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Sebastian Werner,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6B74AA0B921ED946&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Seyed Jalal Etesami,S. Rasoul Etesami 0001,first_last,Prof. Dr.,Garching,5,2,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=11582B8747F1A812&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Silke Rolles,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=9C4E2144041FAB5D&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Simon Hegelich,Simon Hegelich,full,Prof. Dr. (verbatim title unconfirmed),unclear,0,1,https://www.cit.tum.de/cit/school/personen/professuren/
+2026-08-06,de-tu-munich,Simone Warzel,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E9E3C0F8B86E163E&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stefan Bauer,Stefan Bauer,full,Prof. Dr.,Garching,32,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=BCD98946BB8681C9&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stefan Wagner,,ambiguous_full(4),Prof. Dr.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=84DD0DE6E18B8C0A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stefan Weltge,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1D83FF14C6BDE5D3&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stefanie Jegelka,Stefanie Jegelka,full,Prof. Dr.,Garching,58,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=34E1195FF60255B9&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stefanie Rinderle-Ma,Stefanie Rinderle-Ma,full,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=45C55001AF03681B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stephan Günnemann,Stephan Günnemann,full,Prof. Dr. rer. nat.,Garching,94,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=DC98E68DE90B9891&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stephan Günther,,no_match,Prof. Dr.-Ing.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0681BD7698F59014&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stephan Krusche,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6FD2BABEBAFD0045&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stephen Kobourov,Stephen G. Kobourov,first_last,Prof. Ph.D.,Heilbronn,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=A1A234171009438A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Susanne Albers,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=ABC213D119E06DEB&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Suvrit Sra,Suvrit Sra,full,Prof. Dr.,Garching,28,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6F89713CB18C68B0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Thomas Eibert,,no_match,Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=37B3A743B2E5A198&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Thomas Neumann,Thomas Neumann 0009,full,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B23578C18CCBD4CF&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Tim Nikolai Hoffmann,Tim Hoffmann,first_last,Prof. Dr. rer. nat. habil.,Garching,3,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=227C93C6FC3D4825&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Tim Roith,Tim Roith,full,Prof. Dr. rer. nat.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=DB0D4E7C32EE1BB1&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Tobias Vogl,,no_match,Prof. Dr. phil.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=30604A4738E885AE&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Ulf Schlichtmann,Ulf Schlichtmann,full,Prof. Dr.-Ing.,Munich city centre,4,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=2694D5BD02D42FBA&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Ulrich Bauer,Ulrich Bauer,full,Prof. Dr. rer. nat.,Garching,3,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=96F97DF2BA138989&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Vasilis Ntziachristos,Vasilis Ntziachristos,full,Prof. Dr.,Munich city centre,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=96645F6B8D3BE641&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Viktor Leis,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=86B5D4D1A8778B5A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Violetta Weger,,no_match,Prof. Dr.sc.nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7FCBE583E0B303D2&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Werner Hemmert,,no_match,Prof. Dr.-Ing.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5102919F0A6BB32C&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Wilhelm Wimmer,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=2FFD286ECA27AB12&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Wolfgang Kellerer,,no_match,Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=58978AAE2AADD7E4&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Wolfgang Utschick,Wolfgang Utschick,full,Prof. Dr.-Ing.,Munich city centre,5,10,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=DB4F5D6330072981&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Zeynep Akata-Schulz,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=25068595B7E27B31&pPersonenGruppe=3
 2026-08-06,de-tue-ai-center,Matthias Bethge,Matthias Bethge,full,Director,,39,1,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Philipp Hennig,Philipp Hennig,full,Director,,46,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Bernhard Schölkopf,Bernhard Schölkopf,full,Co-Director,,172,8,https://tuebingen.ai/people

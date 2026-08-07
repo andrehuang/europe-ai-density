@@ -82,6 +82,10 @@ def main() -> int:
         else:
             csr_elsewhere[key] = f"{r['affiliation']} ({r['country']})"
 
+    # Every person's current DBLP affiliation, regardless of city. The roster-side
+    # check needs this: somebody listed here whose publication record places them
+    # elsewhere has to be questioned, and their notes never mention this city at all.
+    dblp_current = {}
     # Publication-driven: DBLP says their current affiliation is in this city.
     pub = {}
     with gzip.open(DERIVED / "dblp_affiliation_persons.csv.gz", "rt", encoding="utf-8") as fh:
@@ -91,6 +95,8 @@ def main() -> int:
             here_current = bool(cfg["pattern"].search(r["affiliations_current"]))
             here_former = bool(cfg["pattern"].search(r["affiliations_former"]))
             here_phd = bool(cfg["pattern"].search(r["affiliations_phd"]))
+            if r["affiliations_current"]:
+                dblp_current[r["primary_name"]] = r["affiliations_current"]
             if here_current or here_former or here_phd:
                 pub[r["primary_name"]] = {
                     "current": here_current, "former": here_former, "phd": here_phd,
@@ -104,7 +110,17 @@ def main() -> int:
         in_pub_current = bool(p and p["current"])
         if in_roster:
             status, code, why = "include", "", "on an institution directory here"
-            if not in_pub_current:
+            elsewhere_note = dblp_current.get(name, "")
+            if not in_pub_current and elsewhere_note and not cfg["pattern"].search(elsewhere_note):
+                # The reconciliation has to run in both directions. Rosters omit people
+                # who are there, and they also keep people who have gone: Hilde Kuehne
+                # is listed at Tübingen by CSRankings while DBLP files her at Bonn.
+                # Trusting the roster whenever it says anything would have let that
+                # through unexamined, which is the asymmetry this check removes.
+                elsewhere = elsewhere_note.split("|")[0].split(",")[0].strip()
+                status, code = "queue", ""
+                why = f"on a local directory, but DBLP's current affiliation is {elsewhere}"
+            elif not in_pub_current:
                 why += "; no corroborating DBLP affiliation note"
         elif not p:
             continue

@@ -5,96 +5,95 @@ Jan Peters 0001,99,,"TU Darmstadt, Department of Computer Science, Germany|Max P
 Michael J. Black,97,de-ellis-inst-tue,"Max Planck Institute for Intelligent Systems Tuebingen, Germany",include,,on an institution directory here
 Andreas Geiger 0001,75,de-ellis-inst-tue;de-tue-ai-center;csrankings,"Max Planck Institute for Intelligent Systems, Tübingen, Germany|University of Tübingen, Department of Computer Science, ",include,,on an institution directory here
 Zeynep Akata,75,,"Technical University of Munich, Germany",exclude,E08,CSRankings files them at TU Munich (de)
-Frank Hutter,74,de-ellis-institute-tue,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Frank Hutter,74,de-ellis-institute-tue,,queue,,"on a local directory, but DBLP's current affiliation is University of Freiburg"
 Sebastian A. Scherer,72,,"Carnegie Mellon University, Pittsburgh, USA",exclude,E08,DBLP labels the affiliation former
 Stefanie Jegelka,58,,"TU Munich, Germany|Massachusetts Institute of Technology (MIT), CSAIL, Cambridge, MA, USA|University of California, Berk",exclude,E08,CSRankings files them at TU Munich (de)
 Francesco Locatello,55,,"Institute of Science and Technology Austria, Klosterneuburg, Austria",exclude,E08,CSRankings files them at IST Austria (at)
 Georg Martius,48,de-tue-ai-center;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Shiwei Liu 0003,48,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Shiwei Liu 0003,48,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,queue,,"on a local directory, but DBLP's current affiliation is University of Oxford"
 Philipp Hennig,46,de-ellis-inst-tue;de-tue-ai-center;csrankings,"University of Tübingen, Department of Computer Science, Germany|Max Planck Institute for Intelligent Systems, Tübingen, ",include,,on an institution directory here
-Thomas Hofmann 0001,45,,"ETH Zurich, Switzerland|Google, Zurich, Switzerland|Technical University of Darmstadt, Germany|Brown University, Provide",exclude,E08,CSRankings files them at ETH Zurich (ch)
-Hilde Kuehne,43,csrankings;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Thomas Hofmann 0001,45,,"ETH Zurich, Switzerland|Google, Zurich, Switzerland|Technical University of Darmstadt, Germany|Brown University, Provide",exclude,E08,DBLP labels the affiliation former
+Hilde Kuehne,43,csrankings;csrankings;csrankings,,queue,,"on a local directory, but DBLP's current affiliation is University of Bonn"
 Jonas Geiping,41,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Matthias Bethge,39,de-ellis-inst-tue;de-tue-ai-center;csrankings,"University of Tübingen, Germany",include,,on an institution directory here
 Zhijing Jin 0001,36,,"University of Toronto, ON, Canada|Max Planck Institute for Intelligent Systems, Tübingen, Germany|ETH Zürich, Switzerlan",exclude,E08,DBLP's primary current affiliation is University of Toronto; on none of the local directories
 Wieland Brendel,35,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Matthias Hein 0001,33,de-ellis-inst-tue;de-tue-ai-center;csrankings,"Max Planck Institute for Intelligent Systems, Tübingen, Germany|Faculty of Mathematics and Computer Science, Saarland Un",include,,on an institution directory here
+Matthias Hein 0001,33,de-ellis-inst-tue;de-tue-ai-center,"Max Planck Institute for Intelligent Systems, Tübingen, Germany|Faculty of Mathematics and Computer Science, Saarland Un",include,,on an institution directory here
 Antonio Orvieto,33,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Seong Joon Oh,31,de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Gerard Pons-Moll,29,de-ellis-inst-tue;de-tue-ai-center;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Suvrit Sra,28,,"Massachusetts Institute of Technology (MIT), Laboratory for Information and Decision Systems, Cambridge, MA, USA|Max Pla",exclude,E08,DBLP's primary current affiliation is Massachusetts Institute of Technology (MIT); on none of the local directories
-Moritz Hardt,24,de-ellis-inst-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Moritz Hardt,24,de-ellis-inst-tue;de-tue-ai-center,,queue,,"on a local directory, but DBLP's current affiliation is Max Planck Institute for Intelligent Systems"
 Jakob H. Macke,23,de-ellis-inst-tue;de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center;csrankings,"University of Tübingen, Germany",include,,on an institution directory here
-Gjergji Kasneci,21,,"Technical University of Munich, Germany",exclude,E08,DBLP labels the affiliation former
 Maksym Andriushchenko,21,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Gjergji Kasneci,21,,"Technical University of Munich, Germany",exclude,E08,DBLP labels the affiliation former
 Dominik Janzing,20,,"Amazon Web Services, Germany",exclude,E08,DBLP labels the affiliation former
 Carsten Eickhoff,20,csrankings,"University of Tübingen, Germany",include,,on an institution directory here
-Stefan Schaal,20,,"University of Southern California, Los Angeles, USA|Max-Planck Institute Intelligent Systems, Tübingen, Germany",exclude,E08,DBLP's primary current affiliation is University of Southern California; on none of the local directories
 Andreas Zell,20,csrankings,"University of Tübingen, Institute for Computer Science, Germany",include,,on an institution directory here
+Stefan Schaal,20,,"University of Southern California, Los Angeles, USA|Max-Planck Institute Intelligent Systems, Tübingen, Germany",exclude,E08,DBLP's primary current affiliation is University of Southern California; on none of the local directories
 Michael Muehlebach,18,de-ellis-inst-tue;de-mpi-is-tue,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Ulrike von Luxburg,17,de-tue-ai-center;csrankings,"University of Tübingen, Germany",include,,on an institution directory here
 Debarghya Ghoshdastidar,17,,"Technical University of Munich, Germany|Eberhard Karls Universität of Tübingen, Germany|Indian Institute of Science, Ban",exclude,E08,CSRankings files them at TU Munich (de)
+Ulrike von Luxburg,17,de-tue-ai-center;csrankings,"University of Tübingen, Germany",include,,on an institution directory here
 Kashyap Chitta,16,de-ellis-institute-tue,"University of Tübingen, Autonomous Vision Group, Germany|Max Planck Institute for Intelligent Systems, Tübingen, Germany",include,,on an institution directory here
-Celestine Mendler-Dünner,15,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Michael Hahn 0001,15,,"Saarland University, Department of Language Science and Technology, Saarbrücken, Germany|Stanford University, Linguistic",exclude,E08,CSRankings files them at Saarland University (de)
-Dieter Büchler,13,de-mpi-is-tue,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Celestine Mendler-Dünner,15,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Enkelejda Kasneci,13,,"Technical University of Munich, Germany",exclude,E08,CSRankings files them at TU Munich (de)
 Martin Pawelczyk,13,,"University of Vienna, Responsible AI Lab, Vienna, Austria|University of Tübingen, Department of Computer Science, Tübing",exclude,E08,DBLP's primary current affiliation is University of Vienna; on none of the local directories
 Fabian H. Sinz,13,,"University of Göttingen, Germany",exclude,E08,CSRankings files them at University of Göttingen (de)
+Dieter Büchler,13,de-mpi-is-tue,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Yao Feng 0001,12,,"Stanford University, CA, USA",exclude,E08,DBLP labels the affiliation former
 Isabel Valera,12,,"Saarland University, Department of Computer Science, Saarbrücken, Germany|Max Planck Institute for Intelligent Systems, ",exclude,E08,CSRankings files them at Saarland University (de)
-Philipp Berens,11,de-tue-ai-center;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
 David A. Klindt,11,,"Norwegian University of Science and Technology (NUST), Department of Mathematical Sciences, Trondheim, Norway",exclude,E02,DBLP records this as the PhD institution ()
-Xu Chen 0025,10,,"ETH Zurich, AIT Lab, Zürich, Switzerland|Max Planck Institute for Intelligent Systems, Tübingen, Germany",exclude,E08,DBLP's primary current affiliation is ETH Zurich; on none of the local directories
-Sahar Abdelnabi,10,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Hendrik P. A. Lensch,10,csrankings,"University of Tübingen, Germany",include,,on an institution directory here
-Dmitry Kobak,10,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
+Philipp Berens,11,de-tue-ai-center;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Roland S. Zimmermann,10,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
+Dmitry Kobak,10,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
+Xu Chen 0025,10,,"ETH Zurich, AIT Lab, Zürich, Switzerland|Max Planck Institute for Intelligent Systems, Tübingen, Germany",exclude,E08,DBLP's primary current affiliation is ETH Zurich; on none of the local directories
+Hendrik P. A. Lensch,10,csrankings,"University of Tübingen, Germany",include,,on an institution directory here
+Sahar Abdelnabi,10,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Michael Kirchhof 0002,9,,"Apple|TU Dortmund, Germany",exclude,E02,DBLP records this as the PhD institution (2024)
 Yatong Chen,9,de-mpi-is-tue,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Javier Romero 0002,9,,"Meta, Codec Avatars Lab|Facebook Reality Labs, Barcelona, Pittsburgh, USA|Body Labs Inc.|Max Planck Institute for Intell",exclude,E08,DBLP's primary current affiliation is Meta; on none of the local directories
 Yash Sharma 0001,9,,"University of Tübingen, Germany|International Max Planck Research School for Intelligent Systems, Germany",exclude,E02,"affiliation is the IMPRS doctoral school, not a faculty post"
 Samira Samadi,9,de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Michael Kirchhof 0002,9,,"Apple|TU Dortmund, Germany",exclude,E02,DBLP records this as the PhD institution (2024)
-Javier Romero 0002,9,,"Meta, Codec Avatars Lab|Facebook Reality Labs, Barcelona, Pittsburgh, USA|Body Labs Inc.|Max Planck Institute for Intell",exclude,E08,DBLP's primary current affiliation is Meta; on none of the local directories
-Rediet Abebe,8,de-ellis-institute-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
-T. Konstantin Rusch,8,de-ellis-institute-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Mijung Park,8,,"Max Planck Institute for Intelligent Systems, Tübingen, Germany|University of Tübingen, , Germany",queue,,current DBLP affiliation here but on no institution directory
-Robert C. Williamson,8,de-tue-ai-center;csrankings,"Universitaet Tuebingen, Germany",include,,on an institution directory here
-Ruth Urner,8,,"York University, Lassonde School of Engineering, Department of Electrical Engineering and Computer Science, Toronto, Can",exclude,E08,DBLP's primary current affiliation is York University; on none of the local directories
 Qianli Ma 0007,8,,"Nvidia|ETH Zürich, Switzerland|Max Planck Institute for Intelligent Systems, Tübingen, Germany",exclude,E08,DBLP's primary current affiliation is Nvidia; on none of the local directories
-Yong Cao 0001,8,,"Eberhard Karl University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
 Zehao Yu 0002,8,,"University of Tübingen, Department of Computer Science, Tübingen, Germany|ShanghaiTech University, China",queue,,current DBLP affiliation here but on no institution directory
-Peter Dayan,7,de-ellis-inst-tue;de-tue-ai-center,"Max Planck Institute for Biological Cybernetics, Tübingen, Germany",include,,on an institution directory here
+T. Konstantin Rusch,8,de-ellis-institute-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Rediet Abebe,8,de-ellis-institute-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Ruth Urner,8,,"York University, Lassonde School of Engineering, Department of Electrical Engineering and Computer Science, Toronto, Can",exclude,E08,DBLP's primary current affiliation is York University; on none of the local directories
+Mijung Park,8,,"Max Planck Institute for Intelligent Systems, Tübingen, Germany|University of Tübingen, , Germany",queue,,current DBLP affiliation here but on no institution directory
+Yong Cao 0001,8,,"Eberhard Karl University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
+Robert C. Williamson,8,de-tue-ai-center;csrankings,"Universitaet Tuebingen, Germany",include,,on an institution directory here
 Dingfan Chen,7,de-mpi-is-tue,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Andreas Ziegler 0006,7,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
 Frank Schneider 0001,7,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
+Peter Dayan,7,de-ellis-inst-tue;de-tue-ai-center,"Max Planck Institute for Biological Cybernetics, Tübingen, Germany",include,,on an institution directory here
+Andreas Ziegler 0006,7,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
 Yuxuan Xue 0001,6,,"University of Tübingen, Germany|Max Planck Institute for Intelligent Systems, Embodied Vision Group, Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
-Katharina Eggensperger,6,,"TU Dortmund, Germany",exclude,E08,CSRankings files them at TU Dortmund (de)
-Steffen Schneider 0001,6,,"University of Tübingen, Germany|EPFL, Geneva, Switzerland",queue,,current DBLP affiliation here but on no institution directory
 Nastaran Okati,6,de-mpi-is-tue,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Steffen Schneider 0001,6,,"University of Tübingen, Germany|EPFL, Geneva, Switzerland",queue,,current DBLP affiliation here but on no institution directory
+Katharina Eggensperger,6,,"TU Dortmund, Germany",exclude,E08,CSRankings files them at TU Dortmund (de)
 Jan Schneider 0007,6,,"Max Planck Institute for Intelligent Systems, Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
 Sebastian Otte,5,,,exclude,E08,CSRankings files them at University of Lübeck (de)
 Peter V. Gehler,5,csrankings,"University of Tübingen, Bernstein Center for Computational Neuroscience, Germany|Max Planck Institute for Intelligent Sy",include,,on an institution directory here
 Nan Lu 0001,4,,"University of Bristol, School of Computer Science, Bristol, UK|University of Tübingen, Germany",exclude,E08,DBLP's primary current affiliation is University of Bristol; on none of the local directories
-Jonathan Schmidt 0001,4,,"University of Tübingen, Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
-Maximilian Dax,4,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Bernhard Jaeger,4,,"University of Tübingen, Geremany",queue,,current DBLP affiliation here but on no institution directory
+Ana-Andreea Stoica,4,de-mpi-is-tue,"Max Planck Institute for Intelligent Systems, Tübingen, Germany",include,,on an institution directory here
 Konstantin Willeke,4,,"International Max Planck Research School for Intelligent Systems, Tübingen, Germany|University of Tübingen, Institute fo",exclude,E02,"affiliation is the IMPRS doctoral school, not a faculty post"
 Martin V. Butz,4,csrankings,"Eberhard Karls University of Tübingen, Wilhelm Schickard Institute for Computer Science, Germany|University of Würzburg,",include,,on an institution directory here
-Ana-Andreea Stoica,4,de-mpi-is-tue,"Max Planck Institute for Intelligent Systems, Tübingen, Germany",include,,on an institution directory here
-Bernhard Jaeger,4,,"University of Tübingen, Geremany",queue,,current DBLP affiliation here but on no institution directory
-Shashank Singh 0011,3,,"Max Planck Institute for Intelligent Systems, Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
-Felix A. Wichmann,3,csrankings,"University of Tübingen, Germany",include,,on an institution directory here
-Aditya Prakash 0001,3,,"University of Illinois Urbana-Champaign, IL, USA",exclude,E08,DBLP labels the affiliation former
-Anna Levina,3,csrankings,"Eberhard Karls University of Tübingen, Germany|Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany|Be",include,,on an institution directory here
-Chris Gagne 0001,3,,"Max Planck Institute for Biological Cybernetics, Tübingen, Germany|University of California, Berkeley, CA, USA",queue,,current DBLP affiliation here but on no institution directory
-Mohamed Hassan 0003,3,,,exclude,E02,DBLP records this as the PhD institution (2023)
-Michael Tiemann 0001,3,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
-Leena C. Vankadara,3,,"University of Tübingen, Department of Computer Science, Germany|Max Planck Institute for Intelligent Systems (MPI-IS), T",queue,,current DBLP affiliation here but on no institution directory
+Jonathan Schmidt 0001,4,,"University of Tübingen, Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
+Maximilian Dax,4,de-ellis-institute-tue;de-mpi-is-tue;de-tue-ai-center,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Muhammad Waleed Gondal,3,,"Max-Planck Institute for Intelligent Systems, Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
-Guy Moss 0001,3,,"University of Tübingen, Machine Learning in Science, Germany|Tübingen AI Center, Germany",queue,,current DBLP affiliation here but on no institution directory
 Harrisen Scells,3,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
-Ran Liu 0007,3,,"Singapore University of Technology and Design, MIT International Design Center, Singapore",exclude,E02,DBLP records this as the PhD institution (2014)
+Mohamed Hassan 0003,3,,,exclude,E02,DBLP records this as the PhD institution (2023)
+Chris Gagne 0001,3,,"Max Planck Institute for Biological Cybernetics, Tübingen, Germany|University of California, Berkeley, CA, USA",queue,,current DBLP affiliation here but on no institution directory
+Felix A. Wichmann,3,csrankings,"University of Tübingen, Germany",include,,on an institution directory here
+Michael Tiemann 0001,3,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
 Andreas M. Lehrmann,3,,"Facebook Reality Labs, Pittsburgh, PA, USA|Disney Research, Pittsburgh, PA, USA|Max Planck Institute for Intelligent Sys",exclude,E08,DBLP's primary current affiliation is Facebook Reality Labs; on none of the local directories
+Shashank Singh 0011,3,,"Max Planck Institute for Intelligent Systems, Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
+Anna Levina,3,csrankings;csrankings,"Eberhard Karls University of Tübingen, Germany|Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany|Be",include,,on an institution directory here
+Guy Moss 0001,3,,"University of Tübingen, Machine Learning in Science, Germany|Tübingen AI Center, Germany",queue,,current DBLP affiliation here but on no institution directory
+Aditya Prakash 0001,3,,"University of Illinois Urbana-Champaign, IL, USA",exclude,E08,DBLP labels the affiliation former
+Ran Liu 0007,3,,"Singapore University of Technology and Design, MIT International Design Center, Singapore",exclude,E02,DBLP records this as the PhD institution (2014)
 Oliver Bringmann 0001,3,csrankings,"University of Tübingen, Department of Computer Science, Germany",include,,on an institution directory here
+Leena C. Vankadara,3,,"University of Tübingen, Department of Computer Science, Germany|Max Planck Institute for Intelligent Systems (MPI-IS), T",queue,,current DBLP affiliation here but on no institution directory
 Ilia A. Petrov 0001,1,,"University of Tübingen, Germany",queue,,current DBLP affiliation here but on no institution directory
-Hildegard Koehler,0,csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Anna Levina (Martius),0,csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Matthias Hein 0002,0,csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note

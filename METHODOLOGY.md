@@ -190,6 +190,45 @@ that way while leaving the others unaudited tilts the comparison toward the audi
 T3 is therefore applied to every city or to none, and the site marks the layer as incomplete
 until coverage is uniform.
 
+## 3b. Sources are ranked, not pooled
+
+Recall takes the union of five sources. Deciding *where somebody works* does not: the
+sources have different standing, and treating them as peers leaves genuine conflicts
+unresolvable.
+
+| Rank | Source | Standing |
+| --- | --- | --- |
+| 1 | The institution's own directory, snapshotted with a date | First-party. Settles the question. |
+| 2 | CSRankings | Curated by hand and generally current, but second-hand. |
+| 3 | DBLP affiliation notes | Undated, cumulative, crowd-maintained. **A trigger for a check, never evidence that overrides a first-party roster.** |
+
+Hilde Kuehne is the case that forced this. CSRankings files her at Tübingen; DBLP files
+her at Bonn and Fraunhofer FKIE. Both are second-hand, so neither can settle it, and the
+one source that could — the University of Tübingen's own chair listing — had not been
+collected, because CSRankings appeared to cover that university already.
+
+That inference was wrong, and its origin is worth recording. Auditing CISPA showed the
+directory pass recovered nobody CSRankings lacked, from which I concluded that reading a
+directory buys currency and titles rather than recall. True as far as it goes — but
+currency is exactly what is contested here. "Adds no recall" does not license "can be
+skipped".
+
+**Gate**: a city is not publishable until the institution's own directory has been read
+for every institution contributing people to it, CSRankings coverage notwithstanding.
+
+## 3c. Reconciliation runs in both directions
+
+Institution rosters omit people who are present, and they also retain people who have
+left. An early version of the reconciliation only questioned names that the publication
+modality alone had surfaced, and accepted anyone a roster listed without asking what the
+publication record said. That asymmetry contradicts the premise the whole design rests
+on, and it is the reason Kuehne's conflict went unexamined.
+
+Both directions are now checked, and both have produced real cases: Jens Kober appears
+misplaced at Stuttgart because DBLP still files him at TU Delft, where the roster is right
+and the publication record stale — and Kuehne is the same disagreement pointing the other
+way.
+
 ## 8b. Quality gates
 
 Two gates decide whether a city may appear in the main ranking. Both exist because the

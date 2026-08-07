@@ -33,6 +33,7 @@
     view: { lat: 48.95, lon: 8.25, zoom: 58 }, // zoom = px per degree of longitude
     sel: { lat: 48.53, lon: 9.06, r: 15 },
     threshold: 3,
+    tiers: { T1: true, T2: true, T3: true },
     showPreview: true,
     dragging: false,
   };
@@ -73,14 +74,14 @@
 
   // ---- people --------------------------------------------------------------------
   function auditedPeople(city) {
-    return D.audited[city].people.filter((p) => p.p >= state.threshold);
+    return D.audited[city].people.filter((p) => p.p >= state.threshold && state.tiers[p.t]);
   }
-  function instCount(inst) {
-    if (state.threshold === 3) return inst.k;
-    let n = 0;
-    for (const v of inst.pp) if (v >= state.threshold) n++;
-    return n;
+  // Preview people all come from the CSRankings faculty layer, which is T1 by definition.
+  function previewPeople(inst) {
+    if (!state.tiers.T1) return [];
+    return inst.pp.filter((e) => e[1] >= state.threshold);
   }
+  function instCount(inst) { return previewPeople(inst).length; }
   const auditedCityOf = {};
   Object.keys(D.audited).forEach((c) => {
     auditedCityOf[c] = { lat: D.audited[c].lat, lon: D.audited[c].lon };
@@ -160,6 +161,28 @@
     return { people, audited, preview, pop, cells, inRange };
   }
 
+  function rosterRows() {
+    const { lat, lon, r } = state.sel;
+    const rows = [];
+    Object.keys(D.audited).forEach((city) => {
+      const a = D.audited[city];
+      if (a.lat == null || haversine(lat, lon, a.lat, a.lon) > r) return;
+      auditedPeople(city).forEach((p) =>
+        rows.push({ name: p.n, papers: p.p, tier: p.t, where: city,
+                    kind: "audited", src: p.s.join(" · ") }));
+    });
+    if (state.showPreview) {
+      D.institutions.forEach((i) => {
+        if (isCoveredByAudited(i) || haversine(lat, lon, i.lat, i.lon) > r) return;
+        previewPeople(i).forEach((e) =>
+          rows.push({ name: e[0], papers: e[1], tier: "T1", where: i.city || i.n,
+                      kind: "preview", src: "csrankings" }));
+      });
+    }
+    rows.sort((a, b) => b.papers - a.papers);
+    return rows;
+  }
+
   const AUDITED_INSTS = new Set([
     "University of Tübingen", "Saarland University", "CISPA Helmholtz Center",
     "University of Stuttgart", "TU Kaiserslautern",
@@ -216,6 +239,20 @@
     ctx.stroke();
     ctx.restore();
 
+    // Label the circle with its own radius. Without it the control feels detached at
+    // low zoom, where 15 km and 60 km are both only a few pixels across.
+    if (rPx > 14) {
+      ctx.save();
+      ctx.font = "600 10px ui-monospace, SFMono-Regular, Menlo, monospace";
+      ctx.textAlign = "center";
+      ctx.lineWidth = 3;
+      ctx.strokeStyle = token("--surface-map");
+      ctx.strokeText(state.sel.r + " km", sx, sy - rPx - 5);
+      ctx.fillStyle = token("--sel-stroke");
+      ctx.fillText(state.sel.r + " km", sx, sy - rPx - 5);
+      ctx.restore();
+    }
+
     // institution / city marks
     const pts = mapPoints();
     for (const p of pts) {
@@ -250,7 +287,33 @@
       ctx.fillStyle = token("--ink");
       ctx.fillText(p.label, x, y - rad - 6);
     }
+    drawScaleBar();
     updateReadout();
+  }
+
+  function drawScaleBar() {
+    const pxPerKm = state.view.zoom / (111.0 * Math.cos((state.view.lat * Math.PI) / 180));
+    const targets = [1, 2, 5, 10, 20, 50, 100, 200, 500, 1000];
+    let km = targets[targets.length - 1];
+    for (const t of targets) if (t * pxPerKm >= 60) { km = t; break; }
+    const len = km * pxPerKm;
+    const x = 14, y = H - 16;
+    ctx.save();
+    ctx.lineWidth = 2;
+    ctx.strokeStyle = token("--surface-map");
+    ctx.beginPath();
+    ctx.moveTo(x, y); ctx.lineTo(x + len, y);
+    ctx.moveTo(x, y - 4); ctx.lineTo(x, y + 4);
+    ctx.moveTo(x + len, y - 4); ctx.lineTo(x + len, y + 4);
+    ctx.stroke();
+    ctx.lineWidth = 1;
+    ctx.strokeStyle = token("--ink");
+    ctx.stroke();
+    ctx.font = "10px ui-monospace, SFMono-Regular, Menlo, monospace";
+    ctx.textAlign = "left";
+    ctx.fillStyle = token("--ink");
+    ctx.fillText(km + " km", x + len + 7, y + 3.5);
+    ctx.restore();
   }
 
   // ---- readout -------------------------------------------------------------------
@@ -277,6 +340,7 @@
         '<span class="ct">' + e.n + "</span>";
       list.appendChild(li);
     });
+    renderRoster();
     if (!s.inRange.length) {
       const li = document.createElement("li");
       li.className = "inrange empty";
@@ -284,6 +348,33 @@
       list.appendChild(li);
     }
   }
+  let rosterLimit = 120;
+  function renderRoster() {
+    const rows = rosterRows();
+    const tb = document.getElementById("roster-body");
+    const cap = document.getElementById("roster-count");
+    tb.innerHTML = "";
+    cap.textContent = rows.length
+      ? rows.length + (rows.length > rosterLimit ? " people · showing " + rosterLimit : " people")
+      : "nothing in range";
+    rows.slice(0, rosterLimit).forEach((r) => {
+      const tr = document.createElement("tr");
+      tr.innerHTML =
+        "<td class='name'><span class='dot " + r.kind + "'></span>" + escapeHtml(r.name) + "</td>" +
+        "<td class='num strong'>" + r.papers + "</td>" +
+        "<td><span class='tier t-" + r.tier + "'>" + r.tier + "</span></td>" +
+        "<td class='prov'>" + escapeHtml(r.where) + "</td>" +
+        "<td class='prov src'>" + escapeHtml(r.src) + "</td>";
+      tb.appendChild(tr);
+    });
+    const more = document.getElementById("roster-more");
+    more.hidden = rows.length <= rosterLimit;
+  }
+  document.getElementById("roster-more").addEventListener("click", () => {
+    rosterLimit += 200;
+    renderRoster();
+  });
+
   function escapeHtml(t) {
     return t.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   }
@@ -455,6 +546,18 @@
   rSlider.addEventListener("input", () => {
     state.sel.r = Number(rSlider.value);
     document.getElementById("radius-val").textContent = state.sel.r + " km";
+    // At a continental zoom a 15 km circle and a 60 km circle are both a handful of
+    // pixels, so the control reads as broken even though the geometry is right. Rather
+    // than draw the circle at a fake size, move the camera so the real one is legible.
+    const cos = Math.cos((state.view.lat * Math.PI) / 180);
+    const rPx = (state.sel.r / 111.0) * (state.view.zoom / cos);
+    const lo = 26, hi = Math.min(W, H) * 0.42;
+    if (rPx < lo || rPx > hi) {
+      const want = Math.max(lo, Math.min(hi, Math.min(W, H) * 0.3));
+      state.view.zoom = Math.max(6, Math.min(900, (want * 111.0 * cos) / state.sel.r));
+      state.view.lat = state.sel.lat;
+      state.view.lon = state.sel.lon;
+    }
     draw();
   });
   document.querySelectorAll("[data-threshold]").forEach((b) => {
@@ -464,6 +567,15 @@
       draw(); renderTable();
     });
   });
+  document.querySelectorAll("[data-tier]").forEach((b) => {
+    b.addEventListener("click", () => {
+      const t = b.dataset.tier;
+      state.tiers[t] = !state.tiers[t];
+      b.setAttribute("aria-pressed", String(state.tiers[t]));
+      draw(); renderTable();
+    });
+  });
+
   const prevToggle = document.getElementById("toggle-preview");
   prevToggle.addEventListener("change", () => {
     state.showPreview = prevToggle.checked;

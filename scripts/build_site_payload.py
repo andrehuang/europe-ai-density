@@ -149,6 +149,15 @@ def main() -> int:
                 people.pop(key, None)
             elif key not in people:
                 people[key] = {"n": r["name"], "p": core.get(key, 0), "s": ["adjudication"]}
+        for v in people.values():
+            # Tier follows provenance, as defined in the README: a university faculty
+            # roster is T1, a research-institute roster T2, and anyone recovered only by
+            # the reconciliation is T3 — the layer that must be applied to every city or
+            # to none.
+            srcs = set(v["s"])
+            v["t"] = ("T1" if "csrankings" in srcs
+                      else "T3" if srcs == {"adjudication"}
+                      else "T2")
         kept = [v for v in people.values() if v["p"] >= CORE_MIN]
         kept.sort(key=lambda v: -v["p"])
         ref = insts.get(city) or next(
@@ -166,9 +175,16 @@ def main() -> int:
 
     # --- preview layer: CSRankings only, every institution ---------------------------
     preview = defaultdict(list)
+    seen_preview = defaultdict(set)
     for r in csv.DictReader((DERIVED / "candidates_csrankings.csv").open(encoding="utf-8")):
-        if int(r["core_papers"]) >= CORE_MIN:
-            preview[r["affiliation"]].append(int(r["core_papers"]))
+        if int(r["core_papers"]) < CORE_MIN:
+            continue
+        name, _ = index.resolve(r["name"])
+        key = name or fold(r["name"])
+        if key in seen_preview[r["affiliation"]]:
+            continue  # CSRankings carries alias duplicates of the same person
+        seen_preview[r["affiliation"]].add(key)
+        preview[r["affiliation"]].append((name or r["name"], int(r["core_papers"])))
 
     points = []
     for name, papers in preview.items():
@@ -178,7 +194,8 @@ def main() -> int:
         points.append({
             "n": name, "c": inst["country"], "city": inst["ror_city"],
             "lat": round(float(inst["lat"]), 4), "lon": round(float(inst["lon"]), 4),
-            "k": len(papers), "pp": sorted(papers, reverse=True),
+            "k": len(papers),
+            "pp": [[n, k] for n, k in sorted(papers, key=lambda t: -t[1])],
             "prec": inst["geocode_precision"],
         })
     points.sort(key=lambda p: -p["k"])

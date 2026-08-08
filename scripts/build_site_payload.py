@@ -25,54 +25,15 @@ import numpy as np
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from namematch import NameIndex, fold  # noqa: E402
+from config import cities, is_reconciled, CORE_MIN  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DERIVED = ROOT / "data" / "derived"
 OUT = ROOT / "site" / "payload.js"
 
-CORE_MIN = 3
 FINE_DEG = 0.02
 COARSE_DEG = 0.1
 
-# Cities taken through the full protocol, with the rosters that make them up.
-AUDITED = {
-    "Tübingen": {
-        "rosters": ("de-mpi-is-tue", "de-ellis-inst-tue", "de-ellis-institute-tue",
-                    "de-tue-ai-center", "de-mpi-kyb", "de-hertie-ai"),
-        "csrankings": ("University of Tübingen",),
-        "site_filter": {"de-mpi-is-tue": ("campus", ("Tübingen", "unclear"))},
-    },
-    "Saarbrücken": {
-        "rosters": ("de-saarland-university", "de-cispa-helmholtz-center", "de-mpi-inf",
-                    "de-dfki-sb", "de-mpi-sws"),
-        "csrankings": ("Saarland University", "CISPA Helmholtz Center"),
-        "site_filter": {"de-mpi-sws": ("site", ("Saarbrücken",)),
-                        "de-dfki-sb": ("location", ("Saarbrücken",))},
-    },
-    "Stuttgart": {
-        "rosters": ("de-university-of-stuttgart", "de-mpi-is-stu"),
-        "csrankings": ("University of Stuttgart",),
-        "site_filter": {"de-mpi-is-stu": ("campus", ("Stuttgart",))},
-    },
-    "München": {
-        "rosters": ("de-tu-munich", "de-lmu-munich", "de-mcml"),
-        "csrankings": ("TU Munich", "LMU Munich", "Bundeswehr University Munich"),
-        # Garching is 12 km out and part of the same cluster; Heilbronn and Straubing
-        # are 120 km away and are not.
-        "site_filter": {"de-tu-munich": ("campus", ("Garching", "Munich city centre",
-                                                    "Munich", "München", "unclear", ""))},
-    },
-    "Berlin": {
-        "rosters": ("de-tu-berlin",),
-        "csrankings": ("TU Berlin", "Humboldt University of Berlin", "Freie Universitaet Berlin"),
-        "site_filter": {},
-    },
-    "Kaiserslautern": {
-        "rosters": ("de-mpi-sws",),
-        "csrankings": ("TU Kaiserslautern",),
-        "site_filter": {"de-mpi-sws": ("site", ("Kaiserslautern",))},
-    },
-}
 
 
 def same_city(a, b):
@@ -96,6 +57,11 @@ def b64(arr):
 
 def main() -> int:
     OUT.parent.mkdir(parents=True, exist_ok=True)
+    AUDITED = {
+        name: {"rosters": c["rosters"], "csrankings": c["csrankings"],
+               "site_filter": c["site_filters"]}
+        for name, c in cities().items()
+    }
 
     index = NameIndex()
     core = Counter()
@@ -213,11 +179,7 @@ def main() -> int:
     # rulings file happens to exist. Berlin was briefly labelled reconciled on the
     # strength of an empty file, which is the kind of unearned status this project
     # exists to avoid.
-    reconciled = {
-        city for city in AUDITED
-        if (ROOT / "data" / "raw" / "adjudication" / "2026-08-06" / "reconcile"
-            / f"{slugify(city)}.csv").exists()
-    }
+    reconciled = {city for city in AUDITED if is_reconciled(city)}
     audited_out = {}
     for city, people in audited.items():
         for key, r in rulings_by_city.get(city, {}).items():
@@ -253,6 +215,43 @@ def main() -> int:
             # deduplicated but the publication-side reconciliation is still outstanding.
             "status": "reconciled" if city in reconciled else "roster-merged",
         }
+
+    # data/people.csv and data/exclusions.csv come out of this same pass. They used to be
+    # produced by a second script that knew only one city and raised KeyError for the
+    # rest, so the "primary artifact" was stale and single-city while the reported numbers
+    # came from here. One path, one answer.
+    ppl_fields = ["person_id", "full_name", "city", "core_papers_window", "tier",
+                  "sources", "source_count", "primary_city_if_elsewhere", "status"]
+    with (ROOT / "data" / "people.csv").open("w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=ppl_fields)
+        w.writeheader()
+        for city, v in audited_out.items():
+            for p in v["people"]:
+                w.writerow({
+                    "person_id": fold(p["n"]).replace(" ", "-"),
+                    "full_name": p["n"], "city": city,
+                    "core_papers_window": p["p"], "tier": p.get("t", ""),
+                    "sources": ";".join(p["s"]), "source_count": len(set(p["s"])),
+                    "primary_city_if_elsewhere": p.get("pc", ""),
+                    "status": "verified" if v["status"] == "reconciled" else "provisional",
+                })
+
+    exc_fields = ["candidate_name", "city_considered", "reason_code", "reason",
+                  "counts_toward", "confidence"]
+    with (ROOT / "data" / "exclusions.csv").open("w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=exc_fields)
+        w.writeheader()
+        for city in AUDITED:
+            rp = ROOT / "data" / f"adjudication_rulings_{slugify(city)}.csv"
+            if not rp.exists():
+                continue
+            for r in csv.DictReader(rp.open(encoding="utf-8")):
+                if r["ruling"] != "exclude":
+                    continue
+                w.writerow({"candidate_name": r["name"], "city_considered": city,
+                            "reason_code": r["reason_code"], "reason": r["reason"],
+                            "counts_toward": r.get("city_if_elsewhere", ""),
+                            "confidence": r.get("evidence_confidence", "")})
 
     # --- preview layer: CSRankings only, every institution ---------------------------
     preview = defaultdict(list)

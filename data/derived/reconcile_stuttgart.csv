@@ -5,54 +5,54 @@ Mathias Niepert,40,de-university-of-stuttgart;csrankings,"University of Stuttgar
 Anne Lauscher,30,,"University of Hamburg, Germany",exclude,E08,CSRankings files them at University of Hamburg (de)
 Jens Kober,24,de-university-of-stuttgart;csrankings,,queue,,"on a local directory, but DBLP's current affiliation is Delft University of Technology"
 Hassan Sajjad 0001,23,,"Dalhousie University, Faculty of Computer Science, Halifax, Canada",exclude,E02,DBLP records this as the PhD institution (2013)
-Ngoc Thang Vu,19,de-university-of-stuttgart;csrankings,"University of Stuttgart, Institute for Natural Language Processing, Germany|University of Munich, Center for Information",include,,on an institution directory here
 Steffen Staab,19,de-university-of-stuttgart;csrankings,"Universität Stuttgart, Germany|University of Southampton, UK",include,,on an institution directory here
+Ngoc Thang Vu,19,de-university-of-stuttgart;csrankings,"University of Stuttgart, Institute for Natural Language Processing, Germany|University of Munich, Center for Information",include,,on an institution directory here
 Alina Roitberg,16,de-university-of-stuttgart;csrankings,"University of Stuttgart, Germany",include,,on an institution directory here
 Ngo Anh Vien,15,,"Queen's University Belfast, UK|University of Stuttgart, Machine Learning and Robotics Lab, Germany",exclude,E08,DBLP's primary current affiliation is Queen's University Belfast; on none of the local directories
+Sebastian Padó,12,de-university-of-stuttgart;csrankings,"University of Stuttgart, Germany|Saarland University, Saarbrücken, Germany",include,,on an institution directory here
 Ozgur S. Oguz,12,,"Bilkent University, Computer Engineering Department, Bilkent, Ankara, Turkey|Technical University of Munich, Germany",exclude,E08,DBLP labels the affiliation former
 Sabine Schulte im Walde,12,de-university-of-stuttgart;csrankings,"University of Stuttgart, Institute for Natural Language Processing, Germany",include,,on an institution directory here
-Sebastian Padó,12,de-university-of-stuttgart;csrankings,"University of Stuttgart, Germany|Saarland University, Saarbrücken, Germany",include,,on an institution directory here
-Gabriella Lapesa,11,de-university-of-stuttgart,"Heinrich Heine University Düsseldorf, Düsseldorf, Germany|University of Stuttgart, Germany|GESIS, Cologne, Germany",include,,on an institution directory here
 Bin Yang 0009,11,csrankings,"University of Stuttgart, Institute of Signal Processing and System Theory, Germany|Infineon Technologies, Germany",include,,on an institution directory here
-Marco F. Huber,11,,"University of Stuttgart, Institute of Industrial Manufacturing and Management (IFF), Germany|Fraunhofer Institute for Ma",queue,,current DBLP affiliation here but on no institution directory
-Bo Xiong 0001,11,,"Stanford University, Department of Biomedical Data Science, Palo Alto, CA, USA",exclude,E02,DBLP records this as the PhD institution ()
+Gabriella Lapesa,11,de-university-of-stuttgart,"Heinrich Heine University Düsseldorf, Düsseldorf, Germany|University of Stuttgart, Germany|GESIS, Cologne, Germany",include,,on an institution directory here
 Heike Adel,11,,"Bosch Center for Artificial Intelligence, Renningen, Germany",exclude,E08,DBLP labels the affiliation former
-Andreas Bulling,10,de-university-of-stuttgart;csrankings,"University of Stuttgart, Stuttgart, Germany",include,,on an institution directory here
+Bo Xiong 0001,11,,"Stanford University, Department of Biomedical Data Science, Palo Alto, CA, USA",exclude,E02,DBLP records this as the PhD institution ()
+Marco F. Huber,11,,"University of Stuttgart, Institute of Industrial Manufacturing and Management (IFF), Germany|Fraunhofer Institute for Ma",queue,,current DBLP affiliation here but on no institution directory
 Andreas Dengel 0001,10,,"University of Kaiserslautern, Department of Computer Science, Germany|German Research Centre for Artificial Intelligence",exclude,E08,CSRankings files them at TU Kaiserslautern (de)
+Andreas Bulling,10,de-university-of-stuttgart;csrankings,"University of Stuttgart, Stuttgart, Germany",include,,on an institution directory here
 Luiz F. O. Chamon,9,,"University of Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
 Nico Potyka,9,,"Cardiff University, UK",exclude,E08,CSRankings files them at Cardiff University (gb)
-Roman Klinger,8,,"University of Stuttgart, Institute for Natural Language Processing, Germany",exclude,E08,CSRankings files them at University of Bamberg (de)
 Ingo Steinwart,8,de-university-of-stuttgart;csrankings,"Universität Stuttgart, Germany",include,,on an institution directory here
-Andrés Bruhn,7,de-university-of-stuttgart;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Filip Miletic 0002,7,,"University of Stuttgart, Institute for Natural Language Processing (IMS), Germany|University of Toulouse, France",queue,,current DBLP affiliation here but on no institution directory
-An T. Le 0001,7,,"TU Darmstadt, Germany",exclude,E08,DBLP labels the affiliation former
-Katherine J. Kuchenbecker,7,de-mpi-is-stu,,queue,,"on a local directory, but DBLP's current affiliation is University of Pennsylvania"
+Roman Klinger,8,,"University of Stuttgart, Institute for Natural Language Processing, Germany",exclude,E08,CSRankings files them at University of Bamberg (de)
 Bernd Bohnet,7,,"University of Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
 Dominik Schlechtweg,7,de-university-of-stuttgart,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Weidong Zhang 0004,6,,"Hainan University, School of Information and Communication Engineering, Haikou, China|Shanghai Jiao Tong University, Dep",exclude,E08,DBLP's primary current affiliation is Hainan University; on none of the local directories
+Andrés Bruhn,7,de-university-of-stuttgart;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Katherine J. Kuchenbecker,7,de-mpi-is-stu,,queue,,"on a local directory, but DBLP's current affiliation is University of Pennsylvania"
+Filip Miletic 0002,7,,"University of Stuttgart, Institute for Natural Language Processing (IMS), Germany|University of Toulouse, France",queue,,current DBLP affiliation here but on no institution directory
+An T. Le 0001,7,,"TU Darmstadt, Germany",exclude,E08,DBLP labels the affiliation former
 Dmitry Nikolaev 0002,6,,"University of Manchester, Department of Linguistics and English Language, UK|University of Stuttgart, Institute for Natu",exclude,E08,DBLP's primary current affiliation is University of Manchester; on none of the local directories
 Michael Heidingsfeld,6,,"CARIAD SE, Mönsheim, Germany|University of Stuttgart, Institute for System Dynamics, Stuttgart, Germany",exclude,E08,DBLP's primary current affiliation is CARIAD SE; on none of the local directories
+Weidong Zhang 0004,6,,"Hainan University, School of Information and Communication Engineering, Haikou, China|Shanghai Jiao Tong University, Dep",exclude,E08,DBLP's primary current affiliation is Hainan University; on none of the local directories
 Volker Fischer 0003,6,,"Robert Bosch GmbH, Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
 Duy M. H. Nguyen,6,,"University of Stuttgart, Max Planck Research School for Intelligent Systems, Germany",queue,,current DBLP affiliation here but on no institution directory
-Andrey Morozov 0001,5,de-university-of-stuttgart,"University of Stuttgart, Germany",include,,on an institution directory here
 Aamir Ahmad,5,de-university-of-stuttgart,"University of Stuttgart, Germany",include,,on an institution directory here
-Hong Chen 0003,5,,"Jilin University, Department of Control Science and Engineering, China",exclude,E02,DBLP records this as the PhD institution (1997)
-Jonas Kuhn,5,de-university-of-stuttgart;csrankings,"University of Stuttgart, Germany",include,,on an institution directory here
-Daniel Hennes,5,,"University of Stuttgart, Institute for Parallel and Distributed Systems, Germany|DFKI, Robotics Innovation Center, Breme",queue,,current DBLP affiliation here but on no institution directory
 Nicola Wolpert,5,,"Hochschule für Technik Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
-Yi Wang 0072,4,,"Technical University of Munich (TUM), Data Science in Earth Observation, Munich, Germany|German Aerospace Center (DLR), ",exclude,E08,DBLP's primary current affiliation is Technical University of Munich (TUM); on none of the local directories
-Mathias Bürger,4,,"University of Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
+Andrey Morozov 0001,5,de-university-of-stuttgart,"University of Stuttgart, Germany",include,,on an institution directory here
+Jonas Kuhn,5,de-university-of-stuttgart;csrankings,"University of Stuttgart, Germany",include,,on an institution directory here
+Hong Chen 0003,5,,"Jilin University, Department of Control Science and Engineering, China",exclude,E02,DBLP records this as the PhD institution (1997)
+Daniel Hennes,5,,"University of Stuttgart, Institute for Parallel and Distributed Systems, Germany|DFKI, Robotics Innovation Center, Breme",queue,,current DBLP affiliation here but on no institution directory
 Tian Qiu 0007,4,,"German Cancer Research Center, Dresden, Germany|University of Stuttgart, Institute of Physical Chemistry, Cyber Valley R",exclude,E08,DBLP's primary current affiliation is German Cancer Research Center; on none of the local directories
+Mathias Bürger,4,,"University of Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
 Alexander Badri-Spröwitz,4,,"Max Planck Institute for Intelligent Systems, Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
+Yi Wang 0072,4,,"Technical University of Munich (TUM), Data Science in Earth Observation, Munich, Germany|German Aerospace Center (DLR), ",exclude,E08,DBLP's primary current affiliation is Technical University of Munich (TUM); on none of the local directories
 Marion Di Marco,3,,"Universität Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
-Michael Roth,3,de-university-of-stuttgart,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Felix Schmitt 0001,3,,"Robert Bosch GmbH, Bosch Center for Artificial Intelligence, Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
-Nicole Mücke,3,,"MATH+ - Berlin Mathematics Research Center, Germany|Technical University of Berlin, Institute of Mathematics, Germany|Un",exclude,E08,DBLP's primary current affiliation is MATH+ - Berlin Mathematics Research Center; on none of the local directories
 Wei Zhang 0334,3,,"Huawei Munich Research Center, Germany|University of Stuttgart, Institute for Photogrammetry, Germany",exclude,E08,DBLP's primary current affiliation is Huawei Munich Research Center; on none of the local directories
+Nicole Mücke,3,,"MATH+ - Berlin Mathematics Research Center, Germany|Technical University of Berlin, Institute of Mathematics, Germany|Un",exclude,E08,DBLP's primary current affiliation is MATH+ - Berlin Mathematics Research Center; on none of the local directories
 Matthias Albrecht Müller,3,,"Leibniz University Hannover, Institute of Automatic Control, Germany|University of Stuttgart, Institute for Systems Theo",exclude,E08,DBLP's primary current affiliation is Leibniz University Hannover; on none of the local directories
+Felix Schmitt 0001,3,,"Robert Bosch GmbH, Bosch Center for Artificial Intelligence, Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
+Michael Roth,3,de-university-of-stuttgart,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Lei Shi 0032,3,,"University of Stuttgart, Department of Computer Science, Institute for Visualisation and Interactive Systems, Germany|Un",queue,,current DBLP affiliation here but on no institution directory
 Johannes Köhler 0001,3,,"ETH Zurich, Institute for Dynamic Systems and Control, Zurich, Switzerland",exclude,E02,DBLP records this as the PhD institution (2021)
-Khalid Al-Khatib,1,,"University of Groningen, The Netherlands|Bauhaus University Weimar, Faculty of Media, Germany|University of Stuttgart, I",exclude,E08,DBLP's primary current affiliation is University of Groningen; on none of the local directories
-Christopher Jenkins 0001,1,,"University of Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
 Sara Atito Ali Ahmed,1,,"University of Surrey, Centre for Vision, Speech and Signal Processing, CVSSP, Guildford, UK|Nile University, Egypt|TU Be",exclude,E08,DBLP's primary current affiliation is University of Surrey; on none of the local directories
+Christopher Jenkins 0001,1,,"University of Stuttgart, Germany",queue,,current DBLP affiliation here but on no institution directory
+Khalid Al-Khatib,1,,"University of Groningen, The Netherlands|Bauhaus University Weimar, Faculty of Media, Germany|University of Stuttgart, I",exclude,E08,CSRankings files them at University of Groningen (nl)
 Kai Oliver Arras,0,csrankings,"University of Stuttgart, Germany",include,,on an institution directory here

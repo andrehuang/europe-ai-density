@@ -7,18 +7,17 @@ Daniel Sonntag,14,,"German Research Centre for Artificial Intelligence, DFKI, Ka
 Damian Borth,13,,"University of St.Gallen, Switzerland",exclude,E08,DBLP labels the affiliation former
 Muhammad Zeshan Afzal,12,,"German Research Center for Artificial Intelligence (DFKI), Kaiserslautern, Germany|University of Kaiserslautern, Departm",queue,,current DBLP affiliation here but on no institution directory
 Krishna P. Gummadi,11,de-mpi-sws,,queue,,"on a local directory, but DBLP's current affiliation is Max Planck Institute for Software Systems"
-Sophie Fellenz,10,csrankings,"TU Kaiserslautern, Germany",include,,on an institution directory here
 Andreas Dengel 0001,10,csrankings;csrankings,"University of Kaiserslautern, Department of Computer Science, Germany|German Research Centre for Artificial Intelligence",include,,on an institution directory here
+Sophie Fellenz,10,csrankings,"TU Kaiserslautern, Germany",include,,on an institution directory here
+Rupak Majumdar,9,de-mpi-sws,"Max Planck Institute for Software Systems, Kaiserslautern, Germany",include,,on an institution directory here
 Gabriele Steidl,9,,"TU Berlin, Institute of Mathematics, Germany|University of Kaiserslautern, Germany",exclude,E08,DBLP's primary current affiliation is TU Berlin; on none of the local directories
 Marcus Liwicki,9,,"Luleå University of Technology, Sweden",exclude,E08,DBLP labels the affiliation former
-Rupak Majumdar,9,de-mpi-sws,"Max Planck Institute for Software Systems, Kaiserslautern, Germany",include,,on an institution directory here
-Jason R. Rambach,8,,"German Research Center for Artificial Intelligence, DFKI, Kaiserslautern, Germany|TU Kaiserslautern, Germany",queue,,current DBLP affiliation here but on no institution directory
-Daniel Neider,8,,"TU Dortmund University, Germany",exclude,E08,CSRankings files them at TU Dortmund (de)
 Cheng Li 0001,8,,"University of Science and Technology of China (USTC), China",exclude,E08,DBLP labels the affiliation former
+Daniel Neider,8,,"TU Dortmund University, Germany",exclude,E08,CSRankings files them at TU Dortmund (de)
+Jason R. Rambach,8,,"German Research Center for Artificial Intelligence, DFKI, Kaiserslautern, Germany|TU Kaiserslautern, Germany",queue,,current DBLP affiliation here but on no institution directory
 Chen Qiu 0001,7,,"Bosch Center for Artificial Intelligence, Pittsburgh, PA, USA",exclude,E02,DBLP records this as the PhD institution ()
 Alexander Keller 0001,6,,"NVIDIA Corporation, Berlin, Germany|University of Ulm, UZWR, Germany|University of Kaiserslautern, Department of Compute",exclude,E08,DBLP's primary current affiliation is NVIDIA Corporation; on none of the local directories
 Thomas M. Breuel,5,,NVIDIA Research,exclude,E08,DBLP labels the affiliation former
 Sebastian J. Vollmer,5,csrankings,"German Research Center for Artificial Intelligence (DFKI), Kaiserslautern, Germany",include,,on an institution directory here
+Anthony Widjaja Lin,3,csrankings;csrankings;csrankings,"Technical University of Kaiserslautern, Germany",include,,on an institution directory here
 Paul Lukowicz,3,csrankings,"University of Kaiserslautern, Germany|DFKI, Kaiserslautern, Germany|University of Passau, Germany",include,,on an institution directory here
-Anthony Widjaja Lin,3,csrankings;csrankings,"Technical University of Kaiserslautern, Germany",include,,on an institution directory here
-Anthony W. Lin,1,csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note

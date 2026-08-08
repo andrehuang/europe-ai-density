@@ -26,49 +26,24 @@ from collections import Counter
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from namematch import NameIndex  # noqa: E402
+from config import cities, city_by_slug, CORE_MIN  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DERIVED = ROOT / "data" / "derived"
 CORE_MIN = 3
 
-CITIES = {
-    "tuebingen": {
-        "pattern": re.compile(r"T(ü|ue|u)bingen", re.I),
-        "inst_ids": (
-            "de-mpi-is-tue", "de-ellis-inst-tue", "de-ellis-institute-tue",
-            "de-tue-ai-center", "de-mpi-kyb", "de-hertie-ai",
-        ),
-        "csrankings": ("University of Tübingen",),
-        "sites": {"de-mpi-is-tue": ("Tübingen", "unclear", "")},
-    },
-    "saarbruecken": {
-        "pattern": re.compile(r"Saarbr(ü|ue)cken|Saarland", re.I),
-        "inst_ids": ("de-saarland-university", "de-cispa-helmholtz-center",
-                     "de-mpi-inf", "de-dfki-sb", "de-mpi-sws"),
-        "csrankings": ("Saarland University", "CISPA Helmholtz Center"),
-        "sites": {"de-mpi-sws": ("Saarbrücken",), "de-dfki-sb": ("Saarbrücken", "")},
-    },
-    "stuttgart": {
-        "pattern": re.compile(r"Stuttgart", re.I),
-        "inst_ids": ("de-university-of-stuttgart", "de-mpi-is-stu"),
-        "csrankings": ("University of Stuttgart",),
-        "sites": {"de-mpi-is-stu": ("Stuttgart",)},
-    },
-    "kaiserslautern": {
-        "pattern": re.compile(r"Kaiserslautern|RPTU", re.I),
-        "inst_ids": ("de-mpi-sws",),
-        "csrankings": ("TU Kaiserslautern",),
-        "sites": {"de-mpi-sws": ("Kaiserslautern",)},
-    },
-}
 
 
 def main() -> int:
-    if len(sys.argv) < 2 or sys.argv[1] not in CITIES:
-        print(f"usage: {sys.argv[0]} <{'|'.join(CITIES)}>", file=sys.stderr)
+    slugs = [c["slug"] for c in cities().values()]
+    if len(sys.argv) < 2 or sys.argv[1] not in slugs:
+        print(f"usage: {sys.argv[0]} <{'|'.join(slugs)}>", file=sys.stderr)
         return 1
+    city_name, raw = city_by_slug(sys.argv[1])
     city = sys.argv[1]
-    cfg = CITIES[city]
+    cfg = {"pattern": re.compile(raw["dblp_pattern"], re.I),
+           "inst_ids": raw["rosters"], "csrankings": raw["csrankings"],
+           "sites": {k: v[1] for k, v in raw["site_filters"].items()}}
 
     index = NameIndex()
     core = Counter()

@@ -1,0 +1,7 @@
+city,slug,rosters,csrankings_affiliations,site_filters,dblp_pattern,notes
+Tübingen,tuebingen,de-mpi-is-tue|de-ellis-inst-tue|de-ellis-institute-tue|de-tue-ai-center|de-mpi-kyb|de-hertie-ai|de-university-of-t-bingen,University of Tübingen,de-mpi-is-tue:campus:Tübingen;unclear,T(ü|ue|u)bingen,
+Saarbrücken,saarbruecken,de-saarland-university|de-cispa-helmholtz-center|de-mpi-inf|de-dfki-sb|de-mpi-sws,Saarland University|CISPA Helmholtz Center,de-mpi-sws:site:Saarbrücken|de-dfki-sb:location:Saarbrücken;,Saarbr(ü|ue)cken|Saarland,
+Stuttgart,stuttgart,de-university-of-stuttgart|de-mpi-is-stu,University of Stuttgart,de-mpi-is-stu:campus:Stuttgart,Stuttgart,
+Kaiserslautern,kaiserslautern,de-mpi-sws,TU Kaiserslautern,de-mpi-sws:site:Kaiserslautern,Kaiserslautern|RPTU,
+München,muenchen,de-tu-munich|de-lmu-munich|de-mcml,TU Munich|LMU Munich|Bundeswehr University Munich,de-tu-munich:campus:Garching;Munich city centre;Munich;München;unclear;,M(ü|ue|u)nchen|Munich|Garching,"Garching is 12 km out and part of the cluster; Heilbronn and Straubing are 120 km away and are not"
+Berlin,berlin,de-tu-berlin,TU Berlin|Humboldt University of Berlin|Freie Universitaet Berlin,,Berlin,

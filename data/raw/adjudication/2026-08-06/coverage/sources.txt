@@ -144,4 +144,72 @@ https://www.swp-berlin.org
 # helmholtz.de member list, fraunhofer.de institute list (Berlin filter) checked as enumerating sources.
 
 ## Stuttgart
-# Pending at time of writing -- see final version of this file for the completed list.
+https://www.iao.fraunhofer.de/en.html
+https://www.iao.fraunhofer.de/en/about-us/fraunhofer-iao/management-team.html
+https://www.ipa.fraunhofer.de/en.html
+https://www.ipa.fraunhofer.de/en/current-research.html
+https://www.ibp.fraunhofer.de/en.html
+https://www.ibp.fraunhofer.de/en/about-us/profile-of-institute/directors-of-institute.html
+https://www.igb.fraunhofer.de/en.html
+https://www.igb.fraunhofer.de/en/about-us/staff-profiles.html
+http://irb.fraunhofer.de/
+http://irb.fraunhofer.de/de/leistungen/ki.html
+https://www.fkf.mpg.de/en
+https://www.mpg.de/5302167/45_Members
+https://www.dlr.de/de/fk
+https://www.dlr.de/de/fk/ueber-uns/abteilungen
+https://www.dlr.de/de/tt
+https://www.dlr.de/de/tt/ueber-uns/abteilungen/computergestuetzte-elektrochemie
+https://www.dlr.de/de/vt
+https://www.dlr.de/de/bt
+https://www.dlr.de/de/tp
+https://www.dlr.de/de/sf
+https://www.dlr.de/de/ve
+https://www.hs-esslingen.de/
+https://www.hs-esslingen.de/forschung/forschungsaktivitaeten/forschungsbereiche/iis-institut-fuer-intelligente-systeme/iis-unser-profil
+https://www.hft-stuttgart.de/
+https://www.hft-stuttgart.de/forschung/forschungsprofil/kompetenzzentren/industrielle-anwendungen-der-informatik-und-mathematik
+https://www.hdm-stuttgart.de/
+https://iaai.hdm-stuttgart.de
+https://cs-master.hdm-stuttgart.de/team/professor-innen
+https://www.dhbw-stuttgart.de/
+https://www.uni-hohenheim.de/
+https://www.uni-hohenheim.de/fakultaeten-institute
+https://intelligent.uni-hohenheim.de/
+http://datascience.uni-hohenheim.de
+https://www.ikp.de/en
+https://www.ikp.de/en/biostatisticsbioinformatics-pharmacometrics-and-artificial-intelligence
+https://www.bosch-health-campus.de/de/ikp
+https://www.rbct.de/en
+https://www.bosch-health-campus.de/de/rbct
+https://www.klinikum-stuttgart.de/
+https://www.klinikum-stuttgart.de/medizin-pflege/einrichtungen/kliniken-institute-nach-fachgebieten
+https://www.ditf.de/en/
+https://www.ditf.de/en/index/ditf/contacts/research-development/
+https://cyber-valley.de/en/about
+https://cyber-valley.de/en/research-groups
+https://cyber-valley.de/en/people
+https://cyber-valley.de/en/partner-list
+https://www.simtech.uni-stuttgart.de/exc/people/ (referenced, not deep-crawled)
+# leibniz-gemeinschaft.de "Institute nach Bundesland" page checked for Baden-Württemberg (6 members, none
+# in the Stuttgart radius: FIZ Karlsruhe, GESIS Mannheim, IDS Mannheim, IWM Tübingen, MFO Oberwolfach, ZEW
+# Mannheim). mpg.de institute list (Baden-Württemberg filter) and DLR's own Stuttgart location page (listing
+# all 7 institutes) also checked as enumerating sources.
+# SECURITY NOTE: the Fraunhofer IAO management-team page above was found to contain a hidden prompt-injection
+# payload in its raw HTML (fake console errors, base64 filler, instructions addressed to an AI agent). It was
+# identified and ignored; flagging here so future automated passes strip hidden text/scripts from that page
+# rather than feeding raw content to a model.
+
+## Corrections identified during collection (all three cities)
+# - DLR is a Helmholtz Association member (confirmed on helmholtz.de's own 18-centre list; it is legally an
+#   e.V. rather than a GmbH like most centres, likely the source of prior confusion). Classified as helmholtz
+#   throughout this file, not other_nonprofit.
+# - Leibniz-Rechenzentrum (LRZ), Munich: NOT a Leibniz Association member despite its name; it is an institute
+#   of the Bavarian Academy of Sciences (confirmed via German Wikipedia and absence from the Leibniz
+#   Association's own member sitemap).
+# - Zuse Institute Berlin (ZIB): NOT a Leibniz Association member; it is a Land Berlin state research institute
+#   (confirmed via its own site, which makes no Leibniz claim).
+# - Deutsche Institute für Textil- und Faserforschung (DITF), Denkendorf: NOT a Leibniz Association member
+#   despite one search result suggesting otherwise; it is a foundation under public law supervised by the
+#   Baden-Württemberg Ministry of Economics (absent from the Leibniz Association's official BW member list).
+# - Potsdam Institute for Climate Impact Research (PIK): confirmed Leibniz member, not Helmholtz.

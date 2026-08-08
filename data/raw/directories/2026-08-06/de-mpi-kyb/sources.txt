@@ -1,0 +1,168 @@
+Institution: Max Planck Institute for Biological Cybernetics, Tuebingen (de-mpi-kyb)
+Snapshot date label: 2026-08-06
+All URLs below retrieved 2026-08-06.
+
+# Institute structure (the pages that establish department vs. independent group)
+https://www.kyb.tuebingen.mpg.de/en	2026-08-06
+https://www.kyb.tuebingen.mpg.de/de	2026-08-06
+https://www.kyb.tuebingen.mpg.de/departments	2026-08-06
+https://www.kyb.tuebingen.mpg.de/researchgroups	2026-08-06
+https://www.kyb.tuebingen.mpg.de/906574/minerva-fast-track-groups	2026-08-06
+https://www.kyb.tuebingen.mpg.de/former-researchgroups	2026-08-06
+https://www.kyb.tuebingen.mpg.de/726190/forschungsgaeste-des-instituts	2026-08-06
+https://www.kyb.tuebingen.mpg.de/profile	2026-08-06
+https://www.kyb.tuebingen.mpg.de/managing-director	2026-08-06
+https://www.kyb.tuebingen.mpg.de/60559/mpg-members	2026-08-06
+
+# Institute-wide staff directory (single page, 250 people, no pagination)
+https://www.kyb.tuebingen.mpg.de/249684/search-employees	2026-08-06
+
+# Unit pages
+https://www.kyb.tuebingen.mpg.de/693510/body-brain-cybernetics	2026-08-06
+https://www.kyb.tuebingen.mpg.de/computational-neuroscience	2026-08-06
+https://www.kyb.tuebingen.mpg.de/high-field-magnetic-resonance	2026-08-06
+https://www.kyb.tuebingen.mpg.de/sensory-and-sensorimotor-systems	2026-08-06
+https://www.kyb.tuebingen.mpg.de/brain-states-for-plasticity-en	2026-08-06
+https://www.kyb.tuebingen.mpg.de/cognitive-neuroscience-neurotechnology	2026-08-06
+https://www.kyb.tuebingen.mpg.de/583055/dynamic-cognition	2026-08-06
+https://www.kyb.tuebingen.mpg.de/682724/molecular-signaling	2026-08-06
+https://www.kyb.tuebingen.mpg.de/782960/Neurodynamics	2026-08-06
+https://www.kyb.tuebingen.mpg.de/de/systems-neuroscience-neuroengineering	2026-08-06
+https://www.kyb.tuebingen.mpg.de/614159/translational-sensory-and-circadian-neuroscience	2026-08-06
+https://www.kyb.tuebingen.mpg.de/906930/natural-decision-making	2026-08-06
+
+# Department staff pages
+https://www.kyb.tuebingen.mpg.de/274980/staff-AGPD	2026-08-06
+https://www.kyb.tuebingen.mpg.de/423337/staff-AGZL	2026-08-06
+https://www.kyb.tuebingen.mpg.de/695888/team	2026-08-06
+https://www.kyb.tuebingen.mpg.de/84538/staff-AGKS	2026-08-06
+
+# Person pages
+https://www.kyb.tuebingen.mpg.de/person/95844/249684	2026-08-06	Peter Dayan
+https://www.kyb.tuebingen.mpg.de/person/128615/249684	2026-08-06	Ivan de Araujo
+https://www.kyb.tuebingen.mpg.de/person/95845/249684	2026-08-06	Zhaoping Li
+https://www.kyb.tuebingen.mpg.de/person/58894/249684	2026-08-06	Klaus Scheffler
+https://www.kyb.tuebingen.mpg.de/person/133642/249684	2026-08-06	Pascal Fries
+https://www.kyb.tuebingen.mpg.de/person/115305/249684	2026-08-06	Manuel Spitschan
+https://www.kyb.tuebingen.mpg.de/person/114299/249684	2026-08-06	Assaf Breska
+https://www.kyb.tuebingen.mpg.de/person/102157/249684	2026-08-06	Svenja Brodt
+https://www.kyb.tuebingen.mpg.de/person/128303/249684	2026-08-06	Romy Lorenz
+https://www.kyb.tuebingen.mpg.de/person/127689/249684	2026-08-06	Robert Ohlendorf
+https://www.kyb.tuebingen.mpg.de/person/101209/249684	2026-08-06	Jennifer Mengbo Li
+https://www.kyb.tuebingen.mpg.de/person/101210/249684	2026-08-06	Drew Robson
+https://www.kyb.tuebingen.mpg.de/person/59155/249684	2026-08-06	Roxana Zeraati
+https://www.kyb.tuebingen.mpg.de/person/58971/249684	2026-08-06	Kai Buckenmaier
+https://www.kyb.tuebingen.mpg.de/person/58956/249684	2026-08-06	Gabriele Lohmann
+https://www.kyb.tuebingen.mpg.de/person/58839/249684	2026-08-06	Rolf Pohmann
+https://www.kyb.tuebingen.mpg.de/person/58805/249684	2026-08-06	Oxana Eschenko
+https://www.kyb.tuebingen.mpg.de/person/58819/249684	2026-08-06	Almut Schuez
+https://www.kyb.tuebingen.mpg.de/person/58765/249684	2026-08-06	Heinrich Buelthoff
+https://www.kyb.tuebingen.mpg.de/person/58795/249684	2026-08-06	Andreas Bartels
+https://www.kyb.tuebingen.mpg.de/person/142805/249684	2026-08-06	Giuseppe Gangarossa
+https://www.kyb.tuebingen.mpg.de/person/58997/249684	2026-08-06	Wolfgang Grodd
+https://www.kyb.tuebingen.mpg.de/person/58884/249684	2026-08-06	Gisela Hagberg
+https://www.kyb.tuebingen.mpg.de/person/58915/249684	2026-08-06	Shervin Safavi
+https://www.kyb.tuebingen.mpg.de/person/131198/249684	2026-08-06	Thomas Ott
+
+# Fetched and found not to exist (recorded so a later pass does not repeat them)
+https://www.kyb.tuebingen.mpg.de/institutional-guests	2026-08-06	HTTP 404 - correct path is /726190/forschungsgaeste-des-instituts
+https://www.kyb.tuebingen.mpg.de/de/abteilungen	2026-08-06	HTTP 404
+https://www.kyb.tuebingen.mpg.de/de/forschungsgruppen	2026-08-06	HTTP 404
+
+## SECURITY
+No prompt-injection payload was encountered on any page listed above. Nothing on these pages
+addressed an AI agent, asked for instructions to be disregarded, or tried to redirect the task.
+
+One item was inspected and cleared rather than assumed benign: every unit and person page carries
+long base64-looking query strings on its <img>/<source> URLs (pattern ?t=ZXlKM2FXUjBhQ0k2...). These
+are double-base64 image-resize tokens; decoding one yields {"width":140,"height":180,"fit":"crop",
+"file_extension":"jpg","obj_id":583090}. This is normal MPG CMS markup, not hidden text. Noted here
+because the same shape (base64 filler) is part of the known Fraunhofer IAO injection pattern, and a
+later pass should not mistake this for one.
+
+## DEPARTMENT vs. INDEPENDENT GROUP - what the institute itself says
+The institute publishes three tiers under "Research", and the roster's notes column records which
+tier each person sits in, with the URL that states it. The project rules on which tiers qualify.
+
+1. https://www.kyb.tuebingen.mpg.de/departments - English label "Established Research Groups".
+   The German site (https://www.kyb.tuebingen.mpg.de/de) titles the same menu block
+   "Staendige Forschungsgruppen (Abteilungen)", i.e. it names them departments outright, and the
+   English URL is literally /departments. The page text: "The Established Research Groups at the
+   Max Planck Institute for Biological Cybernetics are headed by Directors and Max Planck Fellows."
+   Individual person pages print the unit as "Department Body-Brain-Cybernetics", "Department
+   Computational Neuroscience", "Department High-field Magnetic Resonance", "Department Sensory and
+   Sensorimotor Systems". Four units, four heads: de Araujo, Dayan, Scheffler, Zhaoping Li.
+   Note that two of the four are headed by a Max Planck Fellow rather than a Director.
+
+2. https://www.kyb.tuebingen.mpg.de/researchgroups - "Research Groups", i.e. Max Planck Research
+   Groups. Page text: "Excellent young researchers ... have the opportunity to lead a Max Planck
+   Research Group. This enables them to develop an independent profile and take on leadership
+   responsibility. Within the Institute, they are free to work in their own research area."
+   Seven groups, eight leaders (Systems Neuroscience & Neuroengineering is co-led by Li and Robson):
+   Brodt, Lorenz, Breska, Ohlendorf, Spitschan, J. M. Li + Robson, Fries.
+   The German group pages print the title as "Leiter/Leiterin Max-Planck-Forschungsgruppe".
+
+3. https://www.kyb.tuebingen.mpg.de/906574/minerva-fast-track-groups - "Minerva Fast Track Groups",
+   a separate tier again: four-year funding for outstanding female scientists "with the goal of
+   subsequently applying to lead a Max Planck research group". One group, one leader: Zeraati.
+   Her person page files her under Department Computational Neuroscience, so this group sits inside
+   a department.
+
+4. Not a published tier, but present in the staff directory: four people titled plain "Group Leader"
+   whose recorded unit is a department rather than a named research group - Buckenmaier, Lohmann and
+   Pohmann in High-field Magnetic Resonance, Eschenko in Computational Neuroscience. The roster marks
+   these as subteams inside a department.
+
+## ENTITY AMBIGUITY - MPI for Intelligent Systems Tuebingen (de-mpi-is-tue)
+No page fetched for this roster described the MPI for Intelligent Systems. The only point of contact
+is the shared-campus link "Max Planck Campus Tuebingen" in the site footer, which is infrastructure,
+not organisational overlap. Every unit, person and structure page fetched is unambiguously headed
+"Max Planck Institute for Biological Cybernetics". Cross-listing with de-mpi-is-tue is therefore not
+expected from these pages; the historical route by which people appear on both is the closed
+Empirical Inference department (see below), which the institute lists as a FORMER department.
+
+## WHO WAS DELIBERATELY NOT GIVEN A ROW, AND WHY
+Recorded here so the decisions are visible and reversible rather than invisible.
+
+- Heinrich Buelthoff, "Emeritus Director" (Department Human Perception, Cognition and Action).
+  Excluded because the contract excludes emeritus. He is the institute's only current emeritus in
+  the staff directory. https://www.kyb.tuebingen.mpg.de/person/58765/249684
+
+- The 15 leaders on https://www.kyb.tuebingen.mpg.de/former-researchgroups. The institute labels
+  these groups former, and none of the leaders appears in the current 250-person staff directory.
+  Several matter for the wider project because they are alive and elsewhere in the dataset, so they
+  are named here: Eric Schulz (Computational Principles of Intelligence), Anke Henning, Goran
+  Angelovski, Hamid Noori, Xin Yu, Marc Ernst, Matthias Bethge (Computational Vision & Neuroscience),
+  Uta Noppeney, Karsten Borgwardt, Christoph Kayser, Jason Kerr, Marcel Oberlaender, Jakob Macke
+  (Neural Computation & Behaviour), Betty Mohler, Daniel Braun. The former department "Empirical
+  Inference" (Bernhard Schoelkopf) is also listed as former here; it is the unit that now sits at
+  MPI-IS Tuebingen, which is where the cross-listing between the two institutes originates.
+
+- Non-independent staff in the directory: 53 PhD Students, 49 Guest Scientists, 22 Postdocs,
+  14 Research Scientists, 12 Research Technicians, 11 Graduate Assistants, 7 Master Students,
+  3 Interns, 1 Bachelor Student, plus IT, workshop, technical, secretarial, communications and
+  administrative staff (10 Administrative Staff, 7 IT Staff, 6 Workshop Staff, 6 Technical Staff,
+  5 Secretaries, 2 Communications Specialists, 2 Foremen, and single holders of Welcome Officer,
+  Leiter Core IT, Assistant to the Managing Director und Head of Operations, Coordinator Alexander
+  von Humboldt Professorship, Head of Communications, Head of Administration, Press Officer, IMPRS
+  Coordinator, Baukoordinator, Head of Office). Excluded per the contract's exclude list.
+
+- Exception to the line above: every directory entry whose NAME carries a professorial or
+  habilitation title (Prof., apl. Prof., Jun.-Prof., PD) but whose POSITION is a guest or staff
+  title DID get a low-confidence row, so the judgement call is visible in the data rather than only
+  here. That covers Bartels, Gangarossa, Grodd, Hagberg, Safavi, Ott and Schuez. Gangarossa's own
+  page names his chair at Universite Paris Cite, so he should count at Paris, not Tuebingen.
+
+## OTHER GAPS AND CAVEATS
+- Second affiliations are thinly documented on this site. Only Scheffler (University of Tuebingen),
+  Spitschan (TUM, via a link the institute itself publishes), Lohmann (University Clinic Tuebingen,
+  via her CV text) and Gangarossa (Universite Paris Cite) are stated. Dayan and Zhaoping Li almost
+  certainly hold university appointments - the /departments page says the Max Planck Fellow programme
+  exists to link "outstanding university teachers" with the MPG, which makes a chair implicit for
+  Zhaoping Li - but the institute never names them, and they were not invented here.
+- Pascal Fries is listed BOTH as leader of Research Group Neurodynamics on /researchgroups AND under
+  Institutional Guests on his own person page. His employment status at this institute is genuinely
+  ambiguous on the site; the roster records both placements.
+- WebSearch was unavailable for this pass: the session's 200-query budget was already exhausted when
+  this task started, and no search call succeeded. All collection above is direct fetching, which was
+  sufficient here because the institute publishes a complete single-page staff directory.

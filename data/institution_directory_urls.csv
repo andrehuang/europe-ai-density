@@ -7,7 +7,7 @@ de-mpi-is-stu,https://is.mpg.de/people,,Filter to the Stuttgart campus
 de-mpi-inf,https://www.mpi-inf.mpg.de/departments,,
 de-mpi-sws-sb,https://www.mpi-sws.org/people/,,Filter to the Saarbrücken site
 de-mpi-sws-kl,https://www.mpi-sws.org/people/,,Filter to the Kaiserslautern site
-de-hertie-ai,https://hertie.ai/the-institute/team,,Discovered via the Tübingen AI Center directory pass
+de-hertie-ai,https://hertie.ai/sitemap.xml?sitemap=members,,"The former /the-institute/team now 404s and hertie-institute-ai-brain-health.de does not resolve. The members sitemap is the complete list: it exposed six profiles unlinked from any team page. Per-pillar team pages are partial."
 fr-inria-saclay,https://www.inria.fr/en/inria-centre-university-paris-saclay,,inria.fr filtered team listings return 403; use team.inria.fr pages instead
 fr-paris-saclay,https://www.lisn.upsaclay.fr,,"Large joint unit; team landing pages alone under-recall, use the full member directory"
 ch-idsia,https://www.idsia.ch/people,,Joint USI-SUPSI institute

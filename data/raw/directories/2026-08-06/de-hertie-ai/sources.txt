@@ -1,0 +1,184 @@
+Institution: Hertie Institute for AI in Brain Health, Tuebingen (de-hertie-ai)
+Snapshot date label: 2026-08-06
+All URLs below retrieved 2026-08-06.
+
+## SITE NOTE - the URL pinned in data/institution_directory_urls.csv is dead
+data/institution_directory_urls.csv pins https://hertie.ai/the-institute/team for this institution.
+That URL returns HTTP 404 as of 2026-08-06, and so does the domain named in the task,
+https://www.hertie-institute-ai-brain-health.de/ (DNS does not resolve - ENOTFOUND). The live site is
+https://hertie.ai/ and the team listings have moved to three per-unit pages, one per pillar:
+/data-science/team, /machine-learning/team, /independent-research-groups/team. The two people who
+belong to neither pillar (Managing Director, Central Office) have profile pages under /the-institute/
+but there is no longer an index page that lists them; they were found through the site's own sitemap
+and through the Leadership block on /the-institute/about-us. The registry entry should be updated.
+
+# Structure
+https://hertie.ai/	2026-08-06
+https://hertie.ai/the-institute/about-us	2026-08-06
+https://hertie.ai/the-institute/central-structures	2026-08-06
+https://hertie.ai/imprint	2026-08-06
+https://hertie.ai/sitemap.xml	2026-08-06
+https://hertie.ai/sitemap.xml?sitemap=pages	2026-08-06
+https://hertie.ai/sitemap.xml?sitemap=members	2026-08-06
+
+# Team pages (the most complete sources for this institution)
+https://hertie.ai/data-science/team	2026-08-06
+https://hertie.ai/machine-learning/team	2026-08-06
+https://hertie.ai/independent-research-groups/team	2026-08-06
+
+# Unit / research-group pages
+https://hertie.ai/data-science/about-us	2026-08-06
+https://hertie.ai/data-science/research-groups	2026-08-06
+https://hertie.ai/data-science/research-groups/about/machine-learning-for-safe-medical-diagnostics	2026-08-06
+https://hertie.ai/data-science/research-groups/about/neuronal-modeling	2026-08-06
+https://hertie.ai/data-science/research-groups/about/representation-learning-and-data-visualization	2026-08-06
+https://hertie.ai/machine-learning/about-us	2026-08-06
+https://hertie.ai/machine-learning/research-groups	2026-08-06
+https://hertie.ai/machine-learning/research-groups/about/multimodal-modelling	2026-08-06
+https://hertie.ai/machine-learning/research-groups/about/precision-brain-science	2026-08-06
+https://hertie.ai/machine-learning/research-groups/about/translational-barriers	2026-08-06
+https://hertie.ai/independent-research-groups/research-groups	2026-08-06
+https://hertie.ai/independent-research-groups/research-groups/about/computational-neuropsychiatry	2026-08-06
+https://hertie.ai/independent-research-groups/research-groups/about/hertie-ai-fellow-program	2026-08-06
+https://hertie.ai/independent-research-groups/research-groups/about/neural-data-representation	2026-08-06
+https://hertie.ai/independent-research-groups/research-groups/about/quantitative-biomedical-image-analysis	2026-08-06
+
+# Person profiles - all 58 in the site's member sitemap were fetched, not only the leaders,
+# so that no independent position could hide behind a stale team listing.
+https://hertie.ai/data-science/team/members/philipp-berens	2026-08-06
+https://hertie.ai/data-science/team/members/sacha-sokoloski	2026-08-06
+https://hertie.ai/data-science/team/members/dmitry-kobak	2026-08-06
+https://hertie.ai/data-science/team/members/lisa-koch	2026-08-06
+https://hertie.ai/data-science/team/members/aleksejs-timcenko	2026-08-06
+https://hertie.ai/data-science/team/members/camila-roa	2026-08-06
+https://hertie.ai/data-science/team/members/fabio-seel	2026-08-06
+https://hertie.ai/data-science/team/members/florian-kofler	2026-08-06
+https://hertie.ai/data-science/team/members/harini-sudha-j-g	2026-08-06
+https://hertie.ai/data-science/team/members/ifeoma-veronica-nwabufo	2026-08-06
+https://hertie.ai/data-science/team/members/indu-ilanchezian	2026-08-06
+https://hertie.ai/data-science/team/members/jan-lause	2026-08-06
+https://hertie.ai/data-science/team/members/jan-niklas-boehm	2026-08-06
+https://hertie.ai/data-science/team/members/jonas-beck	2026-08-06
+https://hertie.ai/data-science/team/members/jonathan-oesterle	2026-08-06
+https://hertie.ai/data-science/team/members/julius-gervelmeyer	2026-08-06
+https://hertie.ai/data-science/team/members/kerol-djoumessi	2026-08-06
+https://hertie.ai/data-science/team/members/kyra-kadhim	2026-08-06
+https://hertie.ai/data-science/team/members/lisa-schmors	2026-08-06
+https://hertie.ai/data-science/team/members/patrick-koehler	2026-08-06
+https://hertie.ai/data-science/team/members/rita-gonzalez-marquez	2026-08-06
+https://hertie.ai/data-science/team/members/samuel-ofosu-mensah	2026-08-06
+https://hertie.ai/data-science/team/members/sarah-mueller	2026-08-06
+https://hertie.ai/data-science/team/members/sarah-strauss	2026-08-06
+https://hertie.ai/data-science/team/members/simone-ebert	2026-08-06
+https://hertie.ai/data-science/team/members/trang-anh-estelle-nghiem	2026-08-06
+https://hertie.ai/data-science/team/members/verena-hallitschke	2026-08-06
+https://hertie.ai/data-science/team/members/ziwei-huang	2026-08-06
+https://hertie.ai/machine-learning/team/members/kerstin-ritter	2026-08-06
+https://hertie.ai/machine-learning/team/members/marc-andre-schulz	2026-08-06
+https://hertie.ai/machine-learning/team/members/christina-kulka	2026-08-06
+https://hertie.ai/machine-learning/team/members/didem-stark	2026-08-06
+https://hertie.ai/machine-learning/team/members/larisa-ivanova	2026-08-06
+https://hertie.ai/machine-learning/team/members/laura-geiger	2026-08-06
+https://hertie.ai/machine-learning/team/members/lydia-federmann	2026-08-06
+https://hertie.ai/machine-learning/team/members/marija-tochadse	2026-08-06
+https://hertie.ai/machine-learning/team/members/marina-lex	2026-08-06
+https://hertie.ai/machine-learning/team/members/moritz-seiler	2026-08-06
+https://hertie.ai/machine-learning/team/members/nadia-vohwinkel	2026-08-06
+https://hertie.ai/machine-learning/team/members/nicolas-muenster	2026-08-06
+https://hertie.ai/machine-learning/team/members/nys-tjade-siegel	2026-08-06
+https://hertie.ai/machine-learning/team/members/roshan-rane	2026-08-06
+https://hertie.ai/machine-learning/team/members/sam-gijsen	2026-08-06
+https://hertie.ai/machine-learning/team/members/serli-kopar	2026-08-06
+https://hertie.ai/machine-learning/team/members/shreyash-garg	2026-08-06
+https://hertie.ai/machine-learning/team/members/stella-namuganza	2026-08-06
+https://hertie.ai/independent-research-groups/team/members/sebastian-damrich	2026-08-06
+https://hertie.ai/independent-research-groups/team/members/florian-kofler	2026-08-06
+https://hertie.ai/independent-research-groups/team/members/trang-anh-estelle-nghiem	2026-08-06
+https://hertie.ai/independent-research-groups/team/members/georgia-koppe	2026-08-06
+https://hertie.ai/independent-research-groups/team/members/azhar-akhmetova	2026-08-06
+https://hertie.ai/independent-research-groups/team/members/erik-grosskopf	2026-08-06
+https://hertie.ai/independent-research-groups/team/members/suraj-yadav	2026-08-06
+https://hertie.ai/independent-research-groups/team/members/xiaojun-zhou	2026-08-06
+https://hertie.ai/the-institute/team/christina-buerger	2026-08-06
+https://hertie.ai/the-institute/team/chiu-yi-lam	2026-08-06
+
+# Fetched and found not to exist (recorded so a later pass does not repeat them)
+https://hertie.ai/the-institute/team	2026-08-06	HTTP 404 - this is the URL pinned in data/institution_directory_urls.csv
+https://www.hertie-institute-ai-brain-health.de/	2026-08-06	DNS does not resolve (ENOTFOUND)
+https://uni-tuebingen.de/en/research/core-research/hertie-institute-for-ai-in-brain-health/	2026-08-06	HTTP 404
+https://uni-tuebingen.de/forschung/forschungsschwerpunkte/hertie-institut-fuer-ki-in-der-hirngesundheit/	2026-08-06	HTTP 404
+https://uni-tuebingen.de/en/search/?tx_solr[q]=Hertie+Institute+for+AI+in+Brain+Health	2026-08-06	HTTP 404
+https://uni-tuebingen.de/suche/?tx_solr[q]=Hertie+AI	2026-08-06	HTTP 404
+https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/institute/hertie-institut-fuer-ki-in-der-hirngesundheit	2026-08-06	redirects to the site's 404 page
+
+## SECURITY
+No prompt-injection payload was encountered on any page listed above. Nothing on these pages
+addressed an AI agent, asked for instructions to be disregarded, or tried to redirect the task.
+
+## STRUCTURE - what the institute calls its own units
+https://hertie.ai/the-institute/about-us says "the three research Departments are structured around
+supporting Central Structures". The site's own navigation names three research pillars, and the third
+is called Independent Research Groups rather than a department:
+  1. Data Science - Director Philipp Berens. Profiles say "Department of Data Science".
+     Three research groups: Machine Learning for Safe Medical Diagnostics, Neuronal Modeling,
+     Representation Learning and Data Visualization.
+  2. Machine Learning - Director Kerstin Ritter. Profiles say "Department of Machine Learning".
+     Three research groups: Multimodal Modelling, Precision Brain Science, Translational Barriers.
+  3. Independent Research Groups. Four entries: Computational Neuropsychiatry, Neural Data
+     Representation, Quantitative Biomedical Image Analysis, and the Hertie AI Fellow Program.
+Plus Central Structures (Central Office, Scientific Computing, Board of Trustees) - administrative.
+
+## JOINT APPOINTMENTS
+The institute IS part of the University of Tuebingen, so a university link is structural rather than
+incidental: every profile career table names the employer as "Hertie Institute for AI in Brain Health,
+University of Tuebingen" and staff e-mail is @uni-tuebingen.de (a few use @med.uni-tuebingen.de or
+@medizin.uni-tuebingen.de, i.e. the medical faculty / university hospital). Overlap with the already
+collected de-university-of-t-bingen roster is therefore expected for all ten rows, and is recorded
+per row. Breakdown of the ten:
+  - 2 full professors of the University of Tuebingen: Berens (Data Science), Ritter (Machine Learning
+    for Clinical Neuroscience). Both are also PI/Speaker in the Excellence Cluster "Machine Learning -
+    New Perspectives for Science" and in the Tuebingen AI Center, both of which are separate collected
+    institutions - check de-tue-ai-center for duplicates.
+  - 6 group leaders employed through the university without a named chair: Sokoloski, Schulz, Damrich,
+    Kofler, Nghiem, and (see caveat) Kobak.
+  - 1 whose primary chair is elsewhere: Koppe, Full Professor for Scientific Computing at Heidelberg
+    University and Research Group Computational Psychiatry at the Central Institute of Mental Health,
+    Medical Faculty Mannheim. She is a Hertie AI Fellow, not a Tuebingen employee; the Fellow Program
+    page describes Fellows as being from "leading institutions worldwide ... whether based nearby or
+    abroad". She should probably count at Heidelberg.
+  - 1 administrative: Buerger, Managing Director, previously Medical Faculty and Central
+    Administration of the University of Tuebingen.
+  - Historic, not current: Ritter and Schulz both came from Charite - Universitaetsmedizin Berlin
+    (Ritter to 2024, Schulz to 2024) and several of their group members still carry @charite.de
+    addresses, which is a stale-affiliation trap rather than a live joint appointment.
+No group leader on this roster holds a University Hospital Tuebingen appointment that the site names,
+despite the institute's clinical focus; the hospital link appears instead as collaboration language
+("We collaborate closely with the university hospital", "Department of Ophthalmology").
+
+## GAPS, AMBIGUITIES AND WHO WAS NOT GIVEN A ROW
+- Dmitry Kobak got a low-confidence row. His profile is live and its "Present Positions And Title"
+  field still says "Group Leader" of Representation Learning and Data Visualization, but he is absent
+  from the current /data-science/team page and his own career table reads "2026 - now | VIB AI &
+  University of Ghent | Full Professor". The site does not resolve whether he has left.
+- Two of the three Data Science research groups currently show NO leader anywhere on the site:
+  "Machine Learning for Safe Medical Diagnostics" (its former leader Lisa Koch left in 2024) and,
+  if Kobak has gone, "Representation Learning and Data Visualization". Both groups still have PhD
+  students and postdocs listed. If the institute has appointed successors, they are not yet published.
+- Five people carry titles the site prefixes with "Alumni-" and were NOT given rows: Lisa Koch
+  ("Alumni-Group Leader", left 2024 for the Diabetes Center Berne as Professor), Indu Ilanchezian,
+  Jan Niklas Boehm, Patrick Koehler, Sarah Strauss (all "Alumni-PhD student"). Their profile pages
+  are still live but are unlinked from the team pages; they were found only via the member sitemap.
+- Everyone else on the three team pages holds a PhD student, postdoc, research assistant, research
+  associate, scientific software developer, project manager or administrative assistant title, all of
+  which the contract excludes. Head count reached this way: Data Science 20 non-independent, Machine
+  Learning 17, Independent Research Groups 5, Central Office 1 (Chiu Yi Lam, Administrative Assistant).
+- The prose bios of Damrich and Kofler call them "Early Career Research Group Leader" while the
+  structured title field says "Group Leader". The roster records the structured field verbatim and
+  notes the longer form, since the two forms may be ruled on differently.
+- WebSearch was unavailable for this pass: the session's 200-query budget was already exhausted when
+  this task started. Attempts to reach the University of Tuebingen's own pages for this institute by
+  URL guessing all returned 404 (listed above), and third-party search engines refused the requests
+  (DuckDuckGo HTML and Lite endpoints both returned HTTP 202 challenge pages). The university-side
+  view of this institute is therefore MISSING from this pass. If the university publishes a chair
+  list naming Hertie AI group leaders who are absent from hertie.ai, this roster would not have seen
+  them - though hertie.ai's own sitemap was enumerated in full, which bounds that risk.

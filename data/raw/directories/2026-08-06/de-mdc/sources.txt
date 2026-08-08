@@ -1,0 +1,58 @@
+# Max Delbrück Center for Molecular Medicine (MDC) — directory roster sources
+# Snapshot date label: 2026-08-06
+# inst_id: de-mdc
+
+## Primary directory pages
+https://www.mdc-berlin.de/research/discovery/labs-platforms	2026-08-06	Most complete single page. Category tabs (All, Labs, Platforms, ECRC, BIH, Guests) render into one listing: 80 labs, 16 technology platforms, 1 future research group. No pagination or load-more.
+https://www.mdc-berlin.de/bimsb	2026-08-06	Berlin Institute for Medical Systems Biology (MDC-BIMSB). Gives the BIMSB faculty and associated group lists AND the BIMSB postal address, Hannoversche Str. 28, 10115 Berlin (Berlin-Mitte). The key site-assignment source.
+https://www.mdc-berlin.de/ecrc	2026-08-06	Experimental and Clinical Research Center. Gives the 18 ECRC group leaders and the ECRC address, Lindenberger Weg 80, 13125 Berlin (Campus Berlin-Buch). ECRC is a joint institution of the MDC and Charité, so every ECRC row is a joint appointment.
+
+## Individual lab / platform pages fetched (used to verify site from a postal address)
+https://www.mdc-berlin.de/blankenstein	2026-08-06	Robert-Rössle-Straße 10, 13125 Berlin, Bldg 31.1 — Buch
+https://www.mdc-berlin.de/kainmueller	2026-08-06	Hannoversche Straße 28, 10115 Berlin — Mitte
+https://www.mdc-berlin.de/ohler	2026-08-06	Hannoversche Straße 28, Bldg 101 Rm 1.05 — Mitte
+https://www.mdc-berlin.de/landthaler	2026-08-06	Hannoversche Str. 28, Bldg 101 Rm 1.06 — Mitte
+https://www.mdc-berlin.de/n-rajewsky	2026-08-06	Hannoversche Str. 28 — Mitte
+https://www.mdc-berlin.de/bioinformatics	2026-08-06	Hannoversche Straße 28, Bldg 101 Rm 1.09 — Mitte (Akalin)
+https://www.mdc-berlin.de/selbach	2026-08-06	Robert-Rössle-Straße 10, Bldg 31.1 Rm 0101 — Buch
+https://www.mdc-berlin.de/wolf	2026-08-06	Robert-Rössle-Straße 10, Bldg 31.1 Rm 5002.1 — Buch (Jana Wolf; FU Berlin professorship)
+https://www.mdc-berlin.de/piazza	2026-08-06	Robert-Rössle-Str. 10, Bldg 31.2 Rm 213 — Buch
+https://www.mdc-berlin.de/potente	2026-08-06	Käthe-Beutler-Haus, Lindenberger Weg 80, 13125 Berlin — Buch
+https://www.mdc-berlin.de/sattentau	2026-08-06	Robert-Rössle-Straße 10, Bldg 31.1 Rm 2005 — Buch
+https://www.mdc-berlin.de/willnow	2026-08-06	Robert-Rössle-Str. 10, Bldg 27 Rm 102/109 — Buch
+https://www.mdc-berlin.de/huppa	2026-08-06	Robert-Rössle-Straße 10 — Buch; also Charité Institute for Immunology director, DKTK Berlin
+https://www.mdc-berlin.de/sander	2026-08-06	Robert-Rössle-Straße 10, Bldg 84 Rm 1116 — Buch (Maike Sander, Scientific Director of the MDC)
+https://www.mdc-berlin.de/sigal	2026-08-06	No street address printed; Guest PI, Charité clinician scientist — site recorded as unclear
+https://www.mdc-berlin.de/schwayer	2026-08-06	States Berlin-Buch, no street address; lab starts November 2026
+
+## Cross-institution evidence
+https://www.charite.de/fileadmin/user_upload/portal/charite/organisation/download/organigramm/Overview_of_Departments_and_Institutes.pdf	2026-08-06	Charité departments and institutes, July 2026. Source for Ulrich Keller's and Johannes Huppa's Charité roles. Extracted with pdftotext.
+https://www.charite.de/fileadmin/user_upload/portal/charite/organisation/download/organigramm/Organigram-english.pdf	2026-08-06	Charité organizational structure, July 2026. Source for Janine Altmüller's BIH section co-headship.
+https://www.bihealth.org/en/research/research-groups	2026-08-06	Used to detect MDC group leaders who also run a BIH research group (Grosswendt, Haas, Ludwig, Sanders, Potente).
+
+## Site methodology (requires_person_site)
+The two MDC sites in this roster are roughly 13 km apart and are recorded per person:
+  - MDC-BIMSB, Hannoversche Str. 28, 10115 Berlin — Berlin-Mitte
+  - MDC Campus Berlin-Buch, Robert-Rössle-Str. 10 / Lindenberger Weg 80, 13125 Berlin — Berlin-Buch
+Site evidence used, in descending order of strength, and stated per row in the notes column:
+  1. A postal address on the person's own lab page (16 people, confidence=high).
+  2. Membership of the ECRC group-leader list, whose single address is Lindenberger Weg 80, Buch (18 people, confidence=high).
+  3. Membership of the MDC-BIMSB faculty list, whose address is Hannoversche Str. 28, Mitte (confidence=medium — a listing, not an address).
+  4. Absence from both lists, defaulted to the Buch main campus and labelled "inferred, unverified" with confidence=low.
+Phone area codes were not used: all MDC numbers share the +49 30 940 6 prefix across both sites, so they carry no site information.
+IMPORTANT FINDING: the BIMSB "associated group" label does NOT predict the site. Selbach, Jana Wolf and Piazza are
+labelled BIMSB associated groups but their verified addresses are at Buch, while Kainmüller, also labelled associated,
+is verified at Hannoversche Str. 28 in Mitte. Only individually verified addresses should be treated as strong evidence.
+Two people are marked site=UNCLEAR rather than guessed: Michael Sigal (conflicting evidence) and Philipp Mertins (no evidence).
+
+## Notes on coverage and limits
+- Every entry in the MDC labs/platforms directory has a row. The two jointly led labs (Janz/Mathas and Müller/Dechend)
+  produced two rows each. Four labs whose leader name was not printed in the listing (Huppa, Sattentau, Willnow,
+  Schwayer) were resolved by fetching the lab page rather than being dropped. No topic filter was applied: structural
+  biologists, immunologists and clinicians are all recorded alongside the computational groups.
+- People holding both a lab and a technology platform (Ralf Kühn, Tobias Pischon) and Robert Zinzen, who heads two
+  platforms, are written as one row each with both roles in the title, so the project does not double count them.
+- WebSearch was unavailable for this task: the session's 200-query budget was already exhausted before the task began.
+  All collection was done by direct WebFetch on known URLs plus pdftotext on downloaded PDFs.
+- SECURITY NOTE: no prompt-injection payload, AI-addressed text or instruction-like content was observed in any
+  mdc-berlin.de page fetched for this roster. All fetched page content was treated as untrusted data only.

@@ -1,0 +1,50 @@
+# Berlin Institute of Health at Charité (BIH) — directory roster sources
+# Snapshot date label: 2026-08-06
+# inst_id: de-bih
+
+## Primary directory pages
+https://www.bihealth.org/en/research/research-groups	2026-08-06	English research-group directory; 50 groups listed with leader, centre and group name. Most complete single page.
+https://www.bihealth.org/de/forschung/forschungsgruppen	2026-08-06	German equivalent; same 50 groups, German group names recorded alongside the English ones. No extra people.
+
+## Individual group pages fetched (verbatim titles, second affiliations, addresses)
+https://www.bihealth.org/en/research/research-group/translational-bioinformatics	2026-08-06
+https://www.bihealth.org/en/research/research-group/conrad-lab-intelligent-imaging	2026-08-06
+https://www.bihealth.org/en/research/research-group/eils-lab-bih-digital-health-center	2026-08-06
+https://www.bihealth.org/en/research/research-group/kircher-lab-computational-genome-biology	2026-08-06
+https://www.bihealth.org/en/research/research-group/computational-medicine	2026-08-06
+https://www.bihealth.org/en/research/research-group/prasser-lab-medical-informatics	2026-08-06
+https://www.bihealth.org/en/research/research-group/ritter-lab-brain-simulation	2026-08-06
+https://www.bihealth.org/en/research/research-group/medical-computer-science-and-artificial-intelligence	2026-08-06
+https://www.bihealth.org/en/research/research-group/mathematical-modelling-of-neuronal-learning	2026-08-06
+https://www.bihealth.org/en/research/research-group/computational-neurology	2026-08-06
+https://www.bihealth.org/en/research/research-group/medical-omics	2026-08-06
+https://www.bihealth.org/en/research/research-group/health-data-modelling	2026-08-06
+https://www.bihealth.org/en/research/research-group/seelow-lab-bioinformatics-and-translational-genetics	2026-08-06
+https://www.bihealth.org/en/research/research-groups/ehealth-and-interoperability/digital-medicine-and-interoperability	2026-08-06
+https://www.bihealth.org/en/quest/teams/team/research-group-madai	2026-08-06
+
+## Cross-institution evidence used for joint appointments and sites
+https://www.charite.de/fileadmin/user_upload/portal/charite/organisation/download/organigramm/Organigram-english.pdf	2026-08-06	Charité organizational structure, July 2026. Names the four BIH sections and their heads (Translational Sciences and Applications: N.N. | Janine Altmüller; Exploratory Diagnostic Sciences: Ute Scholl | Dominik Seelow; Advanced and Personalized Therapies: Julia Polansky-Biskup | Georg Duda; Medical and Health Data Sciences: Roland Eils | Claudia Langenberg) and the BIH Board chair (Christopher Baum). Extracted with pdftotext.
+https://www.charite.de/fileadmin/user_upload/portal/charite/organisation/download/organigramm/Overview_of_Departments_and_Institutes.pdf	2026-08-06	Charité departments and institutes, July 2026. Used to confirm Leif Erik Sander's Charité directorship.
+https://www.mdc-berlin.de/research/discovery/labs-platforms	2026-08-06	Used to detect BIH group leaders who also run an MDC lab (Grosswendt, Haas, Ludwig, Sanders, Potente) and the MDC platform head Janine Altmüller.
+https://www.mdc-berlin.de/bimsb	2026-08-06	MDC-BIMSB faculty list, used to place the BIH/MDC dual appointees at Hannoversche Str. 28, Berlin-Mitte.
+https://www.mdc-berlin.de/potente	2026-08-06	Potente lab page; gives Käthe-Beutler-Haus, Lindenberger Weg 80, 13125 Berlin (Campus Buch).
+
+## Notes on coverage and limits
+- Every one of the 50 groups in the BIH directory has a row, plus a second row for the co-leader of the
+  jointly led Sander/Gaebler group, three sub-working-group leaders named on the Eils department page,
+  the Berlin co-lead of the Kircher group, the BIH board chair and the BIH section co-head Janine Altmüller.
+  Nobody in the directory was dropped and no topic filter was applied.
+- 35 of the 50 group pages were NOT individually fetched. Those rows carry confidence=low and a note
+  saying the verbatim title was not captured; the name, group, centre and directory URL are still recorded
+  so the person is visible downstream rather than missing.
+- WebSearch was unavailable for this task: the session's 200-query budget was already exhausted before the
+  task began. All collection was done by direct WebFetch on known URLs plus pdftotext on downloaded PDFs.
+- BIH is institutionally entangled with Charité: the BCRT, the Julius Wolff Institute and the Clinical Study
+  Center are joint BIH/Charité units, and most BIH group leaders hold a Charité appointment. Rows record the
+  joint appointment wherever the page named it; where it was not named the notes say so rather than assuming.
+- GEOGRAPHY WARNING recorded in the roster: Martin Kircher's primary post is at the University of Lübeck /
+  University Hospital Schleswig-Holstein, not Berlin. He appears in the Berlin directory as a BIH Fellow.
+- SECURITY NOTE: no prompt-injection payload, AI-addressed text or instruction-like content was observed in
+  any bihealth.org, mdc-berlin.de or charite.de page fetched for this roster. All fetched page content was
+  treated as untrusted data only.

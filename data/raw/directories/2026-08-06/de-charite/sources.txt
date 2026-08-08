@@ -1,0 +1,104 @@
+# Charité – Universitätsmedizin Berlin — directory roster sources
+# Snapshot date label: 2026-08-06
+# inst_id: de-charite
+
+## Authoritative documents (most complete sources by a wide margin)
+https://www.charite.de/fileadmin/user_upload/portal/charite/organisation/download/organigramm/Overview_of_Departments_and_Institutes.pdf	2026-08-06	"Departments, institutes and divisions of CharitéCenters | July 2026". THE most complete source: every institute and clinical department in CC1-CC17 with its named director. Fetched as a PDF and extracted with pdftotext -layout; WebFetch alone could not read it.
+https://www.charite.de/fileadmin/user_upload/portal/charite/organisation/download/organigramm/Overview_of_Departments_and_Institutes_DHZC.pdf	2026-08-06	"DHZC Clinics and Institutes | October 2025". The Deutsches Herzzentrum der Charité units, including the Institute of Computer-assisted Cardiovascular Medicine (Titus Kühne) and the Institute of Artificial Intelligence in Medicine (Alexander Meyer) - neither of which is reachable from the CC1 informatics pages. Extracted with pdftotext.
+https://www.charite.de/fileadmin/user_upload/portal/charite/organisation/download/organigramm/Organigram-english.pdf	2026-08-06	"Organizational Structure | July 2026". Board of Directors, Dean and Vice Deans, and the four BIH sections with their heads. Extracted with pdftotext.
+
+## Structural navigation
+https://www.charite.de/en/	2026-08-06
+https://www.charite.de/en/charite/	2026-08-06	States "over 100 departments and institutes in 17 CharitéCenters"; links to the three PDFs above.
+https://www.charite.de/en/charite/charitecenters/	2026-08-06	Names all 17 CharitéCenters and their URLs but lists no institutes or people.
+https://www.charite.de/en/charite/charitecenters/prevention_health_and_human_sciences_cc1/	2026-08-06	CC1 institute list with per-institute hostnames (used to find medinfo.charite.de, biometrie.charite.de, iph.charite.de).
+https://www.charite.de/en/service/finder/find_clinic_center/	2026-08-06	Department/centre finder; reports 126 departments but paginates 8 at a time and lists no leaders. Not used as the backbone.
+https://www.charite.de/en/research/	2026-08-06
+https://www.charite.de/en/research/charite_research/research_centers/	2026-08-06	Six research centres (NWFZ/NeuroCure, Max Rubner Center, MKFZ, BCRT, ECRC, NCT Berlin); names no directors.
+
+## Institute-level pages (sub-director group leaders)
+https://medinfo.charite.de/en/	2026-08-06	Institute of Medical Informatics home; names only Balzer.
+https://medinfo.charite.de/en/research/	2026-08-06	The institute's five research groups.
+https://medinfo.charite.de/en/research/data_analytics_research_group/	2026-08-06
+https://medinfo.charite.de/en/research/ag_clinical_implementation_science_in_digital_health_cidh/	2026-08-06
+https://medinfo.charite.de/en/research/data_ecosystems_and_care_analytics_research_group/	2026-08-06
+https://medinfo.charite.de/en/research/imaging_and_signals_research_group/	2026-08-06
+https://medinfo.charite.de/en/research/intelligent_patient_monitoring_research_group/	2026-08-06
+https://medinfo.charite.de/en/about_us/team/	2026-08-06	Richest single people page found at Charité: director, deputy, two section heads, seven professors/habilitated researchers, two CMIO team heads.
+https://biometrie.charite.de/ueber_das_institut/team/	2026-08-06	GERMAN page. Institute leadership plus nine named AG-Leitungen. The English equivalent (/en/about_the_institute/team/) lists nobody and explicitly refers the reader to the German page - a direct instance of the contract's warning that English pages at European institutions are stale.
+https://iph.charite.de/ueber_das_institut/team/	2026-08-06	GERMAN page. Director, deputy director, one further professorship, plus 14 Privatdozenten and 3 außerplanmäßige Professuren.
+https://neurologie.charite.de/forschung/	2026-08-06	GERMAN page. Three named research sections of the Department of Neurology (Prüß, Kühn, Ritter).
+https://psychiatrie.charite.de/en/research/	2026-08-06	Twelve research groups listed BY NAME ONLY - no leaders named. See coverage gap below.
+https://www.mdc-berlin.de/huppa	2026-08-06	Used for Johannes B. Huppa's verbatim Charité title.
+
+## URLs tried that failed (recorded so a later pass does not repeat them)
+https://www.charite.de/en/charite/organization/institutes_and_clinics/	2026-08-06	HTTP 404
+https://www.charite.de/en/charite/organization/	2026-08-06	HTTP 404
+https://medizininformatik.charite.de/en/	2026-08-06	DNS: host does not exist (the correct host is medinfo.charite.de)
+https://itb.charite.de/en/	2026-08-06	DNS: host does not exist
+https://pathologie.charite.de/en/research/	2026-08-06	DNS: host does not exist
+https://neurologie.charite.de/en/research/	2026-08-06	HTTP 404 (the German /forschung/ path works)
+https://biometrie.charite.de/en/about_the_institute/team/	2026-08-06	Loads but contains no people
+https://iph.charite.de/en/	2026-08-06	Loads but contains no people
+https://medpsych.charite.de/en/	2026-08-06	Loads but contains no people
+https://www.dhzc.charite.de/en/research/institutes/	2026-08-06	HTTP 404
+https://neurocure.de/en/research/principal-investigators.html	2026-08-06	HTTP 404
+https://www.neurocure.de/en/	2026-08-06	301 redirect to another host; not followed before budget ran out
+
+## Vacancies recorded rather than written as rows (a chair exists but no person holds it, July 2026)
+Institute of Occupational Medicine (CC1) — TBA
+Institute of Health Care Systems Research (CC1) — TBA
+Institute of Molecular Biology and Bioinformatics (CC2) — TBA
+Institute of Theoretical Biology (CC2) — TBA
+BIH section "Translational Sciences and Applications" — one of the two head slots is N.N.
+These are unfilled positions, not people, so they are noted here instead of becoming roster rows. Two of the
+four (Molecular Biology and Bioinformatics, Theoretical Biology) are computational units and are worth
+re-checking on the next pass.
+
+## Coverage: what this roster does and does not contain
+CONTAINS, comprehensively and with no topic filter:
+  - The Board of Directors, the Dean and all four Vice Deans.
+  - The scientific director(s) of every one of CC1-CC17.
+  - The named head of every institute, clinic, department and division listed in the July 2026
+    "Departments, institutes and divisions of CharitéCenters" document — surgery, obstetrics, dentistry and
+    forensic medicine included alongside the computational units, exactly as the contract requires.
+  - Every DHZC clinic and institute head from the October 2025 DHZC document.
+  - All sub-director research group leaders at the Institute of Medical Informatics, the Institut für
+    Biometrie und Klinische Epidemiologie, the Institute of Public Health leadership, and the three named
+    research sections of the Department of Neurology.
+
+DOES NOT CONTAIN — the significant, known gap:
+  Charité has roughly 100 departments and institutes and several hundred professorships. This roster reaches
+  sub-director level in only four of those units. Independent W2/W3 professors and junior research group
+  leaders inside the other ~95 units are NOT enumerated. Charité publishes no single institution-wide
+  professorship or research-group directory that I could reach, its finder paginates 8 units at a time with
+  no leader names, and most institute sites hide their people behind German-only sub-pages on
+  per-institute hostnames. This is a coverage gap, not a claim that those people do not exist. Concretely,
+  psychiatrie.charite.de names twelve research groups without naming a single leader; those twelve leaders
+  are missing from this file and should be collected on a follow-up pass.
+
+ON THE PRIOR "FEW AI PIs" RATING: that rating is not supported. Before reaching sub-director level in more
+than four units this pass already found, among others, an entire Institute of Medical Informatics with five
+research groups and seven further professors, a machine-learning working group and a clinical-prediction
+working group inside the biometry institute, a brain-simulation section in neurology, a DHZC Institute of
+Computer-assisted Cardiovascular Medicine and a DHZC Institute of Artificial Intelligence in Medicine. The
+last two sit outside the CC1 informatics line entirely and would have been missed by an informatics-only
+sweep. The true figure is materially higher than "few" and is bounded below, not above, by this file.
+
+## Joint appointments flagged for de-duplication
+Christopher Baum, Leif Erik Sander and Petra Ritter also appear in the de-bih roster.
+Ulrich Keller and Johannes B. Huppa also appear in the de-mdc roster.
+Alexander Meyer is a possible duplicate of a person of the same name in the de-bifold roster.
+Stefan Haufe (Institute of Medical Informatics) is flagged as a possible duplicate of a Berlin machine-learning
+PI of the same name; the Charité page names no second affiliation, so the overlap is flagged, not asserted.
+BCRT, the Julius Wolff Institute, the Clinical Study Center and the ECRC are all joint Charité units with BIH
+or the MDC; people in them appear in the de-bih or de-mdc rosters and must be counted once.
+
+## Other constraints
+- WebSearch was unavailable for this entire task: the session's 200-query budget was already exhausted before
+  the task began, so every page here was reached by direct WebFetch on a guessed or linked URL. Several
+  institute hostnames had to be discovered from the CC1 page rather than searched for, and the failed URLs
+  above are the cost of that.
+- SECURITY NOTE: no prompt-injection payload, AI-addressed text or instruction-like content was observed in
+  any charite.de, dhzc.charite.de or per-institute Charité page fetched for this roster. All fetched page
+  content, including the three PDFs, was treated as untrusted data only and never as instructions.

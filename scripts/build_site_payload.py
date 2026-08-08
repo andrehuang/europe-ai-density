@@ -236,8 +236,12 @@ def main() -> int:
                     "status": "verified" if v["status"] == "reconciled" else "provisional",
                 })
 
+    # evidence_url is not decoration: this table asserts things about named people, and
+    # without the source a reader can only take the assertion on trust. The rulings have
+    # carried the URL for 160 of 162 exclusions all along; the export dropped the column,
+    # so the published table was the one place the evidence did not travel with the claim.
     exc_fields = ["candidate_name", "city_considered", "reason_code", "reason",
-                  "counts_toward", "confidence"]
+                  "counts_toward", "confidence", "evidence_url"]
     with (ROOT / "data" / "exclusions.csv").open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=exc_fields)
         w.writeheader()
@@ -251,7 +255,8 @@ def main() -> int:
                 w.writerow({"candidate_name": r["name"], "city_considered": city,
                             "reason_code": r["reason_code"], "reason": r["reason"],
                             "counts_toward": r.get("city_if_elsewhere", ""),
-                            "confidence": r.get("evidence_confidence", "")})
+                            "confidence": r.get("evidence_confidence", ""),
+                            "evidence_url": r.get("evidence_url", "")})
 
     # --- preview layer: CSRankings only, every institution ---------------------------
     preview = defaultdict(list)

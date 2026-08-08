@@ -1,64 +1,147 @@
-Sources fetched for tuebingen-saarbruecken-kaiserslautern.csv, retrieved 2026-08-06.
+# Sources fetched for munich-berlin-stuttgart.csv coverage sweep, retrieved 2026-08-06
+# Compiled from three parallel research passes (Munich, Berlin, Stuttgart) plus direct gap-checks.
 
-Enumerating sources (society-level directories):
-https://www.mpg.de/institutes (Max Planck Society institute list; page did not fully enumerate by search filter, cross-checked via Wikipedia)
-https://en.wikipedia.org/wiki/List_of_Max_Planck_Institutes
-https://www.fraunhofer.de/en/institutes-and-research-establishments.html (404, not usable directly)
-https://en.wikipedia.org/wiki/Fraunhofer_Society
-https://en.wikipedia.org/wiki/Leibniz_Association
-https://en.wikipedia.org/wiki/Helmholtz_Association
+## Munich
+https://www.iks.fraunhofer.de/
+https://www.iks.fraunhofer.de/en/institute/team.html
+https://www.aisec.fraunhofer.de/en.html
+https://www.aisec.fraunhofer.de/en/fields-of-expertise.html
+https://www.hm.edu
+https://cs.hm.edu/fakultaet/personen/professuren.de.html
+https://www.mri.tum.de
+https://www.kiinformatik.mri.tum.de/de/lehrstuhl-fuer-artificial-intelligence-healthcare-and-medicine
+https://www.dlr.de/en/rm
+https://www.dlr.de/en/rm/about-us/contact
+https://www.dlr.de/en/eoc/about-us/remote-sensing-technology-institute
+https://www.dlr.de/en/eoc
+https://www.dlr.de/en/sc
+https://www.eso.org
+https://www.eso.org/sci/activities/garching/personnel.html
+https://www.biochem.mpg.de/
+https://www.biochem.mpg.de/forschung
+https://www.lmu-klinikum.de
+https://www.ibe.med.uni-muenchen.de
+https://www.psych.mpg.de/en
+https://www.bi.mpg.de/
+https://www.bi.mpg.de/labs/de
+https://www.emft.fraunhofer.de/en.html
+https://www.igcv.fraunhofer.de/en.html
+https://www.igcv.fraunhofer.de/en/research.html
+https://www.mpa-garching.mpg.de/
+https://www.mpa-garching.mpg.de/109183/Information-Field-Theory
+https://www.bidt.digital/en/
+https://www.bidt.digital/person-sitemap.xml
+https://www.iis.fraunhofer.de/en.html
+https://www.ipp.mpg.de/en
+https://www.ipp.mpg.de/ippcms/eng/for/bereiche/numerik
+https://www.hswt.de
+https://www.lrz.de
+https://www.lrz.de/forschung/forschungsprojekte
+https://www.appliedai-institute.de/en
+https://www.appliedai-institute.de/en/participate/experts/
+https://www.bauhaus-luftfahrt.net/en/
+https://www.bauhaus-luftfahrt.net/en/facts-figures/
+https://www.mpe.mpg.de/
+https://www.mpq.mpg.de/
+https://www.mpp.mpg.de/
+https://www.ip.mpg.de/
+https://www.mpisoc.mpg.de/
+https://www.tax.mpg.de/
+https://www.dzne.de/en/about-us/sites/munich
+https://www.ifo.de/en
+# mpg.de institute directory (Bavaria filter), fraunhofer.de institute directory (Bavaria filter),
+# leibniz-gemeinschaft.de 96-member sitemap, helmholtz.de 18-centre A-Z list checked as enumerating sources.
+# German Wikipedia entry for Leibniz-Rechenzentrum consulted to confirm LRZ is not a Leibniz Association member.
+# UnternehmerTUM, ELLIS Unit Munich, MIRMI, IEAI, MCML partner list, SyNergy/ORIGINS/e-conversion/MCQST cluster
+# pages, and CDTM checked and excluded as virtual networks / non-employer clusters / sub-units of collected institutions.
 
-Tübingen:
-https://www.iwm-tuebingen.de/www/en/institut/mitarbeiterinnen.html
-http://www.bio.tuebingen.mpg.de/ (Max Planck Institute for Biology Tübingen)
-https://en.wikipedia.org/wiki/Max_Planck_Institute_for_Biology_T%C3%BCbingen
-https://www.cyber-valley.de/en/about
-https://www.reutlingen-university.de
-https://www.inf.reutlingen-university.de/home/
-https://www.hih-tuebingen.de/en/ (Hertie Institute for Clinical Brain Research)
-https://www.medizin.uni-tuebingen.de/en-de/startseite
-https://www.medizin.uni-tuebingen.de/en-de/forschung
-https://www.medizin.uni-tuebingen.de/en-de/forschung/forschungszentren-und-institute (404)
-https://www.medizin.uni-tuebingen.de/en-de/forschung/center-for-digital-health (404)
-https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/institute
-https://uni-tuebingen.de/en/faculties/medical-faculty/institutes/interfaculty-institute-for-biomedical-informatics/ (404)
+## Berlin
+https://www.wias-berlin.de
+https://www.wias-berlin.de/research/rgs/ (fetch failed, timeout)
+https://www.drfz.de
+https://www.drfz.de/en/people-at-the-drfz/
+https://www.museumfuernaturkunde.berlin
+https://www.museumfuernaturkunde.berlin/en/research/departments/
+https://www.izw-berlin.de
+https://www.izw-berlin.de/en/dept6-staff.html
+https://www.igb-berlin.de
+https://www.igb-berlin.de/en/departments
+https://leibniz-fmp.de
+https://leibniz-fmp.de/research/research-groups-technology-platforms
+https://www.diw.de
+https://www.diw.de/en/diw_01.c.242173.en/departments.html (mostly 404 this pass)
+https://www.wzb.eu
+https://www.wzb.eu/en/research
+https://www.leibniz-zas.de
+https://www.fbh-berlin.de
+https://www.ikz-berlin.de
+https://www.pdi-berlin.de (TLS errors; cross-checked via Wikipedia)
+https://www.mbi-berlin.de
+https://www.zfl-berlin.org
+https://www.leibniz-zmo.de (unreachable)
+https://www.pik-potsdam.de
+https://www.pik-potsdam.de/en/institute/departments/complexity-science
+https://www.aip.de
+https://www.aip.de/en/research/
+https://www.atb-potsdam.de
+https://www.atb-potsdam.de/en/research
+https://www.dife.de
+https://www.dife.de/en/research/
+https://leibniz-irs.de
+https://zzf-potsdam.de
+https://www.igzev.de (404 this pass)
+https://www.zib.de
+https://www.zib.de/institute
+https://www.fhi.mpg.de
+https://www.fhi.mpg.de/th-department/groups
+https://www.molgen.mpg.de
+https://www.molgen.mpg.de/4927993/01_Research_Labs
+https://www.mpiwg-berlin.mpg.de
+https://www.mpiwg-berlin.mpg.de/research/digital-humanities
+https://www.mpiib-berlin.mpg.de
+https://www.aei.mpg.de
+https://www.mpikg.mpg.de
+https://www.mpimp-golm.mpg.de (404 this pass)
+https://www.helmholtz-berlin.de
+https://www.helmholtz-berlin.de/forschung/oe/ps/ai-and-biomolecular-structures/index_de.html
+https://www.gfz.de/en
+https://www.gfz.de/en/section/seismology/overview
+https://www.mdc-berlin.de
+https://www.mdc-berlin.de/research/discovery/labs-platforms
+https://www.hhi.fraunhofer.de/en.html
+https://www.hhi.fraunhofer.de/en/departments/ai/research-groups.html
+https://www.fokus.fraunhofer.de/en
+https://www.fokus.fraunhofer.de/en/fame
+https://www.ipk.fraunhofer.de/en.html
+https://www.ipk.fraunhofer.de/en/about-us/organization/automation-technology.html
+https://www.izm.fraunhofer.de/en.html
+https://www.bht-berlin.de
+https://www.bht-berlin.de/99
+https://www.htw-berlin.de
+https://ai.htw-berlin.de/personen/
+https://www.hwr-berlin.de
+https://www.d-cube.hwr-berlin.de/institut/personen/
+https://esmt.berlin
+https://esmt.berlin/faculty-research/faculty-overview
+https://www.hertie-school.org (faculty page 403)
+https://hertie-data-science-lab.github.io
+https://www.uni-potsdam.de
+https://www.cs.uni-potsdam.de
+https://hpi.de (403 direct fetch)
+https://hpi.de/en/research/chairs.html
+https://www.uni-potsdam.de/en/digital-engineering/research/fields-of-study
+https://www.digital-future.berlin/en/
+https://web2.ecdf.tu-berlin.de/en/about-us/professors/
+https://www.udk-berlin.de
+https://www.charite.de/en/
+https://medinfo.charite.de/en/
+https://www.bihealth.org/en/
+https://www.bihealth.org/en/research/research-groups
+https://www.rki.de
+https://www.rki.de/DE/Institut/Organisation/Abteilungen/ZKI-PH/zki-ph-zentrum-fuer-kuenstliche-intelligenz-in-der-public-health-forschung-node.html
+https://www.swp-berlin.org
+# leibniz-gemeinschaft.de member list (Berlin/Brandenburg filter), mpg.de institute list (Berlin filter),
+# helmholtz.de member list, fraunhofer.de institute list (Berlin filter) checked as enumerating sources.
 
-Saarbrücken:
-https://www.izfp.fraunhofer.de/en/business-units.html (404)
-https://www.izfp.fraunhofer.de/en.html
-https://www.izfp.fraunhofer.de
-https://www.izfp.fraunhofer.de/de/institutsprofil/institutsstruktur.html
-https://www.leibniz-inm.de/en/research/
-https://www.htwsaar.de/en/university/faculties (404)
-https://www.htwsaar.de
-https://www.htwsaar.de/ing
-https://www.htwsaar.de/ing/fakultaet/personen (404)
-https://www.htwsaar.de/informatik (404)
-https://www.zema.de/en
-https://www.helmholtz-hips.de/en/research/
-https://www.ibmt.fraunhofer.de/en.html
-https://www.uks.eu/en/ (404)
-https://www.uks.eu
-
-Kaiserslautern:
-https://www.itwm.fraunhofer.de/en/departments.html
-https://www.itwm.fraunhofer.de/en.html
-https://www.itwm.fraunhofer.de/en/departments/analytics-and-computing.html (404)
-https://www.itwm.fraunhofer.de/en/departments/image-processing.html
-https://www.iese.fraunhofer.de/en/about_us/locations.html (404)
-https://www.iese.fraunhofer.de/en.html
-https://www.ivw.uni-kl.de/en/institute/
-https://www.ivw.uni-kl.de
-https://www.hs-kl.de/en/university/faculties (404)
-https://www.hs-kl.de
-https://www.hs-kl.de/en/faculties/imst (404, wrong path guess)
-https://www.hs-kl.de/informatik-und-mikrosystemtechnik
-https://www.hs-kl.de/hochschule/profil/personenverzeichnis
-https://cs.rptu.de/en/ (RPTU CS department — used only to confirm RPTU hosts AI groups; RPTU itself is already on the collected list and gets no CSV row)
-
-Note: WebSearch returned "session has used its web search budget (200 of 200)" on every attempt in this
-task (first call onward) — the quota had already been exhausted by other work earlier in this session,
-before this task began. All research after that point used WebFetch against directly-typed or guessed
-URLs only, per the contract's "fetch known URLs directly" guidance. Several guessed URLs 404'd (listed
-above) and were abandoned rather than retried via search; those gaps are reflected as confidence=low
-rows in the CSV rather than silently dropped.
+## Stuttgart
+# Pending at time of writing -- see final version of this file for the completed list.

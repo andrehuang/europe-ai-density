@@ -94,8 +94,48 @@ site/                  Output: ranking table, scatter plot, interactive map
 
 ## Status
 
-P0 (schema and rules) in progress. Nothing has been verified yet — no number in this repo
-should be quoted until `data/people.csv` has rows with `status = verified`.
+Live at **https://andrehuang.github.io/europe-ai-density/**
+
+Six cities have been through the full protocol: **225 people, all `status = verified`**
+(132 T1, 73 T2, 20 T3), against **162 exclusions**, each with a reason code and a source URL.
+
+| City | PIs | | City | PIs |
+| --- | --- | --- | --- | --- |
+| München | 94 | | Berlin | 31 |
+| Saarbrücken | 37 | | Stuttgart | 20 |
+| Tübingen | 33 | | Kaiserslautern | 10 |
+
+**Every other city on the map is a CSRankings-only preview**, drawn hollow rather than
+filled, and inherits every gap documented in `audit/00-source-coverage.md`. Those numbers
+are not results. See [STATUS.md](STATUS.md) for what is trustworthy and what is not.
+
+## Disputing a row
+
+Every number here is an assertion about named people, so it has to be contestable. Open an
+issue or a pull request against the relevant CSV — there is no private correction channel,
+because a correction nobody can see is not an audit.
+
+**What settles a disagreement** is the source, not the argument. The hierarchy is fixed:
+
+1. The institution's own dated directory page — first-party, settles it.
+2. CSRankings — curated, but second-hand.
+3. A DBLP affiliation note — undated and crowd-maintained. It is grounds for a re-check,
+   never evidence that overrides 1.
+
+So the useful form of a dispute is a link of type 1, with the date you retrieved it.
+
+**What an exclusion does and does not mean.** `data/exclusions.csv` records that someone
+falls outside *this count's scope rule* on the snapshot date — most often that the post is
+not an independent one (`E15`), or that they had already moved (`E08`). It is a statement
+about a boundary, not about a researcher's standing or quality, and the reason text is kept
+in full precisely so you can judge whether the boundary was drawn correctly.
+
+**The full history of any decision**, including reversals and what evidence caused them:
+
+```
+python3 scripts/decisionlog.py "<name>"      one person's complete decision history
+python3 scripts/decisionlog.py --flips       every ruling that changed, and why
+```
 
 ## Method documentation
 

@@ -29,9 +29,28 @@ ADJ = ADJUDICATION
 
 
 def read(path):
+    """Read an adjudication CSV, refusing any row whose width disagrees with the header.
+
+    csv.DictReader is silent about both directions: a long row's overflow lands under the
+    None key, and a short row's tail becomes None values. Berlin's queue carried three rows
+    with an unheadered extra column, which shifted every later field one place — evidence_url
+    came out empty, confidence held a date, and the reason field held the word "medium".
+    The include/exclude verdicts happened to sit left of the shift and survived, so nothing
+    downstream looked wrong. Loud is the only safe behaviour here.
+    """
     if not path.exists():
         return []
-    return list(csv.DictReader(path.open(encoding="utf-8")))
+    rows = list(csv.DictReader(path.open(encoding="utf-8")))
+    for i, r in enumerate(rows, start=2):
+        if None in r:
+            raise SystemExit(
+                f"{path}:{i}: row has more fields than the header "
+                f"(overflow: {r[None]!r}). Repair the file; do not widen the reader.")
+        missing = [k for k, v in r.items() if v is None]
+        if missing:
+            raise SystemExit(
+                f"{path}:{i}: row is missing trailing fields {missing}. Repair the file.")
+    return rows
 
 
 def truthy(v):

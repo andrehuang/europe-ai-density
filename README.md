@@ -96,14 +96,19 @@ site/                  Output: ranking table, scatter plot, interactive map
 
 Live at **https://andrehuang.github.io/europe-ai-density/**
 
-Six cities have been through the full protocol: **225 people, all `status = verified`**
-(132 T1, 73 T2, 20 T3), against **162 exclusions**, each with a reason code and a source URL.
+Seven cities have been through the full protocol: **244 people, all `status = verified`**
+(146 T1, 77 T2, 21 T3), against **178 exclusions**, every one carrying a reason code and a
+source URL. 3,372 decisions are recorded in `data/decisions.jsonl`.
 
 | City | PIs | | City | PIs |
 | --- | --- | --- | --- | --- |
-| München | 94 | | Berlin | 31 |
-| Saarbrücken | 37 | | Stuttgart | 20 |
-| Tübingen | 33 | | Kaiserslautern | 10 |
+| München | 90 | | Stuttgart | 20 |
+| Saarbrücken | 38 | | Potsdam | 16 |
+| Tübingen | 35 | | Kaiserslautern | 10 |
+| Berlin | 35 | | | |
+
+Potsdam is its own city rather than part of Berlin. It is 25–35 km from Mitte, and this
+project places people where they work; whether the two combine is the reader's radius call.
 
 **Every other city on the map is a CSRankings-only preview**, drawn hollow rather than
 filled, and inherits every gap documented in `audit/00-source-coverage.md`. Those numbers

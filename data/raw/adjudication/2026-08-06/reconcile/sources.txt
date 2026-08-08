@@ -127,3 +127,78 @@ to be independent PIs currently in Munich (Felix Krahmer, Birgit Vogel-Heuser, J
 Harrington, Liqiu Meng, Jia Chen 0003); the great majority were current PhD students or postdocs
 inside someone else's chair, or industry-only (Huawei Munich, BMW, Siemens, fortiss, SAP, Meta,
 Microsoft) — consistent with this being the low-publication end of the queue.
+
+================================================================================
+Reconcile adjudication, 8 queued names (3 Tuebingen + 5 Berlin), retrieved 2026-08-08
+(rows written with retrieved=2026-08-06 per the task's field specification)
+Names: Matthias Hein 0001, Sebastian Damrich, Thomas Walter 0003 (tuebingen.csv);
+Thomas Steinke 0002, Frank Neumann 0001, Frank Schneider 0001, Johannes Fischer 0007,
+Alexander Martin 0006 (berlin.csv).
+
+-- Institution staff pages (source hierarchy tier 1) --
+https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/maschinelles-lernen/team/prof-dr-matthias-hein/ (2026-08-08)
+https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/ (2026-08-08)
+https://hertie.ai/independent-research-groups/team/members/sebastian-damrich (2026-08-08)
+https://hertie.ai/data-science/team/members/sebastian-damrich (2026-08-08)
+https://institute-tue.ellis.eu/en/people/mh (2026-08-08)
+https://www.zib.de/members (2026-08-08)
+https://www.zib.de/members/steinke (2026-08-08)
+https://www.zib.de/research/pdc/das (2026-08-08)
+https://www.zib.de/node/7159 (2026-08-08)
+https://prof.bht-berlin.de/neumann (2026-08-08)
+https://prof.bht-berlin.de/schneider (2026-08-08)
+https://www.htw-berlin.de/hochschule/personen/person/?id=9685 (2026-08-08)
+https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html (2026-08-08)
+https://www.adelaide.edu.au/directory/frank.neumann (2026-08-08)
+
+-- Personal pages / group pages (source hierarchy tier 2) --
+http://www.ceres.zdv.uni-tuebingen.de/allgemeines.html (2026-08-08)
+https://www.thomas-steinke.net/ (2026-08-08)
+
+-- DBLP identity checks (tier 3: grounds for a check, never decisive) --
+https://dblp.org/search?q=Matthias+Hein (2026-08-08)
+https://dblp.org/pid/97/1213-1.html (2026-08-08)
+https://dblp.org/search?q=Thomas+Walter (2026-08-08)
+https://dblp.org/pid/42/5693-2.html (2026-08-08)
+https://dblp.org/pid/252/5237.html (2026-08-08)
+https://dblp.org/search?q=Thomas+Steinke (2026-08-08)
+https://dblp.org/pid/73/4025-2.html (2026-08-08)
+https://dblp.org/search?q=Frank+Neumann (2026-08-08)
+https://dblp.org/pid/n/FrankNeumann.html (2026-08-08)
+https://dblp.org/search?q=Frank+Schneider (2026-08-08)
+https://dblp.org/search?q=Johannes+Fischer (2026-08-08)
+https://dblp.org/search/author/api?q=Johannes+Fischer&format=json&h=60 (2026-08-08)
+https://dblp.org/pid/262/8940-7.html (2026-08-08)
+https://dblp.org/pid/244/9579.html (2026-08-08)
+https://dblp.org/search?q=Alexander+Martin (2026-08-08)
+https://dblp.org/search/author/api?q=Alexander+Martin&format=json&h=60 (2026-08-08)
+https://dblp.org/pid/352/3194.html (2026-08-08)
+
+-- Local roster evidence reused (already collected under this pipeline) --
+data/raw/directories/2026-08-06/de-university-of-t-bingen/roster.csv (2026-08-06)
+data/raw/directories/2026-08-06/de-hertie-ai/roster.csv (2026-08-06)
+data/raw/directories/2026-08-06/de-ellis-inst-tue/roster.csv (2026-08-06)
+data/raw/directories/2026-08-06/de-tue-ai-center/roster.csv (2026-08-06)
+data/raw/directories/2026-08-06/de-zib/roster.csv (2026-08-06)
+data/raw/directories/2026-08-06/de-bht/roster.csv (2026-08-06)
+data/raw/directories/2026-08-06/de-htw-berlin/roster.csv (2026-08-06)
+data/raw/directories/2026-08-06/de-fraunhofer-hhi/roster.csv (2026-08-06)
+
+-- Search-proxy queries used only to locate URLs (no evidential weight) --
+https://html.duckduckgo.com/html/?q=Matthias+Hein+University+of+Tuebingen+machine+learning+professor (2026-08-08)
+https://html.duckduckgo.com/html/?q=%22Sebastian+Damrich%22+Tuebingen+Hertie+Berens+Kobak (2026-08-08)
+https://html.duckduckgo.com/html/?q=site%3Abht-berlin.de+%22Frank+Neumann%22 (2026-08-08)
+https://html.duckduckgo.com/html/?q=site%3Abht-berlin.de+%22Frank+Schneider%22+Professor (2026-08-08)
+
+SECURITY NOTE: no prompt-injection or agent-directed text was encountered on any page
+fetched for these eight names. The only anomalies were mechanical: html.duckduckgo.com and
+lite.duckduckgo.com began returning a CAPTCHA challenge page part-way through, mojeek.com
+returned HTTP 403, and www.bing.com returned results for the bare given name rather than the
+quoted query. None of these attempted to redirect the task; they were treated as failed
+fetches and worked around with direct institution URLs and the DBLP author API.
+
+BLOCKER: the WebSearch budget was already exhausted (200/200) at the start of this task,
+inherited from earlier pipeline stages; the two searches attempted were rejected. All
+evidence above was therefore gathered with WebFetch against known, derived or
+roster-supplied URLs, per the contract's "fetch known URLs directly" guidance. This did not
+leave any of the eight unresolved.

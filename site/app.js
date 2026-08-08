@@ -645,6 +645,11 @@
   // ---- go ------------------------------------------------------------------------
   document.getElementById("meta-snapshot").textContent = D.meta.snapshot;
   document.getElementById("meta-window").textContent = D.meta.window;
+  // Derived, never written by hand: the masthead read "4 cities audited" for two cities
+  // longer than it was true, because it was a literal in the template.
+  const nAudited = Object.keys(D.audited).length;
+  document.getElementById("meta-cities").textContent =
+    nAudited + (nAudited === 1 ? " city" : " cities");
   resize();
   renderTable();
 })();

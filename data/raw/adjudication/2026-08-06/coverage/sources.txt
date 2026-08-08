@@ -1,0 +1,64 @@
+Sources fetched for tuebingen-saarbruecken-kaiserslautern.csv, retrieved 2026-08-06.
+
+Enumerating sources (society-level directories):
+https://www.mpg.de/institutes (Max Planck Society institute list; page did not fully enumerate by search filter, cross-checked via Wikipedia)
+https://en.wikipedia.org/wiki/List_of_Max_Planck_Institutes
+https://www.fraunhofer.de/en/institutes-and-research-establishments.html (404, not usable directly)
+https://en.wikipedia.org/wiki/Fraunhofer_Society
+https://en.wikipedia.org/wiki/Leibniz_Association
+https://en.wikipedia.org/wiki/Helmholtz_Association
+
+Tübingen:
+https://www.iwm-tuebingen.de/www/en/institut/mitarbeiterinnen.html
+http://www.bio.tuebingen.mpg.de/ (Max Planck Institute for Biology Tübingen)
+https://en.wikipedia.org/wiki/Max_Planck_Institute_for_Biology_T%C3%BCbingen
+https://www.cyber-valley.de/en/about
+https://www.reutlingen-university.de
+https://www.inf.reutlingen-university.de/home/
+https://www.hih-tuebingen.de/en/ (Hertie Institute for Clinical Brain Research)
+https://www.medizin.uni-tuebingen.de/en-de/startseite
+https://www.medizin.uni-tuebingen.de/en-de/forschung
+https://www.medizin.uni-tuebingen.de/en-de/forschung/forschungszentren-und-institute (404)
+https://www.medizin.uni-tuebingen.de/en-de/forschung/center-for-digital-health (404)
+https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/institute
+https://uni-tuebingen.de/en/faculties/medical-faculty/institutes/interfaculty-institute-for-biomedical-informatics/ (404)
+
+Saarbrücken:
+https://www.izfp.fraunhofer.de/en/business-units.html (404)
+https://www.izfp.fraunhofer.de/en.html
+https://www.izfp.fraunhofer.de
+https://www.izfp.fraunhofer.de/de/institutsprofil/institutsstruktur.html
+https://www.leibniz-inm.de/en/research/
+https://www.htwsaar.de/en/university/faculties (404)
+https://www.htwsaar.de
+https://www.htwsaar.de/ing
+https://www.htwsaar.de/ing/fakultaet/personen (404)
+https://www.htwsaar.de/informatik (404)
+https://www.zema.de/en
+https://www.helmholtz-hips.de/en/research/
+https://www.ibmt.fraunhofer.de/en.html
+https://www.uks.eu/en/ (404)
+https://www.uks.eu
+
+Kaiserslautern:
+https://www.itwm.fraunhofer.de/en/departments.html
+https://www.itwm.fraunhofer.de/en.html
+https://www.itwm.fraunhofer.de/en/departments/analytics-and-computing.html (404)
+https://www.itwm.fraunhofer.de/en/departments/image-processing.html
+https://www.iese.fraunhofer.de/en/about_us/locations.html (404)
+https://www.iese.fraunhofer.de/en.html
+https://www.ivw.uni-kl.de/en/institute/
+https://www.ivw.uni-kl.de
+https://www.hs-kl.de/en/university/faculties (404)
+https://www.hs-kl.de
+https://www.hs-kl.de/en/faculties/imst (404, wrong path guess)
+https://www.hs-kl.de/informatik-und-mikrosystemtechnik
+https://www.hs-kl.de/hochschule/profil/personenverzeichnis
+https://cs.rptu.de/en/ (RPTU CS department — used only to confirm RPTU hosts AI groups; RPTU itself is already on the collected list and gets no CSV row)
+
+Note: WebSearch returned "session has used its web search budget (200 of 200)" on every attempt in this
+task (first call onward) — the quota had already been exhausted by other work earlier in this session,
+before this task began. All research after that point used WebFetch against directly-typed or guessed
+URLs only, per the contract's "fetch known URLs directly" guidance. Several guessed URLs 404'd (listed
+above) and were abandoned rather than retried via search; those gaps are reflected as confidence=low
+rows in the CSV rather than silently dropped.

@@ -1,0 +1,77 @@
+https://is.mpg.de/research	2026-08-06
+https://is.mpg.de/about	2026-08-06
+https://is.mpg.de/campus	2026-08-06
+https://is.mpg.de/campus-facilities	2026-08-06
+https://is.mpg.de/people?employee_type=Faculty	2026-08-06
+https://is.mpg.de/former-groups	2026-08-06
+https://is.mpg.de/en/former-groups	2026-08-06
+https://is.mpg.de/sitemap.xml	2026-08-06
+https://is.mpg.de/sitemap1.xml	2026-08-06
+https://is.mpg.de/sitemap2.xml	2026-08-06
+https://is.mpg.de/ei	2026-08-06
+https://is.mpg.de/ei/people	2026-08-06
+https://is.mpg.de/ps	2026-08-06
+https://is.mpg.de/ps/people	2026-08-06
+https://is.mpg.de/pi	2026-08-06
+https://is.mpg.de/pi/people	2026-08-06
+https://is.mpg.de/rm	2026-08-06
+https://is.mpg.de/rm/people	2026-08-06
+https://is.mpg.de/hi	2026-08-06
+https://is.mpg.de/hi/people	2026-08-06
+https://is.mpg.de/sf	2026-08-06
+https://is.mpg.de/sf/people	2026-08-06
+https://is.mpg.de/hi/news/max-planck-partner-group-established-to-strengthen-ties-between-mpi-is-and-the-university-of-tennessee-knoxville	2026-08-06
+https://is.mpg.de/wei	2026-08-06
+https://is.mpg.de/aisa	2026-08-06
+https://is.mpg.de/as/person/cmendler	2026-08-06
+https://is.mpg.de/camail/person/tkrusch	2026-08-06
+https://is.mpg.de/compass/person/sabdelnabi	2026-08-06
+https://is.mpg.de/cyris/person/ageorgopoulou	2026-08-06
+https://is.mpg.de/dmo/person/aorvieto	2026-08-06
+https://is.mpg.de/esi/person/phmueller	2026-08-06
+https://is.mpg.de/hml/person/ssamadi	2026-08-06
+https://is.mpg.de/lds/person/mmuehlebach	2026-08-06
+https://is.mpg.de/person/mmuehlebach	2026-08-06
+https://is.mpg.de/mis/person/rsachse	2026-08-06
+https://is.mpg.de/rococo/person/baktas	2026-08-06
+https://is.mpg.de/rml/person/wbrendel	2026-08-06
+https://is.mpg.de/seal/person/jgeiping	2026-08-06
+https://is.mpg.de/bmm/person/hartmann	2026-08-06
+https://is.mpg.de/nom/person/jschwaner	2026-08-06
+https://is.mpg.de/person/black	2026-08-06
+https://is.mpg.de/hi/person/kjk	2026-08-06
+https://is.mpg.de/rm/person/ck	2026-08-06
+https://is.mpg.de/icbs/people	2026-08-06
+https://is.mpg.de/ilg/people	2026-08-06
+https://is.mpg.de/cellnroll/people	2026-08-06
+https://is.mpg.de/person/samira-samadi	2026-08-06 (404)
+https://is.mpg.de/person/schoelkopf	2026-08-06 (404, superseded by is.mpg.de/ei and department admin email evidence)
+https://is.mpg.de/person/mandriushchenko	2026-08-06 (404)
+https://is.mpg.de/departments	2026-08-06 (404 — page removed/renamed since prior 2026-08-06 pass; superseded by /research)
+https://is.mpg.de/research-groups	2026-08-06 (404 — superseded by /research)
+https://is.mpg.de/faculty	2026-08-06 (404 — superseded by /people?employee_type=Faculty)
+https://is.mpg.de/campus-overview	2026-08-06 (404 — superseded by /campus)
+https://is.mpg.de/former-departments	2026-08-06 (404 — superseded by /former-groups, which also lists former departments)
+https://is.mpg.de/stari	2026-08-06 (404 — no dedicated page; STARI partner group identified via the hi/news item above)
+data/adjudication_rulings_tuebingen.csv	local file, referenced for Moritz Hardt's Tübingen campus
+data/raw/directories/2026-08-06/de-mpi-is-tue/roster.csv	local file, referenced for prior campus findings (office codes)
+data/raw/directories/2026-08-06/de-mpi-is-stu/roster.csv	local file, referenced for prior campus findings (office codes)
+https://www.mpi-sws.org/	2026-08-06
+https://www.mpi-sws.org/people/	2026-08-06
+https://www.mpi-sws.org/about-us/	2026-08-06
+https://www.mpi-sws.org/about/	2026-08-06 (404 — superseded by /about-us/)
+https://www.mpi-sws.org/sitemap.xml	2026-08-06 (404)
+https://www.mpi-sws.org/people/bbb/	2026-08-06
+https://www.mpi-sws.org/people/bindsch/	2026-08-06
+https://www.mpi-sws.org/people/rkhan/	2026-08-06
+data/raw/directories/2026-08-06/de-mpi-sws/roster.csv	local file, source of titles/sites for all MPI-SWS rows (re-verified independence against about-us/ this pass)
+https://www.mpi-inf.mpg.de/departments	2026-08-06
+https://www.mpi-inf.mpg.de/	2026-08-06
+https://www.mpi-inf.mpg.de/departments/inet	2026-08-06
+https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning	2026-08-06
+https://www.mpi-inf.mpg.de/departments/computer-graphics	2026-08-06
+https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence	2026-08-06
+https://www.mpi-inf.mpg.de/departments/automation-of-logic	2026-08-06
+https://www.mpi-inf.mpg.de/departments/network-and-cloud-systems	2026-08-06
+https://www.mpi-inf.mpg.de/departments/mlp	2026-08-06
+data/raw/directories/2026-08-06/de-mpi-inf/roster.csv	local file, source of D1/D2/D4/D5/D6/RG1-3 sub-unit titles and verbatim quotes (D3 was missing from this file — recovered fresh from /departments this pass)

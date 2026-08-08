@@ -55,6 +55,25 @@ def fold(text):
     return re.sub(r"[^a-z0-9 ]+", " ", stripped).strip()
 
 
+def load_units():
+    """Institute-published unit lists: which named groups are independent, which are not.
+
+    A bare "Research Group Leader" cannot be ruled from the title, but the institutes
+    themselves publish the distinction — MPI-INF separates D1-D6 from RG1-RG3, MPI-IS
+    lists its departments apart from its independent groups. One structure page settles
+    every ambiguous title at that institute, so the unit of the question is the institute
+    and not the person.
+    """
+    path = (ROOT / "data" / "raw" / "adjudication" / "2026-08-06" / "mpi-groups" / "units.csv")
+    kinds = {}
+    if path.exists():
+        for r in csv.DictReader(path.open(encoding="utf-8")):
+            unit = fold(r["unit_name"]).replace(" sub group", "").strip()
+            if unit:
+                kinds[unit] = r["unit_kind"]
+    return kinds
+
+
 def load_rules():
     """country -> list of (folded title, counts_as_pi, tier, raw title)."""
     rules = defaultdict(list)
@@ -99,6 +118,7 @@ def rule_for(title, country, rules):
 
 def main() -> int:
     rules = load_rules()
+    unit_kind = load_units()
     rosters = sorted(DIRS.glob("*/*/roster.csv"))
     if not rosters:
         print(f"no rosters under {DIRS}", file=sys.stderr)
@@ -139,6 +159,13 @@ def main() -> int:
                 _, is_pi, tier, matched = hit
                 verdict = ("include" if is_pi == "yes"
                            else "review" if is_pi == "review" else "exclude")
+                if verdict == "review" and group:
+                    # The institute's own unit list, where it has one.
+                    k = unit_kind.get(fold(group))
+                    if k == "independent_group":
+                        verdict, matched = "include", matched + " (+institute unit list)"
+                    elif k in ("department", "subteam"):
+                        verdict, matched = "exclude", matched + " (+institute unit list)"
                 # A group-versus-department heuristic was tried here and removed. It
                 # only works when the department's director appears in the same roster
                 # file, and at MPI-IS Tübingen he does not — so it silently defaulted to

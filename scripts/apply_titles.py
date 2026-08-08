@@ -19,6 +19,9 @@ import sys
 import unicodedata
 from collections import Counter, defaultdict
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from decisionlog import log_decision  # noqa: E402
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DIRS = ROOT / "data" / "raw" / "directories"
 OUT = ROOT / "data" / "derived" / "roster_titled.csv"
@@ -144,6 +147,10 @@ def main() -> int:
                 kept += verdict == "include"
                 dropped += verdict == "exclude"
                 unmatched += verdict == "review"
+            log_decision(city="", person=r.get("name", ""), decision=verdict,
+                         reason_code="", rule=(matched or "unmatched title"),
+                         evidence=r.get("evidence_url", ""), by=f"apply_titles.py:{inst_id}",
+                         note=f"title as written: {title!r}")
             out_rows.append(
                 {
                     "inst_id": inst_id,

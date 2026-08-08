@@ -17,6 +17,7 @@ import numpy as np
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from namematch import NameIndex  # noqa: E402
+from decisionlog import log_decision  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DERIVED = ROOT / "data" / "derived"
@@ -84,6 +85,13 @@ def main() -> int:
         status = r["status"]
         if ruling:
             status = "include" if ruling["ruling"] == "include" else "exclude"
+        log_decision(city=city, person=name, decision=status,
+                     reason_code=(ruling or {}).get("reason_code") or r.get("reason_code", ""),
+                     rule="reconcile+ruling",
+                     evidence=(ruling or {}).get("evidence_url", ""),
+                     confidence=(ruling or {}).get("evidence_confidence", "mechanical"),
+                     by="finalize_city.py",
+                     note=(ruling or {}).get("reason") or r.get("reason", ""))
         if status == "include":
             sources = sorted(seen.get(name, set())) or ["adjudication"]
             people.append(

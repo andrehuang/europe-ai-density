@@ -1,0 +1,94 @@
+SNAPSHOT DATE LABEL: 2026-08-06 (all URLs below retrieved under this snapshot label)
+
+SECURITY NOTE: no prompt-injection payload was found on any hpi.de or uni-potsdam.de page
+fetched for this roster. Every fetched HTML file was scanned for hidden-text CSS
+(display:none / visibility:hidden), long base64 blobs, injected console output and text
+addressing an AI agent or instructing it to ignore instructions. The only hits anywhere in
+this pass were benign anchor divs on a PIK page (see de-pik/sources.txt). All page content
+was treated as untrusted data.
+
+NOTE ON THE URL GIVEN IN THE TASK: https://hpi.de/en/research/chairs.html redirects to
+https://hpi.de/en/research/chairs/ which returns HTTP 404. The live equivalent is the German
+page https://hpi.de/forschung/fachgebiete/ , which is also more complete: it plus the
+Professorium page https://hpi.de/forschung/professorium/ together give 33 current chair
+holders (the Fachgebiete list omits Kay Giesecke; the Professorium includes him). hpi.de
+returns 403 to the WebFetch tool but serves normally to curl with a browser User-Agent.
+
+ENTITY / SCOPE NOTE: the University of Potsdam's Digital Engineering Fakultät chair list
+(https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete) contains one
+professor who is NOT an HPI Fachgebietsleiter:in — Prof. Dr. Dagmar Kainmueller, whose link
+points to the Max Delbrück Center (https://www.mdc-berlin.de/de/kainmueller). She is
+therefore recorded in the University of Potsdam roster, not here. The same page also lists
+the emeriti Hasso Plattner and Christoph Meinel; hpi.de lists Plattner, Meinel, Werner Zorn
+and Siegfried Wendt under "Emeriti und entpflichtete Professoren" and they are excluded per
+the contract.
+
+--- Directory and structure pages ---
+https://hpi.de/en/research/chairs.html	2026-08-06	(redirects to /en/research/chairs/ -> HTTP 404)
+https://hpi.de/forschung/fachgebiete/	2026-08-06	(most complete chair list; German)
+https://hpi.de/forschung/professorium/	2026-08-06	(33 professors; the authoritative roster used)
+https://hpi.de/institut/digital-engineering-fakultaet/	2026-08-06
+https://hpi.de/kontakt/	2026-08-06	(campus/building-letter to address mapping; redirected from /institut/anfahrt-campusplan/)
+https://hpi.de/sitemap.xml	2026-08-06
+https://hpi.de/	2026-08-06
+https://hpi.de/en/	2026-08-06
+https://hpi.de/en/research/	2026-08-06
+
+--- Chair (Fachgebiet) pages, each the evidence for its chair holder's verbatim title ---
+https://hpi.de/forschung/fachgebiete/algorithm-engineering/	2026-08-06
+https://hpi.de/forschung/fachgebiete/algorithmic-decision-making-and-society/	2026-08-06
+https://hpi.de/forschung/fachgebiete/artificial-intelligence-and-intelligent-systems/	2026-08-06
+https://hpi.de/forschung/fachgebiete/artificial-intelligence-and-quantitative-finance/	2026-08-06
+https://hpi.de/forschung/fachgebiete/artificial-intelligence-and-sustainability/	2026-08-06
+https://hpi.de/forschung/fachgebiete/betriebssysteme-und-middleware/	2026-08-06
+https://hpi.de/forschung/fachgebiete/business-process-technology/	2026-08-06
+https://hpi.de/forschung/fachgebiete/computational-genomics/	2026-08-06
+https://hpi.de/forschung/fachgebiete/computational-interaction/	2026-08-06
+https://hpi.de/forschung/fachgebiete/computergrafische-systeme/	2026-08-06
+https://hpi.de/forschung/fachgebiete/cybersecurity-enterprise-security/	2026-08-06
+https://hpi.de/forschung/fachgebiete/cybersecurity-high-assurance-systems/	2026-08-06
+https://hpi.de/forschung/fachgebiete/cybersecurity-identity-management/	2026-08-06
+https://hpi.de/forschung/fachgebiete/data-analytics-and-computational-statistics/	2026-08-06
+https://hpi.de/forschung/fachgebiete/data-intensive-internet-computing/	2026-08-06
+https://hpi.de/forschung/fachgebiete/digital-global-public-health/	2026-08-06
+https://hpi.de/forschung/fachgebiete/digital-health-connected-healthcare/	2026-08-06
+https://hpi.de/forschung/fachgebiete/digital-health-economics-policy/	2026-08-06
+https://hpi.de/forschung/fachgebiete/digital-health-human-centered-transformative-ai/	2026-08-06
+https://hpi.de/forschung/fachgebiete/digital-health-machine-learning/	2026-08-06
+https://hpi.de/forschung/fachgebiete/digital-health-non-communicable-diseases/	2026-08-06
+https://hpi.de/forschung/fachgebiete/digital-technology-governance-and-policy/	2026-08-06
+https://hpi.de/forschung/fachgebiete/human-computer-interaction/	2026-08-06
+https://hpi.de/forschung/fachgebiete/internet-technologien-und-softwarization/	2026-08-06
+https://hpi.de/forschung/fachgebiete/mobile-and-wireless-security/	2026-08-06
+https://hpi.de/forschung/fachgebiete/software-architekturen/	2026-08-06
+https://hpi.de/forschung/fachgebiete/software-engineering-and-ai/	2026-08-06
+https://hpi.de/forschung/fachgebiete/systemanalyse-und-modellierung/	2026-08-06
+https://hpi.de/forschung/fachgebiete/technology-and-regulation/	2026-08-06
+
+--- Database Group (the four Datenbankgruppe chairs have no individual Fachgebiet pages) ---
+https://hpi.de/en/database-group/home/	2026-08-06
+https://hpi.de/en/database-group/people/	2026-08-06
+
+--- University of Potsdam pages used as evidence for the joint appointments ---
+https://www.uni-potsdam.de/de/digital-engineering	2026-08-06
+https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete	2026-08-06	(lists every HPI chair holder as a chair of the joint faculty)
+https://www.uni-potsdam.de/de/digital-engineering/fakultaet/dekanat	2026-08-06	(wording "Inhaber des Lehrstuhls für ..." plus room numbers)
+https://www.uni-potsdam.de/de/fakultaeten/uebersicht	2026-08-06	(campus assignment of UP faculties)
+
+--- Per-chair team subsites checked for second affiliations (most named none) ---
+https://hpi.de/en/arnrich/team/	2026-08-06
+https://hpi.de/en/bajpai/team/	2026-08-06
+https://hpi.de/en/boehmer/team/	2026-08-06
+https://hpi.de/en/chuengsatiansup/team/	2026-08-06
+https://hpi.de/en/classen/team/	2026-08-06
+https://hpi.de/en/herbrich/team/	2026-08-06
+https://hpi.de/en/kretzmer/team/	2026-08-06
+https://hpi.de/en/lehmann/team/	2026-08-06
+https://hpi.de/en/lippert/team/	2026-08-06
+https://hpi.de/en/rabl/team/	2026-08-06
+https://hpi.de/en/renard/team/	2026-08-06
+https://hpi.de/en/stern/team/	2026-08-06
+https://hpi.de/en/wieler/team/	2026-08-06
+(the equivalent URLs for braune, demelo, doellner, doerr, ebel, friedrich, giese, giesecke,
+hirschfeld, kaissis, karl, maalej, naumann, polze, wachter, weidlich, weske, zacharatou
+returned 404, 401 or 500 and yielded nothing)

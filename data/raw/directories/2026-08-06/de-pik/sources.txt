@@ -1,0 +1,128 @@
+SNAPSHOT DATE LABEL: 2026-08-06 (all URLs below retrieved under this snapshot label)
+
+SECURITY NOTE: no prompt-injection payload was found on any pik-potsdam.de page fetched.
+Every fetched HTML file was scanned for hidden-text CSS, long base64 blobs, injected console
+output, and text addressing an AI agent or telling it to ignore instructions. Two matches for
+"visibility: hidden" occurred on
+https://www.pik-potsdam.de/en/institute/departments/complexity-science/research/time-series-analysis
+and two for "display: none" on https://www.pik-potsdam.de/en/institute/labs/pbscience ; both
+were inspected and are ordinary zero-height anchor <div>s used for in-page jump links
+(id="highlights", id="tocsy"), containing no text. All page content was treated as untrusted
+data.
+
+STRUCTURE NOTE: the task's directory URL points at one department only. PIK's own structure
+page (https://www.pik-potsdam.de/en/institute/departments) states research is organised in
+FIVE research departments — RD1 Earth System Analysis, RD2 Climate Resilience, RD3
+Transformation Pathways, RD4 Complexity Science, RD5 Climate Economics and Policy - MCC
+Berlin — plus, from https://www.pik-potsdam.de/en/institute , separate Labs, FutureLabs &
+Science Units and a Policy Unit. All of these were worked through. The Labs and FutureLabs
+are NOT reachable from the department pages' working-group lists, so a department-only sweep
+would have missed the Planetary Boundaries Science Lab, the Land Use Transition Lab, the
+Energy Transition Lab, the Policy Evaluation Lab, the Societal Transition and Well-being Lab,
+and the FutureLabs ERSU, Security/Migration and Social Metabolism.
+
+AFFILIATION NOTE: PIK's own page https://www.pik-potsdam.de/en/institute/scientific-networks/university-cooperations
+carries two tables — "Gemeinsame Berufungen / Joint appointments" and "Weitere Professuren und
+Dozenten / Further professorships and lecturers". It is by far the most complete source for
+the second affiliations and was used for every joint appointment recorded.
+
+SITE NOTE: PIK has exactly two locations, and they are in different cities. Potsdam:
+Telegrafenberg A 31, 14473 Potsdam. Berlin: EUREF-Campus 19, Torgauer Str. 12-15, 10829
+Berlin — described by PIK as "The PIK location Berlin (MCC)" and corresponding to RD5
+"Climate Economics and Policy - MCC Berlin". RD5 members are therefore recorded as Berlin,
+not Potsdam. The pages fetched give no per-person desk location, so this is a department-level
+inference and is stated as such in each row's notes.
+
+ENTITY NOTE: PIK is a member of the Leibniz Association (stated on
+https://www.pik-potsdam.de/en/institute/about), not Helmholtz. RD5 is run jointly with the
+Mercator Research Institute on Global Commons and Climate Change (MCC), a legally separate
+Berlin institute; RD5 people are recorded here because PIK's own structure page counts RD5 as
+one of its five research departments, with the MCC relationship named in every such row.
+
+--- Institute-level pages ---
+https://www.pik-potsdam.de/en/institute	2026-08-06
+https://www.pik-potsdam.de/en/institute/about	2026-08-06
+https://www.pik-potsdam.de/en/institute/about/directors-staff	2026-08-06
+https://www.pik-potsdam.de/en/institute/contact/where	2026-08-06	(Potsdam address, Telegrafenberg A 31)
+https://www.pik-potsdam.de/en/institute/contact/location-berlin	2026-08-06	(Berlin address, EUREF-Campus 19)
+https://www.pik-potsdam.de/en/institute/scientific-networks/university-cooperations	2026-08-06	(most complete source for joint appointments)
+https://www.pik-potsdam.de/en/institute/policy/team	2026-08-06	(Policy Unit; head is an administrative department head, no research group)
+
+--- Departments ---
+https://www.pik-potsdam.de/en/institute/departments	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/complexity-science	2026-08-06	(the URL named in the task)
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy	2026-08-06
+
+--- Staff listings (most complete per-person role source; each prints a role label per person) ---
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/staff	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/staff-rd2	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/staff-rd3	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/complexity-science/staff-rd4	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/team	2026-08-06	(paginated, 30 per page)
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/team?b_start:int=30	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/team?b_start:int=60	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/team?b_start:int=90	2026-08-06	(empty)
+
+--- Working-group index pages ---
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/research-groups	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/wgs	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/complexity-science/research	2026-08-06
+
+--- Working-group pages (RD1) ---
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/climate-extremes	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-dynamics	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ecosystems-in-transition	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/long-term-trajectories	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/past-and-future-earth	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/terrestrial-safe-operating-space	2026-08-06
+
+--- Working-group pages (RD2) ---
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/research-groups/adaptation-in-agricultural-systems	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/research-groups/climate-change-and-health	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/research-groups/forest-ecosystem-resilience	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/research-groups/hydroclimatic-risks	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/research-groups/lab-land-use-transition	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/research-groups/land-biosphere-dynamics	2026-08-06
+
+--- Working-group pages (RD3) ---
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/wgs/climate-and-energy-policy	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/wgs/event-based-modeling	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/wgs/impacts-on-human-population-dynamics	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/wgs/integrated-assessment-modelling	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/wgs/inter-sectoral-impact-attribution	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/wgs/socioeconomic-transitions	2026-08-06
+
+--- Working-group pages (RD4) ---
+https://www.pik-potsdam.de/en/institute/departments/complexity-science/research/artificial-intelligence	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/complexity-science/research/bega	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/complexity-science/research/infrastructure-and-complex-networks	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/complexity-science/research/time-series-analysis	2026-08-06
+
+--- Working-group pages (RD5) ---
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/cities-data-science-and-sustainable-planning	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/evidence-for-climate-solutions	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/political-economy	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/public-economics	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/sustainable-carbon-management	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/welfare-and-policy-design	2026-08-06
+
+--- Labs, FutureLabs and Science Units ---
+https://www.pik-potsdam.de/en/institute/labs	2026-08-06
+https://www.pik-potsdam.de/en/institute/labs/energy-transition	2026-08-06
+https://www.pik-potsdam.de/en/institute/labs/landuse	2026-08-06
+https://www.pik-potsdam.de/en/institute/labs/pbscience	2026-08-06
+https://www.pik-potsdam.de/en/institute/labs/policy-evaluation	2026-08-06
+https://www.pik-potsdam.de/en/institute/labs/societal-transition-and-well-being	2026-08-06
+https://www.pik-potsdam.de/en/institute/futurelabs-science-units	2026-08-06
+https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu	2026-08-06
+https://www.pik-potsdam.de/en/institute/futurelabs-science-units/security-ethnic-conflicts-and-migration	2026-08-06
+https://www.pik-potsdam.de/en/institute/futurelabs-science-units/social-metabolism-and-impacts	2026-08-06
+
+--- Known gap ---
+The German-language mirror (https://www.pik-potsdam.de/de/institut/...) was not swept
+page-by-page; PIK's English and German pages are generated from the same Plone content and
+the role labels are printed in English on both. Any German-only title wording is therefore a
+possible small loss and is noted here rather than left invisible.

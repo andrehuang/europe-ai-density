@@ -1,0 +1,355 @@
+SNAPSHOT DATE LABEL: 2026-08-06 (all URLs below retrieved under this snapshot label)
+
+SECURITY NOTE: no prompt-injection payload was encountered on any uni-potsdam.de page fetched
+for this roster. Every collecting pass treated fetched page content as untrusted data; none of
+the pages addressed an AI agent, asked for instructions to be ignored, or tried to redirect the
+work, and no hidden-text/base64/fake-console patterns were found. (The only hidden-CSS hits
+anywhere in this collection pass were benign in-page anchor divs on two PIK pages, recorded in
+de-pik/sources.txt.)
+
+SCOPE NOTE: the task's start URL (https://www.cs.uni-potsdam.de, which redirects to
+https://www.uni-potsdam.de/de/cs) covers one institute out of roughly forty units. The roster was
+built from the university's own faculty structure at
+https://www.uni-potsdam.de/de/fakultaeten/uebersicht and works through ALL SIX faculties plus the
+joint health-sciences faculty:
+  - Mathematisch-Naturwissenschaftliche Fakultät (8 institutes: Informatik und Computational
+    Science, Mathematik, Physik und Astronomie, Chemie, Biochemie und Biologie, Geowissenschaften,
+    Umweltwissenschaften und Geographie, Ernährungswissenschaft)
+  - Humanwissenschaftliche Fakultät (7 departments: Psychologie, Linguistik, Sport- und
+    Gesundheitswissenschaften, Erziehungswissenschaft, Inklusionspädagogik, Musik und Kunst,
+    Grundschulpädagogik)
+  - Digital Engineering Fakultät (the joint UP/HPI faculty)
+  - Wirtschafts- und Sozialwissenschaftliche Fakultät
+  - Philosophische Fakultät
+  - Juristische Fakultät
+  - Fakultät für Gesundheitswissenschaften Brandenburg (joint with BTU Cottbus-Senftenberg and
+    the Medizinische Hochschule Brandenburg Theodor Fontane)
+This matters: the mathematical-statistics, data-assimilation, numerics and uncertainty-
+quantification chairs sit in the Institut für Mathematik, the psycholinguistics and cognitive-
+science chairs in the Humanwissenschaftliche Fakultät, and the computational-linguistics and
+information-systems chairs in the Philosophische and Wirtschafts- und Sozialwissenschaftliche
+faculties — a computer-science-only sweep would have returned about 15 of 479 rows.
+
+CAMPUS NOTE: the university's own overview page states the campus split — Philosophische Fakultät
+at Am Neuen Palais, Mathematisch-Naturwissenschaftliche and Humanwissenschaftliche faculties at
+Golm (Wissenschaftspark), and the Wirtschafts- und Sozialwissenschaftliche, Juristische and
+Digital Engineering faculties at Griebnitzsee. Every row nevertheless carries a per-unit campus
+determination made from a printed street address or building number, because the exceptions are
+real: several sport-science chairs sit at Am Neuen Palais 10/12 while others are at Golm, the
+Institut für Ernährungswissenschaft is split between Golm and Rehbrücke (Arthur-Scheunert-Allee,
+14558 Nuthetal), Musik und Kunst is at Golm Haus 6 rather than Neues Palais, and a substantial
+group of jointly appointed professors physically sit at partner institutes (GFZ and AIP on the
+Telegrafenberg, PIK, DESY Zeuthen, AWI, ZALF Müncheberg, MPI für Kolloid- und
+Grenzflächenforschung and MPI für Molekulare Pflanzenphysiologie in Golm, DIW/WZB/MDC in Berlin).
+Rows that could not be resolved say campus=unclear rather than guessing.
+
+OVERLAP NOTE (important for the once-only person count): all 33 Hasso-Plattner-Institut chair
+holders appear in this roster as well, because the University of Potsdam's Digital Engineering
+Fakultät is the joint faculty of UP and HPI and its own Fachgebiete page lists them as its chair
+holders. They are also in data/raw/directories/2026-08-06/de-hpi/roster.csv and must be
+de-duplicated downstream. One Digital Engineering professor is NOT an HPI chair holder —
+Dagmar Kainmueller, whose Fachgebiet page links to the Max Delbrück Center in Berlin — and she is
+recorded here only.
+
+TRANSCRIPTION NOTE: two of the three collecting passes returned German text with umlauts folded
+to ASCII digraphs (ue/oe/ae/ss). The name, title_verbatim, group_or_dept and other_affiliations
+columns were repaired against an explicit token list before writing this file; URLs and the notes
+column were left byte-for-byte as collected so that no link is corrupted. A handful of surnames
+where the ASCII form may be the real spelling (Gaedke, Graef, Kainmueller, Shoaee) were
+deliberately left unchanged.
+
+KNOWN GAPS, recorded rather than hidden:
+  - Henning Bordihn (Theoretische Informatik) appears on the computer-science institute's research
+    page under "Arbeitsgruppen" rather than "Professuren"; he was added as a confidence=low row.
+  - chem.uni-potsdam.de serves its content through a JS/AJAX endpoint and returns 403 for
+    /groups/boeker/, so one chemistry professor's second affiliation could not be page-verified.
+  - One health-sciences chair page (Dadaczynski) returns 404, so that row is campus=unclear.
+  - Several vacant chairs are held by Lehrstuhlvertretungen where department and faculty pages name
+    different substitutes; both names are recorded as confidence=low rows.
+
+--- URLs fetched, all 2026-08-06 ---
+
+# Structure / campus evidence (fetched by the merging agent)
+https://www.uni-potsdam.de/de/fakultaeten/uebersicht
+https://www.uni-potsdam.de/de/cs
+https://www.uni-potsdam.de/de/cs/research/index
+https://www.uni-potsdam.de/de/cs/ifi/alle-mitarbeiter
+https://www.uni-potsdam.de/de/digital-engineering
+https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+https://www.uni-potsdam.de/de/digital-engineering/fakultaet/dekanat
+https://www.cs.uni-potsdam.de	(redirects to https://www.uni-potsdam.de/de/cs)
+
+# Mathematisch-Naturwissenschaftliche Fakultät slice
+https://www.uni-potsdam.de/de/mnfakul
+https://www.uni-potsdam.de/de/mnfakul/die-fakultaet/institute
+https://www.uni-potsdam.de/de/ibb
+https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/privatdozenturen
+https://www.uni-potsdam.de/de/ibb/ibb/standorte
+https://www.chem.uni-potsdam.de/
+https://www.chem.uni-potsdam.de/index.php?lang=de
+https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+https://www.chem.uni-potsdam.de/index.php?lang=de&action=foha
+https://www.chem.uni-potsdam.de/index.php?lang=de&action=honor
+https://www.chem.uni-potsdam.de/index.php?lang=de&action=instleit
+https://www.chem.uni-potsdam.de/get_content.php?action=profs&lang=de
+https://www.chem.uni-potsdam.de/get_content.php?action=foha&lang=de
+https://www.chem.uni-potsdam.de/get_content.php?action=honor&lang=de
+https://www.chem.uni-potsdam.de/get_content.php?action=instleit&lang=de
+https://www.chem.uni-potsdam.de/get_content.php?action=forsch_nonu&lang=de
+https://www.chem.uni-potsdam.de/groups/boeker/
+https://www.uni-potsdam.de/de/geo
+https://www.uni-potsdam.de/de/geo/forschung/uebersicht
+https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+https://www.uni-potsdam.de/de/iew
+https://www.uni-potsdam.de/de/iew/professuren-und-lehrstuehle
+https://www.uni-potsdam.de/de/bce/index
+https://www.uni-potsdam.de/de/mem/index
+https://www.uni-potsdam.de/de/zpe/index
+https://www.uni-potsdam.de/de/zpe/team
+https://www.uni-potsdam.de/de/ernaehrungstoxikologie/index
+https://www.uni-potsdam.de/de/lebensmittelchemie/index
+https://www.uni-potsdam.de/de/etox/index
+https://www.uni-potsdam.de/de/lmc/index
+https://www.uni-potsdam.de/de/toxikologie
+https://www.uni-potsdam.de/de/iew/professuren-und-forschungsgruppen
+https://www.uni-potsdam.de/de/umwelt
+https://www.uni-potsdam.de/de/umwelt/forschung/uebersicht
+https://www.uni-potsdam.de/de/umwelt/forschung/gemeinsam-berufene
+https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+https://www.uni-potsdam.de/de/umwelt/institut/kontakt-und-lageplan
+https://www.uni-potsdam.de/de/cs
+https://www.uni-potsdam.de/de/cs/research/index
+https://www.uni-potsdam.de/de/math
+https://www.math.uni-potsdam.de/
+https://www.math.uni-potsdam.de/professuren
+https://www.math.uni-potsdam.de/institut/ansprechpartner
+https://www.uni-potsdam.de/de/physik
+https://www.uni-potsdam.de/de/physik/institut/professuren
+https://www.uni-potsdam.de/de/physik/institut/personen
+https://www.dife.de/forschung/abteilungen-und-forschungsgruppen/fettzell-entwicklung-und-ernaehrung/
+https://www.dife.de/forschung/abteilungen-und-forschungsgruppen/experimentelle-diabetologie/
+https://www.dife.de/forschung/abteilungen-und-forschungsgruppen/ernaehrung-und-gerontologie/
+https://www.dife.de/forschung/abteilungen-und-forschungsgruppen/molekulare-epidemiologie/
+https://www.dife.de/forschung/abteilungen-und-forschungsgruppen/molekulare-physiologie-der-bewegung-und-ernaehrung/
+https://www.dife.de/forschung/abteilungen-und-forschungsgruppen/molekulare-toxikologie/
+
+# Humanwissenschaftliche Fakultät + Digital Engineering Fakultät slice
+SECURITY NOTE: none. No fetched page addressed me as an AI, asked me to ignore instructions, or tried to redirect the work. No hidden-payload patterns (fake console errors, base64 filler, agent-directed text) were seen on any page below.
+
+# URLs fetched (uni-potsdam.de unless noted). All fetched with curl + browser User-Agent.
+https://www.uni-potsdam.de/de/humfak
+https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet
+https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/professuren-der-departments
+https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/honorarprofessuren
+https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/ausserplanmaessige-professuren
+https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/seniorprofessuren
+https://www.uni-potsdam.de/fileadmin/projects/humfak/Die_Fakult%C3%A4t/Fotos_die_Fakult%C3%A4t_neu/Organigramm_HWF_04.2026.pdf
+https://www.uni-potsdam.de/de/humfak/fakultaet/dekanat
+https://www.uni-potsdam.de/de/humfak/fakultaet/dekanat/leitung-der-fakultaet
+https://www.uni-potsdam.de/de/humfak/aktuelles/lehrstuhlvertretungen
+https://www.uni-potsdam.de/de/humfak/aktuelles/berufungsverfahren
+https://www.uni-potsdam.de/de/humfak/sitemap
+https://www.uni-potsdam.de/de/kognitionswissenschaften/index
+https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs
+https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-sport-und-gesundheitswissenschaften
+https://www.uni-potsdam.de/de/bildungswissenschaften/strukturbereich
+https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/grundschulpaedagogik
+https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+https://www.uni-potsdam.de/de/department-psychologie/index
+https://www.uni-potsdam.de/de/department-psychologie/professuren
+https://www.uni-potsdam.de/de/department-psychologie/professuren/klinische-kinder-und-jugendpsychologie-und-psychotherapie
+https://www.uni-potsdam.de/de/department-psychologie/professuren/gastprofessuren
+https://www.uni-potsdam.de/de/expbiopsy/index
+https://www.uni-potsdam.de/de/work-psychology/index
+https://www.uni-potsdam.de/de/beratungspsychologie/index
+https://www.uni-potsdam.de/de/personality-psychology/index
+https://www.uni-potsdam.de/de/emobio/index
+https://www.uni-potsdam.de/de/psych-developmental/index
+https://www.uni-potsdam.de/de/clinical-psychology-psychotherapy/index
+https://www.uni-potsdam.de/de/klinische-psychologie/index
+https://www.uni-potsdam.de/de/cogneuro/index
+https://www.uni-potsdam.de/de/sozialpsychologie/index
+https://www.uni-potsdam.de/de/psych-methods/index
+https://www.uni-potsdam.de/de/pecog/index
+https://www.uni-potsdam.de/de/ling/index
+https://www.uni-potsdam.de/de/ling/professuren
+https://www.uni-potsdam.de/de/ling/index/personen/personalliste-gesamt
+https://www.uni-potsdam.de/de/dsg
+https://www.uni-potsdam.de/de/sportpsychologie/uebersicht  (404)
+https://www.uni-potsdam.de/de/sportpsychologie/index
+https://www.uni-potsdam.de/de/sportmedizin/
+https://www.uni-potsdam.de/de/soz-praev-med/index
+https://www.uni-potsdam.de/de/professional-services/
+https://www.uni-potsdam.de/de/medizinischesoziologie-psychobiologie/index
+https://www.uni-potsdam.de/de/fachdidaktiksport-primarstufe/index
+https://www.uni-potsdam.de/de/gesundheitserziehung-sport/index  (404 -> ZIM fallback page)
+https://www.uni-potsdam.de/de/gesundheitserziehung-sport/uebersicht  (404 -> ZIM fallback page)
+https://www.uni-potsdam.de/de/trainingswissenschaft/index
+https://www.uni-potsdam.de/de/sportdidaktik/index
+https://www.uni-potsdam.de/de/erziehungswissenschaft/professuren
+https://www.uni-potsdam.de/de/prof-digitale-bildung/index
+https://www.uni-potsdam.de/de/unterrichtsinterventionsforsch
+https://www.uni-potsdam.de/de/erziehungstheorien/index
+https://www.uni-potsdam.de/de/erziehungswissenschaftliche-bildungsforschung/index
+https://www.uni-potsdam.de/de/hisbildung/index
+https://www.uni-potsdam.de/de/paedpsy/index
+https://www.uni-potsdam.de/de/prozessbezogene-unterrichtsforschung/index
+https://www.uni-potsdam.de/de/medienbildung/index
+https://www.uni-potsdam.de/de/schulentwicklung/index
+https://www.uni-potsdam.de/de/schulpaedagogik/index
+https://www.uni-potsdam.de/de/sozbildung/uebersicht
+https://www.uni-potsdam.de/de/sozbile/index
+https://www.uni-potsdam.de/de/quantmethoden/index
+https://www.uni-potsdam.de/de/grundschulpaedagogik/index
+https://www.uni-potsdam.de/de/allgemeine-grundschulpaedagogik/empirische-grundschulpaedagogik-und-didaktik
+https://www.uni-potsdam.de/de/eki/index
+https://www.uni-potsdam.de/de/gsp-deutsch/
+https://www.uni-potsdam.de/de/gsp-mathematik/
+https://www.uni-potsdam.de/de/grundschulpaedagogik/grundschulpaedagogik-sachunterricht-schwerpunkt-gesellschaftswissenschaften
+https://www.uni-potsdam.de/de/gsp-sachunterricht/
+https://www.uni-potsdam.de/de/allgemeine-grundschulpaedagogik/psychologische-grundschulpaedagogik
+https://www.uni-potsdam.de/de/inklusion/index
+https://www.uni-potsdam.de/de/inklusion/heterogenitaet/juang
+https://www.uni-potsdam.de/de/inklusion/kognitive-entwicklung  (404)
+https://www.uni-potsdam.de/de/inklusion/geistige-entwicklung
+https://www.uni-potsdam.de/de/inklusion/ese/schramm
+https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik
+https://www.uni-potsdam.de/de/inklusion/lernen
+https://www.uni-potsdam.de/de/inklusion/sprache/boehme
+https://www.uni-potsdam.de/de/inklusion/inkpsy
+https://www.uni-potsdam.de/de/inklusion/isu
+https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+https://www.uni-potsdam.de/de/musik/professuren-abteilungen
+https://www.uni-potsdam.de/de/musik/professuren-abteilungen/professur-fuer-elementare-musikpaedagogik
+https://www.uni-potsdam.de/de/musik/professuren-abteilungen/professur-fuer-musikpaedagogik-und-musikdidaktik
+https://www.uni-potsdam.de/de/musik/professuren-abteilungen/professur-fuer-musikwissenschaft
+https://www.uni-potsdam.de/de/musik/professuren-abteilungen/professur-fuer-musiktheorie-und-schulpraktisches-musizieren
+https://www.uni-potsdam.de/de/kunst/index
+https://www.uni-potsdam.de/de/kunst/professur-fuer-kunstpaedagogik-und-didaktik
+https://www.uni-potsdam.de/de/kunst/professur-fuer-kunstwissenschaft
+https://www.uni-potsdam.de/de/kunst/professur-fuer-kunstpraxis
+https://www.uni-potsdam.de/de/fakultaeten/fakultaet-fuer-gesundheitswissenschaften
+https://www.uni-potsdam.de/de/digital-engineering
+https://www.uni-potsdam.de/de/digital-engineering/fakultaet/uebersicht
+https://www.uni-potsdam.de/de/digital-engineering/fakultaet/dekanat
+https://www.uni-potsdam.de/de/digital-engineering/fakultaet/fakultaetsrat
+https://www.uni-potsdam.de/de/digital-engineering/fakultaet/gremien-ausschuesse-beauftragte
+https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+https://www.uni-potsdam.de/de/digital-engineering/sitemap
+https://hpi.de/forschung/fachgebiete.html
+
+# Wirtschafts-/Sozialwissenschaftliche, Philosophische, Juristische and Gesundheitswissenschaften slice
+# No prompt-injection payload was encountered on any page fetched for this slice.
+# All pages below were fetched with curl and treated as untrusted data.
+https://www.uni-potsdam.de/de/fakultaeten/uebersicht
+https://www.uni-potsdam.de/de/hi/
+https://www.uni-potsdam.de/de/germanistik/
+https://www.uni-potsdam.de/de/iaa/
+https://www.uni-potsdam.de/de/js-rw/
+https://www.uni-potsdam.de/de/phi/
+https://www.uni-potsdam.de/de/wiso/
+https://www.uni-potsdam.de/de/philfak/
+https://www.uni-potsdam.de/de/jura/
+https://www.uni-potsdam.de/de/fakultaeten/fakultaet-fuer-gesundheitswissenschaften
+https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren
+https://www.uni-potsdam.de/de/philfak/fakultaet/institute-einrichtungen
+https://www.uni-potsdam.de/de/jura/ful/alphabetisch
+https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/strafrecht
+https://www.fgw-brandenburg.de/fgw/de/forschung/professuren/
+https://www.fgw-brandenburg.de/
+https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+https://www.uni-potsdam.de/de/wiso/fakultaet/gremien-beauftragte/professorium
+https://www.uni-potsdam.de/de/ikm/
+https://www.fgw-brandenburg.de/kontakt/
+https://lswi.de/
+https://www.uni-potsdam.de/de/rewe/
+https://www.uni-potsdam.de/de/wtt-mnfakul
+https://www.uni-potsdam.de/marketing/
+https://www.uni-potsdam.de/de/fop2/index.html
+https://www.uni-potsdam.de/en/social-media-krasnova/
+https://www.uni-potsdam.de/de/bwl-fin/index
+https://www.uni-potsdam.de/de/ls-puma/index
+https://www.uni-potsdam.de/de/digicat/
+https://www.uni-potsdam.de/de/copm
+http://www.uni-potsdam.de/lsfiwi/
+https://www.uni-potsdam.de/de/vwl-mwi/index
+http://www.uni-potsdam.de/empwifo
+http://www.uni-potsdam.de/makrooekonomie
+https://www.uni-potsdam.de/de/vwl-wipo/index
+https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen/juniorprofessur-fuer-quantitative-economics
+https://www.uni-potsdam.de/de/wat/index
+https://www.uni-potsdam.de/de/it-bildung/
+https://www.uni-potsdam.de/de/wipaed
+https://www.uni-potsdam.de/de/politik-und-regieren/index.html
+http://www.uni-potsdam.de/vergleichende-politikwissenschaft
+https://www.uni-potsdam.de/de/politische-bildung/index
+http://www.uni-potsdam.de/ls-kuhlmann/
+https://www.uni-potsdam.de/de/ls-ib/index
+https://www.uni-potsdam.de/de/ls-poltheorie/start
+https://www.uni-potsdam.de/de/pol-intorg/index
+http://www.uni-potsdam.de/ls-apelt/
+https://www.uni-potsdam.de/de/soziologie-methoden/index
+https://www.uni-potsdam.de/de/allg-soziologie/index
+https://www.uni-potsdam.de/de/socrespolicy/index
+https://www.uni-potsdam.de/de/sozialstrukturanalyse/startseite-professur-verwiebe
+https://www.uni-potsdam.de/de/sozialeungleichheit/index
+http://lupo-projekt.de/lehrstuhl/personen/lehrstuhlinhaber/jun-prof-dr-ing-marcus-grum
+https://www.uni-potsdam.de/de/ls-rechtsgeschichte/index
+https://www.uni-potsdam.de/de/vertragsgestaltung/index
+https://www.uni-potsdam.de/ls-lettl/index.html
+https://www.uni-potsdam.de/de/unternehmens-und-steuerrecht/index
+https://www.uni-potsdam.de/ls-petersen/uebersicht.html
+https://www.uni-potsdam.de/de/ls-sonnentag/index
+https://www.uni-potsdam.de/de/ls-steinroetter
+https://www.uni-potsdam.de/de/ls-thoene/index
+http://www.uni-potsdam.de/regulierungs-und-infrastrukturrecht
+https://www.uni-potsdam.de/de/lehrstuhl-brosius-gersdorf
+https://www.uni-potsdam.de/de/oeffentliches-recht-und-steuerrecht/index
+http://www.uni-potsdam.de/didaktik-rw/index.html
+http://www.uni-potsdam.de/ls-staatverwkom/
+http://www.uni-potsdam.de/besonderes-verwaltungsrecht
+http://www.uni-potsdam.de/ls-zimmermann
+https://www.uni-potsdam.de/de/ls-albrecht/team/prof-dr-anna-h-albrecht
+https://www.uni-potsdam.de/de/ls-geneuss/index
+https://www.uni-potsdam.de/de/ls-steinberg/index
+https://www.uni-potsdam.de/de/kunstgeschichte/professur-fuer-kunstgeschichte
+https://www.uni-potsdam.de/de/medienwissenschaft/index
+http://www.uni-potsdam.de/medienkulturgeschichte/
+https://www.uni-potsdam.de/de/wissenskulturen-und-mediale-umgebungen/index
+http://www.uni-potsdam.de/avl
+http://www.uni-potsdam.de/slavistik/
+http://www.uni-potsdam.de/romanistik/
+https://www.uni-potsdam.de/iaa/
+http://www.uni-potsdam.de/germanistik/
+http://www.uni-potsdam.de/klassphil/
+https://www.uni-potsdam.de/hi/
+https://www.uni-potsdam.de/ler/
+http://www.uni-potsdam.de/phi/
+http://www.uni-potsdam.de/js-rw.html
+http://www.juedischetheologie-unipotsdam.de/index.html
+https://www.uni-potsdam.de/de/ler/das-institut/mitarbeiter-a-z
+https://www.uni-potsdam.de/de/js-rw/das-institut
+https://www.uni-potsdam.de/de/phi/professuren-und-forschung
+https://www.uni-potsdam.de/de/hi/institut/professuren-bereiche
+https://www.uni-potsdam.de/de/germanistik/institut/professuren-und-arbeitsgebiete
+https://www.uni-potsdam.de/de/js-rw/institut/kollegium
+https://www.uni-potsdam.de/de/philfak/aktuelle-informationen/berufungsverfahren
+https://www.fgw-brandenburg.de/mitglieder/professuren/degenerative_chronische_erkrankungen_bewegung/
+https://www.fgw-brandenburg.de/mitglieder/professuren/rehabilitationsmedizin/
+https://www.fgw-brandenburg.de/mitglieder/professuren/epidemiologie/
+https://www.fgw-brandenburg.de/mitglieder/professuren/medizinische-ethik/
+https://www.fgw-brandenburg.de/mitglieder/professuren/bioanalytik-und-data-science/
+https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen/wirtschaftspaedagogik-fuer-das-berufliche-lehramt
+https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen/wirtschaftspaedagogik-fuer-das-berufliche-lehramt-1
+https://www.uni-potsdam.de/de/wat/index/professur-fuer-oekonomisch-technische-bildung-und-ihre-didaktik
+https://www.mmz-potsdam.de/dr-gideon-botsch.html

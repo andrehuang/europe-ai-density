@@ -732,6 +732,64 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-fhi-mpg,Angel Rubio,Angel Rubio,full,Prof. (External Scientific Member),,0,0,https://www.fhi.mpg.de/external-scientific-members
 2026-08-06,de-fhi-mpg,Joachim Sauer,,no_match,Prof. (External Scientific Member),,0,0,https://www.fhi.mpg.de/external-scientific-members
 2026-08-06,de-fhi-mpg,Eberhard Umbach,,no_match,Prof. (External Scientific Member),,0,0,https://www.fhi.mpg.de/external-scientific-members
+2026-08-06,de-fraunhofer-hhi,Thomas Wiegand,Thomas Wiegand 0001,full,"Prof. Dr.-Ing. Thomas Wiegand, Executive Director / Institutsleiter (DE); listed on organigram (April 2026) as ""Executive Director""",,7,2,https://www.hhi.fraunhofer.de/en/fraunhofer-hhi/executive-director.html
+2026-08-06,de-fraunhofer-hhi,Ralf Schäfer,,no_match,"Dr.-Ing. Ralf Schäfer, ""Deputy Executive Director"" (organigram); ""Division Director Video"" / ""Bereichsleiter Video"" (department pages)",,0,0,https://www.hhi.fraunhofer.de/fileadmin/Institut/Organisationsplan/2026/20260421_Organigramm_HHI_EN.pdf
+2026-08-06,de-fraunhofer-hhi,Detlev Marpe,Detlev Marpe,full,"Dr.-Ing. Detlev Marpe, ""Head of AI and Video Division / Head of Department Video Communication and Applications""; DE ""Bereichsleiter AI und Video, Abteilungsleiter Videokommunikation und Applikationen""",,1,0,https://www.hhi.fraunhofer.de/en/departments/vca/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Slawomir Stanczak,Slawomir Stanczak,full,"Prof. Dr.-Ing. habil. Slawomir Stanczak, ""Head of Communications and Networks Division / Head of Department Wireless Communications and Networks, Scientific research""; DE ""Bereichsleiter / Abteilungsleiter""",,0,5,https://www.hhi.fraunhofer.de/en/departments/wn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Norbert Keil,,no_match,"Norbert Keil, ""Head of Photonic Components and Systems Division / Head of Department Hybrid Integration and Sensing""; organigram gives ""Dipl.-Ing. Norbert Keil""",,0,0,https://www.hhi.fraunhofer.de/en/departments/hybrid-integration-and-sensing/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Wojciech Samek,Wojciech Samek,full,"Prof. Dr. rer. nat. Wojciech Samek, ""Head of Artificial Intelligence Department, Head of Explainable Artificial Intelligence Group""; DE ""Abteilungsleiter Künstliche Intelligenz, Gruppenleiter Erklärbare Künstliche Intelligenz""; personal page: ""Head of AI Department, Fraunhofer HHI / Professor for ML & Communications, TU Berlin""",,28,7,https://www.hhi.fraunhofer.de/en/departments/ai/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Sebastian Roland Lapuschkin,Sebastian Lapuschkin,first_last,"Dr. rer. nat. Sebastian Roland Lapuschkin, ""Heads of Group: Dr. rer. nat. Wojciech Samek, Dr. rer. nat. Sebastian Roland Lapuschkin"" (Explainable Artificial Intelligence); organigram: ""Dr. rer. nat. Sebastian Lapuschkin""",,20,3,https://www.hhi.fraunhofer.de/en/departments/ai/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Jackie Ma,Jackie Ma,full,"Dr. rer. nat. Jackie Ma, ""Head of Group: Dr. rer. nat. Jackie Ma"" (Applied Machine Learning)",,2,1,https://www.hhi.fraunhofer.de/en/departments/ai/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Karsten Müller,,ambiguous_full(4),"Dr.-Ing. Karsten Müller, ""Head of Group: Dr.-Ing. Karsten Müller"" (Efficient Deep Learning)",,0,0,https://www.hhi.fraunhofer.de/en/departments/ai/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Thomas Schierl,Thomas Schierl,full,"Dr.-Ing. Thomas Schierl, ""Head of Video Communication and Applications Department""; DE ""Abteilungsleiter Videokommunikation und Applikationen""",,1,0,https://www.hhi.fraunhofer.de/en/departments/vca/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Heiko Schwarz,Heiko Schwarz,full,"Prof. Dr.-Ing. Heiko Schwarz, ""Head of Video Coding Technologies"" / ""Heads of Group: Prof. Dr.-Ing. Heiko Schwarz, Prof. Dr. rer. nat. Jonathan Pfaff""",,1,0,https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/video-coding-technologies.html
+2026-08-06,de-fraunhofer-hhi,Jonathan Pfaff,,no_match,"Prof. Dr. rer. nat. Jonathan Pfaff, ""Head of Video Coding Technologies Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/video-coding-technologies.html
+2026-08-06,de-fraunhofer-hhi,Benjamin Bross,,no_match,"Benjamin Bross, ""Head of Video Coding Systems Group""; organigram ""Dipl.-Ing. Benjamin Bross""",,0,0,https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/video-coding-systems.html
+2026-08-06,de-fraunhofer-hhi,Adam Wieckowski,,no_match,"Adam Wieckowski, ""Head of Video Coding Systems Group""; organigram ""Dipl.-Ing. Adam Wieckowski""",,0,0,https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/video-coding-systems.html
+2026-08-06,de-fraunhofer-hhi,Cornelius Hellge,Cornelius Hellge,full,"Dr.-Ing. Cornelius Hellge, ""Head of Multimedia Communications Group""",,1,0,https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/multimedia-communications.html
+2026-08-06,de-fraunhofer-hhi,Baris Göktepe,,no_match,"Dr.-Ing. Baris Göktepe, ""Head of Multimedia Communications Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/multimedia-communications.html
+2026-08-06,de-fraunhofer-hhi,Benno Stabernack,,no_match,"Prof. Dr.-Ing. Benno Stabernack, ""Head of Embedded Systems Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/embedded-systems.html
+2026-08-06,de-fraunhofer-hhi,Jona Ballé,Jona Ballé,full,"Prof. Dr.-Ing. Jona Ballé, ""Head of Learned Data Compression Group""; DE ""Gruppenleiterin Learned Data Compression""; HHI news headline ""Prof.in Dr. Jona Ballé""",,1,0,https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/learned-data-compression.html
+2026-08-06,de-fraunhofer-hhi,Peter Eisert,Peter Eisert,full,"Prof. Dr.-Ing. Peter Eisert, ""Head of Vision & Imaging Technologies Department""; DE ""Abteilungsleiter Vision and Imaging Technologies""; personal page ""Prof. Peter Eisert / Head of Vision & Imaging Technologies Department / Chair Visual Computing, Humboldt University""",,10,1,https://www.hhi.fraunhofer.de/en/departments/vit/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Anna Hilsmann,Anna Hilsmann,full,"Dr.-Ing. Anna Hilsmann, ""Head of Vision & Imaging Technologies Department / Head of Computer Vision & Graphics Group""; DE ""Abteilungsleiterin Vision and Imaging Technologies / Gruppenleiterin Computer Vision und Grafik""",,8,0,https://www.hhi.fraunhofer.de/en/departments/vit/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Ingo Feldmann,Ingo Feldmann,full,"Ingo Feldmann, ""Heads of Group: Ingo Feldmann, Priv.-Doz. Dr.-Ing. Oliver Schreer"" (Immersive Media & Communication); person page ""Head of Immersive Media & Communication Group""; organigram ""Dipl.-Ing. Ingo Feldmann""",,1,1,https://www.hhi.fraunhofer.de/en/departments/vit/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Oliver Schreer,Oliver Schreer,full,"Priv.-Doz. Dr.-Ing. Oliver Schreer, ""Heads of Group: Ingo Feldmann, Priv.-Doz. Dr.-Ing. Oliver Schreer"" (Immersive Media & Communication); person page ""Associate Professor at Technical University Berlin and Head of Immersive Media & Communication group""",,1,1,https://www.hhi.fraunhofer.de/en/departments/vit/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Christian Weissig,,no_match,"Christian Weissig, ""Head of Group: Christian Weissig"" (Capture & Display Systems); organigram ""Dipl.-Ing. Christian Weißig""",,0,0,https://www.hhi.fraunhofer.de/en/departments/vit/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Sebastian Bosse,Sebastian Bosse,full,"Dr.-Ing. Sebastian Bosse, ""Head of Interactive & Cognitive Systems Group""",,1,2,https://www.hhi.fraunhofer.de/en/departments/vit/research-groups/interactive-cognitive-systems.html
+2026-08-06,de-fraunhofer-hhi,Thomas Haustein,,no_match,"Dr.-Ing. Thomas Haustein, ""Head of Wireless Communications and Networks Department, Standardization""; also ""Head of Group"" of Technologies and Standards",,0,0,https://www.hhi.fraunhofer.de/en/departments/wn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Thomas Wirth,,no_match,"Dipl.-Inform. Thomas Wirth, ""Head of Group: Dipl.-Inform. Thomas Wirth"" (Technologies and Standards)",,0,0,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Kenan Turbić,,no_match,"Dr. Kenan Turbić, ""Head of Group: Dr. Kenan Turbić"" (Signal Processing and Sensing); organigram ""Dr.-Ing. Kenan Turbic""",,0,0,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Renato L. G. Cavalcante,Renato L. G. Cavalcante,full,"Dr. Renato L. G. Cavalcante, ""Head of Group: Dr. Renato L. G. Cavalcante"" (Optimization and Learning for Communications); organigram ""Dr. phil. nat. Renato Cavalcante""",,2,4,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Jochen Fink,Jochen Fink,full,"Dr.-Ing. Jochen Fink, ""Head of Group: Dr.-Ing. Jochen Fink"" (Optimization and Learning for Communications)",,0,2,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Zoran Utkovski,Zoran Utkovski,full,"Dr.-Ing. Zoran Utkovski, ""Head of Group: Dr.-Ing. Zoran Utkovski"" (Connected Intelligence and Robotics)",,0,3,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Johannes Dommel,,no_match,"Dr.-Ing. Johannes Dommel, ""Head of Group: Dr.-Ing. Johannes Dommel"" (Connected Intelligence and Robotics)",,0,0,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Michael Peter,,no_match,"Dr.-Ing. Michael Peter, ""Head of Group: Dr.-Ing. Michael Peter"" (mm-Wave)",,0,0,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Leszek Raschkowski,,no_match,"Dipl.-Ing. Leszek Raschkowski, ""Head of Group: Dipl.-Ing. Leszek Raschkowski"" (Prototype Development and Systems Integration)",,0,0,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Patrick Agostini,,no_match,"M.Sc. Patrick Agostini, ""Head of Group: M.Sc. Patrick Agostini"" (Sustainable and Modular Networks)",,0,0,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Ehsan Tohidi,,no_match,"Dr.-Ing. Ehsan Tohidi, ""head of Group: Dr.-Ing. Ehsan Tohidi"" (Sustainable and Modular Networks; lower-case ""head"" as printed)",,0,0,https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Ronald Freund,,no_match,"Prof. Dr.-Ing. Ronald Freund, MBA, ""Head of Photonic Networks and Systems Department""; DE ""Abteilungsleiter Photonische Netze und Systeme""",,0,0,https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Colja Schubert,,no_match,"Dr. rer. nat. Colja Schubert, ""Head of Submarine and Core Systems Group""; DE ""Gruppenleiter Optische Untersee- und Kernnetze""",,0,0,https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Volker Jungnickel,,no_match,"Prof. Dr. rer. nat. habil. Volker Jungnickel, ""Head of Metro, Access and In-house Systems Group""; DE ""Gruppenleiter Optische Metro-, Zugangs- und Inhausnetze""",,0,0,https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Christoph Kottke,,no_match,"Dr.-Ing. Christoph Kottke, listed in the April 2026 organigram in the ""Metro, Access & In-house Systems"" cell alongside Volker Jungnickel",,0,0,https://www.hhi.fraunhofer.de/fileadmin/Institut/Organisationsplan/2026/20260421_Organigramm_HHI_EN.pdf
+2026-08-06,de-fraunhofer-hhi,Nicolas Perlot,,no_match,"Dr.-Ing. Nicolas Perlot, ""Head of Free-Space Optical Systems Group""; DE ""Gruppenleiter Optische Freistrahlsysteme""",,0,0,https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Nino Walenta,,no_match,"Dr. Nino Walenta, ""Head of Free-Space Optical Systems Group / Topic Group Leader Photonic Quantum Technologies""; DE ""Gruppenleiter Optische Freistrahlsysteme / Themengruppenleiter Photonische Quantentechnologien""",,0,0,https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Johannes Fischer,Johannes Fischer 0007,full,"Dr.-Ing. Johannes Fischer, ""Head of Digital Signal Processing Group""; DE ""Gruppenleiter Digitale Signalverarbeitung""",,4,0,https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Jonas Hilt,,no_match,"Dipl.-Ing. Jonas Hilt, ""Head of Electronic Systems Group""; DE ""Gruppenleiter Elektronische Systeme""",,0,0,https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Georg Rademacher,,no_match,"Prof. Dr.-Ing. Georg Rademacher, ""Head of Space Division Multiplexing""; DE ""Gruppenleiter Space Division Multiplexing""",,0,0,https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Patrick Runge,,no_match,"Dr.-Ing. Patrick Runge, ""Head of InP and RF Department / Head of Modulators and Detectors Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/inp-and-rf/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Martin Möhrle,Martin Möhrle,full,"Dr. rer. nat. Martin Möhrle, ""Head of Lasers Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/inp-and-rf/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Klemens Janiak,,no_match,"Dipl.-Phys. Klemens Janiak, ""Head of Photonic InP Foundry Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/inp-and-rf/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Jung Han Choi,,ambiguous_first_last(3),"Dr. Jung Han Choi, printed as ""Contact: Dr. Jung Han Choi"" for the IC Design Group (no head/leader title given)",,0,0,https://www.hhi.fraunhofer.de/en/departments/inp-and-rf/research-groups.html
+2026-08-06,de-fraunhofer-hhi,Moritz Kleinert,,no_match,"Dr. rer. nat. Moritz Kleinert, ""Head of Hybrid PICs Group / Team Lead Quantum Technologies and Computing""",,0,0,https://www.hhi.fraunhofer.de/en/departments/hybrid-integration-and-sensing/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Robert Kohlhaas,,no_match,"Dr. rer. nat. Robert Kohlhaas, ""Head of Terahertz Sensors and Systems Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/hybrid-integration-and-sensing/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Kristijan Posilovic,,no_match,"Dr. rer. nat. Kristijan Posilovic, ""Head of Technology and Infrastructure Department / Head of Processing Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/technology-and-infrastructure/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Felix Ganzer,,no_match,"Felix Ganzer, ""Head of Backend and Packaging Group""; organigram ""Felix Ganzer, B. Sc.""",,0,0,https://www.hhi.fraunhofer.de/en/departments/technology-and-infrastructure/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Clemens Kleimann,,no_match,"Clemens Kleimann, ""Head of Workshop and Facility Operations Group""; organigram cell ""Equipment Operations - Dipl. Ing. Clemens Kleimann""",,0,0,https://www.hhi.fraunhofer.de/en/departments/technology-and-infrastructure/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Christoph Hums,,no_match,"Dr. rer. nat. Christoph Hums, ""Head of Epitaxy Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/technology-and-infrastructure/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Wolfgang Schade,,no_match,"Prof. Dr. rer. nat. Wolfgang Schade, ""Head of Fiber Optical Sensor Systems Department""; DE ""Abteilungsleiter Faseroptische Sensorsysteme""",,0,0,https://www.hhi.fraunhofer.de/en/departments/fs/people-and-contact.html
+2026-08-06,de-fraunhofer-hhi,Martin Angelmahr,,no_match,"Dr. rer. nat. Martin Angelmahr, ""Head of FiberLab Group""",,0,0,https://www.hhi.fraunhofer.de/en/departments/fs/research-groups/fiberlab.html
+2026-08-06,de-fraunhofer-hhi,Eike G. Hübner,,no_match,"apl. Prof. Dr. Eike G. Hübner, listed as the sole ""Contact"" for the Surface Processing group with no job title printed",,0,0,https://www.hhi.fraunhofer.de/en/departments/fs/research-groups/surface-processing.html
+2026-08-06,de-fraunhofer-hhi,Travis Todd,,no_match,"Travis Todd, BFA - named in the April 2026 organigram in the ""Silicon Allee Venture Lab"" box (no role label printed)",,0,0,https://www.hhi.fraunhofer.de/fileadmin/Institut/Organisationsplan/2026/20260421_Organigramm_HHI_EN.pdf
 2026-08-06,de-freie-universitaet-berlin,Knut Reinert,Knut Reinert,full,Prof. Dr.-Ing. Knut Reinert,,0,1,https://www.mi.fu-berlin.de/inf/groups/index.html
 2026-08-06,de-freie-universitaet-berlin,Katharina Jahn,Katharina Jahn 0001,full,Prof. Dr. Katharina Jahn,,0,0,https://www.mi.fu-berlin.de/inf/groups/index.html
 2026-08-06,de-freie-universitaet-berlin,Jochen Schiller,Jochen H. Schiller,first_last,Prof. Dr. Jochen Schiller,,0,1,https://www.mi.fu-berlin.de/inf/groups/ag-tech/index.html
@@ -875,6 +933,310 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-hpi,Mathias Weske,,no_match,Fachgebietsleiter Business Process Technology,,0,0,https://hpi.de/forschung/fachgebiete/business-process-technology/
 2026-08-06,de-hpi,Lothar H. Wieler,,no_match,Fachgebietsleiter Digital Global Public Health,,0,0,https://hpi.de/forschung/fachgebiete/digital-global-public-health/
 2026-08-06,de-hpi,Eleni Tzirita Zacharatou,,no_match,Head of Spatial Analytics and Large-Scale Data Processing,,0,0,https://hpi.de/en/database-group/people/
+2026-08-06,de-htw-berlin,Mohammad Abuosba,,no_match,Prof. Dr.-Ing. Mohammad Abuosba,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9441
+2026-08-06,de-htw-berlin,Payam Akbar,,no_match,Prof. Dr. Payam Akbar,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13973
+2026-08-06,de-htw-berlin,Adrianna Alexander,,no_match,Prof. Dr. Adrianna Alexander,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9884
+2026-08-06,de-htw-berlin,Andreas Arndt,,no_match,Prof. Dr.-Ing. Andreas Arndt,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14597
+2026-08-06,de-htw-berlin,Munir Ashraf,,no_match,Prof. Dr. Munir Ashraf,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14699
+2026-08-06,de-htw-berlin,Thomas Baar,,no_match,Prof. Dr. Thomas Baar,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8197
+2026-08-06,de-htw-berlin,Michael Babbel,,no_match,Prof. Dr. Michael Babbel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11929
+2026-08-06,de-htw-berlin,Andreas Baetzgen,,no_match,Prof. Dr. Andreas Baetzgen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12736
+2026-08-06,de-htw-berlin,Anett Bailleu,,no_match,Prof. Dr. Anett Bailleu,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3576
+2026-08-06,de-htw-berlin,Claudia Baldauf,,no_match,Prof. Dr. Claudia Baldauf,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=39
+2026-08-06,de-htw-berlin,Marita Balks,,no_match,Prof. Dr. Marita Balks,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4282
+2026-08-06,de-htw-berlin,Andreas Bartelt,,no_match,Prof. Dr. Andreas Bartelt,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8021
+2026-08-06,de-htw-berlin,Mirko Barz,,no_match,Prof. Dr.-Ing. Mirko Barz,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4542
+2026-08-06,de-htw-berlin,Birgit Bauer,,no_match,Prof. Birgit Bauer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8797
+2026-08-06,de-htw-berlin,Christiane Becker,,no_match,Prof. Dr. Christiane Becker,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9982
+2026-08-06,de-htw-berlin,Torsten Becker,,no_match,Prof. Dr. Torsten Becker,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4410
+2026-08-06,de-htw-berlin,Florian Becker-Ritterspach,,no_match,Prof. Dr. habil. Florian Becker-Ritterspach,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9759
+2026-08-06,de-htw-berlin,Andre Beinrucker,,no_match,Prof. Dr. Andre Beinrucker,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12186
+2026-08-06,de-htw-berlin,Jan Berger,,no_match,Prof. Jan Berger,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11590
+2026-08-06,de-htw-berlin,Beate Bergter,,no_match,Prof. Dr. Beate Bergter,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9212
+2026-08-06,de-htw-berlin,Ralf Birkelbach,,no_match,Prof. Dr. Ralf Birkelbach,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10299
+2026-08-06,de-htw-berlin,Yasmina Bock,,no_match,Prof. Dr. Yasmina Bock,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4134
+2026-08-06,de-htw-berlin,Andrea Bookhagen,,no_match,Prof. Dr. Andrea Bookhagen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11611
+2026-08-06,de-htw-berlin,Steffen Borchers-Tigasson,,no_match,Prof. Dr.-Ing. Steffen Borchers-Tigasson,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12130
+2026-08-06,de-htw-berlin,Susanne Brandhorst,,no_match,Prof. Susanne Brandhorst,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4233
+2026-08-06,de-htw-berlin,Heide Brandtstädter,,no_match,Prof. Dr.-Ing. Heide Brandtstädter,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4383
+2026-08-06,de-htw-berlin,Thomas Bremer,,no_match,Prof. Thomas Bremer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1236
+2026-08-06,de-htw-berlin,Marcin Brzozowski,,no_match,Prof. Dr.-Ing. Marcin Brzozowski,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14615
+2026-08-06,de-htw-berlin,Martin Brüggemeier,,no_match,Prof. Dr. Martin Brüggemeier,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=130
+2026-08-06,de-htw-berlin,Regine Buchheim,,no_match,Prof. Dr. Regine Buchheim,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=2702
+2026-08-06,de-htw-berlin,Carsten Busch,,no_match,Prof. Dr.-Ing. Carsten Busch,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3030
+2026-08-06,de-htw-berlin,Sylvia Bös,,no_match,Prof. Dr. Sylvia Bös,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9992
+2026-08-06,de-htw-berlin,Christian Böttger,,no_match,Prof. Dr. Christian Böttger,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=113
+2026-08-06,de-htw-berlin,Christina Carlsen,,no_match,Prof. Dr. Christina Carlsen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13998
+2026-08-06,de-htw-berlin,Jan Hanno Carstens,,no_match,Prof. Dr.-Ing. Jan Hanno Carstens,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11250
+2026-08-06,de-htw-berlin,Pelin Celik,,no_match,Prof. Pelin Celik,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11439
+2026-08-06,de-htw-berlin,Hussein Chalayan,,no_match,Prof. Hussein Chalayan,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12556
+2026-08-06,de-htw-berlin,Thoralf Chrobok,,no_match,Prof. Dr. Thoralf Chrobok,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8670
+2026-08-06,de-htw-berlin,Ingo Claßen,,no_match,Prof. Dr.-Ing. Ingo Claßen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=148
+2026-08-06,de-htw-berlin,Carsten Conradi,,no_match,Prof. Dr. Carsten Conradi,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10256
+2026-08-06,de-htw-berlin,Piotr Wojciech Dabrowski,,no_match,Prof. Dr.-Ing. Piotr Wojciech Dabrowski,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12469
+2026-08-06,de-htw-berlin,Matthias Dahlmeyer,,no_match,Prof. Dr.-Ing. Matthias Dahlmeyer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4391
+2026-08-06,de-htw-berlin,Sascha Dawo,,no_match,Prof. Dr. Sascha Dawo,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10336
+2026-08-06,de-htw-berlin,Gudula Deipenbrock,,no_match,Prof. Dr. Gudula Deipenbrock,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=162
+2026-08-06,de-htw-berlin,Ute Dietrich,,no_match,Prof. Dr.-Ing. Ute Dietrich,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9861
+2026-08-06,de-htw-berlin,Norman Dodel,,no_match,Prof. Dr.-Ing. Norman Dodel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13900
+2026-08-06,de-htw-berlin,Pablo Dornhege,,no_match,Prof. Pablo Dornhege,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13731
+2026-08-06,de-htw-berlin,Caroline Dressel,,no_match,Prof. Dr. Caroline Dressel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14716
+2026-08-06,de-htw-berlin,Sören Dressler,,no_match,Prof. Dr. Sören Dressler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1446
+2026-08-06,de-htw-berlin,Anja Drews,,no_match,Prof. Dr.-Ing. habil. Anja Drews,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4338
+2026-08-06,de-htw-berlin,Sebastian Dullien,,no_match,Prof. Dr. Sebastian Dullien,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3585
+2026-08-06,de-htw-berlin,Katrin Dziergwa,,no_match,Prof. Dr. Katrin Dziergwa,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11311
+2026-08-06,de-htw-berlin,Norbert Engel,,no_match,Prof. Dr.-Ing. Norbert Engel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=206
+2026-08-06,de-htw-berlin,Elisabeth Eppinger,,no_match,Prof. Dr. Elisabeth Eppinger,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12045
+2026-08-06,de-htw-berlin,Christina Erlwein-Sayer,Christina Erlwein-Sayer,full,Prof. Dr. Christina Erlwein-Sayer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12150
+2026-08-06,de-htw-berlin,Tatiana Ermakova,,no_match,Prof. Dr. Tatiana Ermakova,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13709
+2026-08-06,de-htw-berlin,Horst Fetzer,,no_match,Prof. Horst Fetzer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4609
+2026-08-06,de-htw-berlin,Sebastian Feucht,,no_match,Prof. Sebastian Feucht,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9174
+2026-08-06,de-htw-berlin,Ferdinand Fichtner,,no_match,Prof. Dr. Ferdinand Fichtner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10994
+2026-08-06,de-htw-berlin,Robert Finke,,no_match,Prof. Dr. Robert Finke,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=235
+2026-08-06,de-htw-berlin,Timo Fleschutz-Balarezo,Timo Fleschutz-Balarezo,full,Prof. Dr.-Ing. Timo Fleschutz-Balarezo,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14170
+2026-08-06,de-htw-berlin,Sepehr Foroushani,,no_match,Prof. Dr. Sepehr Foroushani,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14840
+2026-08-06,de-htw-berlin,Jens Fortmann,,no_match,Prof. Dr.-Ing. Jens Fortmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10251
+2026-08-06,de-htw-berlin,Stefan Frank,Stefan L. Frank,first_last,Prof. Dr.-Ing. Stefan Frank,,1,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1164
+2026-08-06,de-htw-berlin,Jacqueline Franke,,no_match,Prof. Dr. Jacqueline Franke,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3786
+2026-08-06,de-htw-berlin,Jörn Freiheit,,no_match,Prof. Dr.-Ing. Jörn Freiheit,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8069
+2026-08-06,de-htw-berlin,Darius Friedemann,,no_match,Prof. Dr.-Ing. Darius Friedemann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11343
+2026-08-06,de-htw-berlin,Frank Fuchs-Kittowski,,no_match,Prof. Dr.-Ing. Frank Fuchs-Kittowski,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3588
+2026-08-06,de-htw-berlin,Matthias Führer,,no_match,Prof. Dr.-Ing. Matthias Führer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12496
+2026-08-06,de-htw-berlin,Luis De León Garcia,,ambiguous_first_last(13),Prof. Dr.-Ing. Luis De León Garcia,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13517
+2026-08-06,de-htw-berlin,Elke Genzel,,no_match,Prof. Dr.-Ing. Elke Genzel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8376
+2026-08-06,de-htw-berlin,Fares Getzin,,no_match,Prof. Dr. Fares Getzin,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13963
+2026-08-06,de-htw-berlin,Ambros Gleixner,Ambros M. Gleixner,first_last,Prof. Dr. Ambros Gleixner,,2,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12822
+2026-08-06,de-htw-berlin,Katrin Glinka,,no_match,Prof. Dr. Katrin Glinka,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=15052
+2026-08-06,de-htw-berlin,Inka Gläser,,no_match,Prof. Dr. Inka Gläser,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8014
+2026-08-06,de-htw-berlin,Volker Gnann,,no_match,Prof. Dr.-Ing. Volker Gnann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13287
+2026-08-06,de-htw-berlin,Carsten Gottert,,no_match,Prof. Dr. Carsten Gottert,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14917
+2026-08-06,de-htw-berlin,Carsten Gremzow,,no_match,Prof. Dr.-Ing. habil. Carsten Gremzow,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9532
+2026-08-06,de-htw-berlin,Henning Große,,no_match,Prof. Dr. Henning Große,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14682
+2026-08-06,de-htw-berlin,Georg F. Gruber,,no_match,Prof. Dr.-Ing. Georg F. Gruber,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12595
+2026-08-06,de-htw-berlin,Thomas Gräf,,no_match,Prof. Dr.-Ing. Thomas Gräf,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4361
+2026-08-06,de-htw-berlin,Philip Grützner,,no_match,Prof. Dr.-Ing. Philip Grützner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11086
+2026-08-06,de-htw-berlin,Robin Gubela,,no_match,Prof. Dr. Robin Gubela,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=15012
+2026-08-06,de-htw-berlin,Hendrik Gärtner,,no_match,Prof. Dr.-Ing. Hendrik Gärtner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4503
+2026-08-06,de-htw-berlin,Klaus-Jürgen Göttmann,,no_match,Prof. Dr.-Ing. Klaus-Jürgen Göttmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4469
+2026-08-06,de-htw-berlin,Sebastian Götz,Sebastian Götz,full,Prof. Dr.-Ing. Sebastian Götz,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10974
+2026-08-06,de-htw-berlin,Björn Hacker,,no_match,Prof. Dr. Björn Hacker,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9297
+2026-08-06,de-htw-berlin,Ralf Hafner,Ralf M. Häfner,first_last,Prof. Dr. Ralf Hafner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8987
+2026-08-06,de-htw-berlin,Nassrin Hajinejad,,no_match,Prof. Dr.-Ing. Nassrin Hajinejad,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14533
+2026-08-06,de-htw-berlin,Martin Heckelmann,,no_match,Prof. Dr. Martin Heckelmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13713
+2026-08-06,de-htw-berlin,Roland Heiler,,no_match,Prof. Dr.-Ing. Roland Heiler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4020
+2026-08-06,de-htw-berlin,Holger Hemling,,no_match,Prof. Dr. rer. nat. Holger Hemling,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1418
+2026-08-06,de-htw-berlin,Thomas Henschel,,no_match,Prof. Dr. Thomas Henschel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8364
+2026-08-06,de-htw-berlin,Daniela Hensel,,no_match,Prof. Daniela Hensel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3601
+2026-08-06,de-htw-berlin,Claudia Hentschel,,no_match,Prof. Dr.-Ing. Claudia Hentschel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=386
+2026-08-06,de-htw-berlin,Steffen Herm,,no_match,Prof. Dr. Steffen Herm,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8787
+2026-08-06,de-htw-berlin,Christian Herta,,no_match,Prof. Dr. Christian Herta,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=2605
+2026-08-06,de-htw-berlin,Stefan Herter,,no_match,Prof. Dr.-Ing. Stefan Herter,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14181
+2026-08-06,de-htw-berlin,Andreas Heuer,,no_match,Prof. Dr.-Ing. Andreas Heuer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3961
+2026-08-06,de-htw-berlin,Dietmar Hillebrand,,no_match,Prof. Dr. Dietmar Hillebrand,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4214
+2026-08-06,de-htw-berlin,Axel Hochstein,,no_match,Prof. Dr. Axel Hochstein,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10628
+2026-08-06,de-htw-berlin,Antje Hoffmann,,no_match,Prof. Dr. Antje Hoffmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4297
+2026-08-06,de-htw-berlin,Ullrich Hoppe,,no_match,Prof. Dr.-Ing. Ullrich Hoppe,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=2611
+2026-08-06,de-htw-berlin,Hans Henning von Horsten,,no_match,Prof. Dr. rer. nat. Hans Henning von Horsten,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8155
+2026-08-06,de-htw-berlin,Borislav Hristov,,no_match,Prof. Dr.-Ing. Borislav Hristov,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11034
+2026-08-06,de-htw-berlin,Jürgen Huber,,no_match,Prof. Jürgen Huber,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=2155
+2026-08-06,de-htw-berlin,Alexander Huhn,,no_match,Prof. Dr. Alexander Huhn,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3534
+2026-08-06,de-htw-berlin,Sami Hussein,,no_match,Prof. Dr.-Ing. Sami Hussein,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14246
+2026-08-06,de-htw-berlin,Heike Marita Hölzner,,no_match,Prof. Dr. Heike Marita Hölzner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11342
+2026-08-06,de-htw-berlin,Heiko Hübert,,no_match,Prof. Dr.-Ing. Heiko Hübert,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9695
+2026-08-06,de-htw-berlin,Thomas Hücker,,no_match,Prof. Dr.-Ing. Thomas Hücker,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10160
+2026-08-06,de-htw-berlin,Andreas Ingerl,,no_match,Prof. Andreas Ingerl,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4388
+2026-08-06,de-htw-berlin,Johann Habakuk Israel,Johann Habakuk Israel,full,Prof. Dr.-Ing. Johann Habakuk Israel,,0,1,https://www.htw-berlin.de/hochschule/personen/person/?eid=4743
+2026-08-06,de-htw-berlin,Michael Jaensch,,no_match,Prof. Dr. Michael Jaensch,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=437
+2026-08-06,de-htw-berlin,Alexandra Jeberien,,no_match,Prof. Dr. phil. Alexandra Jeberien,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3442
+2026-08-06,de-htw-berlin,Heike Joebges,,no_match,Prof. Dr. Heike Joebges,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4647
+2026-08-06,de-htw-berlin,Klaus Jung,,no_match,Prof. Dr. Klaus Jung,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3366
+2026-08-06,de-htw-berlin,Thomas Jung,,no_match,Prof. Dr.-Ing. Thomas Jung,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=452
+2026-08-06,de-htw-berlin,Manfred-Erich Jäger-Ambrozewicz,,no_match,Prof. Dr. Manfred-Erich Jäger-Ambrozewicz,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8754
+2026-08-06,de-htw-berlin,Susan Kamel,,no_match,Prof. Dr. Susan Kamel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10300
+2026-08-06,de-htw-berlin,Sonja Kastner,,no_match,Prof. Dr. Sonja Kastner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4145
+2026-08-06,de-htw-berlin,Akiko Kato,,no_match,Prof. Dr. Akiko Kato,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12177
+2026-08-06,de-htw-berlin,Julian Kawohl,,no_match,Prof. Dr. Julian Kawohl,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10125
+2026-08-06,de-htw-berlin,Martin Kempa,,no_match,Prof. Dr. Martin Kempa,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3888
+2026-08-06,de-htw-berlin,Jochen Kerdels,,no_match,Prof. Dr. Jochen Kerdels,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14460
+2026-08-06,de-htw-berlin,Norbert Klaes,,no_match,Prof. Dr.-Ing. Norbert Klaes,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=2851
+2026-08-06,de-htw-berlin,Martin Klaffke,,no_match,Prof. Dr. Martin Klaffke,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9107
+2026-08-06,de-htw-berlin,Esther Klann,,no_match,Prof. Dr. Esther Klann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13930
+2026-08-06,de-htw-berlin,Barne Kleinen,,no_match,Prof. Dr. Barne Kleinen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3545
+2026-08-06,de-htw-berlin,Andrea Knaut,,no_match,Prof. Dr. Andrea Knaut,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10278
+2026-08-06,de-htw-berlin,Sebastian Knorr,,no_match,Prof. Dr.-Ing. Sebastian Knorr,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14353
+2026-08-06,de-htw-berlin,Florian Koch,,no_match,Prof. Dr. Florian Koch,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11709
+2026-08-06,de-htw-berlin,Jan Niklas Kocks,,no_match,Prof. Dr. Jan Niklas Kocks,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14440
+2026-08-06,de-htw-berlin,Steffen Kolb,,no_match,Prof. Dr. Steffen Kolb,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8637
+2026-08-06,de-htw-berlin,Christina Kratsch,,no_match,Prof. Dr. Christina Kratsch,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13856
+2026-08-06,de-htw-berlin,Johannes Kristan,,no_match,Prof. Dr. Johannes Kristan,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14879
+2026-08-06,de-htw-berlin,Britta Kruse,,no_match,Prof. Dr.-Ing. Britta Kruse,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=2622
+2026-08-06,de-htw-berlin,Markus Krämer,,no_match,Prof. Dr.-Ing. Markus Krämer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3462
+2026-08-06,de-htw-berlin,Stephan Krämer,Stephan C. Kramer,first_last,Prof. Dr.-Ing. Stephan Krämer,,1,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9924
+2026-08-06,de-htw-berlin,Sophie Kröger,,no_match,Prof. Dr. habil. Sophie Kröger,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4377
+2026-08-06,de-htw-berlin,Katarina Krüger,,no_match,Prof. Dr.-Ing. Katarina Krüger,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3833
+2026-08-06,de-htw-berlin,Susanne Kähler,,no_match,Prof. Dr. Susanne Kähler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3279
+2026-08-06,de-htw-berlin,Bert-Uwe Köhler,Bert-Uwe Köhler,full,Prof. Dr.-Ing. Bert-Uwe Köhler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13507
+2026-08-06,de-htw-berlin,Nicole Küchler-Stahn,,no_match,Prof. Dr. Nicole Küchler-Stahn,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12761
+2026-08-06,de-htw-berlin,Christoph Lange,Christoph Lange 0002,full,Prof. Dr.-Ing. Christoph Lange,,0,3,https://www.htw-berlin.de/hochschule/personen/person/?eid=11864
+2026-08-06,de-htw-berlin,Kay Langeheinecke,,no_match,Prof. Dr.-Ing. Kay Langeheinecke,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12816
+2026-08-06,de-htw-berlin,Asnakech Laß-Seyoum,,no_match,Prof. Dr. Asnakech Laß-Seyoum,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10979
+2026-08-06,de-htw-berlin,Helen Leemhuis,,no_match,Prof. Dr.-Ing. Helen Leemhuis,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3893
+2026-08-06,de-htw-berlin,Christian Lehmann,,no_match,Prof. Dr.-Ing. Christian Lehmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12864
+2026-08-06,de-htw-berlin,Jan-Marcus Lehmann,Jan Rudolf Karl Lehmann,first_last,Prof. Dr. Jan-Marcus Lehmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3779
+2026-08-06,de-htw-berlin,Tine Lehmann,,no_match,Prof. Dr. Tine Lehmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10417
+2026-08-06,de-htw-berlin,Tobias Lenz,,no_match,Prof. Dr. Tobias Lenz,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9042
+2026-08-06,de-htw-berlin,Jens Liebchen,,no_match,Prof. Dr.-Ing. Jens Liebchen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4587
+2026-08-06,de-htw-berlin,Michael Lindemann,,no_match,Prof. Dr.-Ing. Michael Lindemann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3340
+2026-08-06,de-htw-berlin,Fabian Lindner,,no_match,Prof. Dr. Fabian Lindner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10454
+2026-08-06,de-htw-berlin,Camille Logeay,,no_match,Prof. Dr. Camille Logeay,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3463
+2026-08-06,de-htw-berlin,Mark de Longueville,,no_match,Prof. Dr. Mark de Longueville,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4687
+2026-08-06,de-htw-berlin,Marcus Lörgen,,no_match,Prof. Dr. Marcus Lörgen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11292
+2026-08-06,de-htw-berlin,Martina Lütkewitte,,no_match,Prof. Dr. Martina Lütkewitte,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13804
+2026-08-06,de-htw-berlin,Holger Lütters,,no_match,Prof. Dr. Holger Lütters,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4617
+2026-08-06,de-htw-berlin,Matthias Mager,,no_match,Prof. Dr.-Ing. Matthias Mager,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=15220
+2026-08-06,de-htw-berlin,Verena Majuntke,Verena Majuntke,full,Prof. Dr. Verena Majuntke,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11866
+2026-08-06,de-htw-berlin,Birte Malzahn,,no_match,Prof. Dr. Birte Malzahn,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8589
+2026-08-06,de-htw-berlin,Thomas Manke,,no_match,Prof. Dr. Thomas Manke,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14856
+2026-08-06,de-htw-berlin,Ingo Marsolek,,no_match,Prof. Dr.-Ing. Ingo Marsolek,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4330
+2026-08-06,de-htw-berlin,Stephan Matzka,,no_match,Prof. Dr. Stephan Matzka,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11248
+2026-08-06,de-htw-berlin,Rico Meier,,no_match,Prof. Dr. rer. nat. Rico Meier,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13571
+2026-08-06,de-htw-berlin,Ulrich Meissen,,no_match,Prof. Dr. Ulrich Meissen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10742
+2026-08-06,de-htw-berlin,Matthias Menge,,no_match,Prof. Dr.-Ing. habil. Matthias Menge,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8176
+2026-08-06,de-htw-berlin,Martina Merker,,no_match,Prof. Dr. jur. Martina Merker,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=693
+2026-08-06,de-htw-berlin,Johanna Michel,,no_match,Prof. Johanna Michel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3781
+2026-08-06,de-htw-berlin,Helena Mihaljevic,,no_match,Prof. Dr. Helena Mihaljevic,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11889
+2026-08-06,de-htw-berlin,Alexandra Mikityuk,,no_match,Prof. Dr.-Ing. Alexandra Mikityuk,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=15015
+2026-08-06,de-htw-berlin,Stefanie Molthagen-Schnöring,,no_match,Prof. Dr. Stefanie Molthagen-Schnöring,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=5170
+2026-08-06,de-htw-berlin,Massoud Momeni,,no_match,Prof. Dr.-Ing. Massoud Momeni,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10506
+2026-08-06,de-htw-berlin,Romy Morana,,no_match,Prof. Dr. Romy Morana,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3513
+2026-08-06,de-htw-berlin,Benjamin März,,no_match,Prof. Dr.-Ing. Benjamin März,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10298
+2026-08-06,de-htw-berlin,Laurissa Mühlich,,no_match,Prof. Dr. Laurissa Mühlich,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14847
+2026-08-06,de-htw-berlin,Birgit Müller,,no_match,Prof. Dr.-Ing. habil. Birgit Müller,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4648
+2026-08-06,de-htw-berlin,Alexander Müller-Rakow,,no_match,Prof. Alexander Müller-Rakow,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11625
+2026-08-06,de-htw-berlin,Michael Naumann,,no_match,Prof. Dr.-Ing. Michael Naumann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12021
+2026-08-06,de-htw-berlin,Tobias Nettke,,no_match,Prof. Dr. Tobias Nettke,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4243
+2026-08-06,de-htw-berlin,Frank Neumann,Frank Neumann 0001,full,Prof. Dr.-Ing. Frank Neumann,,9,2,https://www.htw-berlin.de/hochschule/personen/person/?eid=9685
+2026-08-06,de-htw-berlin,Jens Neumann,,no_match,Prof. Dr.-Ing. Jens Neumann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9444
+2026-08-06,de-htw-berlin,Ha Duong Ngo,Ha Quang Thinh Ngo,first_last,Prof. Dr.-Ing. Ha Duong Ngo,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8803
+2026-08-06,de-htw-berlin,Katja Ninnemann,,no_match,Prof. Dr. Katja Ninnemann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12732
+2026-08-06,de-htw-berlin,Sabine Nitsche,,no_match,Prof. Dr. Sabine Nitsche,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4593
+2026-08-06,de-htw-berlin,Markus Nölle,Markus Nölle,full,Prof. Dr.-Ing. Markus Nölle,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9586
+2026-08-06,de-htw-berlin,Sebastian Ortlepp,,no_match,Prof. Dr.-Ing. habil. Sebastian Ortlepp,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12271
+2026-08-06,de-htw-berlin,Patrick Ostendorf,,no_match,Prof. Dr. Patrick Ostendorf,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9858
+2026-08-06,de-htw-berlin,Anke Oßwald,,no_match,Prof. Dr. Anke Oßwald,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=15006
+2026-08-06,de-htw-berlin,/ Kyiv National Economic Uni. Tetiana Paientko,,no_match,Prof. Dr. / Kyiv National Economic Uni. Tetiana Paientko,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13556
+2026-08-06,de-htw-berlin,Christina Papenfuß,,no_match,Prof. Dr. Christina Papenfuß,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3344
+2026-08-06,de-htw-berlin,Irina Penner,,no_match,Prof. Dr. Irina Penner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9859
+2026-08-06,de-htw-berlin,Anja Pfennig,,no_match,Prof. Dr.-Ing. Anja Pfennig,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3191
+2026-08-06,de-htw-berlin,Jona Piehl,,no_match,Prof. Dr. Jona Piehl,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12663
+2026-08-06,de-htw-berlin,Kirsten Pieplow,,no_match,Prof. Dr.-Ing. Kirsten Pieplow,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4198
+2026-08-06,de-htw-berlin,Martin Pohlmann,,no_match,Prof. Dr.-Ing. Martin Pohlmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1427
+2026-08-06,de-htw-berlin,Stefan Porschen,,no_match,Prof. Dr. rer. nat. habil. Stefan Porschen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4594
+2026-08-06,de-htw-berlin,Barbara Praetorius,,no_match,Prof. Dr. Barbara Praetorius,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10709
+2026-08-06,de-htw-berlin,Sven Prüser,,no_match,Prof. Dr. Sven Prüser,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4238
+2026-08-06,de-htw-berlin,Udo Pursche,,no_match,Prof. Dr.-Ing. Udo Pursche,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9014
+2026-08-06,de-htw-berlin,Volker Quaschning,,no_match,Prof. Dr.-Ing. Volker Quaschning,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1363
+2026-08-06,de-htw-berlin,Jürgen Radel,,no_match,Prof. Dr. phil. Jürgen Radel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9705
+2026-08-06,de-htw-berlin,Jens Ranneberg,,no_match,Prof. Dr.-Ing. Jens Ranneberg,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4052
+2026-08-06,de-htw-berlin,Stefanie Rathje,,no_match,Prof. Dr. Stefanie Rathje,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3977
+2026-08-06,de-htw-berlin,Björn Raupach,,no_match,Prof. Dr. Björn Raupach,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14681
+2026-08-06,de-htw-berlin,Annabella Rauscher-Scheibe,,no_match,Prof. Dr. Annabella Rauscher-Scheibe,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13906
+2026-08-06,de-htw-berlin,Kai Reinhardt,,no_match,Prof. Dr. Kai Reinhardt,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11313
+2026-08-06,de-htw-berlin,Ulrike Reinhardt,,no_match,Prof. Dr.-Ing. Ulrike Reinhardt,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3750
+2026-08-06,de-htw-berlin,Inga Reinwardt,,no_match,Prof. Dr.-Ing. Inga Reinwardt,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14859
+2026-08-06,de-htw-berlin,Anna Riedel,,no_match,Prof. Dr. Anna Riedel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10217
+2026-08-06,de-htw-berlin,Thomas Riedle,,no_match,Prof. Dr. Thomas Riedle,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13733
+2026-08-06,de-htw-berlin,Oliver Rinne,,no_match,Prof. Dr. Oliver Rinne,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10789
+2026-08-06,de-htw-berlin,Kristoff Ritlewski,,no_match,Prof. Dr. Kristoff Ritlewski,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12344
+2026-08-06,de-htw-berlin,Erik Rodner,Erik Rodner,full,Prof. Dr. Erik Rodner,,5,1,https://www.htw-berlin.de/hochschule/personen/person/?eid=12811
+2026-08-06,de-htw-berlin,Nobina Roy,,no_match,Prof. Dr. Nobina Roy,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11574
+2026-08-06,de-htw-berlin,Ulrich Rudolph,,no_match,Prof. Dr.-Ing. Ulrich Rudolph,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3195
+2026-08-06,de-htw-berlin,Oliver Rump,,no_match,Prof. Dr. Oliver Rump,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4110
+2026-08-06,de-htw-berlin,Ulrich Rüdel,,no_match,Prof. Dr. rer. nat. Ulrich Rüdel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9874
+2026-08-06,de-htw-berlin,Lilia Sabantina,,no_match,Prof. Dr. Lilia Sabantina,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13789
+2026-08-06,de-htw-berlin,Nataliya Sadretdinova,,no_match,Prof. Nataliya Sadretdinova,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=15227
+2026-08-06,de-htw-berlin,Seyed Hossein Sagheby,,no_match,Prof. Dr.-Ing. Seyed Hossein Sagheby,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9871
+2026-08-06,de-htw-berlin,Stephan Salinger,,no_match,Prof. Dr. Stephan Salinger,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10225
+2026-08-06,de-htw-berlin,Fiona Sammler,,no_match,Prof. Dr. Fiona Sammler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11756
+2026-08-06,de-htw-berlin,Berit Sandberg,,no_match,Prof. Dr. Berit Sandberg,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1310
+2026-08-06,de-htw-berlin,Anne Sanftenberg,,no_match,Prof. Dr.-Ing. Anne Sanftenberg,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14178
+2026-08-06,de-htw-berlin,Leo Schapiro,,no_match,Prof. Dr. Leo Schapiro,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11991
+2026-08-06,de-htw-berlin,Kai Schauer,,no_match,Prof. Dr.-Ing. Kai Schauer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4203
+2026-08-06,de-htw-berlin,Thomas Scheffler,,no_match,Prof. Dr. Thomas Scheffler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12281
+2026-08-06,de-htw-berlin,Thomas Schenk,,no_match,Prof. Dr. Thomas Schenk,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1176
+2026-08-06,de-htw-berlin,Jörn Scheuren,,no_match,Prof. Dr.-Ing. Jörn Scheuren,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4735
+2026-08-06,de-htw-berlin,Rutger Schlatmann,,no_match,Prof. Dr. Rutger Schlatmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8375
+2026-08-06,de-htw-berlin,Anke Schlöder,,no_match,Prof. Anke Schlöder,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4242
+2026-08-06,de-htw-berlin,Christin Schmidt,,no_match,Prof. Dr. Christin Schmidt,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=7897
+2026-08-06,de-htw-berlin,Christoph Schmitz,,no_match,Prof. Dr. Christoph Schmitz,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12832
+2026-08-06,de-htw-berlin,Michael Schneider,Michael Schneider 0004,full,Prof. Dr.-Ing. Michael Schneider,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9163
+2026-08-06,de-htw-berlin,Ralf Schnieders,,no_match,Prof. Dr. Ralf Schnieders,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11925
+2026-08-06,de-htw-berlin,Oliver Scholz,Oliver Scholz,full,Prof. Dr. Oliver Scholz,,1,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=794
+2026-08-06,de-htw-berlin,Niklas Schrape,,no_match,Prof. Dr. Niklas Schrape,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13385
+2026-08-06,de-htw-berlin,Franziska Schuh,,no_match,Prof. Franziska Schuh,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12505
+2026-08-06,de-htw-berlin,Horst Schulte,,no_match,Prof. Dr.-Ing. Horst Schulte,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4367
+2026-08-06,de-htw-berlin,Maija Schultz,,no_match,Prof. Maija Schultz,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10518
+2026-08-06,de-htw-berlin,Anita Schulz,,no_match,Prof. Dr.-Ing. Anita Schulz,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13497
+2026-08-06,de-htw-berlin,Stefanie Schwaar,Stefanie Schwaar,full,Prof. Dr. Stefanie Schwaar,,1,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14586
+2026-08-06,de-htw-berlin,Julia Schwarzkopf,,no_match,Prof. Dr. Julia Schwarzkopf,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11249
+2026-08-06,de-htw-berlin,Thomas Schwotzer,,no_match,Prof. Dr.-Ing. Thomas Schwotzer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3665
+2026-08-06,de-htw-berlin,Stephan Schäfer,,no_match,Prof. Dr.-Ing. Stephan Schäfer,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4618
+2026-08-06,de-htw-berlin,Anna Schönemann,,no_match,Prof. Dr. Anna Schönemann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9258
+2026-08-06,de-htw-berlin,Robert Schöpflin,,no_match,Prof. Dr. rer. nat. Robert Schöpflin,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13786
+2026-08-06,de-htw-berlin,Elena Schüler,,no_match,Prof. Dr. Elena Schüler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11594
+2026-08-06,de-htw-berlin,Stephan Seeck,,no_match,Prof. Dr. Stephan Seeck,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8635
+2026-08-06,de-htw-berlin,Michael Selig,,no_match,Prof. Dr. Michael Selig,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13328
+2026-08-06,de-htw-berlin,Hendrik Send,,no_match,Prof. Dr. Hendrik Send,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10498
+2026-08-06,de-htw-berlin,Christopher Severin,,no_match,Prof. Dr.-Ing. Christopher Severin,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11074
+2026-08-06,de-htw-berlin,Grit Seymour,,no_match,Prof. Grit Seymour,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11033
+2026-08-06,de-htw-berlin,Mohammad Hassan Farshbaf Shaker,Mohammad Hossein Shaker,first_last,Prof. Dr. Mohammad Hassan Farshbaf Shaker,,1,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13483
+2026-08-06,de-htw-berlin,Friedrich Sick,,no_match,Prof. Dr.-Ing. Friedrich Sick,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=981
+2026-08-06,de-htw-berlin,Nils Siebel,,no_match,Prof. Dr. Nils Siebel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4357
+2026-08-06,de-htw-berlin,Juliane Siegeris,Juliane Siegeris,full,Prof. Dr. Juliane Siegeris,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4462
+2026-08-06,de-htw-berlin,Katharina Simbeck,,no_match,Prof. Dr. Katharina Simbeck,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9862
+2026-08-06,de-htw-berlin,Henrik Spohler,,no_match,Prof. Henrik Spohler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4402
+2026-08-06,de-htw-berlin,Martin Spott,,no_match,Prof. Dr. Martin Spott,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10741
+2026-08-06,de-htw-berlin,Alexander Stanik,,no_match,Prof. Dr.-Ing. Alexander Stanik,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13708
+2026-08-06,de-htw-berlin,Bert Stegemann,,no_match,Prof. Dr. Bert Stegemann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4205
+2026-08-06,de-htw-berlin,David Strippgen,,no_match,Prof. Dr.-Ing. David Strippgen,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4293
+2026-08-06,de-htw-berlin,Lutz Strobach,,no_match,Prof. Dr. Lutz Strobach,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8621
+2026-08-06,de-htw-berlin,Matthias Strobel,,no_match,Prof. Dr. Matthias Strobel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10607
+2026-08-06,de-htw-berlin,Alexander Taffe,,no_match,Prof. Dr.-Ing. Alexander Taffe,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9443
+2026-08-06,de-htw-berlin,Helga Tauscher,,no_match,Prof. Dr.-Ing. Helga Tauscher,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14861
+2026-08-06,de-htw-berlin,Carsten Thomas,,no_match,Prof. Dr.-Ing. Carsten Thomas,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11552
+2026-08-06,de-htw-berlin,Nataliya Togobytska,,no_match,Prof. Dr. Nataliya Togobytska,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10857
+2026-08-06,de-htw-berlin,Sunna Torge,,no_match,Prof. Dr. Sunna Torge,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14328
+2026-08-06,de-htw-berlin,Carsten Totz,,no_match,Prof. Dr. Carsten Totz,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10529
+2026-08-06,de-htw-berlin,Silvia de Lima Vasconcelos,,no_match,Prof. Dr. Silvia de Lima Vasconcelos,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9673
+2026-08-06,de-htw-berlin,Jan Vietze,,no_match,Prof. Jan Vietze,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8499
+2026-08-06,de-htw-berlin,Fritz Daniel Vogdt,,no_match,Prof. Dr.-Ing. Fritz Daniel Vogdt,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14674
+2026-08-06,de-htw-berlin,Ariane Waegner,,no_match,Prof. Ariane Waegner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1331
+2026-08-06,de-htw-berlin,Manuela Walsdorf-Maul,,no_match,Prof. Dr.-Ing. Manuela Walsdorf-Maul,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=9274
+2026-08-06,de-htw-berlin,Lucy Weggler,,no_match,Prof. Dr. Lucy Weggler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12356
+2026-08-06,de-htw-berlin,Benjamin Weiler,,no_match,Prof. Dr. Benjamin Weiler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13330
+2026-08-06,de-htw-berlin,Jörg Wendler,,no_match,Prof. Dr.-Ing. Jörg Wendler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13017
+2026-08-06,de-htw-berlin,Tilo Wendler,,no_match,Prof. Dr. Tilo Wendler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8865
+2026-08-06,de-htw-berlin,Arif Wider,,no_match,Prof. Dr. Arif Wider,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12850
+2026-08-06,de-htw-berlin,Andi Widok,,no_match,Prof. Dr. Andi Widok,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4726
+2026-08-06,de-htw-berlin,Thomas Wilk,,no_match,Prof. Dr. Thomas Wilk,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1143
+2026-08-06,de-htw-berlin,Helmuth Wilke,,no_match,Prof. Dr.-Ing. Helmuth Wilke,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1144
+2026-08-06,de-htw-berlin,Stephan Wilksch,,no_match,Prof. Dr.-Ing. Stephan Wilksch,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1145
+2026-08-06,de-htw-berlin,Olga Willner,,no_match,Prof. Dr. Olga Willner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=12227
+2026-08-06,de-htw-berlin,Jan Wirsam,,no_match,Prof. Dr. Jan Wirsam,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10528
+2026-08-06,de-htw-berlin,Michael Witt,,no_match,Prof. Dr. Michael Witt,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4763
+2026-08-06,de-htw-berlin,Stefan Wittenberg,,no_match,Prof. Dr. Stefan Wittenberg,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=11037
+2026-08-06,de-htw-berlin,Jochen Wittmann,,no_match,Prof. Dr.-Ing. Jochen Wittmann,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4335
+2026-08-06,de-htw-berlin,Veit Wohlgemuth,,no_match,Prof. Dr. Veit Wohlgemuth,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8663
+2026-08-06,de-htw-berlin,Volker Wohlgemuth,,no_match,Prof. Dr. Volker Wohlgemuth,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3355
+2026-08-06,de-htw-berlin,Annett Wolf,,no_match,Prof. Dr. Annett Wolf,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=4633
+2026-08-06,de-htw-berlin,Ulrich Wurzel,,no_match,Prof. Dr. Ulrich Wurzel,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=1431
+2026-08-06,de-htw-berlin,Peter Zaumseil,,no_match,Prof. Dr. Peter Zaumseil,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=3639
+2026-08-06,de-htw-berlin,Jacek Zawisza,,no_match,Prof. Dr.-Ing. Jacek Zawisza,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=13331
+2026-08-06,de-htw-berlin,Olaf Zeidler,,no_match,Prof. Dr.-Ing. Olaf Zeidler,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=8711
+2026-08-06,de-htw-berlin,Andreas Zeiser,,no_match,Prof. Dr. rer. nat. Andreas Zeiser,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=10753
+2026-08-06,de-htw-berlin,Regina Zeitner,,no_match,Prof. Dr.-Ing. Regina Zeitner,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=2668
+2026-08-06,de-htw-berlin,Gefei Zhang,Gefei Zhang 0002,full,Prof. Dr. Gefei Zhang,,0,2,https://www.htw-berlin.de/hochschule/personen/person/?eid=10755
+2026-08-06,de-htw-berlin,Juan Pablo Menendez Zometa,Pablo Zometa,full,Prof. Dr.-Ing. Juan Pablo Menendez Zometa,,0,0,https://www.htw-berlin.de/hochschule/personen/person/?eid=14933
 2026-08-06,de-humboldt-university-of-berlin,Alan Akbik,Alan Akbik,full,Prof. Dr.,,17,7,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1692635
 2026-08-06,de-humboldt-university-of-berlin,Felix Balzer,,no_match,Prof. Dr. med. Dr. rer. nat.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1693188
 2026-08-06,de-humboldt-university-of-berlin,Peter Eisert,Peter Eisert,full,Prof. Dr.-Ing.,,10,1,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1683562
@@ -1679,6 +2041,485 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tue-ai-center,T. Konstantin Rusch,T. Konstantin Rusch,full,Group Leader,,8,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Samira Samadi,Samira Samadi,full,Group Leader,,9,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Robert Williamson,Robert C. Williamson,first_last,Professor,,8,0,https://tuebingen.ai/people
+2026-08-06,de-uni-potsdam,Anna H. Albrecht,,no_match,"Lehrstuhl für Strafrecht und Strafprozessrecht, Wirtschafts- und Medienstrafrecht und Strafrechtsvergleichung",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/strafrecht
+2026-08-06,de-uni-potsdam,Amitabh Banerji,,no_match,Professuren (Institut für Chemie) - Didaktik der Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Bert Arnrich,Bert Arnrich,full,Prof. Dr. | Fachgebiet Digital Health - Connected Healthcare,,4,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Anna Bindler,,no_match,Professur für Angewandte Mikroökonomie (Gemeinsame Berufung mit dem DIW Berlin),,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Alexander Böker,,no_match,Professuren (Institut für Chemie) - Polymermaterialien und Polymertechnologien,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Bodo Bookhagen,,no_match,ProfessorInnen - Geologische Fernerkundung | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Andreas Borowski,,no_match,Ordentliche Professuren - Didaktik der Physik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Andreas Brenne,,no_match,Prof. Dr. | Professur für Kunstpädagogik und -didaktik,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+2026-08-06,de-uni-potsdam,Axel Bronstert,,no_match,HochschullehrerInnen - Hydrologie und Klimatologie | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Alessandra Buonanno,,no_match,Honorarprofessuren - Max-Planck-Institut für Graviationsphysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Alexandra Carpentier,Alexandra Carpentier,full,Professuren am Institut für Mathematik - Mathematische Statistik | Prof. Dr.,,7,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Carsten Beta,,no_match,Ordentliche Professuren - Biologische Physik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Christian Bär,,no_match,Professuren am Institut für Mathematik - Geometrie | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Christian Bickenbach,,no_match,"Lehrstuhl für Öffentliches Recht, insbesondere Infrastrukturrecht und Verwaltungsrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Christine Böckmann,,no_match,Professuren am Institut für Mathematik - Wahrscheinlichkeitstheorie | apl. Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Chitchanok Chuengsatiansup,,no_match,Prof. Dr. | Fachgebiet Cybersecurity - High-Assurance Systems,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Dana Bergmann,,no_match,Professur für Berufspädagogik (in Vertretung),,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Andreas Degen,,no_match,Akademischer Mitarbeiter Literaturwissenschaft,,0,0,https://www.uni-potsdam.de/de/germanistik/institut/professuren-und-arbeitsgebiete
+2026-08-06,de-uni-potsdam,Carsten Denker,,no_match,Außerplanmäßige Professuren - Sonnenphysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Bernhard Diekmann,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Quartärgeologie [AWI] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Christian Dörr,,no_match,Prof. Dr. | Fachgebiet Cybersecurity - Enterprise Security,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Björn Egbert,,no_match,Prof. Dr. paed. | Grundschulpädagogik Sachunterricht: Schwerpunkt Naturwissenschaften,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/grundschulpaedagogik
+2026-08-06,de-uni-potsdam,Antje Ehlert,,no_match,Prof. Dr. | Inklusionspädagogik - Förderschwerpunkt Lernen,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+2026-08-06,de-uni-potsdam,Elias Ehrlich,,no_match,Tenure-Track Professuren und Juniorprofessuren - Quantitative Naturschutzbiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Elke Dittmann,,no_match,Ordentliche Professuren - Mikrobiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Birgit Elsner,,no_match,Prof. Dr. | Professur Entwicklungspsychologie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Eva Eibl,,no_match,ProfessorInnen - Allgemeine Geophysik | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Fabrice Cotton,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Engineering Seismology and Seismic Hazard [ GFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Doris Fay,,no_match,Prof. Dr. | Professur Arbeits- und Organisationspsychologie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Alisdair Fernie,Alisdair R. Fernie,first_last,Honorarprofessuren - Zentraler Metabolismus,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Alexander Föhlisch,,no_match,Gemeinsam berufene Professuren - Helmholtz-Zentrum Berlin,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Audrey Bürki-Foschini,,no_match,Prof. Dr. | Gastprofessorin,,0,0,https://www.uni-potsdam.de/de/ling/index/personen/personalliste-gesamt
+2026-08-06,de-uni-potsdam,Bertrand Fournier,,no_match,"HochschullehrerInnen - Landschaftsökologie | JProf., PhD",,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Frank Bösch,,no_match,Professur für Deutsche und Europäische Geschichte des 20. Jahrhunderts (Gemeinsame Berufung),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Birte Friedrich,,no_match,Professuren am Institut für Mathematik - Didaktik der Mathematik | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Gabriele Arnold,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Planetare Fernerkundung | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Adamantios Gafos,Adamantios I. Gafos,first_last,Prof. Dr. | Professur Grammatiktheorie: Schwerpunkt Phonologie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Georg Feulner,,no_match,Außerplanmäßige Professuren - Vergangenheit und Zukunft der Erde,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Doreen Georgi,,no_match,Prof. Dr. | Professur Variation und Variabilität in morphosyntaktischen / morphologischen Systemen,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Dominik Geppert,,no_match,Professur für Neuere Geschichte I (19./20. Jahrhundert),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Frauke Brosius-Gersdorf,,no_match,"Lehrstuhl für Öffentliches Recht, insbesondere Verfassungsrecht und Sozialrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Annette Gerstenberg,,no_match,Professur für Romanische Sprachwissenschaft (Französisch und Italienisch),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Gideon Botsch,,no_match,außerplanmäßiger Professor für Politikwissenschaft,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Gillian Bolsover,,no_match,"Prof. Dr. | Fachgebiet Digital Technology, Governance and Policy",,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Grischa Beier,,no_match,Professur für Nachhaltigkeit in der Digitalisierung (gemeinsame Berufung mit dem GFZ Potsdam),,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Guido Grosse,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Permafrost im Erdsystem | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Andreas Güntner,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Hydrogravimetrie [ GFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Christian Hallmann,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Organische Geochemie [ GFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Hanna Dumont,,no_match,Prof. Dr. | Professur für Pädagogische Psychologie m. d. S. schulische Lehr-Lern-Prozesse,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Heiko Christians,,no_match,Professur für Medienkulturgeschichte,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Carsten Henkel,,no_match,Außerplanmäßige Professuren - Quantenoptik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Henning Bordihn,,no_match,PD Dr. rer. nat. habil. Henning Bordihn — Theoretische Informatik,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Heribert Dieter,,no_match,außerplanmäßiger Professor für Politikwissenschaft,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Britta Freitag-Hild,,no_match,Professur für Didaktik der Anglistik und Amerikanistik mit dem Schwerpunkt interkulturelles Lernen,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Barbara Höhle,,no_match,Prof. Dr. | Professur Psycholinguistik mit dem Schwerpunkt Spracherwerb,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Holger Giese,,no_match,Prof. Dr. | Fachgebiet Systemanalyse und Modellierung,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Alexander Huppertz,,no_match,Apl. Prof. Dr. med. | Außerplanmäßige Professur,,0,0,https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/ausserplanmaessige-professuren
+2026-08-06,de-uni-potsdam,Ilko Bald,,no_match,Professuren (Institut für Chemie) - Hybride Nanostrukturen,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Ingolf Hertel,,no_match,Honorarprofessuren - Max-Born-Institut für Nichtlineare Optik und Kurzzeitspektroskopie,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Iris Baumgardt,,no_match,Prof. Dr. | Grundschulpädagogik Sachunterricht: Schwerpunkt Gesellschaftswissenschaften,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/grundschulpaedagogik
+2026-08-06,de-uni-potsdam,Isabel Bäurle,,no_match,Ordentliche Professuren - Pflanzliche Epigenetik,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Jan Härter,,no_match,Ordentliche Professuren - Computational Physics,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Jana Buschmann,,no_match,Dr. | Lehrstuhlinhaberin/Vertretung Musikpädagogik und -didaktik,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+2026-08-06,de-uni-potsdam,Jana Eccard,,no_match,Ordentliche Professuren - Tierökologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Janet Anders,,no_match,Ordentliche Professuren - Theoretische Quantenphysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Jean Braun,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Modellierung von Erdoberflächenprozessen [GFZ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Florian Jeltsch,,no_match,Ordentliche Professuren - Vegetationsökologie und Naturschutz,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Jenny Haase,,no_match,Professur für französisch- und spanischsprachige Literaturen (Französisch/Spanisch),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Hua Jiang,Hua Jiang,full,Nachwuchsgruppen - Pflanzenreproduktion und Stressresistenz | Heisenberg-Nachwuchsgruppe - Epigenetik der Pflanzen,,6,3,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Jiska Classen,,no_match,Prof. Dr.-Ing. | Fachgebiet Mobile and Wireless Security,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Johann Hafner,,no_match,Professur für Religionswissenschaft mit dem Schwerpunkt Christentum,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Johannes Gurke,,no_match,Forschungsgruppen und Habilitierende - Angewandte Photochemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=foha
+2026-08-06,de-uni-potsdam,Johannes Haag,,no_match,Professur für Theoretische Philosophie,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Jolanda Hermanns,,no_match,Forschungsgruppen und Habilitierende - Didaktik der Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=foha
+2026-08-06,de-uni-potsdam,Jörg Fettke,,no_match,Außerplanmäßige Professuren - AG Biopolymer-Analytik,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Jörns Fickel,,no_match,Gemeinsam berufene Professuren - Molekulare Ökologie und Evolution,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Ingo Juchler,,no_match,Professur für Politische Bildung,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Julia Haaf,,no_match,"Prof. Julia Haaf, PhD | Professur Psychologische Forschungsmethoden, Statistik und Evaluation",,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Julia Fleischer,,no_match,Professur für Politik und Regieren in Deutschland,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Julia Geneuss,,no_match,"Lehrstuhl für Strafrecht, Strafprozessrecht, Internationales Strafrecht und Rechtsvergleichung",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/strafrecht
+2026-08-06,de-uni-potsdam,Jürgen Döllner,Jürgen Döllner,full,Prof. Dr. | Fachgebiet Computergrafische Systeme,,2,5,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Dagmar Kainmueller,Dagmar Kainmüller,full,Prof. Dr. | Fachgebiet Integrative Imaging Data Sciences,,2,1,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Georg Kaissis,,no_match,Prof. Dr. med. | Fachgebiet Digital Health: Human-Centered Transformative AI,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Holger Karl,Holger Karl,full,Prof. Dr. | Fachgebiet Internet-Technologien und Softwarization,,1,1,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Kaspar Burger,,no_match,Prof. Dr. | Professur für Sozialwissenschaftliche Bildungs- und Lebensverlaufsforschung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Katarina Hillebrandt,,no_match,Lehrstuhlvertretung Klinische Kinder- und Jugendpsychologie,,0,0,https://www.uni-potsdam.de/de/humfak/aktuelles/lehrstuhlvertretungen
+2026-08-06,de-uni-potsdam,Katarina Braune,,no_match,Prof. Dr. med. | Fachgebiet Digital Health - Non-communicable Diseases,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Kathrin Friedrich,,no_match,Professur für Medienwissenschaft und Medientheorie,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Katja Ferger,,no_match,Dr. habil. | Lehrstuhlinhaberin/Vertretung Trainings- und Bewegungswissenschaft,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+2026-08-06,de-uni-potsdam,Katja Arndt,,no_match,Ordentliche Professuren - Molekulare Biotechnologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Katja Frieler,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Klimafolgen [ PIK ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Katrin Böhme,,no_match,Prof. Dr. | Inklusionspädagogik mit dem Förderschwerpunkt Sprache,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+2026-08-06,de-uni-potsdam,Kay Giesecke,,no_match,Prof. Dr. | Fachgebiet Artificial Intelligence and Quantitative Finance,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Eric Kearney,,no_match,"Professur für Betriebswirtschaftslehre mit dem Schwerpunkt Führung, Organisation und Personal",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Kevin Dadaczynski,,no_match,Prof. Dr. | Professur für Gesundheitserziehung im Sport,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+2026-08-06,de-uni-potsdam,Christine Kleinjung,,no_match,Professur für Geschichte des Mittelalters,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,André Kleinridders,,no_match,Professuren und Forschungsgruppen - MEM (Prof. Dr. A. Kleinridders) | Lehrstuhl für Molekulare und Experimentelle Ernährungsmedizin,,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Andreas Köstler,,no_match,Professur für Kunstgeschichte,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Julia Kraft,,no_match,Professur für Bürgerliches Recht und Vertragsgestaltung,,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Felicitas Krämer,,no_match,Professur für Angewandte Ethik,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Hanna Krasnova,,no_match,"Professur für Wirtschaftsinformatik, insbesondere Soziale Medien und Gesellschaft",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Helene Kretzmer,,no_match,Prof. Dr. | Fachgebiet Computational Genomics,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Elmar Kriegler,,no_match,Professor for Integrated Assessment of Climate Change (Gemeinsame Berufung mit dem PIK),,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Alexander S. Kritikos,,no_match,Professur für Industrie- und Institutionenökonomik (Gemeinsame Berufung mit dem DIW Berlin),,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Katarina Krkovic,,no_match,Dr. Katarina Krkovic | Lehrstuhlvertretung Kinder- und Jugendpsychologie und Psychotherapie,,0,0,https://www.uni-potsdam.de/de/department-psychologie/professuren/klinische-kinder-und-jugendpsychologie-und-psychotherapie
+2026-08-06,de-uni-potsdam,Jürgen Kropp,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Klimawandel und nachhaltige Entwicklung [ PIK ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Frank Krüger,Frank Krüger 0001,full,ProfessorInnen - Allgemeine Geophysik | Prof. Dr.,,0,1,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Christian Kuhlicke,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Umweltrisiken und Nachhaltigkeit [ UFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Franziska Kühne,,no_match,Apl. Prof. Dr. | Außerplanmäßige Professur,,0,0,https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/ausserplanmaessige-professuren
+2026-08-06,de-uni-potsdam,Ana Kuzle,,no_match,Prof. Dr. | Grundschulpädagogik Mathematik,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/grundschulpaedagogik
+2026-08-06,de-uni-potsdam,Jakob Fink-Lamotte,,no_match,Prof. Dr. | Professur Klinische Psychologie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Fabian Lampart,,no_match,Professur für Neuere deutsche Literatur (19.-21. Jahrhundert),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Holger Lange,,no_match,Ordentliche Professuren - Experimental Physics of Light-Matter Interaction,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Hugues Lantuit,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Geomorphologie Polarer Küsten | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Lars Andersson,,no_match,Professuren am Institut für Mathematik - Geometrie | apl. Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Lars Eckstein,,no_match,Professur für Anglophone Literaturen und Kulturen außerhalb Großbritaniens und der U.S.A.,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Anja Lehmann,,no_match,Prof. Dr. | Fachgebiet Cybersecurity - Identity Management,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Anna-Lena Lamprecht,,no_match,Professuren am Institut für Informatik und Computational Science - Software Engineering,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Lena Hochrein,,no_match,Nachwuchsgruppen - Maßgeschneiderte Wirtsorganismen für die Bioökonomie von morgen | BMBF-Nachwuchsgruppe TAILOR,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Anders Levermann,,no_match,Gemeinsam berufene Professuren - Potsdam-Institut für Klimafolgenforschung,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Han Cheng Lie,Han Cheng Lie,full,Professuren am Institut für Mathematik - Quantifizierung von Unsicherheit | Jun. Prof. Dr.,,1,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Andrea Liese,,no_match,Professur für Internationale Beziehungen,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Linda Juang,,no_match,Prof. Dr. | Inklusionspädagogik mit dem Schwerpunkt Diversität,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+2026-08-06,de-uni-potsdam,Anja Linstädter,Anja Linstädter,full,Ordentliche Professuren - Biodiversitätsforschung / Spezielle Botanik,,1,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Christoph Lippert,Christoph Lippert,full,Prof. Dr. | Fachgebiet Digital Health - Machine Learning,,7,1,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Lisa Bruttel,,no_match,"Professur für Volkswirtschaftslehre, insbesondere Märkte, Wettbewerb und Institutionen",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Gunnar Lischeid,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Landschaftswasserhaushalt [ ZALF ] | Prof. Dr. habil.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Logi Gunnarsson,,no_match,Professur für Ethik/Ästhetik,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Jan Lonnemann,,no_match,Prof. Dr. | Empirische Kindheitsforschung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/grundschulpaedagogik
+2026-08-06,de-uni-potsdam,Anna-Dorothea Ludewig,,no_match,"Vertretungsprofessorin, Institut für Jüdische Studien und Religionswissenschaft (Religions- und Kulturgeschichte Mittel- und Osteuropas)",,0,0,https://www.uni-potsdam.de/de/js-rw/institut/kollegium
+2026-08-06,de-uni-potsdam,Christoph Luther,Christoph Luther,full,"Lehrbefugnis für Bürgerliches Recht, Deutsche und Europäische Rechtsgeschichte, Handels-, Gesellschafts- und Medienrecht sowie Rechtstheorie",,1,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Lutz Lammers,,no_match,Lehrbefugnis Öffentliches Recht und Steuerrecht,,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Jürgen Mackert,,no_match,Professur für Allgemeine Soziologie,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Magdalena Hipp,,no_match,Professur für soziale Ungleichheit und Sozialpolitik (Gemeinsame Berufung mit dem WZB),,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Maik Heistermann,,no_match,HochschullehrerInnen - Analyse hydrologischer Systeme | PD Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Maik Heinemann,,no_match,"Professur für Wachstum, Integration und nachhaltige Entwicklung",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Maja Linke,,no_match,Prof. Dr. | Professur für Künstlerische Praxis mit dem Schwerpunkt Malerei/Grafik,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+2026-08-06,de-uni-potsdam,Maja Apelt,,no_match,Professur für Organisations- und Verwaltungssoziologie,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Aswin Mangerich,,no_match,Professuren und Forschungsgruppen - ETOX (Prof. Dr. A. Mangerich) | Professur Ernährungstoxikologie,,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Marco Caliendo,,no_match,Professur für Empirische Wirtschaftsforschung,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Marcus Grum,,no_match,"Juniorprofessur für Wirtschaftsinformatik, insbesondere KI-basierte Anwendungssysteme (Timeline Stiftungsprofessur)",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Marcus Brändle,,no_match,Professur für Technikdidaktik für das berufliche Lehramt (in Vertretung),,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Margret Bülow,,no_match,Professuren und Forschungsgruppen - BCE (Prof. Dr. Margret Bülow) | Professur Biochemie der Ernährung,,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Maria Maares,,no_match,Professuren und Forschungsgruppen - LMC (Prof. Dr. M. Maares) | Professur Lebensmittelchemie,,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Marina Höhne,Marina M.-C. Höhne,first_last,Professuren am Institut für Informatik und Computational Science - Digital Bioeconomy,,15,1,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Mark Lawrence,,no_match,Gemeinsam berufene HochschullehrerInnen ... - Honorarprofessor [ RIFS ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Eva Markowsky,,no_match,Juniorprofessur in Quantitative Economics,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Markus Hecher,Markus Hecher,full,Theoretische Informatik - N.N. Vertretung: Dr. Markus Hecher,,22,11,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Markus Antonietti,,no_match,Honorarprofessuren - MPIKG,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=honor
+2026-08-06,de-uni-potsdam,Markus Grebe,,no_match,Ordentliche Professuren - Pflanzenphysiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Magdalena Marszałek,,no_match,Professur für Slavische Literatur- und Kulturwissenschaft/Polonistik,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Martin Fischer,Martin Fischer 0010,full,"Prof. Martin Fischer, PhD | Querschnittsprofessur Kognitive Wissenschaften",,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Martin Brunner,,no_match,Prof. Dr. | Professur für Quantitative Methoden in den Bildungswissenschaften,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Martin Herold,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Fernerkundung und Geoinformatik [ GFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Martin Leubner,,no_match,Professur für Didaktik der deutschen Literatur,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Matias Bargheer,,no_match,Ordentliche Professuren - Ultraschnelle Dynamik kondensierter Materie,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Claudia Matthäus,,no_match,Professuren und Forschungsgruppen - ZPE (Prof. Dr. C. Matthäus) | Zelluläre Physiologie der Ernährung,,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Matthias Holschneider,,no_match,Professuren am Institut für Mathematik - Angewandte Mathematik | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Matthias Keller,Matthias W. Keller,first_last,Professuren am Institut für Mathematik - Graphentheorie | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Matthias Hartlieb,,no_match,Forschungsgruppen und Habilitierende - Polymere Biomaterialien,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=foha
+2026-08-06,de-uni-potsdam,Matthias Kalkuhl,,no_match,"Professor für Klimawandel, Entwicklung und Wirtschaftswachstum (Gemeinsame Berufung mit dem PIK)",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Matthias Klumm,,no_match,Professur für Englische Sprache der Gegenwart (Lehrstuhlvertretung),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Matthias Granzow-Emden,,no_match,Professur für Didaktik der deutschen Sprache,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Matthias Asche,,no_match,Professur für Allgemeine Geschichte der Frühen Neuzeit,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Maud Hietzge,,no_match,Dr. | Lehrstuhlinhaberin/Vertretung Sportdidaktik unter Berücksichtigung der Sekundarstufe,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+2026-08-06,de-uni-potsdam,Maximilian Lein,,no_match,Professuren am Institut für Mathematik - Mathematische Physik | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Maximilian Kleinert,,no_match,Gemeinsame Berufungen mit DIfE - MPEN (Prof. Dr. M. Kleinert),,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Frank Mayer,Frank Mayer,full,Prof. Dr. | Professur Sportmedizin und Sportorthopädie,,2,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+2026-08-06,de-uni-potsdam,Carsten Meinert,,no_match,"Professur für Bürgerliches Recht, Unternehmens- und Steuerrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Melanie Franke,,no_match,Prof. Dr. | Professur für Kunstwissenschaft in schulischen Lehr- und Lernkontexten,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+2026-08-06,de-uni-potsdam,Melina Freitag,,no_match,Professuren am Institut für Mathematik - Datenassimilation | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Gerard de Melo,Gerard de Melo,full,Prof. Dr. | Fachgebiet Artificial Intelligence and Intelligent Systems,,34,18,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Linda Merkel,,no_match,"Juniorprofessur für Didaktik des Faches Lebensgestaltung. Ethik, Religionswissenschaft",,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Bruno Merz,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Ingenieurhydrologie und Management von Georisiken [ GFZ ] | Prof. Dr.-Ing.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Christoph Merz,,no_match,Externe HochschullehrerInnen - Umwelthydrogeologie & Grundwassermanagement ( ZALF ) | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Jan Metzger,,no_match,Professuren am Institut für Mathematik - Partielle Differentialgleichungen | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Michael Gössel,,no_match,Arbeitsgruppen - Arbeitsgruppe Fehlertolerantes Rechnen,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Michael U. Kumke,,no_match,Professuren (Institut für Chemie) - Opt. Sensorik. u. Spektroskopie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Michael Hofreiter,,no_match,Ordentliche Professuren - Evolutive Adaptive Genomik,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Michael Lenhard,,no_match,Ordentliche Professuren - Genetik,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Michael Kühn,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Hydrogeologie [ GFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Michel Knigge,,no_match,Prof. Dr. | Inklusionspädagogische Schul- und Unterrichtsentwicklung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+2026-08-06,de-uni-potsdam,Iwan-Michelangelo D'Aprile,,no_match,Professur für Kulturen der Aufklärung,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Alex Miklashevsky,,no_match,Elternzeitvertretung Professur Kognitive Neurowissenschaften,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Milos Krstic,Milos Krstic,full,Professuren am Institut für Informatik und Computational Science - Design- und Testmethodik,,1,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Hannes Mohrschladt,,no_match,"Professur für Betriebswirtschaftslehre, insbesondere Finanzierung",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Heiko Möller,,no_match,Professuren (Institut für Chemie) - Analytische Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Monika Fenn,,no_match,Professur für Didaktik der Geschichte,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Hans-Georg Müller,Hans-Georg Müller,full,Akademischer Mitarbeiter Sprachdidaktik,,3,0,https://www.uni-potsdam.de/de/germanistik/institut/professuren-und-arbeitsgebiete
+2026-08-06,de-uni-potsdam,Maria Mutti,,no_match,ProfessorInnen - Sedimentäre Geologie | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Myfanwy Evans,,no_match,Professuren am Institut für Mathematik - Angewandte Geometrie und Topologie | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Nanna Fuhrhop,,no_match,Professur für Germanistische Linguistik/Grammatik,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Natalie Boll-Avetisyan,,no_match,Juniorprofessur Entwicklungsbedingte Psycholinguistik (Dept.-Seite: 'Prof. Dr. Natalie Boll-Avetisyan - Psycholinguistik des frühen Spracherwerbs'),,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Felix Naumann,Felix Naumann,full,Prof. Dr. | Fachgebiet Informationssysteme,,0,1,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Dieter Neher,,no_match,Ordentliche Professuren - Physik und Optoelektronik weicher Materie,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Claas Nendel,,no_match,Gemeinsam berufene Professuren - Landschaftssystemanalyse,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Niclas Böhmer,,no_match,Prof. Dr. | Fachgebiet Algorithmic Decision Making and Society,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Niels Hovius,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Geopedologie | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Nina Kolleck,,no_match,Prof. Dr. habil. | Professur für Erziehungs- und Sozialisationstheorie,,0,0,https://www.uni-potsdam.de/de/erziehungswissenschaft/professuren
+2026-08-06,de-uni-potsdam,Nina Brendel,,no_match,HochschullehrerInnen - Geographische Bildung | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Nora Kulak,,no_match,Professuren (Institut für Chemie) - Anorganische Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Norbert Marwan,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - PIK | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Norbert Gronau,,no_match,"Professur für Wirtschaftsinformatik, insbesondere Prozesse und Systeme",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Norbert Janz,,no_match,"Lehrbefugnis Staats- und Verwaltungsrecht, Verfassungsgeschichte und Staatskirchenrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Kristina Norman,,no_match,Gemeinsame Berufungen mit DIfE - ERG (Prof. Dr. K. Norman),,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Notger Müller,,no_match,"Dekan / Leitung der Professur für Degenerative und Chronische Erkrankungen, Bewegung",,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Guido Nottbusch,,no_match,Prof. Dr. | Grundschulpädagogik Deutsch,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/grundschulpaedagogik
+2026-08-06,de-uni-potsdam,Brigitte Obermayr,,no_match,Professur für Ostslavische Literaturen und Kulturen,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Aileen Oeberst,,no_match,Prof. Dr. | Professur Sozialpsychologie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Olaf Ahlers,,no_match,"Studiendekan, Professur für Gesundheitswissenschaftliche Ausbildungsforschung und evidenzbasierte Lehr- und Lernmethodik",,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Oliver Korup,,no_match,"HochschullehrerInnen - Naturgefahren | Prof., PhD",,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Oliver Bodensiek,,no_match,Professur für Informationstechnologie im berufsbildenden Kontext,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Lida Oskinova,,no_match,Außerplanmäßige Professuren - Röntgenastronomie,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Hendrik Paasche,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - UFZ Leipzig | PD Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Jochen R. Pampel,,no_match,Außerplanmäßiger Professur für Controlling,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Patrick Ebel,Patrick Ebel 0002,full,Prof. Dr. | Fachgebiet Computational Interaction,,3,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Patrick Baudisch,Patrick Baudisch,full,Prof. Dr. | Fachgebiet Human Computer Interaction,,0,13,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Patrick O'Brien,Patrick S. O'Brien,first_last,ProfessorInnen - Petrologie | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Isabelle Penning,,no_match,"Juniorprofessur für Didaktik der ökonomisch-technischen Bildung im inklusiven Kontext, Förderschwerpunkt kognitive Entwicklung (Sekundarstufe I)",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Peter Nejjar,,no_match,Professuren am Institut für Mathematik - Wahrscheinlichkeitstheorie | Jun. Prof.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Peter Fratzl,,no_match,Honorarprofessuren - Max-Planck-Institut für Kolloid- und Grenzflächenforschung,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Hans-Peter Grossart,,no_match,Gemeinsam berufene Professuren - Aquatische mikrobielle Ökologie und funktionelle Biodiversität,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Peter Greve,,no_match,Externe HochschullehrerInnen - Uncertain Water Resources under Global Change ( HEREON ) | Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Jens Petersen,Jens Petersen,full,"Lehrstuhl für Bürgerliches Recht, Deutsches und Internationales Wirtschaftsrecht",,2,5,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Jonathan Pfaff,,no_match,Professuren am Institut für Informatik und Computational Science - Maschinelles Lernen und Datenkompression,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Max Pfeffer,,no_match,Leitung der Professur Bioanalytik und Data Science,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Harald Pfeiffer,,no_match,Gemeinsam berufene Professuren - Max-Planck-Institut für Gravitationsphysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Martin Pfeiffer,Martin H. P. Pfeiffer,first_last,Professur für Germanistische Linguistik/Sprachgebrauch,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Christoph Pfrommer,,no_match,Gemeinsam berufene Professuren - Leibniz-Institut für Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Philip Peter,,no_match,Prof. Philip Peter | Professur für Schulpraktisches Musizieren und Musiktheorie,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+2026-08-06,de-uni-potsdam,Philip Bubeck,,no_match,HochschullehrerInnen - Geographie und Naturrisikenforschung | PD Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Katharina Philipowski,,no_match,Professur für Germanistische Mediävistik,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Dawid Pieper,,no_match,Leitung der Professur Versorgungs- und Gesundheitssystemforschung,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Kathleen Plötner,,no_match,"Professur für Didaktik der romanischen Sprachen, Literaturen und Kulturen",,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Nadine Polz,,no_match,"Dr. | Lehrstuhlvertretung Inklusionspädagogik, Schwerpunkt Forschungsmethoden und Diagnostik",,0,0,https://www.uni-potsdam.de/de/humfak/aktuelles/lehrstuhlvertretungen
+2026-08-06,de-uni-potsdam,Andreas Polze,,no_match,Prof. Dr. | Fachgebiet Betriebssysteme und Middleware,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Katja Poppenhäger,,no_match,Gemeinsam berufene Professuren - Leibniz-Institut für Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Helmut Prechtl,,no_match,Ordentliche Professuren - Didaktik der Biologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Isabella Proeller,,no_match,Professur für Public und Non-Profit Management,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Esther Pürgstaller,,no_match,Jun.-Prof. Dr. | Professur für Fachdidaktik Sport unter Berücksichtigung der Primarstufe,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-sport-und-gesundheitswissenschaften
+2026-08-06,de-uni-potsdam,Milena Rabovsky,,no_match,Professur Kognitive Neurowissenschaften (Lehrstuhlinhaberin; DFG-Emmy-Noether-Geförderte),,0,0,https://www.uni-potsdam.de/de/cogneuro/index
+2026-08-06,de-uni-potsdam,Annika Rademacher,,no_match,"Dr. | Lehrstuhlinhaber/Vertretung Inklusionspädagogik, Schwerpunkt Forschungsmethoden und Diagnostik",,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+2026-08-06,de-uni-potsdam,Oliver Rader,,no_match,Außerplanmäßige Professuren - Spin und Topologie in Quantenmaterialien,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Jens Raila,,no_match,Professuren und Forschungsgruppen - Apl. Prof. Dr. J. Raila,,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Rainald Borck,,no_match,"Professur für Öffentlicher Sektor, Finanz- und Sozialpolitik",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Ralf Engbert,,no_match,Prof. Dr. | Professur Allgemeine und Biologische Psychologie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Ralf Brand,,no_match,Prof. Dr. | Professur Sportpsychologie,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+2026-08-06,de-uni-potsdam,Ralf Herbrich,Ralf Herbrich,full,Prof. Dr. | Fachgebiet Artificial Intelligence and Sustainability,,3,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Ralf Metzler,,no_match,Ordentliche Professuren - Theoretische Physik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Ralf Pröve,,no_match,Apl. Prof. Dr. Ralf Pröve (Bereich Sozialgeschichte),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Ralph Gräf,,no_match,Ordentliche Professuren - Zellbiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Ralph Bock,,no_match,"Honorarprofessuren - Organellenbiologie, Biotechnologie und molekulare Ökophysiologie",,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Michael Rapp,,no_match,Prof. Dr. Dr. | Professur Sozial- und Präventivmedizin,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+2026-08-06,de-uni-potsdam,Christoph Rasche,,no_match,Prof. Dr. | Professur Sportmanagement/Sportoekonomie,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+2026-08-06,de-uni-potsdam,Marie-Luise Raters,,no_match,Apl. Prof. Dr. Marie-Luise Raters,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Christian Rauh,,no_match,Professur für Politik im Mehrebenensystem (gemeinsame Berufung mit dem WZB),,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Rebecca Lazarides,,no_match,Prof. Dr. | Professur für Schulpaedagogik/Empirische Unterrichtsforschung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Reinhard Lipowsky,,no_match,Professuren mit Zweitmitgliedschaft am Institut für Biochemie und Biologie - Theorie und Bio-Systeme,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Reinhold Kliegl,,no_match,"Prof. Dr. | Seniorprofessur, Professur Trainings- und Bewegungswissenschaften",,0,0,https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/seniorprofessuren
+2026-08-06,de-uni-potsdam,Bianca Reinisch,,no_match,Ordentliche Professuren - Didaktik der Biologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Bernhard Renard,Bernhard Y. Renard,first_last,Prof. Dr. | Fachgebiet Data Analytics and Computational Statistics,,3,1,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Markus Rex,,no_match,Gemeinsam berufene Professuren - Alfred-Wegener-Institut,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Ria Baumgrass,,no_match,Außerplanmäßige Professuren - AG Signaltransduktion,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Richard Göllner,Richard Göllner,full,Prof. Dr. | Professur für Prozessbezogene Unterrichtsforschung,,0,1,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Dirk Richter,,no_match,Prof. Dr. | Erziehungswissenschaftliche Bildungsforschung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Philipp Richter,,no_match,Ordentliche Professuren - Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Camilla Rjosk,,no_match,Prof. Dr. | Professur für Schulentwicklung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Bernd Müller-Röber,,no_match,Ordentliche Professuren - Molekularbiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Robert Hirschfeld,Robert Hirschfeld,full,Prof. Dr. | Fachgebiet Software-Architekturen,,0,4,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Robert Ranisch,,no_match,Leitung der Professur Medizinische Ethik,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Johan Rockström,,no_match,"Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Earth System Science [ PIK ] | Prof., PhD",,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Michael Rode,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Hydrologie von Agrarlandschaften [ UFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Roland Ismer,,no_match,Lehrstuhl für Öffentliches Recht und Steuerrecht,,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Manfred Rolfes,,no_match,HochschullehrerInnen - Angewandte Humangeographie / Regionalwissenschaften | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Rolf Romer,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Isotopengeologie [ GFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Rona K. Reibis,,no_match,Außerplanmäßige FGW-Professorin,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Ronen Pinkas,,no_match,Professur für Talmud und Rabbinische Literatur (Lehrstuhlvertretung),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Jana Roos,,no_match,Professur für Didaktik des Englischen (Primarstufe),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Marla-Rosa Cioni,,no_match,Gemeinsam berufene Professuren - Leibniz-Institut für Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Manuela Rossol,,no_match,Leitung der Professur für Molekulare Immunologie,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Rumiana Dimova,,no_match,Außerplanmäßige Professuren - Max-Planck-Institut für Kolloid- und Grenzflächenforschung,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Jakob Runge,Jakob Runge,full,Professuren am Institut für Informatik und Computational Science - Künstliche Intelligenz in den Wissenschaften,,14,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Miriam Rürup,,no_match,Professur für Europäisch-Jüdische Studien (Gemeinsame Berufung),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Peter Saalfrank,,no_match,Professuren (Institut für Chemie) - Theoretische Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Sabine Attinger,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Mathematische Hydrologie [ UFZ ] | Prof. Dr. habil.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Sabine Kuhlmann,,no_match,"Professur für Politikwissenschaft, Verwaltung und Organisation",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Sabrina Metzger,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Geologie [ GFZ ] | PD Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Salvatore Chiantia,,no_match,Ordentliche Professuren - Physikalische Biochemie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Martin Salzmann,Martin Salzmann,full,Prof. Dr. | Professur Grammatiktheorie mit dem Schwerpunkt Syntax,,1,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Luis Samaniego,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Data Science and Hydrology [ UFZ ] | Prof. Dr. habil.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Samaya Nissanke,,no_match,Gemeinsam berufene Professuren - DESY Zeuthen,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Sascha Brune,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Geodynamische Modellierung ( GFZ ) | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Sascha Oswald,,no_match,HochschullehrerInnen - Wasser- und Stofftransport in Landschaften | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Christiane Scheffler,,no_match,Außerplanmäßige Professuren - Humanbiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Katharina Scheiter,,no_match,Prof. Dr. | Professur für Digitale Bildung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Marcia C. Schenck,,no_match,Professur für Globalgeschichte,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Frank Scherbaum,Frank Scherbaum,full,Wissenschaftliches Personal - Allgemeine Geophysik | Prof. Dr.,,0,1,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Judith Schicks,,no_match,Professuren (Institut für Chemie) - Mehrphasensysteme,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Helmut Schlaad,,no_match,Professuren (Institut für Chemie) - Polymerchemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Marcus Schladebach,,no_match,"Forschungsstelle für Öffentliches Recht, Medienrecht und Luft- und Weltraumrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,David Schlangen,David Schlangen,full,Prof. Dr. | Professur Grundlagen der Computerlinguistik,,12,7,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Alexander Schliep,,no_match,Leitung der Professur für Medizinische Bioinformatik mit Schwerpunkt auf Patientennahe Datenerfassung,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Bernd Schmidt,,ambiguous_full(2),Professuren (Institut für Chemie) - Organische Synthesechemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,René Schneider,,no_match,Nachwuchsgruppen - Zellbiologie des pflanzlichen Wassertransports | Emmy Noether Nachwuchsgruppe - Pflanzenphysiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Birgit Schneider,,no_match,Professur für Wissenskulturen und mediale Umgebungen,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Bettina Schnor,,no_match,Professuren am Institut für Informatik und Computational Science - Betriebssysteme und Verteilte Systeme,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Insa Feinkohl-Schoberth,,no_match,Leitung der Professur für Epidemiologie,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Jonathan Schorsch,,no_match,Professur für Jüdische Religions- und Geistesgeschichte,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Satyam Antonio Schramm,,no_match,Prof. Dr. | Förderschwerpunkt emotionale und soziale Entwicklung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+2026-08-06,de-uni-potsdam,Michela Schröder-Abe,,no_match,Prof. Dr. | Professur Differentielle Psychologie und Diagnostik,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Christoph Schröder,Christoph Schröder-Dering,full,Professur für Deutsch als Fremd- und Zweitsprache,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Marie Schröer,,no_match,Juniorprofessur für Kultursemiotik und Kulturen romanischer Länder,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Sandra Schulz,Sandra Schulz 0002,full,Professuren am Institut für Informatik und Computational Science - Didaktik der Informatik,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Matthias Schulze,,no_match,Gemeinsame Berufungen mit DIfE - MEP (Prof. Dr. M. Schulze),,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Fabian Schuppert,,no_match,Professur für Politische Theorie,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Annette Schürmann,,no_match,Gemeinsame Berufungen mit DIfE - DIAB (Prof. Dr. A. Schürmann),,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Anja Schwarz,,no_match,Professur für Cultural Studies mit dem Schwerpunkt Urban Britain,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Sebastian Kempert,,no_match,Prof. Dr. | Grundschulpädagogik und Lehr-Lernforschung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/grundschulpaedagogik
+2026-08-06,de-uni-potsdam,Sebastian Geisler,,no_match,Professuren am Institut für Mathematik - Didaktik der Mathematik | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Sebastian Reich,Sebastian Reich,full,Professuren am Institut für Mathematik - Numerische Mathematik | Prof. Dr.,,3,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Sebastian Hainzl,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - GFZ Potsdam | PD Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Sebastian Lovens-Cronemeyer,,no_match,Arbeitsbereich Wirtschaftsprivatrecht / Koordination Examensvorbereitung,,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Peter Seeberger,,no_match,Honorarprofessuren - MPIKG,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=honor
+2026-08-06,de-uni-potsdam,Barbara Seliger,,no_match,Leitung der Professur für Translationale Immunologie,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Ilja A. Seržant,,no_match,Professur für Slavistische Linguistik,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Salim Seyfried,,no_match,Ordentliche Professuren - Zoophysiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Safa Shoaee,,no_match,Gemeinsam berufene Professuren - Paul-Drude-Institut für Festkörperelektronik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Christin Siegfried,,no_match,Professur für Wirtschaftspädagogik für das berufliche Lehramt,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Silke Leimkühler,,no_match,Ordentliche Professuren - Molekulare Enzymologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Silvia Makowski,,no_match,Maschinelles Lernen - N.N. Vertretung: Dr. Silvia Makowski,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Sina Rauschenbach,,no_match,Professur für Religionswissenschaft mit dem Schwerpunkt Jüdisches Denken,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Ed Sobel,,no_match,"ProfessorInnen - Thermochronologie | Prof., PhD",,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Michael Sommer,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Bodenlandschaftsforschung [ ZALF ] | Prof. Dr. habil.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Sönke Neitzel,,no_match,Professur für Militärgeschichte/Kulturgeschichte der Gewalt,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Michael Sonnentag,,no_match,Lehrstuhl für Bürgerliches Recht und Internationales Privatrecht,,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Nadine Spörer,,no_match,Prof. Dr. | Psychologische Grundschulpädagogik,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/grundschulpaedagogik
+2026-08-06,de-uni-potsdam,Benno Stabernack,,no_match,Professuren am Institut für Informatik und Computational Science - Architekturen eingebetteter Systeme für die Signalverarbeitung,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Manfred Stede,Manfred Stede,full,Prof. Dr. | Professur Angewandte Computerlinguistik,,0,1,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Stefan Rahmstorf,,no_match,Gemeinsam berufene Professuren - Potsdam-Institut für Klimafolgenforschung,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Stefan Norra,,no_match,HochschullehrerInnen - Bodenkunde und Geoökologie | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Steffen Ganghof,,no_match,Professur für Vergleichende Politikwissenschaft,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Christian Stegmann,,no_match,Gemeinsam berufene Professuren - DESY Zeuthen,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Georg Steinberg,,no_match,Lehrstuhl für Strafrecht und Strafprozessrecht,,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/strafrecht
+2026-08-06,de-uni-potsdam,Matthias Steinmetz,,no_match,Gemeinsam berufene Professuren - Leibniz-Institut für Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Björn Steinrötter,,no_match,"Lehrstuhl für Bürgerliches Recht, IT-Recht und Medienrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Stephan Geier,,no_match,Ordentliche Professuren - Stellare Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Stephanie Natho,,no_match,AG Landschaftsmanagement - Leitung: Dr. Stephanie Natho,,0,0,https://www.uni-potsdam.de/de/umwelt/forschung/uebersicht
+2026-08-06,de-uni-potsdam,Ariel Dora Stern,,no_match,"Prof. Dr. | Fachgebiet Digital Health, Economics & Policy",,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Steve Nebel,,no_match,Prof. Dr. | Professur für Schulbezogene Medienbildung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Stefan Stieglitz,Stefan Stieglitz,full,Professur für Wirtschaftsinformatik und Digitale Transformation,,0,1,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Stefanie Stockhorst,,no_match,Professur für Neuere deutsche Literatur (m.d. Schwerpunkt Frühe Neuzeit),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Bernd Stöver,,no_match,Apl. Prof. Dr. Bernd Stöver (Bereich Internationale Geschichte),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Klaus Strassmeier,,no_match,Gemeinsam berufene Professuren - Leibniz-Institut für Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Manfred Strecker,,no_match,"ProfessorInnen - Allgemeine Geologie | Prof., PhD",,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Sukanya Bhowmik,,no_match,"Professuren am Institut für Informatik und Computational Science - Middleware, Operating Systems, and Computer Networks",,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Jan Sürmeli,Jan Sürmeli,full,Professuren am Institut für Informatik und Computational Science - Sichere digitale Identitäten,,0,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Susanne Liebner,,no_match,Gemeinsam berufene Professuren - Molekulare Umweltmikrobiologie | JunProf. Dr.,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Susanne Hähnchen,,no_match,Lehrstuhl für Bürgerliches Recht und Rechtsgeschichte,,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Sven Raum,,no_match,Professuren am Institut für Mathematik - Algebra | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Sven T. Stripp,,no_match,Forschungsgruppen und Habilitierende - Spektroskopie & Biokatalyse,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=foha
+2026-08-06,de-uni-potsdam,Svetlana Santer,,no_match,Ordentliche Professuren - Intelligente weiche Materie,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Sylvie Paycha,,no_match,Professuren am Institut für Mathematik - Analysis | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Tanja Schwerdtle,,no_match,Prof. Dr. Tanja Schwerdtle (Honorarprofessorin für Lebensmitteltoxikologie),,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Andreas Taubert,,no_match,Professuren (Institut für Chemie) - Supramolekulare Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Taylor Schildgen,,no_match,"Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Landschaftsevolution und Klimainteraktion [ GFZ ] | Prof., PhD",,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Annegret Thieken,,no_match,HochschullehrerInnen - Geographie und Naturrisikenforschung | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Thomas Schmitt,Thomas H. Schmitt,first_last,Gemeinsam berufene Professuren - Entomologie und Biogeographie,,0,1,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Thomas Siedler,,no_match,"Professur für Volkswirtschaftslehre, insbesondere Wirtschaftspolitik",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Thomas Sommerer,,no_match,"Professur für Politikwissenschaft, insbesondere Internationale Organisationen",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Thomas Brechenmacher,,no_match,Professur für Neuere Geschichte II (deutsch-jüdische Geschichte),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Thomas Khurana,,no_match,Professur für Politische Philosophie und Philosophische Anthropologie,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Meik Thöne,,no_match,Lehrstuhl für Bürgerliches Recht und Zivilprozessrecht einschließlich der europäischen Bezuege,,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Christian Thorau,,no_match,Prof. Dr. | Professur für Musikwissenschaft,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+2026-08-06,de-uni-potsdam,Thorsten Ingo Schmidt,,no_match,"Lehrstuhl für Öffentliches Recht, insbesondere Staatsrecht, Verwaltungs-, Kommunal- und Finanzrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Ralph Tiedemann,,no_match,Ordentliche Professuren - Evolutionsbiologie / Spezielle Zoologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Tillmann Klamroth,,no_match,Professuren (Institut für Chemie) - Computerchemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Tilman Grune,,no_match,Gemeinsame Berufungen mit DIfE - MTOX (Prof. Dr. T. Grune),,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Tilmann Rabl,,no_match,Prof. Dr. | Fachgebiet Data Engineering Systems,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Tim Dietrich,,no_match,Ordentliche Professuren - Theoretische Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Tim J. Schulz,,no_match,Gemeinsame Berufungen mit DIfE - ADE (Prof. Dr. T. J. Schulz),,0,0,https://www.uni-potsdam.de/de/iew/
+2026-08-06,de-uni-potsdam,Timo Hennig,,no_match,Prof. Dr. | Inklusionspädagogische Psychologie,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+2026-08-06,de-uni-potsdam,Evgenii Titov,,no_match,Forschungsgruppen und Habilitierende - Computer-Photochemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=foha
+2026-08-06,de-uni-potsdam,Jasper Dag Tjaden,,no_match,Professur für angewandte Sozialforschung und Public Policy,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Tobias Friedrich,Tobias Friedrich 0001,full,Prof. Dr. | Fachgebiet Algorithm Engineering,,9,5,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Tobias Lettl,,no_match,"Lehrstuhl für Bürgerliches Recht, Handels- und Wirtschaftsrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/buergerliches-recht
+2026-08-06,de-uni-potsdam,Torsten Schaub,Torsten Schaub,full,Professuren am Institut für Informatik und Computational Science - Wissensverarbeitung und Informationssysteme,,0,3,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Torsten Linker,,no_match,Professuren (Institut für Chemie) - Organische Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Torsten Dahm,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Erdbebenrisiko und Frühwarnung [ GFZ ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Frank Tosch,,no_match,apl. Prof. Dr. phil. habil. | apl. Professur für Historische Bildungsforschung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Martin Trauth,,no_match,ProfessorInnen - Paläoklimadynamik | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Peer Trilcke,,no_match,Professur für deutsche Literatur des 19. Jahrhunderts mit dem Schwerpunkt Theodor Fontane,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Jens Tronicke,,no_match,ProfessorInnen - Angewandte Geophysik | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Outi Tuomainen,,no_match,Prof. Dr. | Professur Entwicklungsbedingte Sprachstörungen (Dept.-Seite: 'Klinische Linguistik'),,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Filippo Carlà-Uhink,,no_match,Professur für Geschichte des Altertums,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Ulfert Gronewold,,no_match,Professur für Rechnungswesen und Wirtschaftsprüfung im privaten und öffentlichen Sektor,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Ulrich Sauerland,,no_match,Apl. Prof. Dr. | Außerplanmäßige Professur,,0,0,https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/ausserplanmaessige-professuren
+2026-08-06,de-uni-potsdam,Ulrich Kortenkamp,,no_match,Professuren am Institut für Mathematik - Didaktik der Mathematik | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Ulrich Glebe,,no_match,Forschungsgruppen und Habilitierende - Biohybride Materialien,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=foha
+2026-08-06,de-uni-potsdam,Ulrich Kohler,Ulrich Koehler,full,Professur für Methoden der empirischen Sozialforschung,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Ulrike Becker,,no_match,Apl. Prof. Dr. phil. | Außerplanmäßige Professur,,0,0,https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/ausserplanmaessige-professuren
+2026-08-06,de-uni-potsdam,Ulrike Lucke,Ulrike Lucke,full,Professuren am Institut für Informatik und Computational Science - Komplexe Multimediale Anwendungsarchitekturen,,1,0,https://www.uni-potsdam.de/de/cs/research/index
+2026-08-06,de-uni-potsdam,Ulrike Herzschuh,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - Statistische und Dynamische Integration von Paläoumweltdaten [ AWI ] | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Ulrike Demske,,no_match,Professur für Geschichte und Variation der deutschen Sprache,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Johannes Ungelenk,,no_match,Professur für Allgemeine und Vergleichende Literaturwissenschaft,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Urška Grum,,no_match,Professur für Didaktik der englischen Sprache,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Ursula Gaedke,,no_match,Ordentliche Professuren - Ökologie und Ökosystemmodellierung,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Uta Herbst,,no_match,Professur für Betriebswirtschaftslehre mit dem Schwerpunkt Marketing,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Melanie Uth,,no_match,Professur für Romanische Sprachwissenschaft (Französisch und Spanisch),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Vaibhav Bajpai,,no_match,Prof. Dr. | Fachgebiet Data-Intensive Internet Computing,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Peter van der Beek,,no_match,ProfessorInnen - Allgemeine Geologie | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Shravan Vasishth,,no_match,Prof. Dr. | Professur Psycho-/Neurolinguistik mit dem Schwerpunkt Sprachverarbeitung,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Vera Kirchner,,no_match,Professur für Ökonomische Bildung,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Roland Verwiebe,,no_match,Professur für Sozialstruktur und soziale Ungleichheit,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Pablo Villavicencio Lorini,,no_match,"Leitung der Professur Klinische Genetik, Vorsitzender des Fakultätsrats",,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Miriam Vock,,no_match,Prof. Dr. | Professur für Empirische Unterrichts- und Interventionsforschung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Regina Hoffmann-Vogel,,no_match,Ordentliche Professuren - Experimentelle Physik kondensierter Materie,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Volker Grimm,,no_match,Gemeinsam berufene Professuren - Theoretische Ökologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Heinz Völler,,no_match,Leitung der Professur Rehabilitationsmedizin,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Hans-Hennig von Grünberg,,no_match,Professur für Wissens- und Technologietransfer,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Julia von Maltzahn,,no_match,Forschungsdekanin / Leitung der Professur für Stammzellbiologie des Alters,,0,0,https://www.fgw-brandenburg.de/mitglieder/professuren/uebersicht/
+2026-08-06,de-uni-potsdam,Sandra Wachter,Sandra Wachter,full,Prof. Dr. | Fachgebiet Technology and Regulation,,1,2,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Thorsten Wagener,,no_match,"HochschullehrerInnen - Analyse hydrologischer Systeme | Prof., PhD",,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Dirk Wagner,,no_match,Gemeinsam berufene Professuren - Geomikrobiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Walid Maalej,Walid Maalej,full,Prof. Dr. | Fachgebiet Software Engineering and AI,,2,1,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Nicole Waller,,no_match,Professur für Amerikanische Literatur und Kultur,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Thomas Walter,Thomas Walter 0003,full,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - GFZ | Prof. Dr.,,4,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Walter Homolka,,no_match,Professur für Jüdische Religionsphilosophie,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Dirk Walther,Dirk Bernhardt-Walther,first_last,Außerplanmäßige Professuren - Bioinformatik (MPI-MP),,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Ariane Walz,,no_match,Externe HochschullehrerInnen - Landschaftsmanagement | PD Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Petra Warschburger,,no_match,Prof. Dr. | Professur Beratungspsychologie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Isabell Wartenburger,,no_match,Prof. Dr. | Professur Patholinguistik/ Neurokognition der Sprache,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Florian Weck,,no_match,Prof. Dr. | Professur Klinische Psychologie / Psychotherapie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Ute Weckmann,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - GFZ | PD Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Matthias Weidlich,Matthias Weidlich 0001,full,Prof. Dr. | Fachgebiet Data Systems,,3,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Philipp Weis,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - GFZ | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Norman Weiss,,no_match,"Lehrbefugnis Öffentliches Recht, Völkerrecht und Europarecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Thomas Weith,,no_match,Gemeinsam berufene HochschullehrerInnen an außeruniversitären Forschungsinstitutionen und außerplanmäßige Professuren - ILS in Dortmund [ ILS ] | Prof. Dr.-Ing.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Guntram Weithoff,,no_match,Außerplanmäßige Professuren - AG Aquatic Ecology,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Petra Wendler,,no_match,Ordentliche Professuren - Biochemie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Oliver Wendt,,no_match,Prof. Dr. | Inklusionspädagogik - Förderschwerpunkt Geistige Entwicklung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/inklusionspaedagogik
+2026-08-06,de-uni-potsdam,Henrike Müller-Werkmeister,,no_match,Professuren (Institut für Chemie) - Physikalische Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Werner Beidinger,,no_match,Prof. Werner Beidinger | Professur für Elementare Musikpädagogik,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/musik-und-kunst
+2026-08-06,de-uni-potsdam,Mathias Weske,,no_match,Prof. Dr. | Fachgebiet Business Process Technology,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Katharina Wesselmann,,no_match,Professur für Klassische Philologie,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Pablo Wessig,,no_match,Professuren (Institut für Chemie) - Bioorganische Chemie,,0,0,https://www.chem.uni-potsdam.de/index.php?lang=de&action=profs
+2026-08-06,de-uni-potsdam,Mathias Weymar,,no_match,Prof. Dr. | Professur Emotions- und Biopsychologie,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-psychologie
+2026-08-06,de-uni-potsdam,Lothar H. Wieler,,no_match,Prof. Dr. | Fachgebiet Digital Global Public Health,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Dirk Wiemann,,no_match,Professur für Englische Literatur,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Tobias Wiemer,,no_match,Professur für Technik und Technische Bildung,,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Monika Wienfort,,no_match,Professur für Brandenburgisch-Preußische Geschichte,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Karoline Wiesner,,no_match,Ordentliche Professuren - Komplexitätswissenschaft,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Phillip A. Wigge,,no_match,Gemeinsam berufene Professuren - Plant Nutritional Genomics,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Hubert Wiggering,,no_match,AG Landwissenschaften - Leitung: Prof. Hubert Wiggering (im Ruhestand),,0,0,https://www.uni-potsdam.de/de/umwelt/forschung/uebersicht
+2026-08-06,de-uni-potsdam,Wilhelm Huisinga,,no_match,Professuren am Institut für Mathematik - Mathematische Modellierung und Systembiologie | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Martin Karl Wilhelm Pohl,,no_match,Gemeinsam berufene Professuren - DESY Zeuthen,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Max Wilke,,no_match,ProfessorInnen - Mineralogie | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Lothar Willmitzer,,no_match,Honorarprofessuren - Molekulare Physiologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Alexander Windoffer,,no_match,"Professur für Öffentliches Recht, insbesondere Besonderes Verwaltungsrecht und Verwaltungswissenschaften",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Ricarda Winkelmann,,no_match,Gemeinsam berufene Professuren - Potsdam-Institut für Klimafolgenforschung,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Winnie-Karen Giera,,no_match,Juniorprofessur für Deutschdidaktik im inklusiven Kontext/Förderschwerpunkt Sprache und Kommunikation (Sekundarstufe l),,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Pia-Maria Wippert,,no_match,Prof. Dr. | Professur Medizinische Soziologie und Psychobiologie,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/sport-1
+2026-08-06,de-uni-potsdam,Lutz Wisotzki,,no_match,Gemeinsam berufene Professuren - Leibniz-Institut für Astrophysik,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Jörg Wissel,,no_match,Apl. Prof. Dr. med. | Außerplanmäßige Professur,,0,0,https://www.uni-potsdam.de/de/humfak/fakultaet/struktur-und-professuren-der-fakultaet/ausserplanmaessige-professuren
+2026-08-06,de-uni-potsdam,Hans-Georg Wolf,,no_match,Professur für Entwicklung und Variation der englischen Sprache,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Wolfgang Lauterbach,,no_match,Prof. Dr. | Professur für Sozialwissenschaftliche Bildungsforschung,,0,0,https://www.uni-potsdam.de/de/bildungswissenschaften/studienbereiche/erziehungswissenschaft
+2026-08-06,de-uni-potsdam,Wolfgang Schwanghart,,no_match,HochschullehrerInnen - Naturgefahren | PD Dr.,,0,0,https://www.uni-potsdam.de/de/umwelt/institut/alle-mitarbeiterinnen
+2026-08-06,de-uni-potsdam,Alexander Wöll,,no_match,Professur für Kultur und Literatur Mittel- und Osteuropas,,0,0,https://www.uni-potsdam.de/de/philfak/fakultaet/personalia/professorium
+2026-08-06,de-uni-potsdam,Katharina Wrohlich,,no_match,"Professur für Öffentliche Finanzen, Gender- und Familienoekonomie (Gemeinsame Berufung mit dem DIW Berlin)",,0,0,https://www.uni-potsdam.de/de/wiso/fakultaet/professuren-personen
+2026-08-06,de-uni-potsdam,Monika Wulf,,no_match,Außerplanmäßige Professuren - AG Vegetationsökologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Huirong Yan,,no_match,Gemeinsam berufene Professuren - DESY Zeuthen,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Yuri Shprits,,no_match,Gemeinsam berufene Professuren - Helmholtz-Zentrum für Geoforschung,,0,0,https://www.uni-potsdam.de/de/physik/institut/professuren
+2026-08-06,de-uni-potsdam,Eleni Tzirita Zacharatou,,no_match,Prof. Dr. | Fachgebiet Spatial Analytics and Large Scale Data Processing,,0,0,https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete
+2026-08-06,de-uni-potsdam,Arno Zang,,no_match,Gemeinsam berufene und außerplanmäßige ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen - Geophysik und Felsmechanik | Prof. Dr.,,0,0,https://www.uni-potsdam.de/de/geo/institut/mitarbeiter
+2026-08-06,de-uni-potsdam,Rudolf Zeidler,,no_match,Professuren am Institut für Mathematik - Geometrie | Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Malte Zimmermann,,no_match,Prof. Dr. | Professur Allgemeine Sprachwissenschaft: Grammatiktheorie mit dem Schwerpunkt Semantik,,0,0,https://www.uni-potsdam.de/de/kognitionswissenschaften/zusammensetzung-des-strukturbereichs/professuren-im-department-linguistik
+2026-08-06,de-uni-potsdam,Andreas Zimmermann,,no_match,"Lehrstuhl für Öffentliches Recht, insbesondere Staatsrecht, Europa- und Völkerrecht sowie Europäisches Wirtschaftsrecht und Wirtschaftsvölkerrecht",,0,0,https://www.uni-potsdam.de/de/jura/ful/lehrstuehle-und-professuren/oeffentliches-recht
+2026-08-06,de-uni-potsdam,Gert Zöller,,no_match,Professuren am Institut für Mathematik - Angewandte Mathematik | apl. Prof. Dr.,,0,0,https://www.math.uni-potsdam.de/professuren
+2026-08-06,de-uni-potsdam,Zoran Nikoloski,,no_match,Ordentliche Professuren - Bioinformatik,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
+2026-08-06,de-uni-potsdam,Damaris Zurell,,no_match,Ordentliche Professuren - Ökologie/Makroökologie,,0,0,https://www.uni-potsdam.de/de/ibb/arbeitsgruppen/professuren-ags
 2026-08-06,de-university-of-stuttgart,Marco Aiello,Marco Aiello 0001,full,Prof. Dr.,,2,0,https://www.f05.uni-stuttgart.de/fakultaet/personen/Aiello/
 2026-08-06,de-university-of-stuttgart,Kai Oliver Arras,Kai Oliver Arras,full,Prof. Dr.,,0,0,https://www.ki.uni-stuttgart.de/de/institut/team/Arras/
 2026-08-06,de-university-of-stuttgart,Christian Becker,Christian Becker-Asano,full,Prof. Dr.,,0,0,https://www.f05.uni-stuttgart.de/fakultaet/personen/Becker-00044/
@@ -1783,6 +2624,47 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-university-of-t-bingen,Felix Wichmann,Felix A. Wichmann,first_last,"Prof. Felix Wichmann, DPhil",,3,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Robert C. Williamson,Robert C. Williamson,full,Prof. Dr. Robert C. Williamson,,8,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Andreas Zell,Andreas Zell,full,Prof. Dr. rer. nat. Andreas Zell,,20,1,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
+2026-08-06,de-zib,Christof Schuette,,no_match,"Schütte, Christof, Prof. Dr.",,0,0,https://www.zib.de/institute
+2026-08-06,de-zib,Sebastian Pokutta,Sebastian Pokutta,full,"Pokutta, Sebastian, Prof. Dr.",,33,2,https://www.zib.de/research/mai/ais2t
+2026-08-06,de-zib,Andrea Walther,Andrea Walther,full,"Walther, Andrea, Prof. Dr.",,1,0,https://www.zib.de/research/pdc/sc
+2026-08-06,de-zib,Kathrin Rost,,no_match,"Rost, Kathrin, Dr. - Managing Director / Director Administration",,0,0,https://www.zib.de/impressum
+2026-08-06,de-zib,Martin Weiser,,no_match,"Weiser, Martin, Dr.",,0,0,https://www.zib.de/research/mcs/mscp
+2026-08-06,de-zib,Tim Conrad,Tim Conrad 0001,full,"Conrad, Tim, PD Dr.",,0,0,https://www.zib.de/research/mcs/vdcc
+2026-08-06,de-zib,Daniel Baum,Daniel Baum,full,"Baum, Daniel, Dr.",,1,0,https://www.zib.de/research/mcs/vdcc
+2026-08-06,de-zib,Stefan Zachow,Stefan Zachow,full,"Zachow, Stefan, Dr.",,0,2,https://www.zib.de/research/mcs/vdcc
+2026-08-06,de-zib,Ralf Borndoerfer,,no_match,"Borndörfer, Ralf, Prof. Dr.",,0,0,https://www.zib.de/research/mai/optimization
+2026-08-06,de-zib,Thorsten Koch,,no_match,"Koch, Thorsten, Prof. Dr.",,0,0,https://www.zib.de/research/mai/optimization
+2026-08-06,de-zib,Janina Zittel,,no_match,"Zittel, Janina, Dr.",,0,0,https://www.zib.de/research/mai/optimization
+2026-08-06,de-zib,Christoph Spiegel,Christoph Spiegel 0002,full,"Spiegel, Christoph, Dr.",,4,0,https://www.zib.de/research/mai/ais2t
+2026-08-06,de-zib,Florian Schintke,Florian Schintke,full,"Schintke, Florian, Dr.",,1,0,https://www.zib.de/research/pdc/das
+2026-08-06,de-zib,Thomas Steinke,Thomas Steinke 0002,full,"Steinke, Thomas, Dr.",,19,0,https://www.zib.de/research/pdc/das
+2026-08-06,de-zib,Vikram Sunkara,,no_match,"Sunkara, Vikram, Dr.",,0,0,https://www.zib.de/research/mcs/vdcc/explainable-ai-biology
+2026-08-06,de-zib,Christoph von Tycowicz,Christoph von Tycowicz,full,"von Tycowicz, Christoph, Dr.",,2,3,https://www.zib.de/research/mcs/vdcc/geometric-data-analysis-and-processing
+2026-08-06,de-zib,Marcus Weber,,no_match,"Weber, Marcus, PD Dr.",,0,0,https://www.zib.de/research/mcs/mscp/cmd
+2026-08-06,de-zib,Sven Burger,,no_match,"Burger, Sven, Dr.",,0,0,https://www.zib.de/research/mcs/mscp/cno
+2026-08-06,de-zib,Natasa Djurdjevac Conrad,Natasa Djurdjevac Conrad,full,"Conrad, Natasa, Dr.",,0,0,https://www.zib.de/research/mcs/mscp/comph
+2026-08-06,de-zib,Stefanie Winkelmann,Stefanie Remmele,full,"Winkelmann, Stefanie, Dr.",,0,0,https://www.zib.de/research/mcs/mscp/csb
+2026-08-06,de-zib,Guillaume Sagnol,Guillaume Sagnol,full,"Sagnol, Guillaume, Dr.",,1,0,https://www.zib.de/research/mai/optimization/health-logistics
+2026-08-06,de-zib,Elmar Swarat,,no_match,"Swarat, Elmar",,0,0,https://www.zib.de/research/mai/optimization/individual-traffic
+2026-08-06,de-zib,Alexander Martin,Alexander Martin 0006,full,"Martin, Alexander, Prof. Dr.",,3,5,https://www.zib.de/research/mai/optimization/mobilitylab
+2026-08-06,de-zib,Thai Le,Thai Le,full,"Le, Thai, Dr.",,16,13,https://www.zib.de/research/mai/optimization/predictive-methods
+2026-08-06,de-zib,Felix Hoefling,,no_match,"Höfling, Felix, Prof. Dr.",,0,0,https://www.zib.de/research/pdc/das/dynamics-complex-materials
+2026-08-06,de-zib,Konstantin Fackeldey,,no_match,"Fackeldey, Konstantin, Prof. Dr.",,0,0,https://www.zib.de/research/pdc/das/efficient-large-scale-computing-life-sciences
+2026-08-06,de-zib,Carsten Schaeuble,,no_match,"Head, Department ""IT and Data Services""",,0,0,https://www.zib.de/research-services/itds
+2026-08-06,de-zib,Georgios Nikolis,,no_match,"Head, NHR Center",,0,0,https://www.zib.de/research-services/nhr
+2026-08-06,de-zib,Timo Berthold,Timo Berthold,full,"Berthold, Timo, PD Dr.",,1,0,https://www.zib.de/members
+2026-08-06,de-zib,Fakhteh Ghanbarnejad,,no_match,"Ghanbarnejad, Fakhteh, Prof. Dr. rer. nat.",,0,0,https://www.zib.de/members
+2026-08-06,de-zib,Ambros Gleixner,Ambros M. Gleixner,first_last,"Gleixner, Ambros, Prof. Dr.",,2,0,https://www.zib.de/research/mai/optimization
+2026-08-06,de-zib,Patrick Heimbach,,no_match,"Heimbach, Patrick, Prof.",,0,0,https://www.zib.de/members
+2026-08-06,de-zib,Tobias Kramer,,no_match,"Kramer, Tobias, Prof. Dr.",,0,0,https://www.zib.de/members
+2026-08-06,de-zib,Rolf Krause,Rolf Krause,full,"Krause, Rolf, Prof. Dr.",,0,0,https://www.zib.de/members
+2026-08-06,de-zib,Ralf Lenz,,no_match,"Lenz, Ralf, Prof. Dr.",,0,0,https://www.zib.de/research/mai/optimization
+2026-08-06,de-zib,Alexander Reinefeld,,no_match,"Reinefeld, Alexander, Prof. Dr.",,0,0,https://www.zib.de/members
+2026-08-06,de-zib,Susanna Roeblitz,,no_match,"Röblitz, Susanna, Prof. Dr.",,0,0,https://www.zib.de/members
+2026-08-06,de-zib,Carlos Soto,,ambiguous_full(2),"Soto, Carlos, Prof.",,0,0,https://www.zib.de/research/mcs/vdcc/geometric-data-analysis-and-processing
+2026-08-06,de-zib,Michael Winkler,,no_match,"Winkler, Michael, Prof. Dr.",,0,0,https://www.zib.de/members
+2026-08-06,de-zib,Ilyas Oezdemir,,no_match,"Özdemir, Ilyas, Prof. Dr.",,0,0,https://www.zib.de/research/mai/optimization
+2026-08-06,de-zib,Hans-Christian Hege,,no_match,"Hege, Hans-Christian",,0,0,https://www.zib.de/research/mcs/vdcc/visual-data-analysis
 2026-08-06,fr-inria-saclay,Cyril Furtlehner,Cyril Furtlehner,full,Chargé de recherche,,4,0,https://team.inria.fr/tau2/team-members/
 2026-08-06,fr-inria-saclay,Guillaume Charpiat,Guillaume Charpiat,full,Chargé de recherche,,1,0,https://team.inria.fr/tau2/team-members/
 2026-08-06,fr-inria-saclay,Sylvain Chevallier,Sylvain Chevallier,full,Professeur des universités,,5,2,https://team.inria.fr/tau2/team-members/

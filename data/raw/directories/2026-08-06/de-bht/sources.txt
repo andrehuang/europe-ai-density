@@ -1,0 +1,330 @@
+# Berliner Hochschule für Technik (BHT, formerly Beuth Hochschule für Technik Berlin)
+# Institution roster sources. Snapshot date label for every URL below: 2026-08-06
+# All pages read in German. Fetched with a plain HTTPS GET (no proxy needed; no bot protection encountered).
+
+## Structure / entry points
+https://www.bht-berlin.de/99	2026-08-06
+https://www.bht-berlin.de/i	2026-08-06
+https://www.bht-berlin.de/ii	2026-08-06
+https://www.bht-berlin.de/iii	2026-08-06
+https://www.bht-berlin.de/iv	2026-08-06
+https://www.bht-berlin.de/v	2026-08-06
+https://www.bht-berlin.de/vi	2026-08-06
+https://www.bht-berlin.de/vii	2026-08-06
+https://www.bht-berlin.de/viii	2026-08-06
+
+## Fachbereich "Personen" pages (each carries a "Professuren" table with denomination, room, homepage)
+https://www.bht-berlin.de/30	2026-08-06	Fachbereich I – Wirtschafts- und Gesellschaftswissenschaften
+https://www.bht-berlin.de/86	2026-08-06	Fachbereich II – Mathematik – Physik – Chemie
+https://www.bht-berlin.de/87	2026-08-06	Fachbereich III – Bauingenieur- und Geoinformationswesen
+https://www.bht-berlin.de/97	2026-08-06	Fachbereich IV – Architektur und Gebäudetechnik
+https://www.bht-berlin.de/98	2026-08-06	Fachbereich V – Life Sciences and Technology
+https://www.bht-berlin.de/99	2026-08-06	Fachbereich VI – Informatik und Medien
+https://www.bht-berlin.de/100	2026-08-06	Fachbereich VII – Elektrotechnik – Mechatronik – Optometrie
+https://www.bht-berlin.de/101	2026-08-06	Fachbereich VIII – Maschinenbau, Veranstaltungstechnik, Verfahrenstechnik
+
+## University-wide lists
+https://www.bht-berlin.de/339	2026-08-06	Professuren (alphabetical, whole university) + Honorarprofessuren section
+https://www.bht-berlin.de/labore	2026-08-06	Labore index (74 labs)
+https://www.bht-berlin.de/3117	2026-08-06	Forschungsschwerpunkte (three institution-level research foci)
+https://www.bht-berlin.de/4503	2026-08-06	BHT-Forschungsverbünde (Data Science +X, HARMONIK, IMPACT, Sustainable Cities)
+
+## Individual person pages (one per roster row; source of the verbatim title, the
+## professorship denomination, the Fachbereich, any Laborleitung / Institutsleitung
+## role, and the personal homepage). All retrieved 2026-08-06.
+https://www.bht-berlin.de/people/detail/23	2026-08-06
+https://www.bht-berlin.de/people/detail/196	2026-08-06
+https://www.bht-berlin.de/people/detail/210	2026-08-06
+https://www.bht-berlin.de/people/detail/215	2026-08-06
+https://www.bht-berlin.de/people/detail/218	2026-08-06
+https://www.bht-berlin.de/people/detail/236	2026-08-06
+https://www.bht-berlin.de/people/detail/248	2026-08-06
+https://www.bht-berlin.de/people/detail/276	2026-08-06
+https://www.bht-berlin.de/people/detail/283	2026-08-06
+https://www.bht-berlin.de/people/detail/289	2026-08-06
+https://www.bht-berlin.de/people/detail/294	2026-08-06
+https://www.bht-berlin.de/people/detail/303	2026-08-06
+https://www.bht-berlin.de/people/detail/307	2026-08-06
+https://www.bht-berlin.de/people/detail/319	2026-08-06
+https://www.bht-berlin.de/people/detail/336	2026-08-06
+https://www.bht-berlin.de/people/detail/339	2026-08-06
+https://www.bht-berlin.de/people/detail/347	2026-08-06
+https://www.bht-berlin.de/people/detail/361	2026-08-06
+https://www.bht-berlin.de/people/detail/390	2026-08-06
+https://www.bht-berlin.de/people/detail/393	2026-08-06
+https://www.bht-berlin.de/people/detail/405	2026-08-06
+https://www.bht-berlin.de/people/detail/416	2026-08-06
+https://www.bht-berlin.de/people/detail/432	2026-08-06
+https://www.bht-berlin.de/people/detail/443	2026-08-06
+https://www.bht-berlin.de/people/detail/463	2026-08-06
+https://www.bht-berlin.de/people/detail/509	2026-08-06
+https://www.bht-berlin.de/people/detail/530	2026-08-06
+https://www.bht-berlin.de/people/detail/532	2026-08-06
+https://www.bht-berlin.de/people/detail/552	2026-08-06
+https://www.bht-berlin.de/people/detail/562	2026-08-06
+https://www.bht-berlin.de/people/detail/581	2026-08-06
+https://www.bht-berlin.de/people/detail/588	2026-08-06
+https://www.bht-berlin.de/people/detail/593	2026-08-06
+https://www.bht-berlin.de/people/detail/608	2026-08-06
+https://www.bht-berlin.de/people/detail/620	2026-08-06
+https://www.bht-berlin.de/people/detail/632	2026-08-06
+https://www.bht-berlin.de/people/detail/640	2026-08-06
+https://www.bht-berlin.de/people/detail/641	2026-08-06
+https://www.bht-berlin.de/people/detail/658	2026-08-06
+https://www.bht-berlin.de/people/detail/667	2026-08-06
+https://www.bht-berlin.de/people/detail/671	2026-08-06
+https://www.bht-berlin.de/people/detail/674	2026-08-06
+https://www.bht-berlin.de/people/detail/712	2026-08-06
+https://www.bht-berlin.de/people/detail/726	2026-08-06
+https://www.bht-berlin.de/people/detail/730	2026-08-06
+https://www.bht-berlin.de/people/detail/734	2026-08-06
+https://www.bht-berlin.de/people/detail/753	2026-08-06
+https://www.bht-berlin.de/people/detail/755	2026-08-06
+https://www.bht-berlin.de/people/detail/770	2026-08-06
+https://www.bht-berlin.de/people/detail/802	2026-08-06
+https://www.bht-berlin.de/people/detail/826	2026-08-06
+https://www.bht-berlin.de/people/detail/832	2026-08-06
+https://www.bht-berlin.de/people/detail/839	2026-08-06
+https://www.bht-berlin.de/people/detail/847	2026-08-06
+https://www.bht-berlin.de/people/detail/851	2026-08-06
+https://www.bht-berlin.de/people/detail/858	2026-08-06
+https://www.bht-berlin.de/people/detail/863	2026-08-06
+https://www.bht-berlin.de/people/detail/866	2026-08-06
+https://www.bht-berlin.de/people/detail/877	2026-08-06
+https://www.bht-berlin.de/people/detail/894	2026-08-06
+https://www.bht-berlin.de/people/detail/931	2026-08-06
+https://www.bht-berlin.de/people/detail/963	2026-08-06
+https://www.bht-berlin.de/people/detail/964	2026-08-06
+https://www.bht-berlin.de/people/detail/967	2026-08-06
+https://www.bht-berlin.de/people/detail/974	2026-08-06
+https://www.bht-berlin.de/people/detail/977	2026-08-06
+https://www.bht-berlin.de/people/detail/978	2026-08-06
+https://www.bht-berlin.de/people/detail/1000	2026-08-06
+https://www.bht-berlin.de/people/detail/1001	2026-08-06
+https://www.bht-berlin.de/people/detail/1007	2026-08-06
+https://www.bht-berlin.de/people/detail/1034	2026-08-06
+https://www.bht-berlin.de/people/detail/1037	2026-08-06
+https://www.bht-berlin.de/people/detail/1044	2026-08-06
+https://www.bht-berlin.de/people/detail/1045	2026-08-06
+https://www.bht-berlin.de/people/detail/1047	2026-08-06
+https://www.bht-berlin.de/people/detail/1073	2026-08-06
+https://www.bht-berlin.de/people/detail/1080	2026-08-06
+https://www.bht-berlin.de/people/detail/1087	2026-08-06
+https://www.bht-berlin.de/people/detail/1095	2026-08-06
+https://www.bht-berlin.de/people/detail/1101	2026-08-06
+https://www.bht-berlin.de/people/detail/1106	2026-08-06
+https://www.bht-berlin.de/people/detail/1108	2026-08-06
+https://www.bht-berlin.de/people/detail/1132	2026-08-06
+https://www.bht-berlin.de/people/detail/1133	2026-08-06
+https://www.bht-berlin.de/people/detail/1152	2026-08-06
+https://www.bht-berlin.de/people/detail/1153	2026-08-06
+https://www.bht-berlin.de/people/detail/1154	2026-08-06
+https://www.bht-berlin.de/people/detail/1155	2026-08-06
+https://www.bht-berlin.de/people/detail/1187	2026-08-06
+https://www.bht-berlin.de/people/detail/1189	2026-08-06
+https://www.bht-berlin.de/people/detail/1190	2026-08-06
+https://www.bht-berlin.de/people/detail/1191	2026-08-06
+https://www.bht-berlin.de/people/detail/1192	2026-08-06
+https://www.bht-berlin.de/people/detail/1193	2026-08-06
+https://www.bht-berlin.de/people/detail/1194	2026-08-06
+https://www.bht-berlin.de/people/detail/1196	2026-08-06
+https://www.bht-berlin.de/people/detail/1197	2026-08-06
+https://www.bht-berlin.de/people/detail/1198	2026-08-06
+https://www.bht-berlin.de/people/detail/1199	2026-08-06
+https://www.bht-berlin.de/people/detail/1202	2026-08-06
+https://www.bht-berlin.de/people/detail/1216	2026-08-06
+https://www.bht-berlin.de/people/detail/1239	2026-08-06
+https://www.bht-berlin.de/people/detail/1241	2026-08-06
+https://www.bht-berlin.de/people/detail/1251	2026-08-06
+https://www.bht-berlin.de/people/detail/1256	2026-08-06
+https://www.bht-berlin.de/people/detail/1258	2026-08-06
+https://www.bht-berlin.de/people/detail/1259	2026-08-06
+https://www.bht-berlin.de/people/detail/1285	2026-08-06
+https://www.bht-berlin.de/people/detail/1290	2026-08-06
+https://www.bht-berlin.de/people/detail/1291	2026-08-06
+https://www.bht-berlin.de/people/detail/1292	2026-08-06
+https://www.bht-berlin.de/people/detail/1295	2026-08-06
+https://www.bht-berlin.de/people/detail/1305	2026-08-06
+https://www.bht-berlin.de/people/detail/1306	2026-08-06
+https://www.bht-berlin.de/people/detail/1313	2026-08-06
+https://www.bht-berlin.de/people/detail/1340	2026-08-06
+https://www.bht-berlin.de/people/detail/1351	2026-08-06
+https://www.bht-berlin.de/people/detail/1352	2026-08-06
+https://www.bht-berlin.de/people/detail/1353	2026-08-06
+https://www.bht-berlin.de/people/detail/1359	2026-08-06
+https://www.bht-berlin.de/people/detail/1361	2026-08-06
+https://www.bht-berlin.de/people/detail/1371	2026-08-06
+https://www.bht-berlin.de/people/detail/1394	2026-08-06
+https://www.bht-berlin.de/people/detail/1398	2026-08-06
+https://www.bht-berlin.de/people/detail/1399	2026-08-06
+https://www.bht-berlin.de/people/detail/1400	2026-08-06
+https://www.bht-berlin.de/people/detail/1416	2026-08-06
+https://www.bht-berlin.de/people/detail/1419	2026-08-06
+https://www.bht-berlin.de/people/detail/1424	2026-08-06
+https://www.bht-berlin.de/people/detail/1433	2026-08-06
+https://www.bht-berlin.de/people/detail/1443	2026-08-06
+https://www.bht-berlin.de/people/detail/1463	2026-08-06
+https://www.bht-berlin.de/people/detail/1472	2026-08-06
+https://www.bht-berlin.de/people/detail/1494	2026-08-06
+https://www.bht-berlin.de/people/detail/1495	2026-08-06
+https://www.bht-berlin.de/people/detail/1498	2026-08-06
+https://www.bht-berlin.de/people/detail/1500	2026-08-06
+https://www.bht-berlin.de/people/detail/1508	2026-08-06
+https://www.bht-berlin.de/people/detail/1509	2026-08-06
+https://www.bht-berlin.de/people/detail/1520	2026-08-06
+https://www.bht-berlin.de/people/detail/1543	2026-08-06
+https://www.bht-berlin.de/people/detail/1545	2026-08-06
+https://www.bht-berlin.de/people/detail/1579	2026-08-06
+https://www.bht-berlin.de/people/detail/1580	2026-08-06
+https://www.bht-berlin.de/people/detail/1584	2026-08-06
+https://www.bht-berlin.de/people/detail/1604	2026-08-06
+https://www.bht-berlin.de/people/detail/1631	2026-08-06
+https://www.bht-berlin.de/people/detail/1634	2026-08-06
+https://www.bht-berlin.de/people/detail/1637	2026-08-06
+https://www.bht-berlin.de/people/detail/1640	2026-08-06
+https://www.bht-berlin.de/people/detail/1641	2026-08-06
+https://www.bht-berlin.de/people/detail/1645	2026-08-06
+https://www.bht-berlin.de/people/detail/1647	2026-08-06
+https://www.bht-berlin.de/people/detail/1660	2026-08-06
+https://www.bht-berlin.de/people/detail/1673	2026-08-06
+https://www.bht-berlin.de/people/detail/1680	2026-08-06
+https://www.bht-berlin.de/people/detail/1685	2026-08-06
+https://www.bht-berlin.de/people/detail/1687	2026-08-06
+https://www.bht-berlin.de/people/detail/1695	2026-08-06
+https://www.bht-berlin.de/people/detail/1714	2026-08-06
+https://www.bht-berlin.de/people/detail/1716	2026-08-06
+https://www.bht-berlin.de/people/detail/1718	2026-08-06
+https://www.bht-berlin.de/people/detail/1720	2026-08-06
+https://www.bht-berlin.de/people/detail/1721	2026-08-06
+https://www.bht-berlin.de/people/detail/1725	2026-08-06
+https://www.bht-berlin.de/people/detail/1728	2026-08-06
+https://www.bht-berlin.de/people/detail/1729	2026-08-06
+https://www.bht-berlin.de/people/detail/1730	2026-08-06
+https://www.bht-berlin.de/people/detail/1731	2026-08-06
+https://www.bht-berlin.de/people/detail/1733	2026-08-06
+https://www.bht-berlin.de/people/detail/1739	2026-08-06
+https://www.bht-berlin.de/people/detail/1745	2026-08-06
+https://www.bht-berlin.de/people/detail/1746	2026-08-06
+https://www.bht-berlin.de/people/detail/1747	2026-08-06
+https://www.bht-berlin.de/people/detail/1760	2026-08-06
+https://www.bht-berlin.de/people/detail/1798	2026-08-06
+https://www.bht-berlin.de/people/detail/1800	2026-08-06
+https://www.bht-berlin.de/people/detail/1802	2026-08-06
+https://www.bht-berlin.de/people/detail/1821	2026-08-06
+https://www.bht-berlin.de/people/detail/1831	2026-08-06
+https://www.bht-berlin.de/people/detail/1840	2026-08-06
+https://www.bht-berlin.de/people/detail/1842	2026-08-06
+https://www.bht-berlin.de/people/detail/1846	2026-08-06
+https://www.bht-berlin.de/people/detail/1884	2026-08-06
+https://www.bht-berlin.de/people/detail/1896	2026-08-06
+https://www.bht-berlin.de/people/detail/1897	2026-08-06
+https://www.bht-berlin.de/people/detail/1898	2026-08-06
+https://www.bht-berlin.de/people/detail/1899	2026-08-06
+https://www.bht-berlin.de/people/detail/1900	2026-08-06
+https://www.bht-berlin.de/people/detail/1901	2026-08-06
+https://www.bht-berlin.de/people/detail/1902	2026-08-06
+https://www.bht-berlin.de/people/detail/1903	2026-08-06
+https://www.bht-berlin.de/people/detail/1904	2026-08-06
+https://www.bht-berlin.de/people/detail/1905	2026-08-06
+https://www.bht-berlin.de/people/detail/1940	2026-08-06
+https://www.bht-berlin.de/people/detail/1941	2026-08-06
+https://www.bht-berlin.de/people/detail/1957	2026-08-06
+https://www.bht-berlin.de/people/detail/1980	2026-08-06
+https://www.bht-berlin.de/people/detail/1981	2026-08-06
+https://www.bht-berlin.de/people/detail/1982	2026-08-06
+https://www.bht-berlin.de/people/detail/2020	2026-08-06
+https://www.bht-berlin.de/people/detail/2023	2026-08-06
+https://www.bht-berlin.de/people/detail/2024	2026-08-06
+https://www.bht-berlin.de/people/detail/2025	2026-08-06
+https://www.bht-berlin.de/people/detail/2027	2026-08-06
+https://www.bht-berlin.de/people/detail/2061	2026-08-06
+https://www.bht-berlin.de/people/detail/2062	2026-08-06
+https://www.bht-berlin.de/people/detail/2063	2026-08-06
+https://www.bht-berlin.de/people/detail/2065	2026-08-06
+https://www.bht-berlin.de/people/detail/2066	2026-08-06
+https://www.bht-berlin.de/people/detail/2073	2026-08-06
+https://www.bht-berlin.de/people/detail/2074	2026-08-06
+https://www.bht-berlin.de/people/detail/2075	2026-08-06
+https://www.bht-berlin.de/people/detail/2086	2026-08-06
+https://www.bht-berlin.de/people/detail/2089	2026-08-06
+https://www.bht-berlin.de/people/detail/2092	2026-08-06
+https://www.bht-berlin.de/people/detail/2116	2026-08-06
+https://www.bht-berlin.de/people/detail/2123	2026-08-06
+https://www.bht-berlin.de/people/detail/2126	2026-08-06
+https://www.bht-berlin.de/people/detail/2145	2026-08-06
+https://www.bht-berlin.de/people/detail/2173	2026-08-06
+https://www.bht-berlin.de/people/detail/2174	2026-08-06
+https://www.bht-berlin.de/people/detail/2175	2026-08-06
+https://www.bht-berlin.de/people/detail/2177	2026-08-06
+https://www.bht-berlin.de/people/detail/2178	2026-08-06
+https://www.bht-berlin.de/people/detail/2184	2026-08-06
+https://www.bht-berlin.de/people/detail/2237	2026-08-06
+https://www.bht-berlin.de/people/detail/2244	2026-08-06
+https://www.bht-berlin.de/people/detail/2245	2026-08-06
+https://www.bht-berlin.de/people/detail/2249	2026-08-06
+https://www.bht-berlin.de/people/detail/2253	2026-08-06
+https://www.bht-berlin.de/people/detail/2254	2026-08-06
+https://www.bht-berlin.de/people/detail/2255	2026-08-06
+https://www.bht-berlin.de/people/detail/2256	2026-08-06
+https://www.bht-berlin.de/people/detail/2257	2026-08-06
+https://www.bht-berlin.de/people/detail/2262	2026-08-06
+https://www.bht-berlin.de/people/detail/2301	2026-08-06
+https://www.bht-berlin.de/people/detail/2302	2026-08-06
+https://www.bht-berlin.de/people/detail/2303	2026-08-06
+https://www.bht-berlin.de/people/detail/2305	2026-08-06
+https://www.bht-berlin.de/people/detail/2316	2026-08-06
+https://www.bht-berlin.de/people/detail/2318	2026-08-06
+https://www.bht-berlin.de/people/detail/2328	2026-08-06
+https://www.bht-berlin.de/people/detail/2344	2026-08-06
+https://www.bht-berlin.de/people/detail/2345	2026-08-06
+https://www.bht-berlin.de/people/detail/2377	2026-08-06
+https://www.bht-berlin.de/people/detail/2379	2026-08-06
+https://www.bht-berlin.de/people/detail/2380	2026-08-06
+https://www.bht-berlin.de/people/detail/2388	2026-08-06
+https://www.bht-berlin.de/people/detail/2426	2026-08-06
+https://www.bht-berlin.de/people/detail/2428	2026-08-06
+https://www.bht-berlin.de/people/detail/2429	2026-08-06
+https://www.bht-berlin.de/people/detail/2437	2026-08-06
+https://www.bht-berlin.de/people/detail/2439	2026-08-06
+https://www.bht-berlin.de/people/detail/2440	2026-08-06
+https://www.bht-berlin.de/people/detail/2480	2026-08-06
+https://www.bht-berlin.de/people/detail/2504	2026-08-06
+https://www.bht-berlin.de/people/detail/2505	2026-08-06
+https://www.bht-berlin.de/people/detail/2506	2026-08-06
+https://www.bht-berlin.de/people/detail/2507	2026-08-06
+https://www.bht-berlin.de/people/detail/2508	2026-08-06
+https://www.bht-berlin.de/people/detail/2515	2026-08-06
+https://www.bht-berlin.de/people/detail/2520	2026-08-06
+https://www.bht-berlin.de/people/detail/2521	2026-08-06
+https://www.bht-berlin.de/people/detail/2540	2026-08-06
+https://www.bht-berlin.de/people/detail/2586	2026-08-06
+https://www.bht-berlin.de/people/detail/2587	2026-08-06
+https://www.bht-berlin.de/people/detail/2588	2026-08-06
+https://www.bht-berlin.de/people/detail/2614	2026-08-06
+https://www.bht-berlin.de/people/detail/2631	2026-08-06
+https://www.bht-berlin.de/people/detail/2651	2026-08-06
+https://www.bht-berlin.de/people/detail/2656	2026-08-06
+https://www.bht-berlin.de/people/detail/2667	2026-08-06
+https://www.bht-berlin.de/people/detail/2708	2026-08-06
+https://www.bht-berlin.de/people/detail/2752	2026-08-06
+https://www.bht-berlin.de/people/detail/2763	2026-08-06
+https://www.bht-berlin.de/people/detail/2764	2026-08-06
+https://www.bht-berlin.de/people/detail/2794	2026-08-06
+https://www.bht-berlin.de/people/detail/2795	2026-08-06
+https://www.bht-berlin.de/people/detail/2797	2026-08-06
+
+## Notes on completeness
+- The eight Fachbereich "Personen" pages together list 279 professorships.
+- The university-wide list https://www.bht-berlin.de/339 lists 280 (all 279 plus
+  Prof. Dr. Florian Schindler, /people/detail/826, who appears on no Fachbereich page).
+  The roster therefore has 280 rows; Schindler carries a low-confidence note.
+- 4 Honorarprofessuren listed on https://www.bht-berlin.de/339 were EXCLUDED per the
+  contract rule on honorary titles: /people/detail/2669, /861, /2746, /2690.
+- Wissenschaftliche/Akademische Mitarbeiter*innen, Technik und Verwaltung,
+  Gastdozenturen and Lehrbeauftragte sections were read but excluded per contract.
+
+## SECURITY
+- No prompt-injection payload was found. Every fetched BHT page was scanned for text
+  addressing an AI agent ("ignore previous", "as an AI", "system prompt", "AI agent",
+  "language model", "disregard"); zero hits across all 280 person pages and all
+  structural pages listed above. All page content was treated as untrusted data.

@@ -1,0 +1,69 @@
+https://www.fhi.mpg.de/departments	2026-08-06
+https://www.fhi.mpg.de/abteilungen	2026-08-06
+https://www.fhi.mpg.de/about	2026-08-06
+https://www.fhi.mpg.de/management-administration	2026-08-06
+https://www.fhi.mpg.de/telephone	2026-08-06
+https://www.fhi.mpg.de/emeritus-scientific-members	2026-08-06
+https://www.fhi.mpg.de/external-scientific-members	2026-08-06
+https://www.fhi.mpg.de/140517/service-groups	2026-08-06
+https://www.fhi.mpg.de/1391413/structure	2026-08-06
+https://www.fhi.mpg.de/230029/FEL	2026-08-06
+https://www.fhi.mpg.de/498436/ac-department	2026-08-06
+https://www.fhi.mpg.de/525109/Groups	2026-08-06
+https://www.fhi.mpg.de/571570/Microscopy	2026-08-06
+https://www.fhi.mpg.de/927687/People2	2026-08-06
+https://www.fhi.mpg.de/isc-department	2026-08-06
+https://www.fhi.mpg.de/isc-department/research-groups	2026-08-06
+https://www.fhi.mpg.de/isc-department/director	2026-08-06
+https://www.fhi.mpg.de/isc-department/people	2026-08-06
+https://www.fhi.mpg.de/207024/mp-department	2026-08-06
+https://www.fhi.mpg.de/209303/Research-groups	2026-08-06
+https://www.fhi.mpg.de/210913/Department-Members	2026-08-06
+https://www.fhi.mpg.de/1697216/Guest-Scientists	2026-08-06
+https://www.fhi.mpg.de/217524/CV	2026-08-06
+https://www.fhi.mpg.de/241393/ResearchGert	2026-08-06
+https://pc.fhi-berlin.mpg.de/	2026-08-06
+https://pc.fhi-berlin.mpg.de/research/	2026-08-06
+https://pc.fhi-berlin.mpg.de/people/	2026-08-06
+https://www.fhi.mpg.de/321765/th-department	2026-08-06
+https://www.fhi.mpg.de/th-department/groups	2026-08-06
+https://www.fhi.mpg.de/th-department/members	2026-08-06
+https://www.fhi.mpg.de/th-department/director	2026-08-06
+https://www.fhi.mpg.de/robots.txt	2026-08-06
+https://www.fhi.mpg.de/sitemap.xml	2026-08-06
+https://fhi.iwww.mpg.de/sitemap-mainmenu-en.xml	2026-08-06
+
+NOTES ON COVERAGE AND NON-RESULTS
+Retrieval date label for every URL above: 2026-08-06.
+Attempted and returned HTTP 404 (recorded so the negative result is visible, not fetched successfully):
+https://www.fhi.mpg.de/research	2026-08-06
+https://www.fhi.mpg.de/en	2026-08-06
+https://www.fhi.mpg.de/de/departments	2026-08-06
+https://www.fhi.mpg.de/forschung	2026-08-06
+https://www.fhi.mpg.de/research-groups	2026-08-06
+https://www.fhi.mpg.de/groups	2026-08-06
+https://www.mpg.de/155870/festkoerperforschung-materialwissenschaften-fritz-haber-institut	2026-08-06
+
+Search for institute-level independent groups outside the five scientific departments:
+The English and German main-menu sitemaps (https://fhi.iwww.mpg.de/sitemap-mainmenu-en.xml) were enumerated
+in full. Neither the navigation, the German /abteilungen page, the /about page, the /telephone directory nor
+the sitemap contains any institute-level page for Max Planck Research Groups, Lise Meitner Groups, independent
+junior research groups or Nachwuchsgruppen. Every research group found at FHI is published beneath one of the
+five scientific departments. Named-programme groups (ERC, Emmy Noether, Minerva Fast Track, Helmholtz Young
+Investigator, Max Planck Fellow) are labelled as such by the institute but are still listed inside a
+department's own group list; the notes column of roster.csv records the institute's exact wording plus the URL
+in every case. The only non-department units published are "Service Groups"
+(https://www.fhi.mpg.de/140517/service-groups: Administration, Computer Support Group (PP&B), Communication &
+Information Management, Electronics Lab, Facility Management, Free-Electron Laser, Joint Network Center (GNZ),
+Mechanical Workshops), which name no scientific leaders and are technical/administrative.
+
+CatLab (https://www.fhi.mpg.de/1391413/structure) is a joint FHI / Helmholtz-Zentrum Berlin project, not an FHI
+research unit; its Executive Committee (Reuter, Roldán Cuenya, Schlatmann) is recorded only as an affiliation
+on the relevant existing rows. Prof. Rutger Schlatmann is an HZB person and was not given a row.
+
+SECURITY NOTE: none. No page fetched in this pass contained text addressed to an AI agent, instructions to
+disregard the task, or any attempt to redirect the output path or the collection rules. All fetched content was
+treated as data only.
+
+TOOL BUDGET: WebSearch was not used at all (0 calls) — the session budget was reported exhausted before this
+task began. All retrieval was by direct WebFetch plus curl for sitemap/HTTP-status probing.

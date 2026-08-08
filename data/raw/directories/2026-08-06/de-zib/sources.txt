@@ -1,0 +1,90 @@
+# Zuse Institute Berlin (ZIB) - directory snapshot
+# All URLs retrieved 2026-08-06 (snapshot date label). Fetched with WebFetch; no reader proxy needed.
+
+https://www.zib.de/institute	2026-08-06
+https://www.zib.de/institute/organization	2026-08-06
+https://www.zib.de/impressum	2026-08-06
+https://www.zib.de/members	2026-08-06
+
+https://www.zib.de/research/mcs/mscp	2026-08-06
+https://www.zib.de/research/mcs/compmed	2026-08-06
+https://www.zib.de/research/mcs/mscp/comph	2026-08-06
+https://www.zib.de/research/mcs/mscp/cmd	2026-08-06
+https://www.zib.de/research/mcs/mscp/cno	2026-08-06
+https://www.zib.de/research/mcs/mscp/csb	2026-08-06
+
+https://www.zib.de/research/mcs/vdcc	2026-08-06
+https://www.zib.de/research/mcs/vdcc/bioinformatics-medicine	2026-08-06
+https://www.zib.de/research/mcs/vdcc/therapy-planning	2026-08-06
+https://www.zib.de/research/mcs/vdcc/explainable-ai-biology	2026-08-06
+https://www.zib.de/research/mcs/vdcc/geometric-data-analysis-and-processing	2026-08-06
+https://www.zib.de/research/mcs/vdcc/visual-data-analysis	2026-08-06
+
+https://www.zib.de/research/mai/ais2t	2026-08-06
+https://www.zib.de/research/mai/ais2t/iol	2026-08-06
+
+https://www.zib.de/research/mai/optimization	2026-08-06
+https://www.zib.de/research/mai/optimization/health-logistics	2026-08-06
+https://www.zib.de/research/mai/optimization/individual-traffic	2026-08-06
+https://www.zib.de/research/mai/optimization/mobilitylab	2026-08-06
+https://www.zib.de/research/mai/optimization/multi-energy	2026-08-06
+https://www.zib.de/research/mai/optimization/predictive-methods	2026-08-06
+https://www.zib.de/research/mai/optimization/prescriptive-systems	2026-08-06
+https://www.zib.de/research/mai/optimization/sustainable-energy-planning	2026-08-06
+
+https://www.zib.de/research/pdc/das	2026-08-06
+https://www.zib.de/research/pdc/das/algorithms-innovative-architectures	2026-08-06
+https://www.zib.de/research/pdc/das/applied-high-performance-computing	2026-08-06
+https://www.zib.de/research/pdc/das/distributed-data-management	2026-08-06
+https://www.zib.de/research/pdc/das/dynamics-complex-materials	2026-08-06
+https://www.zib.de/research/pdc/das/efficient-large-scale-computing-life-sciences	2026-08-06
+https://www.zib.de/research/pdc/das/massively-parallel-data-analysis	2026-08-06
+https://www.zib.de/research/pdc/das/scalable-algorithms	2026-08-06
+https://www.zib.de/research/pdc/sc	2026-08-06
+
+https://www.zib.de/research-services/itds	2026-08-06
+https://www.zib.de/research-services/disc	2026-08-06
+https://www.zib.de/research-services/nhr	2026-08-06
+
+https://www.zib.de/members/pokutta	2026-08-06
+https://www.zib.de/members/schuette	2026-08-06
+https://www.zib.de/members/andreawalther	2026-08-06
+https://www.zib.de/userpage/schuette/	2026-08-06	(frameset only - no content returned)
+https://www.pokutta.com/	2026-08-06	(personal homepage linked from ZIB; sole evidence for the TU Berlin professorship)
+
+SECURITY NOTE: none. No page fetched for ZIB contained text addressed to an AI assistant, instructions to
+ignore prior instructions, hidden fake console output, or base64 filler. All page content was treated as
+untrusted data throughout.
+
+STATUS OF THE INSTITUTION (recorded from ZIB's own pages, per the task instruction not to rely on any
+association membership list):
+- https://www.zib.de/impressum states verbatim: "ZIB was founded as an institution incorporated under
+  public law." ("Anstalt des oeffentlichen Rechts" in the German original.)
+- Neither /institute, /institute/organization nor /impressum names ZIB as a member of the Leibniz
+  Association, the Helmholtz Association, Max Planck or Fraunhofer. No such membership statement was
+  found anywhere on the ZIB pages fetched. The earlier presumption that ZIB is a Leibniz member is not
+  supported by ZIB's own site.
+- /institute/organization states: "The Statutes, adopted by the Administrative Council at its meeting on
+  30 June 2005, define the functions and procedures of ZIB's bodies", and names an Administrative Council
+  and a Scientific Advisory Board as its governing bodies.
+- The /institute page displays logos and links for MATH+, Research Campus MODAL and BIFOLD. These are
+  collaborative research projects/consortia that ZIB participates in, not a parent organisation.
+
+COVERAGE NOTES:
+- ZIB's own structure page (/institute) presents three research divisions, each containing two
+  departments, plus three "Research Service Units". All three divisions, all six research departments,
+  all their research groups and all three service units were visited. No sub-unit list was assumed in
+  advance; the divisions and departments were read off ZIB's own organisational chart.
+- The department "Scientific Computing" (/research/pdc/sc) states "The department page is currently under
+  construction" and lists no research groups; only its head is recorded.
+- ZIB member and department pages do NOT state university appointments. Several ZIB staff carry
+  professorial titles that almost certainly correspond to chairs at FU Berlin, HU Berlin, TU Berlin or
+  elsewhere, but no ZIB page fetched names the university. The only joint appointment that could be
+  evidenced is Sebastian Pokutta's TU Berlin professorship, and only from his own homepage, which ZIB
+  links as his personal page. All other other_affiliations fields are deliberately left blank rather than
+  guessed, and the affected rows carry a note flagging the de-duplication risk against the Berlin
+  university rosters.
+- The A-Z member index at /members was swept for every entry carrying "Prof." or "PD" so that professors
+  who are not unit heads would not be lost. That sweep returned 21 people; "Özdemir, Ilyas, Prof. Dr."
+  appears on the Applied Optimization department page but not in that A-Z sweep (probably an umlaut
+  sorting artefact), and he is recorded from the department page instead.

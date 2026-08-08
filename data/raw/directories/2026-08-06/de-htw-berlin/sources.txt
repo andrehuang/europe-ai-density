@@ -1,0 +1,933 @@
+# HTW Berlin — Hochschule für Technik und Wirtschaft Berlin
+# Institution roster sources. Snapshot date label for every URL below: 2026-08-06
+# All pages read in German. Plain HTTPS GET; no bot protection, no reader proxy needed.
+
+## Structure / entry points
+https://www.htw-berlin.de/	2026-08-06	homepage
+https://www.htw-berlin.de/hochschule/	2026-08-06	Hochschule
+https://www.htw-berlin.de/einrichtungen/fachbereiche/	2026-08-06	the five Fachbereiche
+https://www.f1.htw-berlin.de/	2026-08-06	Fachbereich 1: Ingenieurwissenschaften - Energie und Information
+https://www.f2.htw-berlin.de/	2026-08-06	Fachbereich 2: Ingenieurwissenschaften - Technik und Leben
+https://www.f3.htw-berlin.de/	2026-08-06	Fachbereich 3: Wirtschafts- und Rechtswissenschaften
+https://www.f4.htw-berlin.de/	2026-08-06	Fachbereich 4: Informatik, Kommunikation und Wirtschaft
+https://www.f5.htw-berlin.de/	2026-08-06	Fachbereich 5: Gestaltung und Kultur / School of Culture and Design
+https://www.f1.htw-berlin.de/studieren/studiengaenge/	2026-08-06	FB1 degree programmes
+https://www.f2.htw-berlin.de/studium/	2026-08-06	FB2 degree programmes
+https://www.f3.htw-berlin.de/studieren/studiengaenge/	2026-08-06	FB3 degree programmes
+https://www.f4.htw-berlin.de/studieren/studiengaenge/	2026-08-06	FB4 degree programmes
+https://www.f5.htw-berlin.de/studieren/	2026-08-06	FB5 degree programmes
+https://www.htw-berlin.de/studium/studiengaenge/	2026-08-06	all Bachelor programmes with their programme sites
+https://www.htw-berlin.de/hochschule/personen/	2026-08-06	central person search — STATES "Die Personensuche ist nur im HTW-Netz aktiv", i.e. usable only from inside the HTW network; see BLOCKERS below
+https://www.htw-berlin.de/suche/	2026-08-06	site search — Personen tab likewise restricted
+
+## PRIMARY SOURCE — HTW's own university-wide professor listing
+## (Online-Forschungskatalog > Professor_innenprofile, paged by surname initial).
+## This is the backbone of the roster: 309 professors across all five Fachbereiche.
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=A	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=B	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=C	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=D	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=E	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=F	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=G	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=H	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=I	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=J	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=K	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=L	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=M	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=N	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=O	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=P	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=Q	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=R	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=S	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=T	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=U	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=V	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=W	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=X	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=Y	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/?c=Z	2026-08-06
+https://www.htw-berlin.de/forschung/online-forschungskatalog/lehr-und-forschungsgebiete/	2026-08-06	teaching/research areas index, professors listed per area
+https://www.htw-berlin.de/forschung/online-forschungskatalog/professorenprofile/arbeits-und-forschungsgebiete/?c=A	2026-08-06	(same index, alphabetical pager)
+
+## Institution-level research structures (used for the notes column)
+https://www.htw-berlin.de/forschung/	2026-08-06	Forschung overview
+https://www.htw-berlin.de/forschung/forschungsprofil/forschungsgruppen/	2026-08-06	4 named Forschungsgruppen: CENTIS, Creative Media, INKA, pvspeicher
+https://www.htw-berlin.de/forschung/forschungsprofil/forschungscluster/	2026-08-06	10 Forschungscluster
+https://www.htw-berlin.de/forschung/forschungsprofil/einrichtungen/	2026-08-06	Einrichtungen
+https://www.htw-berlin.de/forschung/forschungsprofil/an-institute/	2026-08-06	An-Institute (GFaI, IBBF)
+https://www.htw-berlin.de/forschung/forschungsprofil/arbeitskreise/	2026-08-06	Arbeitskreise
+https://fki.htw-berlin.de/centis/	2026-08-06	Forschungsgruppe CENTIS
+https://cm.htw-berlin.de/projekte/	2026-08-06	Forschungsgruppe Creative Media
+https://inka.htw-berlin.de/denkmal-fuer-die-digitale-revolution/	2026-08-06	Forschungsgruppe INKA
+https://solar.htw-berlin.de/	2026-08-06	Forschungsgruppe pvspeicher
+
+## Exclusion-control lists (read in full, alphabetical pagers)
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=A	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=B	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=C	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=D	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=E	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=F	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=G	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=H	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=I	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=J	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=K	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=L	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=M	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=N	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=O	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=P	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=Q	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=R	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=S	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=T	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=U	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=V	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=W	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=X	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=Y	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/?c=Z	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=A	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=B	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=C	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=D	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=E	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=F	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=G	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=H	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=I	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=J	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=K	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=L	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=M	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=N	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=O	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=P	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=Q	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=R	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=S	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=T	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=U	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=V	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=W	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=X	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=Y	2026-08-06
+https://www.htw-berlin.de/hochschule/hochschulprofil/honorarprofessuren/?c=Z	2026-08-06
+
+## Degree-programme staff pages ("Personen") swept to catch anyone the central
+## professor catalogue might miss. The AI/Angewandte-Informatik page named in the
+## task is one of these and is marked. 574 distinct people were seen across them.
+https://ai.htw-berlin.de/personen/	2026-08-06	37 people listed  <-- the dedicated AI programme staff page named in the task
+https://ai-bachelor.htw-berlin.de/personen/	2026-08-06	37 people listed
+https://ai-master.htw-berlin.de/personen/	2026-08-06	24 people listed
+https://alfa.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://bau-bachelor.htw-berlin.de/personen/	2026-08-06	34 people listed
+https://bau-master.htw-berlin.de/personen/	2026-08-06	13 people listed
+https://btk-bachelor.htw-berlin.de/personen/	2026-08-06	33 people listed
+https://btk-master.htw-berlin.de/personen/	2026-08-06	21 people listed
+https://bwl.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://bwl-fernstudium.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://bwp.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://ce-bachelor.htw-berlin.de/personen/	2026-08-06	20 people listed
+https://ce-master.htw-berlin.de/personen/	2026-08-06	9 people listed
+https://cyber-security-business.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://et-bachelor.htw-berlin.de/personen/	2026-08-06	38 people listed
+https://et-master.htw-berlin.de/personen/	2026-08-06	18 people listed
+https://far.htw-berlin.de/personen/	2026-08-06	9 people listed
+https://fiw.htw-berlin.de/personen/	2026-08-06	9 people listed
+https://fzt.htw-berlin.de/personen/	2026-08-06	31 people listed
+https://gamedesign.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://ge-bachelor.htw-berlin.de/personen/	2026-08-06	7 people listed
+https://geit.htw-berlin.de/personen/	2026-08-06	17 people listed
+https://id.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://ii.htw-berlin.de/personen/	2026-08-06	33 people listed
+https://ikg.htw-berlin.de/personen/	2026-08-06	27 people listed
+https://ikt.htw-berlin.de/personen/	2026-08-06	18 people listed
+https://ikt-bachelor.htw-berlin.de/personen/	2026-08-06	18 people listed
+https://imi-bachelor.htw-berlin.de/personen/	2026-08-06	19 people listed
+https://imi-master.htw-berlin.de/personen/	2026-08-06	17 people listed
+https://international-business.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://iw.htw-berlin.de/personen/	2026-08-06	3 people listed
+https://kd.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://kr.htw-berlin.de/personen/	2026-08-06	6 people listed
+https://krg.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://lse-bachelor.htw-berlin.de/personen/	2026-08-06	18 people listed
+https://lse-master.htw-berlin.de/personen/	2026-08-06	14 people listed
+https://mb-bachelor.htw-berlin.de/personen/	2026-08-06	39 people listed
+https://mb-fernstudium.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://mb-master.htw-berlin.de/personen/	2026-08-06	21 people listed
+https://md-bachelor.htw-berlin.de/personen/	2026-08-06	38 people listed
+https://mmk.htw-berlin.de/personen/	2026-08-06	6 people listed
+https://mst.htw-berlin.de/personen/	2026-08-06	12 people listed
+https://museologie.htw-berlin.de/personen/	2026-08-06	7 people listed
+https://public-design.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://puma.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://quantitative-finance-data-science.htw-berlin.de/personen/	2026-08-06	8 people listed
+https://re-bachelor.htw-berlin.de/personen/	2026-08-06	22 people listed
+https://re-master.htw-berlin.de/personen/	2026-08-06	20 people listed
+https://regenerative-energien.htw-berlin.de/personen/	2026-08-06	22 people listed
+https://systemdesign.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://ui.htw-berlin.de/personen/	2026-08-06	21 people listed
+https://wirtschaftsinformatik.htw-berlin.de/personen/	2026-08-06	56 people listed
+https://wirtschaftskommunikation.htw-berlin.de/personen/	2026-08-06	16 people listed
+https://wiw-bachelor.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://wiw-fernstudium.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://wiw-master.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://wm.htw-berlin.de/personen/	2026-08-06	31 people listed
+https://workplace-facility-engineering.htw-berlin.de/personen/	2026-08-06	7 people listed
+https://wr.htw-berlin.de/personen/	2026-08-06	3 people listed
+https://f1.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://f2.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://f3.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://f4.htw-berlin.de/personen/	2026-08-06	0 people listed
+https://f5.htw-berlin.de/personen/	2026-08-06	0 people listed
+
+## Individual person pages — one per roster row plus every candidate checked and
+## rejected. These carry the verbatim title, the Lehr- und Forschungsgebiet, the
+## Fachbereich, the "Funktion und Organisationseinheit" field (Hochschullehrer*in /
+## Honorarprofessor*in / Lehrbeauftragte*r / Laborleiter*in), Forschungscluster
+## membership and the personal homepage. All retrieved 2026-08-06.
+https://www.htw-berlin.de/hochschule/personen/person/?eid=39	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=55	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=80	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=82	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=113	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=130	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=145	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=148	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=162	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=206	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=210	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=235	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=386	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=405	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=437	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=452	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=478	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=494	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=693	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=702	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=753	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=779	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=794	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=803	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=858	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=924	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=969	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=981	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1092	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1114	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1143	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1144	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1145	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1164	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1176	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1189	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1236	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1249	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1299	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1310	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1318	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1331	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1359	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1363	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1381	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1418	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1427	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1431	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=1446	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2003	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2006	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2044	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2054	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2080	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2117	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2118	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2122	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2147	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2149	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2150	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2155	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2157	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2207	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2218	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2230	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2234	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2243	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2270	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2293	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2312	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2323	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2336	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2485	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2605	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2611	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2622	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2652	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2668	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2702	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2851	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=2985	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3030	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3191	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3195	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3209	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3226	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3279	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3339	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3340	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3344	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3355	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3366	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3412	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3442	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3462	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3463	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3464	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3511	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3513	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3534	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3545	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3553	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3575	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3576	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3585	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3588	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3601	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3636	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3639	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3665	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3732	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3733	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3740	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3750	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3751	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3779	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3781	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3786	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3801	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3816	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3833	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3888	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3893	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3906	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3909	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3958	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3961	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=3977	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4017	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4018	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4020	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4052	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4110	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4134	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4145	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4198	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4203	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4205	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4214	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4233	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4237	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4238	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4242	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4243	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4282	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4293	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4297	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4330	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4335	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4338	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4347	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4357	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4361	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4364	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4367	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4377	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4383	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4388	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4390	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4391	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4402	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4406	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4410	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4442	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4457	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4462	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4469	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4475	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4479	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4499	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4503	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4542	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4545	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4587	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4593	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4594	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4599	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4609	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4610	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4611	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4614	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4617	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4618	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4633	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4647	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4648	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4653	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4687	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4705	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4726	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4734	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4735	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4743	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4763	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4766	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4771	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4777	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4786	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4921	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=4941	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=5011	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=5170	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=5190	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=7325	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=7857	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=7897	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=7901	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=7912	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=7970	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=7980	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8014	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8021	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8069	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8093	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8155	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8164	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8176	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8180	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8197	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8244	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8252	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8351	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8364	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8375	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8376	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8392	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8499	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8525	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8589	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8621	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8635	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8637	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8657	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8663	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8670	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8699	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8711	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8734	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8754	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8787	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8797	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8800	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8803	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8865	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8897	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8978	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8987	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=8999	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9014	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9029	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9042	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9107	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9163	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9174	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9212	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9258	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9260	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9273	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9274	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9275	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9290	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9297	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9353	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9390	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9423	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9441	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9443	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9444	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9532	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9559	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9585	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9586	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9603	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9646	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9673	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9685	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9695	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9705	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9722	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9759	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9760	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9858	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9859	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9861	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9862	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9871	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9874	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9880	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9884	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9885	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9920	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9924	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9972	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9982	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9986	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=9992	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10022	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10125	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10160	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10200	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10217	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10225	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10229	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10232	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10243	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10250	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10251	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10256	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10268	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10278	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10298	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10299	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10300	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10336	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10417	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10454	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10475	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10478	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10498	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10506	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10518	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10528	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10529	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10581	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10607	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10628	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10709	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10720	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10723	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10737	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10741	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10742	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10753	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10755	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10789	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10854	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10857	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10859	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10974	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10979	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10994	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=10996	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11030	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11032	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11033	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11034	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11037	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11074	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11086	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11248	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11249	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11250	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11292	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11308	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11311	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11313	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11342	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11343	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11398	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11425	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11439	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11463	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11491	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11511	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11552	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11574	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11581	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11590	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11594	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11611	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11625	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11697	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11704	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11709	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11728	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11756	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11789	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11818	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11837	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11864	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11866	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11882	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11889	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11925	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11929	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=11991	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12017	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12021	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12036	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12045	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12086	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12097	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12125	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12130	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12134	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12145	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12150	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12153	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12177	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12186	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12193	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12227	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12231	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12271	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12275	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12281	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12300	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12313	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12337	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12344	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12356	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12381	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12392	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12395	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12400	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12427	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12453	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12469	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12496	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12505	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12548	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12556	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12572	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12586	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12595	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12611	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12612	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12636	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12637	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12641	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12650	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12663	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12664	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12688	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12696	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12701	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12705	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12723	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12732	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12736	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12741	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12761	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12768	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12811	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12816	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12822	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12832	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12850	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12862	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12863	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12864	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12873	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12904	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12928	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12964	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=12970	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13017	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13026	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13031	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13058	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13097	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13113	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13118	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13167	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13186	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13217	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13231	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13252	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13258	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13287	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13288	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13289	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13328	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13330	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13331	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13368	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13378	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13385	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13386	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13394	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13426	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13429	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13480	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13483	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13489	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13497	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13499	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13507	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13517	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13525	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13553	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13556	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13565	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13571	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13609	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13615	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13616	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13642	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13660	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13691	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13702	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13705	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13708	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13709	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13713	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13731	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13733	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13751	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13778	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13782	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13786	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13789	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13804	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13810	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13811	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13827	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13856	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13879	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13887	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13900	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13904	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13906	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13923	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13929	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13930	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13949	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13952	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13963	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13973	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13979	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13980	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13981	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13985	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=13998	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14033	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14061	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14075	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14085	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14101	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14103	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14140	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14154	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14170	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14178	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14181	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14199	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14202	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14246	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14297	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14322	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14327	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14328	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14339	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14341	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14353	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14354	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14360	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14378	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14385	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14386	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14390	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14411	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14421	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14429	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14440	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14447	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14460	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14502	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14510	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14521	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14533	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14538	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14540	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14541	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14549	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14554	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14560	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14586	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14588	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14591	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14597	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14602	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14613	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14615	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14646	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14656	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14657	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14661	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14674	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14680	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14681	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14682	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14683	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14690	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14699	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14716	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14731	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14732	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14733	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14738	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14740	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14752	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14754	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14762	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14774	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14776	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14777	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14781	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14786	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14792	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14797	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14798	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14801	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14811	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14813	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14815	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14821	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14828	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14833	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14840	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14841	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14847	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14856	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14859	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14861	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14862	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14877	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14879	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14887	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14893	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14917	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14918	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14926	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14928	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14930	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14933	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14934	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14941	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14947	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14954	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14958	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14961	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14962	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14965	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14983	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14988	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=14997	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15000	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15003	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15006	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15012	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15015	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15017	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15052	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15055	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15060	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15100	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15101	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15103	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15106	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15112	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15113	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15114	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15115	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15118	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15124	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15155	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15156	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15157	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15159	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15176	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15190	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15194	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15200	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15204	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15208	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15214	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15220	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15227	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15240	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15242	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15246	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15249	2026-08-06
+https://www.htw-berlin.de/hochschule/personen/person/?eid=15260	2026-08-06
+
+## Completeness and method
+- HTW does not publish a plain "all professors" page; its central Personensuche is
+  restricted to the HTW network. The Online-Forschungskatalog > Professor_innenprofile
+  listing (A-Z above) is HTW's own university-wide professor register and yielded 309.
+- All ~60 degree-programme staff pages were then swept independently. Of the 375
+  people they add beyond the catalogue, only 2 carried a professor title and neither
+  holds a current Hochschullehrer*in function; the rest are Lehrbeauftragte,
+  wissenschaftliche Mitarbeiter*innen, Laboringenieur*innen and administrative staff.
+  The catalogue is therefore treated as complete for current professors.
+- Roster = every person whose HTW person page states the function "Hochschullehrer*in"
+  (302), plus the Präsidentin (a professor holding the university-level office), plus
+  one low-confidence row (see below). Total 304.
+
+## Documented exclusions (recorded here so no drop is silent)
+- Prof. Dr. Regina Frieß — https://www.htw-berlin.de/hochschule/personen/person/?eid=12381 — current HTW function is only Lehrbeauftragte*r, Wissenschaftliche*r Mitarbeiter*in — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Monika Fuchs — https://www.htw-berlin.de/hochschule/personen/person/?eid=1249 — current HTW function is only Lehrbeauftragte*r — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr.-Ing. Vesselin Iossifov — https://www.htw-berlin.de/hochschule/personen/person/?eid=2157 — current HTW function is only Lehrbeauftragte*r — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr.-Ing. Dietmar Kirch — https://www.htw-berlin.de/hochschule/personen/person/?eid=494 — current HTW function is only Lehrbeauftragte*r — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Rolf-Rüdiger Radeisen — https://www.htw-berlin.de/hochschule/personen/person/?eid=3209 — Honorarprofessur only (Honorarprofessor*in) — excluded per contract rule on honorary titles
+- Prof. Dr.-Ing. Nassih Zughaibi — https://www.htw-berlin.de/hochschule/personen/person/?eid=10250 — current HTW function is only Lehrbeauftragte*r — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr. Debora Weber-Wulff — https://www.htw-berlin.de/hochschule/personen/person/?eid=1114 — current HTW function is only Fachbereichsrat - Mitglied, Lehrbeauftragte*r; also listed on HTW's "Ehemalige Professor*innen" page https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/ — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr. rer. nat. Tom Ritter — https://www.htw-berlin.de/hochschule/personen/person/?eid=12611 — Honorarprofessur only (Honorarprofessor*in, Lehrbeauftragte*r) — excluded per contract rule on honorary titles
+- Prof. Nataliya Shakhovska — https://www.htw-berlin.de/hochschule/personen/person/?eid=13751 — current HTW function is only Lehrbeauftragte*r — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr. med. Claus-Steffen Stürzebecher — https://www.htw-berlin.de/hochschule/personen/person/?eid=13923 — Honorarprofessur only (Honorarprofessor*in) — excluded per contract rule on honorary titles
+- Prof. Dr. Rüdiger Erbrecht — https://www.htw-berlin.de/hochschule/personen/person/?eid=210 — current HTW function is only Lehrbeauftragte*r; also listed on HTW's "Ehemalige Professor*innen" page https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/ — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr.-Ing. Joachim Twele — https://www.htw-berlin.de/hochschule/personen/person/?eid=2985 — current HTW function is only Lehrbeauftragte*r, Ombudsperson; also listed on HTW's "Ehemalige Professor*innen" page https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/ — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr. Rüger Oßwald — https://www.htw-berlin.de/hochschule/personen/person/?eid=753 — current HTW function is only Lehrbeauftragte*r — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr. Frank Burghardt — https://www.htw-berlin.de/hochschule/personen/person/?eid=8978 — current HTW function is only Lehrbeauftragte*r; also listed on HTW's "Ehemalige Professor*innen" page https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/ — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr. Ekkehard Schneider — https://www.htw-berlin.de/hochschule/personen/person/?eid=924 — current HTW function is only Lehrbeauftragte*r; also listed on HTW's "Ehemalige Professor*innen" page https://www.htw-berlin.de/hochschule/personen/ehemalige-professorinnen/ — excluded per contract rule on emeritus / adjunct-only titles
+- Prof. Dr.-Ing. Werner Gerlach-Blumenthal — https://www.htw-berlin.de/hochschule/personen/person/?eid=9885 — current HTW function is only Lehrbeauftragte*r — excluded per contract rule on emeritus / adjunct-only titles
+- 27 further people on the AI/Angewandte-Informatik staff page https://ai.htw-berlin.de/personen/
+  were checked individually and excluded: their stated function is Lehrbeauftragte*r,
+  Wissenschaftliche*r Mitarbeiter*in, Laboringenieur*in or Mitarbeiter*in, not a professorship.
+- Prof. Dr. Patrick Fuhrmann (eid=11398) is an HTW Honorarprofessor whose main post is at
+  DESY (Helmholtz); his HTW person record additionally reads "Die Person ist derzeit nicht
+  aktiv". Excluded per the contract rule on honorary titles.
+
+## Unresolved cases kept in the roster as low-confidence rows
+- Prof. Dr. Fiona Sammler (eid=11756): listed in the Professor_innenprofile catalogue, but
+  the person record says "Die Person ist derzeit nicht aktiv" and states no Fachbereich or
+  function. Row kept with the ambiguity written into notes rather than dropped.
+- 1 person (Prof. Dr. Sepehr Foroushani, eid=14840) appears both as a current
+  Hochschullehrer*in and on the "Ehemalige Professor*innen" page; kept, flagged in notes.
+
+## SECURITY
+- No prompt-injection payload was found. All 1113 pages fetched for this task (both
+  institutions) were scanned for text addressing an AI agent: "ignore previous",
+  "as an AI", "you are an AI", "system prompt", "disregard the above", "AI agent",
+  "language model", "prompt injection", "[system]", "</system>", "assistant:".
+- Four benign hits, all verified as genuine German/English research-topic prose and
+  not instructions: Prof. Dr.-Ing. Katarina Krüger (eid=3833, "AI Agents (Forschung)"),
+  Prof. Dr.-Ing. Alexandra Mikityuk (eid=15015, research on hardening LLM/MCP
+  architectures "against prompt injection"), an HTW person page mentioning "Large
+  Language Models" (eid=13378), and the professor catalogue page ?c=W.
+- All fetched page content was treated as untrusted data throughout.

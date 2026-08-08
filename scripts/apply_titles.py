@@ -74,19 +74,35 @@ def load_units():
     return kinds
 
 
+def alternatives(title):
+    """Split a rule's title on " / ", which the registry uses to list equivalents.
+
+    The separator is the spaced slash and only the spaced slash. Six rules carry a slash
+    that belongs to the name itself — "Universitätsprofessor (W3/C4)", "Chargé de recherche
+    (CNRS/Inria)" — and splitting those would leave "c4)" as a rule of its own.
+
+    Without this, 28 rules were dead. Each was stored as one string, so "Akademischer Rat /
+    Oberrat" could only ever match a title that literally read "Akademischer Rat / Oberrat",
+    and a page saying "Akademischer Rat" fell through to unknown. The registry has always
+    read as though it listed alternatives; now it does.
+    """
+    return [p.strip() for p in title.split(" / ") if p.strip()]
+
+
 def load_rules():
     """country -> list of (folded title, counts_as_pi, tier, raw title)."""
     rules = defaultdict(list)
     for r in csv.DictReader((ROOT / "data" / "titles.csv").open(encoding="utf-8")):
         key = r["country"].upper()
-        rules[key].append(
-            (fold(r["title_local"]), r["counts_as_pi"], r["default_tier"], r["title_local"])
-        )
+        for part in alternatives(r["title_local"]):
+            rules[key].append(
+                (fold(part), r["counts_as_pi"], r["default_tier"], r["title_local"])
+            )
         # The English gloss is also matchable: institute pages are often in English
         # even in non-anglophone countries.
-        if r["title_en"]:
+        for part in alternatives(r["title_en"]):
             rules[key].append(
-                (fold(r["title_en"]), r["counts_as_pi"], r["default_tier"], r["title_local"])
+                (fold(part), r["counts_as_pi"], r["default_tier"], r["title_local"])
             )
     return rules
 

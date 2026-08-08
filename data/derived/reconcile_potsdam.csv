@@ -1,0 +1,41 @@
+name,core_papers,sources,dblp_current,status,reason_code,reason
+Gerard de Melo,34,de-hpi;de-uni-potsdam;csrankings,"University of Potsdam, Germany|Hasso Plattner Institute, Potsdam, Germany",include,,on an institution directory here
+Marius Lindauer,24,,"Leibniz University Hannover, Institute of Information Processing, Germany|University of Freiburg, Machine Learning Lab, ",exclude,E08,CSRankings files them at University of Hannover (de)
+Niclas Boehmer,22,csrankings,,queue,,"on a local directory, but DBLP's current affiliation is Harvard University"
+Markus Hecher,22,de-uni-potsdam,,queue,,"on a local directory, but DBLP's current affiliation is CRIL"
+Georgios Kaissis,22,csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Gjergji Kasneci,21,,"Technical University of Munich, Germany",exclude,E08,DBLP labels the affiliation former
+Alexander Koller,18,,"Saarland University, Saarbrücken, Germany",exclude,E08,CSRankings files them at Saarland University (de)
+Jannik Peters 0001,15,,"National University of Singapore, Singapore",exclude,E08,DBLP labels the affiliation former
+Marina M.-C. Höhne,15,de-uni-potsdam,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Jakob Runge,14,de-uni-potsdam,,include,,on an institution directory here; no corroborating DBLP affiliation note
+David Schlangen,12,de-uni-potsdam;csrankings,"University of Potsdam, Potsdam, Germany",include,,on an institution directory here
+Pascal Lenzner,11,,"Hasso Plattner Institute, Potsdam, Germany|Humboldt University of Berlin, Department of Computer Science, Germany",exclude,E08,CSRankings files them at University of Augsburg (de)
+Tobias Friedrich 0001,9,de-hpi;de-uni-potsdam;csrankings,"Hasso Plattner Institute, Potsdam, Germany|Friedrich Schiller University Jena, Faculty of Mathematics and Computer Scien",include,,on an institution directory here
+Alexandra Carpentier,7,de-uni-potsdam,"University of Potsdam, Germany",include,,on an institution directory here
+Christoph Lippert,7,de-hpi;de-uni-potsdam;csrankings,"Hasso Plattner Institute, Potsdam, Germany|Hasso Plattner Institute for Digital Health at Mount Sinai (HPI-MS), New York",include,,on an institution directory here
+Haojin Yang 0001,6,,"Hasso Plattner Institute (HPI), Potsdam, Germany",queue,,current DBLP affiliation here but on no institution directory
+Hua Jiang,6,de-uni-potsdam,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Andreas Göbel 0001,6,,"Hasso Plattner Institute, Potsdam, Germany|University of Oxford, Department of Computer Science|University of Liverpool,",queue,,current DBLP affiliation here but on no institution directory
+Francesco Quinzan,6,,"University of Oxford, Department of Computer Science, Oxford, UK|University of Potsdam, Germany",exclude,E08,DBLP's primary current affiliation is University of Oxford; on none of the local directories
+Cheng Wang 0002,6,,"Amazon, Berlin, Germany|NEC Laboratories Europe GmbH, Heidelberg, Germany",exclude,E02,DBLP records this as the PhD institution (2017)
+Michelle Döring,5,,"Hasso Plattner Institute, Potsdam, Germany",queue,,current DBLP affiliation here but on no institution directory
+Chris Dong 0001,5,,"Hasso Plattner Institute, Potsdam, Germany",queue,,current DBLP affiliation here but on no institution directory
+Christoph Meinel,4,csrankings,"Hasso Plattner Institute, Potsdam, Germany",include,,on an institution directory here
+David R. Reich,4,,"University of Potsdam, Department of Computer Science, Germany|University of Zurich, Department of Computational Linguis",queue,,current DBLP affiliation here but on no institution directory
+Thomas Walter 0003,4,de-uni-potsdam,,queue,,"on a local directory, but DBLP's current affiliation is MINES ParisTech / Institut Curie"
+Bert Arnrich,4,de-hpi;de-uni-potsdam;csrankings,,queue,,"on a local directory, but DBLP's current affiliation is ETH Zurich"
+Nicole Mücke,3,,"MATH+ - Berlin Mathematics Research Center, Germany|Technical University of Berlin, Institute of Mathematics, Germany|Un",exclude,E08,DBLP's primary current affiliation is MATH+ - Berlin Mathematics Research Center; on none of the local directories
+Yang Liu 0144,3,,"Potsdam Institute for Climate Impact Research, Potsdam Institute for Climate Impact Research, Germany|Technical Universi",queue,,current DBLP affiliation here but on no institution directory
+Patrick Ebel 0002,3,de-hpi;de-uni-potsdam,,queue,,"on a local directory, but DBLP's current affiliation is Technical University of Munich"
+Bernhard Y. Renard,3,de-hpi;de-uni-potsdam;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Tobias Scheffer,3,csrankings,"University of Potsdam, Germany",include,,on an institution directory here
+Hans-Georg Müller,3,de-uni-potsdam,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Matthias Weidlich 0001,3,de-hpi;de-uni-potsdam;csrankings,,queue,,"on a local directory, but DBLP's current affiliation is Humboldt-University Berlin"
+Ürün Dogan,3,,"Meta, Menlo Park, CA, USA|Microsoft, Mountain View, CA, USA|Microsoft Research, Cambridge, UK|University of Potsdam, Ins",exclude,E08,DBLP's primary current affiliation is Meta; on none of the local directories
+Davide Mottin,3,,"Aarhus University, Denmark",exclude,E08,CSRankings files them at Aarhus University (dk)
+Martin Gebser,3,,"University of Klagenfurt, Department of Applied Informatics, Austria|Graz University of Technology, Institute of Softwar",exclude,E08,CSRankings files them at University of Klagenfurt (at)
+Sebastian Reich,3,de-uni-potsdam,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Chen Liu 0001,3,,"Clarkson University, Department of Electrical and Computer Engineering, Potsdam, NY, USA|Florida International Universit",queue,,current DBLP affiliation here but on no institution directory
+Ralf Herbrich,3,de-hpi;de-uni-potsdam;csrankings,,queue,,"on a local directory, but DBLP's current affiliation is Amazon Inc."
+Stefanie Mueller 0001,1,,"MIT, Cambridge, MA, USA",exclude,E02,DBLP records this as the PhD institution (2016)

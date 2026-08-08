@@ -1,0 +1,118 @@
+https://www.hhi.fraunhofer.de/en/sitemap.html	2026-08-06
+https://www.hhi.fraunhofer.de/sitemap.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/fraunhofer-hhi/about-us.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/fraunhofer-hhi/about-us/organizational-plan.html	2026-08-06
+https://www.hhi.fraunhofer.de/fileadmin/Institut/Organisationsplan/2026/20260421_Organigramm_HHI_EN.pdf	2026-08-06
+https://www.hhi.fraunhofer.de/en/fraunhofer-hhi/executive-director.html	2026-08-06
+https://www.hhi.fraunhofer.de/das-fraunhofer-hhi/leitung.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/ai.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen/ai.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/ai/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/ai/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen/vca.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca/people-and-contact/thomas-schierl.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/video-coding-technologies.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/video-coding-systems.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/multimedia-communications.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/embedded-systems.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vca/research-groups/learned-data-compression.html	2026-08-06
+https://www.hhi.fraunhofer.de/news/nachrichten/neue-forschungsgruppe-learned-data-compression-unter-leitung-von-dr-jona-balle-am-fraunhofer-hhi.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vit.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vit/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vit/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen/vit/personen-und-kontakt.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vit/research-groups/computer-vision-graphics.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/vit-imc.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/vit-imc/team/feldmann.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/vit-imc/team/schreer.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vit/research-groups/capture-display-systems.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/vit/research-groups/interactive-cognitive-systems.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/wn.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/wn/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/wn/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen/wn/personen-und-kontakt.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/wn/people-and-contact/slawomir-stanczak.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/wn/people-and-contact/thomas-haustein.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/pn.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen/pn.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/pn/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/pn/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen/pn/personen-und-kontakt.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/scs.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/pn/research-groups/metro-access-and-in-house-systems.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/pn/research-groups/free-space-optical-systems.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/pn/research-groups/digital-signal-processing.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/pn/research-groups/electronic-systems.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/pn/research-groups/space-division-multiplexing.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/inp-and-rf.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/inp-and-rf/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/inp-and-rf/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/hybrid-integration-and-sensing.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/hybrid-integration-and-sensing/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/hybrid-integration-and-sensing/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/technology-and-infrastructure.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/technology-and-infrastructure/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/technology-and-infrastructure/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/fs.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/fs/research-groups.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/fs/people-and-contact.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen/fs/forschungsgruppen.html	2026-08-06
+https://www.hhi.fraunhofer.de/abteilungen/fs/personen-und-kontakt.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/fs/research-groups/fiberlab.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/fs/research-groups/energy-storage-sensor-technology.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/fs/research-groups/energy-storage-sensor-technology/battery-and-sensor-test-center-bst.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/departments/fs/research-groups/surface-processing.html	2026-08-06
+http://iphome.hhi.de/samek/index.htm	2026-08-06
+http://iphome.hhi.de/wiegand/	2026-08-06
+http://iphome.hhi.de/marpe/index.htm	2026-08-06
+http://iphome.hhi.de/eisert/index.htm	2026-08-06
+http://iphome.hhi.de/hilsmann/index.htm	2026-08-06
+http://iphome.hhi.de/schaefer/	2026-08-06
+http://iphome.hhi.de/schwarz/	2026-08-06
+http://iphome.hhi.de/stabernack/	2026-08-06
+https://www.hhi.fraunhofer.de/en.html	2026-08-06
+https://www.hhi.fraunhofer.de/en/about-us.html	2026-08-06
+https://www.hhi.fraunhofer.de/ueber-uns.html	2026-08-06
+
+SECURITY NOTE: No prompt-injection payload was found on any Fraunhofer HHI page fetched
+for this roster. All pages above were retrieved as raw HTML with curl and text-extracted
+locally (scripts and HTML comments stripped and inspected), rather than being summarised by
+a model, so hidden instruction text would have been visible in the extracted text. The
+known Fraunhofer IAO management-team injection (fake console errors, base64 filler, and
+instructions addressed to an AI agent) is a DIFFERENT institute's page and was not
+encountered here. All fetched content was treated as untrusted data throughout; no page
+attempted to redirect the task, change the output path, or address the agent.
+
+METHOD NOTE: WebSearch was not used at all (session budget reported exhausted). Pages were
+fetched directly over HTTPS; hhi.fraunhofer.de and iphome.hhi.de both returned HTTP 200 to
+direct requests, so no reader proxy was needed.
+
+COVERAGE NOTES:
+- The authoritative structural document is the organisational chart PDF
+  https://www.hhi.fraunhofer.de/fileadmin/Institut/Organisationsplan/2026/20260421_Organigramm_HHI_EN.pdf
+  ("Last updated: April 2026"). It is more complete than the web pages for the Wireless
+  Communications and Networks and Photonic Networks and Systems groups, and it is the only
+  source naming Ralf Schäfer as "Deputy Executive Director", Christoph Kottke under Metro,
+  Access & In-house Systems, and Travis Todd under Silicon Allee Venture Lab.
+- The April 2026 organigram does NOT contain the Fiber Optical Sensor Systems department
+  (Goslar). That department is still listed as one of the nine departments on
+  https://www.hhi.fraunhofer.de/en/departments.html and its pages are live, so it was
+  collected from the web pages. The discrepancy is unresolved.
+- https://www.hhi.fraunhofer.de/en/about-us.html and /ueber-uns.html return HTTP 404; the
+  live paths are /en/fraunhofer-hhi/about-us.html and /das-fraunhofer-hhi/ueber-uns.html.
+- GAP: the Fiber Optical Sensor Systems research group "Energy Storage Sensor Technology"
+  names no group head anywhere on the HHI site — its group page lists only the department
+  head (Wolfgang Schade) and a technical assistant. No row could be written for it. This is
+  a known missing person, not an assertion that the group has no leader.
+- Deliberately EXCLUDED as administrative per the contract, both named only in the
+  organigram: Dipl.-Betriebsw. Michael Klee, MBA (Administration) and Jan Decker, LL.M.
+  (Legal & Patents). Recorded here so the exclusion is visible rather than silent.
+- Also excluded as staff inside another person's group: Dr. rer. nat. Günter Flachenecker
+  ("Senior Scientist", FiberLab), Thomas Koch (contact, Capture & Display Systems),
+  and all team assistants (Gabriela Thiele, Ine Scharse, Iphigenia Chalkidis) and technical
+  assistants (Madeleine Stahl).

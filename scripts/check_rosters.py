@@ -10,11 +10,13 @@ survival rate with high resolution means the directory over-collected, which is 
 import csv
 import gzip
 import pathlib
+import re
 import sys
 from collections import Counter, defaultdict
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from namematch import NameIndex  # noqa: E402
+from namematch import seeded_index, resolve_with_city  # noqa: E402
+from config import cities  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DERIVED = ROOT / "data" / "derived"
@@ -22,15 +24,9 @@ CORE_MIN = 3
 
 
 def main() -> int:
-    index = NameIndex()
+    index, aff = seeded_index(DERIVED / "dblp_persons.csv.gz")
     core = Counter()
     extended = Counter()
-    # Seed from DBLP person records first so alias spellings collapse to one identity.
-    with gzip.open(DERIVED / "dblp_persons.csv.gz", "rt", encoding="utf-8") as fh:
-        for p in csv.DictReader(fh):
-            aliases = [a for a in p["aliases"].split("|") if a]
-            if aliases:
-                index.add_person(p["primary_name"], aliases)
     with gzip.open(DERIVED / "dblp_venue_authorships.csv.gz", "rt", encoding="utf-8") as fh:
         for a in csv.DictReader(fh):
             name = a["author"]
@@ -42,6 +38,13 @@ def main() -> int:
             else:
                 extended[name] += 1
     print(f"DBLP author names indexed: {len(index.full)}")
+
+    # inst_id -> the city its roster belongs to, for the ambiguity tie-break. Rosters not
+    # registered to any city simply get no tie-break and stay ambiguous.
+    inst_city = {}
+    for city_name, cfg in cities().items():
+        for inst in cfg["rosters"]:
+            inst_city[inst] = city_name
 
     # Adjudicated identity decisions override the matcher: some names are genuinely
     # ambiguous in DBLP and only a human check can say which person a roster meant.
@@ -60,8 +63,10 @@ def main() -> int:
             rows = list(csv.DictReader(path.open(encoding="utf-8")))
             how = Counter()
             active = 0
+            city = inst_city.get(inst_id, "")
             for r in rows:
-                resolved, reason = index.resolve(r.get("name", ""))
+                resolved, reason = resolve_with_city(
+                    index, aff, r.get("name", ""), city)
                 if (r.get("name", ""), inst_id) in overrides:
                     resolved, reason = overrides[(r.get("name", ""), inst_id)], "override"
                 how[reason if resolved is None else reason] += 1
@@ -84,7 +89,9 @@ def main() -> int:
                         "evidence_url": r.get("evidence_url", ""),
                     }
                 )
-            resolved_n = sum(v for k, v in how.items() if k in ("full", "first_last", "initial_last"))
+            resolved_n = sum(v for k, v in how.items()
+                             if k in ("full", "first_last", "initial_last", "exact",
+                                      "affiliation", "override"))
             print(
                 f"  {run:20s} {inst_id[:22]:24s} rows={len(rows):3d} "
                 f"resolved={resolved_n:3d} active(>={CORE_MIN})={active:3d}  {dict(how)}"

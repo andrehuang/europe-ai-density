@@ -1,0 +1,149 @@
+# Weierstrass Institute for Applied Analysis and Stochastics (WIAS), Berlin
+# Directory snapshot label: 2026-08-06 (all retrieval attempts made on that date).
+
+BLOCKER - READ THIS FIRST
+=========================
+www.wias-berlin.de was UNREACHABLE for the entire session. Evidence:
+  - WebFetch of https://www.wias-berlin.de/research/rgs/ timed out (60 s) on eight separate attempts,
+    across the paths /, /research/rgs/, /research/rgs/index.jsp, ?lang=0 and ?lang=1, and with and
+    without the "www." prefix.
+  - curl from this machine: DNS resolves (www.wias-berlin.de -> 62.141.177.111, no AAAA record);
+    port 80 answers with a 301 to HTTPS; port 443 then accepts nothing and times out at 45 s and 90 s.
+  - Three independent third-party reader proxies also failed to reach the origin, which rules out a
+    local network block: r.jina.ai -> HTTP 422, api.allorigins.win -> HTTP 522, api.codetabs.com ->
+    HTTP 521, translate.goog -> HTTP 408. 521/522 are "origin unreachable" statuses returned by the
+    proxy itself.
+  - A different WIAS host, archive.wias-berlin.de (62.141.177.22), does respond, so the domain is
+    live; it is specifically the www host's HTTPS service that is down.
+The contract allows a reader proxy as a workaround for unreachable sites. Since no live proxy could
+reach the origin, this roster was built from INTERNET ARCHIVE captures of WIAS's own pages, all of
+them from 2026 and most from April-June 2026, i.e. two to four months before the snapshot label.
+Each roster row's notes column carries the capture date of the page it came from. If the site comes
+back, this roster should be re-run against the live pages: the two "acting head" arrangements
+(RG 1 and RG 6) and the April 2026 renaming of RG 7 are exactly the kind of thing that moves.
+
+WIAS's own statement of its status (from the footer and organigram of its own pages)
+====================================================================================
+  "Member of the Leibniz Association"
+  "Part of the Forschungsverbund Berlin e.V."
+  "Seat of the Secretariat of the International Mathematical Union"
+  "Seat of the office of the Deutsche Mathematiker-Vereinigung"
+The organigram heads the institute block with: "Weierstrass Institute for Applied Analysis and
+Stochastics (WIAS), Leibniz Institute in Forschungsverbund Berlin e.V." and places above it the
+Forschungsverbund Berlin e.V. General Assembly, Board of Trustees and Executive Board. So WIAS is a
+Leibniz institute that is not a separate legal entity but part of Forschungsverbund Berlin e.V.
+
+WIAS pages read (canonical live URL, then the Internet Archive capture actually used)
+=====================================================================================
+https://www.wias-berlin.de/research/rgs/index.jsp?lang=1	2026-08-06	via https://web.archive.org/web/20260607105924id_/https://wias-berlin.de/research/rgs/index.jsp?lang=1
+https://www.wias-berlin.de/research/lgs/index.jsp?lang=1	2026-08-06	via https://web.archive.org/web/20260520071428id_/…/research/lgs/index.jsp?lang=1
+https://www.wias-berlin.de/about/structure/organigramm.html?lang=1	2026-08-06	via https://web.archive.org/web/20260203032657id_/…/about/structure/organigramm.html?lang=1
+https://www.wias-berlin.de/about/structure/organigramm.html?lang=0	2026-08-06	via https://web.archive.org/web/20241203152331id_/…/about/structure/organigramm.html?lang=0
+https://www.wias-berlin.de/research/rgs/fg1/index.jsp?lang=1	2026-08-06	via capture 20260418043444
+https://www.wias-berlin.de/research/rgs/fg2/index.jsp?lang=1	2026-08-06	via capture 20260414000152
+https://www.wias-berlin.de/research/rgs/fg3/index.jsp?lang=1	2026-08-06	via capture 20260515114127
+https://www.wias-berlin.de/research/rgs/fg4/index.jsp?lang=1	2026-08-06	via capture 20260510054329
+https://www.wias-berlin.de/research/rgs/fg5/index.jsp?lang=1	2026-08-06	via capture 20260508143357
+https://www.wias-berlin.de/research/rgs/fg6/index.jsp?lang=1	2026-08-06	via capture 20260418033827
+https://www.wias-berlin.de/research/rgs/fg7/index.jsp?lang=1	2026-08-06	via capture 20260607193108
+https://www.wias-berlin.de/research/rgs/fg8/index.jsp?lang=1	2026-08-06	via capture 20260514112555
+https://www.wias-berlin.de/research/fps/fp2/index.jsp?lang=1	2026-08-06	via capture 20260512100936
+https://www.wias-berlin.de/services/directorsoffice/index.jsp?lang=1	2026-08-06	via capture 20260515112140
+https://www.wias-berlin.de/contact/nonresident/index.jsp?lang=1	2026-08-06	via capture 20260512091410 - NO CONTENT (dynamic JSP, archive holds the navigation shell only)
+https://www.wias-berlin.de/contact/staff/index.jsp?lang=1	2026-08-06	via archive - NO CONTENT (dynamic JSP, archive holds the navigation shell only)
+https://www.wias-berlin.de/people/hintermueller/	2026-08-06	via capture 20260411204401
+https://www.wias-berlin.de/people/john/	2026-08-06	via capture 20260606174006
+https://www.wias-berlin.de/people/mielke/	2026-08-06	via capture 20260410231826
+https://www.wias-berlin.de/people/liero/	2026-08-06	via capture 20251119011415
+https://www.wias-berlin.de/people/bandelow/	2026-08-06	via capture 20260418042226
+https://www.wias-berlin.de/people/hoemberg/	2026-08-06	via capture 20251205210141 (page is only a redirect notice to his TU Berlin site)
+https://www.wias-berlin.de/people/koenig/	2026-08-06	via capture 20260416161006
+https://www.wias-berlin.de/people/spokoiny/	2026-08-06	via capture 20260413113252
+https://www.wias-berlin.de/people/jahnel/	2026-08-06	via capture 20260520074236 (no affiliation text)
+https://www.wias-berlin.de/people/hopf/	2026-08-06	via capture 20260309093320 (no affiliation text)
+https://www.wias-berlin.de/people/lasarzik/	2026-08-06	via capture 20260309093347 (no affiliation text)
+https://www.wias-berlin.de/people/kantner/	2026-08-06	via capture 20250121015416 (no affiliation text)
+https://www.wias-berlin.de/people/koprucki/	2026-08-06	via capture 20260411213549 (no affiliation text)
+NO ARCHIVE CAPTURE AT ALL for /people/bayer/, /people/farrell/, /people/wagner/, /people/heitzinger/,
+  /people/thomas/, /people/zhu/, /people/friz/ - the second affiliations for those people are therefore
+  either from MATH+ or absent.
+
+Non-WIAS pages used, and why
+============================
+https://mathplus.de/about-us/members/faculty/	2026-08-06
+  The MATH+ Faculty page groups members by home institution and marks each person's university with
+  (*TU), (*FU), (*HU) etc. Its WIAS block reads: Uwe Bandelow; Christian Bayer (*TU); Alfonso Caiazzo;
+  Martin Eigel (*TU); Patricio Farrell (*FU); Peter K. Friz (*TU); Annegret Glitzky; René Henrion;
+  Michael Hintermüller (*HU); Dietmar Hömberg (*TU); Benedikt Jahnel (*TU Braunschweig); Volker John
+  (*FU); Olaf Klein; Wolfgang König (*TU); Robert Lasarzik (*FU); Matthias Liero (*HU); Alexander
+  Mielke (*HU); Burkhard Schmidt; Vladimir Spokoiny (*HU); Marita Thomas (*FU); Willem van Zuijlen
+  (*FU). This is the only source that made the joint appointments visible for the people whose WIAS
+  personal pages are not archived, and it is flagged as such in every row that relies on it.
+https://mathplus.de/	2026-08-06
+https://mathplus.de/about-us/members/	2026-08-06
+https://www.leibniz-gemeinschaft.de/en/institutes/leibniz-institutes-all-lists/weierstrass-institute-for-applied-analysis-and-stochastics	2026-08-06
+  Used only as a cross-check on the number of units ("seven research groups, a Young Scientists' Group
+  (YSG) and Leibniz Group (LG)"). NOT used for the roster: WIAS's own pages list eight numbered research
+  groups, and the institute's own listing was preferred.
+https://www.fv-berlin.de/en/institutes/wias	2026-08-06
+  Confirms the director and the Berlin address (Anton-Wilhelm-Amo-Straße 39, 10117 Berlin).
+https://de.wikipedia.org/wiki/Weierstraß-Institut_für_Angewandte_Analysis_und_Stochastik	2026-08-06
+https://en.wikipedia.org/wiki/Weierstrass_Institute_for_Applied_Analysis_and_Stochastics	2026-08-06
+  Used only to confirm the directorship history; neither lists research groups.
+https://lite.duckduckgo.com/lite/?q=…	2026-08-06	(several queries)
+https://search.brave.com/search?q=…	2026-08-06	(several queries)
+  Used ONLY while the site was unreachable, to recover verbatim "Head:" strings from search-engine
+  snippets of WIAS pages, before the Internet Archive route was found. Everything they produced was
+  subsequently re-verified against the archived WIAS pages themselves; no roster row rests on a snippet.
+https://web.archive.org/…	2026-08-06	(all captures listed above; reached with curl, since WebFetch cannot
+  fetch from web.archive.org)
+
+Failed / rejected retrieval attempts (recorded so the gap is traceable)
+======================================================================
+https://www.wias-berlin.de/research/rgs/ - timeout x8
+https://wias-berlin.de/research/rgs/ - timeout
+https://www.wias-berlin.de/research/rgs/index.jsp?lang=0 - timeout
+https://r.jina.ai/https://www.wias-berlin.de/research/rgs/ - 422
+https://api.allorigins.win/raw?url=…wias-berlin.de… - 408 then 522
+https://api.codetabs.com/v1/proxy?quest=…wias-berlin.de… - 521
+https://www-wias--berlin-de.translate.goog/research/rgs/ - 408
+https://corsproxy.io/?url=…wias-berlin.de… - 403
+http://62.141.177.111/research/rgs/index.jsp?lang=1 - TLS certificate does not cover the IP
+https://archive.wias-berlin.de/receive/wias_mods_00000579 - reachable but behind a JavaScript
+  proof-of-work security check that cannot be solved by a fetcher; the WIAS annual-report PDFs held
+  there could not be opened.
+
+SECURITY NOTE: none for WIAS. No page or archived capture read for this institution contained text
+addressed to an AI assistant, instructions to ignore prior instructions, hidden fake console output, or
+base64 filler. All fetched content was treated as untrusted data. Most WIAS pages were fetched as raw
+HTML with curl and text-extracted locally rather than model-summarised, so hidden instruction text
+would have appeared in the extracted text.
+
+COVERAGE NOTES
+==============
+- Structure was taken from WIAS's own navigation and organigram, not from a list supplied in advance.
+  The institute publishes: 8 numbered Research Groups (RG 1 - RG 8); a "Flexible Research Platform"
+  containing two "Weierstrass group" units, two Leibniz-Group units and one "Focus platform"; a
+  Director's Office; and supporting departments (Administration, IMU Office, IT, Research Data
+  Management, Knowledge and Technology Transfer, Communication Design).
+- Supporting-department heads (Dr. Eleanor Eife-Horn, Administration; Henrik Pletat, IT; Dr. Torsten
+  Köhler, Knowledge and Technology Transfer; Thomas Bender, Communication Design; Dr. Falk Fabich,
+  Acting Managing Director of the Joint Administration of Forschungsverbund Berlin) are NOT in the
+  roster: they are administrative/technical staff, which the contract excludes. Dietmar Hömberg heads
+  the IMU Office and IS in the roster, because he separately heads RG 4.
+- Mandate holders named on the organigram (Ombudsperson, Data Protection Coordinator, Equal
+  Opportunities Representative, Works Council Chairman, Representative for Disabled Employees) are not
+  positions in the contract's sense and are not given rows of their own; Benedikt Jahnel appears
+  because he heads a research group, not because he is Ombudsperson.
+- OPEN QUESTION: Volker John's page states he has been "2. stellvertretender Direktor des WIAS" since
+  10/2023. That implies a FIRST deputy director whom none of the pages fetched names. The organigram
+  shows only "Director / Prof. Dr. Michael Hintermüller". This person is missing from the roster and
+  should be looked for when the site is reachable again.
+- OPEN QUESTION: the "Research Fellows", "Guests", "Honorary Members" and "Associated Scientists"
+  listings are generated dynamically and the Internet Archive holds only their navigation shells, so
+  they could not be read. Honorary members are excluded by the contract anyway, but "Associated
+  Scientists" may contain independent researchers and remains unchecked.
+- The RG 6 focus platform "Quantitative Analysis of Stochastic and Rough Systems" and the groups marked
+  with "until" dates on the organigram are recorded as low-confidence rows rather than dropped, because
+  the organigram capture is from February 2026 and the flexible platform page from May 2026 disagree
+  about which of them are still running.

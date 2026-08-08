@@ -1,0 +1,134 @@
+POTSDAM RECONCILIATION QUEUE — SOURCES
+Snapshot date of the project: 2026-08-01
+Retrieval date for every URL below: 2026-08-06
+Input queue: data/derived/reconcile_potsdam.csv (14 rows with status=queue)
+Output: data/raw/adjudication/2026-08-06/reconcile/potsdam.csv (14 rows, 10 fields each)
+
+SECURITY NOTE
+No prompt-injection payload was found on any page fetched for this queue. Every fetched
+page was treated as data. Nothing on any page addressed the agent, asked for instructions
+to be disregarded, or attempted to change the output path, the column set or the rules.
+Two access obstacles are recorded here for completeness because they are not injections
+but did shape the evidence:
+  - informatik.hu-berlin.de serves an "Anubis" proof-of-work bot wall instead of content.
+    Its interstitial text discusses AI scraping; it contains no instruction directed at an
+    agent and was ignored as page furniture. The Humboldt-Universität negative check on
+    Matthias Weidlich therefore could not be made; the HPI first-party bio settled the case
+    instead.
+  - hpi.de returns HTTP 403 to the WebFetch tool but serves normally to curl with a browser
+    User-Agent. All hpi.de pages below were fetched that way.
+
+BLOCKER
+The session WebSearch budget was already exhausted (200 of 200 calls) before this task
+issued any query, so every source below was reached by direct URL construction. Two rows
+carry a residual gap because of it: Yang Liu 0144 (confidence=low) and the Paris side of
+the Thomas Walter 0003 homonym (confidence=medium).
+
+--- Hasso Plattner Institute (hpi.de) — chair holders, group members ---
+https://hpi.de/forschung/fachgebiete/	2026-08-06	(complete current chair list; decisive for Arnrich, Böhmer, Ebel, Herbrich, Weidlich; also lists Christoph Meinel under "Emeriti und entpflichtete Professoren")
+https://hpi.de/forschung/professorium/	2026-08-06
+https://hpi.de/forschung/fachgebiete/algorithmic-decision-making-and-society/	2026-08-06	(Böhmer; Letzte Änderung 28.05.2026)
+https://hpi.de/forschung/fachgebiete/artificial-intelligence-and-sustainability/	2026-08-06	(Herbrich; Letzte Änderung 31.07.2026; carries the 30.09.2026 departure notice)
+https://hpi.de/forschung/fachgebiete/digital-health-connected-healthcare/	2026-08-06	(Arnrich; Letzte Änderung 28.05.2026)
+https://hpi.de/forschung/fachgebiete/computational-interaction/	2026-08-06	(Ebel; Letzte Änderung 13.07.2026; team list with the Leipzig PhD students that settle the Ebel homonym)
+https://hpi.de/forschung/fachgebiete/algorithm-engineering/	2026-08-06
+https://hpi.de/forschung/fachgebiete/internet-technologien-und-softwarization/	2026-08-06	(Holger Karl's chair; checked for Haojin Yang, absent)
+https://hpi.de/en/boehmer/team/	2026-08-06	(decisive for Chris Dong 0001 = "Postdoc")
+https://hpi.de/en/boehmer/team/niclas-boehmer/	2026-08-06	(news items incl. 16/10/2025 Antrittsvorlesung)
+https://hpi.de/en/friedrich/people/	2026-08-06	(redirects to https://hpi.de/friedrich/people/)
+https://hpi.de/friedrich/people/	2026-08-06	(decisive for Andreas Göbel 0001 = "Researcher"/Postdoctoral Researchers and Michelle Döring = "Ph.D. Student")
+https://hpi.de/friedrich/people/postdocs/	2026-08-06
+https://hpi.de/en/database-group/people/	2026-08-06	(Weidlich = "Head of Data Systems")
+https://hpi.de/en/database-group/people/prof-dr-matthias-weidlich/	2026-08-06	(DECISIVE: dated Short Bio, "Since April 2026 ... at HPI ... Before joining HPI ... Humboldt-Universität zu Berlin")
+https://hpi.de/en/database-group/	2026-08-06	(redirects to /en/database-group/home/)
+https://hpi.de/meinel/	2026-08-06	(redirects to https://hpi.de/meinel/lehrstuhl.html)
+https://hpi.de/meinel/lehrstuhl/team/senior-researcher.html	2026-08-06	(page renders no person entries)
+https://hpi.de/en/meinel/chair/team/senior-researcher.html	2026-08-06	(page renders no person entries)
+https://hpi.de/meinel/knowledge-tech/machine-learning-ai.html	2026-08-06	(DECISIVE for Haojin Yang: "Supervisor: Prof. Dr. Christoph Meinel / Co-supervisor: PD Dr. habil. Haojin Yang", current PhD students Otholt, Wang, Guo; no page date)
+https://hpi.de/suche/?tx_solr%5Bq%5D=Haojin+Yang	2026-08-06	(site search; news item stating he leads the Forschungsgruppe "Multimedia and Machine Learning" within the Fachgebiet "Internet-Technologien und -Systeme")
+https://hpi.de/karl/people.html	2026-08-06	(Haojin Yang absent)
+https://hpi.de/en/karl/	2026-08-06	(redirects to /en/karl/translate-to-englisch-home.html)
+https://hpi.de/en/research/chairs.html	—	NOT FETCHED (known 404 per de-hpi/sources.txt)
+https://hpi.de/en/karl/team/	2026-08-06	HTTP 500
+https://hpi.de/karl/team.html	2026-08-06	HTTP 404
+https://hpi.de/en/meinel/team/	2026-08-06	HTTP 500
+https://hpi.de/en/database-group/people/matthias-weidlich/	2026-08-06	HTTP 404 (correct path is .../prof-dr-matthias-weidlich/)
+
+--- Universität Potsdam (uni-potsdam.de) ---
+https://www.uni-potsdam.de/de/cs/research/index	2026-08-06	(institute chair list; "Theoretische Informatik - N.N. Vertretung: Dr. Markus Hecher"; also "Maschinelles Lernen - N.N. Vertretung: Dr. Silvia Makowski")
+https://www.uni-potsdam.de/de/cs/ifi/alle-mitarbeiter	2026-08-06	(all-staff list with rooms and addresses; Hecher and Reich both present)
+https://www.uni-potsdam.de/en/cs/research-groups/index	2026-08-06
+https://www.uni-potsdam.de/de/thi/	2026-08-06	(redirects to /de/thi/index; Lehrstuhl Theoretische Informatik)
+https://www.uni-potsdam.de/de/thi/mitarbeiter	2026-08-06	(DECISIVE for Hecher: heading "Leitung (Lehrstuhlvertretung)"; Letzte Aktualisierung 13.04.2026)
+https://www.uni-potsdam.de/de/thi/mitarbeiter/hecher	2026-08-06	(Golm Haus 70 Raum 1.27; links to his own homepage)
+http://www.uni-potsdam.de/cs-ml/	2026-08-06	(redirects to https://www.uni-potsdam.de/en/cs-ml/index)
+https://www.uni-potsdam.de/en/cs-ml/staff	2026-08-06	(DECISIVE for David R. Reich = "Ph.D. Students: David Reich (AEye)"; Last changed 20.04.2026; Scheffer on sabbatical, Makowski acting professor)
+https://www.uni-potsdam.de/de/digital-engineering/forschung/fachgebiete	2026-08-06	(joint HPI/UP faculty chair list; Letzte Aktualisierung 01.07.2026; carries Böhmer, Herbrich, Ebel, Weidlich, Arnrich)
+https://www.uni-potsdam.de/de/geo/institut/mitarbeiter	2026-08-06	(DECISIVE for the Thomas Walter homonym: "Walter, Thomas - Prof. Dr. - GFZ" under the heading "Gemeinsam berufene und apl. ProfessorInnen und PrivatdozentInnen an außeruniversitären Forschungseinrichtungen"; Letzte Aktualisierung 03.08.2026)
+https://www.cs.uni-potsdam.de/ti/	2026-08-06	(redirect stub to /de/thi/)
+https://www.uni-potsdam.de/de/cs/institut/mitarbeiter	2026-08-06	HTTP 404
+https://www.uni-potsdam.de/de/cs/ti/index	2026-08-06	HTTP 404
+https://www.uni-potsdam.de/de/thi/hecher	2026-08-06	HTTP 404
+
+--- Potsdam Institute for Climate Impact Research (pik-potsdam.de) ---
+https://www.pik-potsdam.de/en/institute/departments	2026-08-06	(five research departments; RD5 is the MCC Berlin site)
+https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/staff	2026-08-06	(RD1; no Yang Liu)
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience/staff-rd2	2026-08-06	(RD2; no Yang Liu)
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/staff-rd3	2026-08-06	(RD3; no Yang Liu)
+https://www.pik-potsdam.de/en/institute/departments/complexity-science/staff-rd4	2026-08-06	(RD4, Kurths's department; no Yang Liu — only "Liu, Teng - Postdoctoral Researcher")
+https://www.pik-potsdam.de/en/institute/departments/climate-resilience	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/complexity-science	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways	2026-08-06
+https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy	2026-08-06
+https://www.pik-potsdam.de/en/institute/about/directors-staff	2026-08-06
+https://www.pik-potsdam.de/en/people/alumni/@@alumni	2026-08-06	(337 alumni entries; no Yang Liu; nearest hit "Professor Yang Tang, PIK: 2011—2018", a different person)
+https://www.pik-potsdam.de/en/search?SearchableText=Yang+Liu	2026-08-06	(only a 2017 co-authored paper by "Tang, Yang; Liu, Yurong", not a person record)
+https://www.pik-potsdam.de/en/institute/staff	2026-08-06	HTTP 404
+https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/staff	2026-08-06	redirects to a login page (use the staff-rd3 path)
+https://www.pik-potsdam.de/members/yangliu	2026-08-06	HTTP 404
+https://www.pik-potsdam.de/members/liuyang	2026-08-06	HTTP 404
+https://www.pik-potsdam.de/members/yang-liu	2026-08-06	HTTP 404
+https://www.pik-potsdam.de/members/liu-yang	2026-08-06	HTTP 404
+https://www.pik-potsdam.de/members/yangl	2026-08-06	HTTP 404
+
+--- GFZ Helmholtz-Zentrum für Geoforschung, Potsdam ---
+https://www.gfz.de/staff/thomas.walter/sec21	2026-08-06	(DECISIVE for the Thomas Walter homonym: "Prof. Dr. Thomas Walter - Arbeitsgruppenleiter - 2.1 Erdbeben- und Vulkanphysik", Haus H 7, Helmholtzstraße 6/7, 14467 Potsdam; "Permanent staff and group lead at GFZ Potsdam"; "Professor for Volcanology and Geohazard Remote Sensing at the University Potsdam"; private page trwalter.de)
+
+--- Clarkson University (Potsdam, New York, USA) ---
+https://www.clarkson.edu/people/chen-liu	2026-08-06	(DECISIVE for the Chen Liu geographic homonym: "Chen Liu - Professor - Electrical & Computer Engineering - Coulter School of Engineering & Applied Sciences")
+https://webspace.clarkson.edu/~cliu/	2026-08-06	HTTP 403
+
+--- Personal / own homepage ---
+https://www.dbai.tuwien.ac.at/staff/hecher/	2026-08-06	(DECISIVE for the Hecher dates; linked from his own University of Potsdam staff page. "Since April 2026, I am the interim chair of theoretical computer science at the university of Potsdam"; "Offered Interim Chair ... for the semesters summer 2026, winter 2026/2027"; "my researcher position at CRIL (Lens, France) started in January 2025")
+
+--- DBLP (used only to establish identity / homonyms, never as evidence of a post) ---
+https://dblp.org/search/author/api?q=Patrick+Ebel	2026-08-06	(0001 = Leipzig/Cologne/TU Berlin; 0002 = TUM Aerospace and Geodesy / EPFL CVL)
+https://dblp.org/search/author/api?q=Thomas+Walter	2026-08-06	(0003 = MINES ParisTech / Institut Curie CBIO; separate entity "Thomas R. Walter" pid 20/10371)
+https://dblp.org/search/author/api?q=Chen+Liu+0001	2026-08-06	(pid 10/2639-1, Clarkson University, Potsdam NY, USA)
+https://dblp.org/search/author/api?q=Yang+Liu+0144	2026-08-06	(pid 51/3710-144, PIK + TU Berlin CS)
+https://dblp.org/search/author/api?q=Haojin+Yang	2026-08-06	(0001 = HPI Potsdam; 0002 = CUHK, a different person)
+https://dblp.org/search/author/api?q=Michelle+Doering	2026-08-06	(pid 342/9252 = HPI; pid 436/8664 unaffiliated, do not merge)
+https://dblp.org/search/author/api?q=Chris+Dong	2026-08-06	(0001 = HPI + TUM Mathematics; 0002 = University of San Francisco)
+https://dblp.org/search/author/api?q=Andreas+Gobel	2026-08-06	(0001 = HPI; 0002 = FSU Jena, a different person)
+https://dblp.org/pid/238/9529-1.xml	2026-08-06	(Patrick Ebel 0001 — 2026 papers co-authored with Martin Lorenz and Michal Patryk Miazga, i.e. the HPI Computational Interaction team)
+https://dblp.org/pid/238/9529-2.xml	2026-08-06	(Patrick Ebel 0002 — cloud removal, storm surge, flood inundation; Earth observation)
+https://dblp.org/pid/51/3710-144.xml	2026-08-06	(Yang Liu 0144 — 34 items, 27 of them 2024–2026, complex networks with Zhen Wang 0004 and Jürgen Kurths)
+https://dblp.org/pid/94/10762.xml	2026-08-06	(Haojin Yang 0001 — 2026 items with Christoph Meinel and the HPI PhD students named on the group page)
+
+--- Attempted and unavailable ---
+https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi	2026-08-06	Anubis proof-of-work bot wall, no content
+https://www.informatik.hu-berlin.de/de/Members/professuren	2026-08-06	Anubis proof-of-work bot wall, no content
+https://r.jina.ai/https://www.informatik.hu-berlin.de/de/Members/professuren	2026-08-06	HTTP 403 (reader proxy refused)
+https://cbio.minesparis.psl.eu/team/	2026-08-06	redirects to https://www.minesparis.psl.eu/cbio/ landing page, no person list
+https://cbio.minesparis.psl.eu/people/	2026-08-06	redirects to the same landing page
+https://cbio.minesparis.psl.eu/~twalter/	2026-08-06	redirects to the same landing page
+https://institut-curie.org/personne/thomas-walter	2026-08-06	redirects to https://institut-curie.org/directory
+https://www.minesparis.psl.eu/recherche/centre-de-bio-informatique/	2026-08-06	HTTP 404
+
+--- Local files read (not fetched) ---
+/Users/owl/europe-ai-density/AGENT_CONTRACT.md
+/Users/owl/europe-ai-density/data/derived/reconcile_potsdam.csv
+/Users/owl/europe-ai-density/data/derived/reconcile_potsdam.rosters
+/Users/owl/europe-ai-density/data/raw/directories/2026-08-06/de-hpi/roster.csv and sources.txt
+/Users/owl/europe-ai-density/data/raw/directories/2026-08-06/de-uni-potsdam/roster.csv and sources.txt
+/Users/owl/europe-ai-density/data/raw/directories/2026-08-06/de-pik/roster.csv and sources.txt

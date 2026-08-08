@@ -14,8 +14,12 @@ Keys 2 and 3 are ambiguous by construction, so a key that maps to more than one 
 person is refused rather than guessed. Refusals are counted, not hidden.
 """
 
+import csv
+import gzip
 import re
 import unicodedata
+
+from instnames import city_key
 from collections import defaultdict
 
 
@@ -73,6 +77,32 @@ def keys_for(name):
     return f, first_last, initial_last
 
 
+def seeded_index(persons_gz):
+    """Build an index from EVERY DBLP person record, with their current affiliations.
+
+    Three scripts each carried their own copy of this loop and each skipped person
+    records that had no alias, so the authoritative layer held only a small minority of
+    DBLP and homonyms were settled by whichever spelling the authorship pass reached
+    first. That is how "Matthias Hein" — three distinct people, none with an alias —
+    resolved to the TU Ilmenau physicist on three Tübingen rosters while the MPI-IS
+    professor with 33 core papers appeared in neither the count nor the exclusions.
+
+    Centralised for the same reason the city registry was: a rule copied into three
+    files is a rule that will be fixed in two of them.
+
+    Returns (index, affiliations) where affiliations maps a primary name to DBLP's
+    current-affiliation string, which callers use to break homonym ties on evidence.
+    """
+    index, aff = NameIndex(), {}
+    with gzip.open(persons_gz, "rt", encoding="utf-8") as fh:
+        for p in csv.DictReader(fh):
+            index.add_person(p["primary_name"],
+                             [a for a in (p.get("aliases") or "").split("|") if a])
+            if p.get("affiliations_current"):
+                aff[p["primary_name"]] = p["affiliations_current"]
+    return index, aff
+
+
 class NameIndex:
     """Maps DBLP author names to a canonical form, refusing ambiguous keys."""
 
@@ -123,6 +153,26 @@ class NameIndex:
             if alias:
                 self.add(alias, canonical=primary_name)
 
+    def candidates(self, name):
+        """The identities a name could denote, best key first.
+
+        resolve() refuses an ambiguous key, which is right when nothing else is known. A
+        caller that holds independent evidence — the institution a roster belongs to — can
+        use this to break the tie on that evidence instead of losing the person. Returns
+        an empty set when the name is unknown rather than ambiguous.
+        """
+        full, fl, il = keys_for(name)
+        if not full:
+            return set()
+        # Union, not first-key-wins. A roster reading "Hendrik Lensch" matches a sparse
+        # person record of exactly that name on the full key and stops, never reaching the
+        # first/last key where "Hendrik P. A. Lensch" lives. Both are candidates; which one
+        # the roster means is for the caller's evidence to decide, not for key precedence.
+        out = set(self.full.get(full, ()))
+        if fl:
+            out |= set(self.first_last.get(fl, ()))
+        return out
+
     def resolve(self, name):
         """Return (dblp_name, how) or (None, reason)."""
         full, fl, il = keys_for(name)
@@ -160,3 +210,41 @@ class NameIndex:
             self.ambiguous += 1
             return None, f"ambiguous_initial_last({len(hits)})"
         return None, "no_match"
+
+def city_named_in(affiliation, city):
+    """True when a DBLP affiliation string names this city, compared on whole tokens.
+
+    Through city_key, so exonyms agree: an entry reading "Muenchen", "Munchen" or
+    "Munich" all match a registry city of "München". Whole tokens only — a substring
+    test makes every "Essen" a hit inside "Giessen".
+    """
+    if not affiliation or not city:
+        return False
+    want = city_key(city)
+    return any(city_key(tok) == want
+               for tok in re.split(r"[^A-Za-z\u00C0-\u00FF]+", affiliation) if tok)
+
+
+def resolve_with_city(index, aff, name, city):
+    """resolve(), with homonym ties broken by DBLP's own affiliation strings.
+
+    Applied whenever the current answer does not name the city, whether that answer is a
+    refusal or a confident match, because both failure modes occur and both were silent:
+
+    - "Matthias Hein" is one of three homonyms and was refused, while the Tübingen
+      professor among them holds 33 core papers.
+    - "Hendrik Lensch" matched a sparse DBLP record of exactly that name, so the full key
+      resolved and never reached the first/last key where "Hendrik P. A. Lensch" lives.
+
+    Evidence beats key precedence, but only when it is decisive: exactly one candidate
+    naming the city settles it; two, or none, leaves the original answer alone. Where DBLP
+    records no affiliation for anyone involved — Björn Schuller's entry names Imperial and
+    Augsburg, never Munich — this cannot help, and the row belongs in the identity queue
+    for a person to settle.
+    """
+    resolved, how = index.resolve(name)
+    if city and not city_named_in(aff.get(resolved, ""), city):
+        hits = [c for c in index.candidates(name) if city_named_in(aff.get(c, ""), city)]
+        if len(hits) == 1:
+            return hits[0], "affiliation"
+    return resolved, how

@@ -25,7 +25,7 @@ import sys
 from collections import Counter
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from namematch import NameIndex  # noqa: E402
+from namematch import NameIndex, seeded_index, resolve_with_city  # noqa: E402
 from config import cities, city_by_slug, CORE_MIN  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -45,14 +45,10 @@ def main() -> int:
            "inst_ids": raw["rosters"], "csrankings": raw["csrankings"],
            "sites": {k: v[1] for k, v in raw["site_filters"].items()}}
 
-    index = NameIndex()
     core = Counter()
-    # Seed from DBLP person records first so alias spellings collapse to one identity.
-    with gzip.open(DERIVED / "dblp_persons.csv.gz", "rt", encoding="utf-8") as fh:
-        for p in csv.DictReader(fh):
-            aliases = [a for a in p["aliases"].split("|") if a]
-            if aliases:
-                index.add_person(p["primary_name"], aliases)
+    # One shared builder; this file used to carry its own copy that skipped records
+    # without aliases, leaving homonyms to be settled by indexing order.
+    index, dblp_aff = seeded_index(DERIVED / "dblp_persons.csv.gz")
     with gzip.open(DERIVED / "dblp_venue_authorships.csv.gz", "rt", encoding="utf-8") as fh:
         for a in csv.DictReader(fh):
             if not a["author"]:

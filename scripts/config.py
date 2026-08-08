@@ -96,6 +96,21 @@ def reconciliation_state(city):
         if missing:
             return "stale", (f"{len(missing)} roster(s) added since it ran: "
                              f"{', '.join(sorted(missing))}")
+        # The sidecar says the queue is current. It says nothing about whether anyone
+        # worked it — and regenerating a queue is cheap while adjudicating one is not,
+        # so the gap between the two is exactly where a city would quietly reclaim the
+        # label. Require a ruling for every queued name.
+        generated = DERIVED / f"reconcile_{cfg['slug']}.csv"
+        if generated.exists():
+            queued = {r["name"].strip()
+                      for r in csv.DictReader(generated.open(encoding="utf-8"))
+                      if r.get("status") == "queue"}
+            ruled = {r["name"].strip()
+                     for r in csv.DictReader(queue.open(encoding="utf-8"))}
+            unruled = queued - ruled
+            if unruled:
+                return "stale", (f"{len(unruled)} of {len(queued)} queued names have no "
+                                 f"ruling, e.g. {', '.join(sorted(unruled)[:3])}")
         return "reconciled", ""
 
     # Fallback for queues that predate the sidecar. Weaker, because any later edit to the

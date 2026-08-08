@@ -24,7 +24,7 @@ from collections import Counter, defaultdict
 import numpy as np
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from namematch import NameIndex, fold  # noqa: E402
+from namematch import NameIndex, fold, seeded_index, resolve_with_city  # noqa: E402
 from config import cities, is_reconciled, CORE_MIN  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -63,14 +63,13 @@ def main() -> int:
         for name, c in cities().items()
     }
 
-    index = NameIndex()
     core = Counter()
-    # Seed from DBLP person records first so alias spellings collapse to one identity.
-    with gzip.open(DERIVED / "dblp_persons.csv.gz", "rt", encoding="utf-8") as fh:
-        for p in csv.DictReader(fh):
-            aliases = [a for a in p["aliases"].split("|") if a]
-            if aliases:
-                index.add_person(p["primary_name"], aliases)
+    # Seeded from every DBLP person record, through the one shared builder. This file
+    # used to carry its own copy that skipped records without aliases, which is how the
+    # CSRankings path admitted "Matthias Hein 0002" — the TU Ilmenau physicist, zero core
+    # papers — to Tübingen while the MPI-IS professor of the same name, with 33, was in
+    # neither the count nor the exclusions.
+    index, dblp_aff = seeded_index(DERIVED / "dblp_persons.csv.gz")
     with gzip.open(DERIVED / "dblp_venue_authorships.csv.gz", "rt", encoding="utf-8") as fh:
         for a in csv.DictReader(fh):
             if not a["author"]:
@@ -116,7 +115,7 @@ def main() -> int:
                 # visible in data/derived/roster_titled.csv as a review item.
                 if verdicts.get((inst_id, r["name"]), "unknown") != "include":
                     continue
-                name, _ = index.resolve(r["name"])
+                name, _ = resolve_with_city(index, dblp_aff, r["name"], city)
                 key = name or fold(r["name"])
                 entry = audited[city].setdefault(
                     key, {"n": name or r["name"], "p": core.get(name, 0) if name else 0, "s": []}
@@ -126,7 +125,7 @@ def main() -> int:
             for r in csv.DictReader((DERIVED / "candidates_csrankings.csv").open(encoding="utf-8")):
                 if r["affiliation"] != aff or int(r["core_papers"]) < CORE_MIN:
                     continue
-                name, _ = index.resolve(r["name"])
+                name, _ = resolve_with_city(index, dblp_aff, r["name"], city)
                 key = name or fold(r["name"])
                 entry = audited[city].setdefault(
                     key, {"n": name or r["name"], "p": int(r["core_papers"]), "s": []}
@@ -144,7 +143,7 @@ def main() -> int:
             continue
         d = {}
         for r in csv.DictReader(rp.open(encoding="utf-8")):
-            name, _ = index.resolve(r["name"])
+            name, _ = resolve_with_city(index, dblp_aff, r["name"], city)
             d[name or fold(r["name"])] = r
         rulings_by_city[city] = d
     backfill = ROOT / "data" / "raw" / "adjudication" / "2026-08-06" / "stuttgart" / "backfill.csv"
@@ -152,7 +151,9 @@ def main() -> int:
         for r in csv.DictReader(backfill.open(encoding="utf-8")):
             if "Stuttgart" not in r["current_city"] or r["leads_own_group"] != "yes":
                 continue
-            name, _ = index.resolve(r["name"])
+            # Named, not inherited: this block sits outside the per-city loop, so `city`
+            # here would be whichever city that loop happened to finish on.
+            name, _ = resolve_with_city(index, dblp_aff, r["name"], "Stuttgart")
             key = name or fold(r["name"])
             audited["Stuttgart"].setdefault(
                 key, {"n": name or r["name"], "p": core.get(name, 0) if name else 0,
@@ -170,7 +171,7 @@ def main() -> int:
             for r in csv.DictReader(rp.open(encoding="utf-8")):
                 if (r["ruling"] == "include" and r.get("city_if_elsewhere")
                         and not same_city(r["city_if_elsewhere"], city)):
-                    name, _ = index.resolve(r["name"])
+                    name, _ = resolve_with_city(index, dblp_aff, r["name"], city)
                     primary_city[name or fold(r["name"])] = r["city_if_elsewhere"]
         cp = (ROOT / "data" / "raw" / "adjudication" / "2026-08-06"
               / slugify(city) / "conflicts.csv")
@@ -178,7 +179,7 @@ def main() -> int:
             for r in csv.DictReader(cp.open(encoding="utf-8")):
                 pc = (r.get("primary_city") or "").strip()
                 if pc and not same_city(pc, city):
-                    name, _ = index.resolve(r["name"])
+                    name, _ = resolve_with_city(index, dblp_aff, r["name"], city)
                     primary_city[name or fold(r["name"])] = pc
 
     # "Reconciled" means the publication-side queue was actually worked, not that a

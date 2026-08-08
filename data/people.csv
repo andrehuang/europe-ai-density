@@ -1,37 +1,38 @@
 person_id,full_name,city,core_papers_window,tier,sources,source_count,primary_city_if_elsewhere,status
-bernhard-scholkopf,Bernhard Schölkopf,Tübingen,172,T2,de-mpi-is-tue;de-ellis-inst-tue;de-ellis-institute-tue;de-tue-ai-center,4,,verified
-michael-j-black,Michael J. Black,Tübingen,97,T2,de-ellis-inst-tue;de-university-of-t-bingen,2,,verified
-andreas-geiger,Andreas Geiger 0001,Tübingen,75,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,verified
-frank-hutter,Frank Hutter,Tübingen,74,T3,adjudication,1,Freiburg,verified
-georg-martius,Georg Martius,Tübingen,48,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,verified
-philipp-hennig,Philipp Hennig,Tübingen,46,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,verified
-hilde-kuehne,Hilde Kuehne,Tübingen,43,T1,de-university-of-t-bingen;csrankings;csrankings;csrankings,2,,verified
-matthias-bethge,Matthias Bethge,Tübingen,39,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,verified
-wieland-brendel,Wieland Brendel,Tübingen,35,T2,de-mpi-is-tue;de-tue-ai-center,2,,verified
-gerard-pons-moll,Gerard Pons-Moll,Tübingen,29,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,verified
-moritz-hardt,Moritz Hardt,Tübingen,24,T2,de-tue-ai-center;de-university-of-t-bingen,2,,verified
-jakob-h-macke,Jakob H. Macke,Tübingen,23,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,verified
-maksym-andriushchenko,Maksym Andriushchenko,Tübingen,21,T2,de-mpi-is-tue;de-tue-ai-center,2,,verified
-carsten-eickhoff,Carsten Eickhoff,Tübingen,20,T1,de-university-of-t-bingen;csrankings,2,,verified
-andreas-zell,Andreas Zell,Tübingen,20,T1,de-university-of-t-bingen;csrankings,2,,verified
-michael-muehlebach,Michael Muehlebach,Tübingen,18,T2,de-mpi-is-tue,1,,verified
-ulrike-von-luxburg,Ulrike von Luxburg,Tübingen,17,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,verified
-philipp-berens,Philipp Berens,Tübingen,11,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,verified
-sahar-abdelnabi,Sahar Abdelnabi,Tübingen,10,T2,de-mpi-is-tue;de-tue-ai-center,2,,verified
-hendrik-p-a-lensch,Hendrik P. A. Lensch,Tübingen,10,T1,de-university-of-t-bingen;csrankings,2,,verified
-samira-samadi,Samira Samadi,Tübingen,9,T2,de-mpi-is-tue,1,,verified
-rediet-abebe,Rediet Abebe,Tübingen,8,T2,de-tue-ai-center,1,,verified
-robert-c-williamson,Robert C. Williamson,Tübingen,8,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,verified
-peter-dayan,Peter Dayan,Tübingen,7,T2,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen,3,,verified
-peter-v-gehler,Peter V. Gehler,Tübingen,5,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,verified
-maximilian-dax,Maximilian Dax,Tübingen,4,T2,de-mpi-is-tue;de-tue-ai-center,2,,verified
-martin-v-butz,Martin V. Butz,Tübingen,4,T1,de-university-of-t-bingen;csrankings,2,,verified
-daniel-f-b-haeufle,Daniel F. B. Haeufle,Tübingen,4,T2,de-university-of-t-bingen,1,,verified
-thomas-walter,Thomas Walter 0003,Tübingen,4,T2,de-university-of-t-bingen,1,,verified
-oliver-bringmann,Oliver Bringmann 0001,Tübingen,3,T1,de-university-of-t-bingen;csrankings,2,,verified
-anna-levina,Anna Levina,Tübingen,3,T1,de-university-of-t-bingen;csrankings;csrankings,2,,verified
-harrisen-scells,Harrisen Scells,Tübingen,3,T2,de-university-of-t-bingen,1,,verified
-felix-a-wichmann,Felix A. Wichmann,Tübingen,3,T1,de-university-of-t-bingen;csrankings,2,,verified
+bernhard-scholkopf,Bernhard Schölkopf,Tübingen,172,T2,de-mpi-is-tue;de-ellis-inst-tue;de-ellis-institute-tue;de-tue-ai-center,4,,provisional
+michael-j-black,Michael J. Black,Tübingen,97,T2,de-ellis-inst-tue;de-university-of-t-bingen,2,,provisional
+andreas-geiger,Andreas Geiger 0001,Tübingen,75,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,provisional
+frank-hutter,Frank Hutter,Tübingen,74,T3,adjudication,1,Freiburg,provisional
+georg-martius,Georg Martius,Tübingen,48,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,provisional
+shiwei-liu,Shiwei Liu 0003,Tübingen,48,T3,adjudication,1,,provisional
+philipp-hennig,Philipp Hennig,Tübingen,46,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,provisional
+hilde-kuehne,Hilde Kuehne,Tübingen,43,T1,de-university-of-t-bingen;csrankings;csrankings;csrankings,2,,provisional
+matthias-bethge,Matthias Bethge,Tübingen,39,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,provisional
+wieland-brendel,Wieland Brendel,Tübingen,35,T2,de-mpi-is-tue;de-tue-ai-center,2,,provisional
+matthias-hein,Matthias Hein 0001,Tübingen,33,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,provisional
+gerard-pons-moll,Gerard Pons-Moll,Tübingen,29,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,provisional
+moritz-hardt,Moritz Hardt,Tübingen,24,T2,de-tue-ai-center;de-university-of-t-bingen,2,,provisional
+jakob-h-macke,Jakob H. Macke,Tübingen,23,T1,de-ellis-inst-tue;de-tue-ai-center;de-university-of-t-bingen;csrankings,4,,provisional
+maksym-andriushchenko,Maksym Andriushchenko,Tübingen,21,T2,de-mpi-is-tue;de-tue-ai-center,2,,provisional
+carsten-eickhoff,Carsten Eickhoff,Tübingen,20,T1,de-university-of-t-bingen;csrankings,2,,provisional
+andreas-zell,Andreas Zell,Tübingen,20,T1,de-university-of-t-bingen;csrankings,2,,provisional
+michael-muehlebach,Michael Muehlebach,Tübingen,18,T2,de-mpi-is-tue,1,,provisional
+ulrike-von-luxburg,Ulrike von Luxburg,Tübingen,17,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,provisional
+philipp-berens,Philipp Berens,Tübingen,11,T1,de-tue-ai-center;de-hertie-ai;de-university-of-t-bingen;csrankings,4,,provisional
+sahar-abdelnabi,Sahar Abdelnabi,Tübingen,10,T2,de-mpi-is-tue;de-tue-ai-center,2,,provisional
+hendrik-p-a-lensch,Hendrik P. A. Lensch,Tübingen,10,T1,de-university-of-t-bingen;csrankings,2,,provisional
+samira-samadi,Samira Samadi,Tübingen,9,T2,de-mpi-is-tue,1,,provisional
+rediet-abebe,Rediet Abebe,Tübingen,8,T2,de-tue-ai-center,1,,provisional
+robert-c-williamson,Robert C. Williamson,Tübingen,8,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,provisional
+peter-dayan,Peter Dayan,Tübingen,7,T2,de-ellis-inst-tue;de-tue-ai-center;de-mpi-kyb;de-university-of-t-bingen,4,,provisional
+peter-v-gehler,Peter V. Gehler,Tübingen,5,T1,de-tue-ai-center;de-university-of-t-bingen;csrankings,3,,provisional
+maximilian-dax,Maximilian Dax,Tübingen,4,T2,de-mpi-is-tue;de-tue-ai-center,2,,provisional
+martin-v-butz,Martin V. Butz,Tübingen,4,T1,de-university-of-t-bingen;csrankings,2,,provisional
+daniel-f-b-haeufle,Daniel F. B. Haeufle,Tübingen,4,T2,de-university-of-t-bingen,1,,provisional
+oliver-bringmann,Oliver Bringmann 0001,Tübingen,3,T1,de-university-of-t-bingen;csrankings,2,,provisional
+anna-levina,Anna Levina,Tübingen,3,T1,de-university-of-t-bingen;csrankings;csrankings,2,,provisional
+harrisen-scells,Harrisen Scells,Tübingen,3,T2,de-university-of-t-bingen,1,,provisional
+felix-a-wichmann,Felix A. Wichmann,Tübingen,3,T1,de-university-of-t-bingen;csrankings,2,,provisional
 bernt-schiele,Bernt Schiele,Saarbrücken,103,T2,de-saarland-university;de-mpi-inf,2,,verified
 christian-theobalt,Christian Theobalt,Saarbrücken,95,T2,de-saarland-university;de-mpi-inf,2,,verified
 dietrich-klakow,Dietrich Klakow,Saarbrücken,46,T1,de-saarland-university;csrankings,2,,verified
@@ -43,6 +44,7 @@ margret-keuper,Margret Keuper,Saarbrücken,34,T2,de-mpi-inf,1,"University of Man
 jilles-vreeken,Jilles Vreeken,Saarbrücken,29,T1,de-cispa-helmholtz-center;csrankings,2,,verified
 michael-backes,Michael Backes 0001,Saarbrücken,28,T1,de-saarland-university;de-cispa-helmholtz-center;csrankings,3,,verified
 adam-dziedzic,Adam Dziedzic,Saarbrücken,28,T1,de-cispa-helmholtz-center;csrankings,2,,verified
+yang-zhang,Yang Zhang 0016,Saarbrücken,25,T1,de-cispa-helmholtz-center;csrankings,2,,verified
 vera-demberg,Vera Demberg,Saarbrücken,24,T1,de-saarland-university;de-mpi-inf;csrankings;csrankings,3,,verified
 franziska-boenisch,Franziska Boenisch,Saarbrücken,24,T1,de-cispa-helmholtz-center;csrankings,2,,verified
 jan-eric-lenssen,Jan Eric Lenssen,Saarbrücken,22,T2,de-saarland-university;de-mpi-inf,2,,verified
@@ -55,12 +57,12 @@ michael-hahn,Michael Hahn 0001,Saarbrücken,15,T1,de-saarland-university;csranki
 jorg-hoffmann,Jörg Hoffmann 0001,Saarbrücken,14,T1,de-saarland-university;csrankings,2,,verified
 bernd-mobius,Bernd Möbius,Saarbrücken,14,T3,adjudication,1,,verified
 isabel-valera,Isabel Valera,Saarbrücken,12,T1,de-saarland-university;csrankings;csrankings,2,,verified
-xiao-zhang,Xiao Zhang 0034,Saarbrücken,11,T1,de-cispa-helmholtz-center;csrankings,2,,verified
 hans-peter-seidel,Hans-Peter Seidel,Saarbrücken,10,T2,de-saarland-university;de-mpi-inf,2,,verified
 mariya-toneva,Mariya Toneva,Saarbrücken,10,T2,de-mpi-sws,1,,verified
 markus-blaser,Markus Bläser,Saarbrücken,9,T1,de-saarland-university;csrankings,2,,verified
 andrew-lowy,Andrew Lowy,Saarbrücken,8,T1,de-cispa-helmholtz-center;csrankings,2,,verified
 lea-schonherr,Lea Schönherr,Saarbrücken,7,T1,de-cispa-helmholtz-center;csrankings,2,,verified
+xiao-zhang,Xiao Zhang 0016,Saarbrücken,7,T1,de-cispa-helmholtz-center;csrankings,2,,verified
 philipp-slusallek,Philipp Slusallek,Saarbrücken,6,T1,de-saarland-university;de-dfki-sb;csrankings,3,,verified
 viktor-zaverkin,Viktor Zaverkin,Saarbrücken,6,T2,de-saarland-university,1,,verified
 peter-ochs,Peter Ochs,Saarbrücken,6,T1,de-saarland-university;csrankings,2,,verified
@@ -79,7 +81,6 @@ sabine-schulte-im-walde,Sabine Schulte im Walde,Stuttgart,12,T1,de-university-of
 bin-yang,Bin Yang 0009,Stuttgart,11,T1,csrankings,1,,verified
 marco-f-huber,Marco F. Huber,Stuttgart,11,T3,adjudication,1,,verified
 andreas-bulling,Andreas Bulling,Stuttgart,10,T1,de-university-of-stuttgart;csrankings,2,,verified
-tian-qiu,Tian Qiu,Stuttgart,10,T3,adjudication,1,,verified
 c-david-remy,C. David Remy,Stuttgart,9,T3,adjudication,1,,verified
 ingo-steinwart,Ingo Steinwart,Stuttgart,8,T1,de-university-of-stuttgart;csrankings,2,,verified
 andres-bruhn,Andrés Bruhn,Stuttgart,7,T1,de-university-of-stuttgart;csrankings,2,,verified
@@ -88,6 +89,7 @@ jonas-kuhn,Jonas Kuhn,Stuttgart,5,T1,de-university-of-stuttgart;csrankings,2,,ve
 andrey-morozov,Andrey Morozov 0001,Stuttgart,5,T2,de-university-of-stuttgart,1,,verified
 aamir-ahmad,Aamir Ahmad,Stuttgart,5,T2,de-university-of-stuttgart,1,,verified
 nicola-wolpert,Nicola Wolpert,Stuttgart,5,T3,adjudication,1,,verified
+tian-qiu,Tian Qiu 0007,Stuttgart,4,T3,adjudication,1,,verified
 syn-schmitt,Syn Schmitt,Stuttgart,3,T3,adjudication,1,,verified
 marius-kloft,Marius Kloft,Kaiserslautern,34,T1,csrankings,1,,verified
 didier-stricker,Didier Stricker,Kaiserslautern,32,T1,csrankings,1,,verified
@@ -105,7 +107,6 @@ matthias-nie-ner,Matthias Nießner,München,92,T1,de-tu-munich;de-mcml;csranking
 nassir-navab,Nassir Navab,München,91,T1,de-tu-munich;de-mcml;csrankings,3,,verified
 zeynep-akata,Zeynep Akata,München,75,T1,de-mcml;de-helmholtz-munich;csrankings,3,,verified
 hinrich-schutze,Hinrich Schütze,München,73,T1,de-mcml;csrankings,2,,verified
-bjorn-w-schuller,Björn W. Schuller,München,62,T2,de-tu-munich;de-mcml,2,,verified
 stefanie-jegelka,Stefanie Jegelka,München,58,T1,de-tu-munich;de-mcml;csrankings;csrankings,3,,verified
 eyke-hullermeier,Eyke Hüllermeier,München,56,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
 barbara-plank,Barbara Plank,München,52,T1,de-mcml;csrankings,2,,verified
@@ -165,18 +166,16 @@ markus-lienkamp,Markus Lienkamp,München,6,T2,de-tu-munich,1,,verified
 thomas-seidl,Thomas Seidl 0001,München,6,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
 thomas-augustin,Thomas Augustin 0001,München,6,T2,de-lmu-munich,1,,verified
 helmut-schmid,Helmut Schmid,München,6,T1,csrankings,1,,verified
-steffen-schneider,Steffen Schneider 0001,München,6,T3,adjudication,1,,verified
 julia-a-schnabel,Julia A. Schnabel,München,5,T2,de-tu-munich;de-mcml;de-helmholtz-munich,3,,verified
 orestis-papakyriakopoulos,Orestis Papakyriakopoulos,München,5,T2,de-tu-munich,1,,verified
-s-rasoul-etesami,S. Rasoul Etesami 0001,München,5,T2,de-tu-munich,1,,verified
 wolfgang-utschick,Wolfgang Utschick,München,5,T2,de-tu-munich,1,,verified
 bjorn-m-eskofier,Björn M. Eskofier,München,5,T2,de-mcml;de-helmholtz-munich,2,,verified
 ewa-szczurek,Ewa Szczurek,München,5,T2,de-helmholtz-munich,1,,verified
 daniel-andre-duecker,Daniel-Andre Duecker,München,5,T3,adjudication,1,,verified
 felix-krahmer,Felix Krahmer,München,5,T3,adjudication,1,,verified
+michael-schmitt,Michael Schmitt 0003,München,5,T3,adjudication,1,,verified
 benedikt-wiestler,Benedikt Wiestler,München,4,T2,de-tu-munich;de-mcml,2,,verified
 felix-brandt,Felix Brandt 0001,München,4,T1,de-tu-munich;csrankings,2,,verified
-jia-chen,Jia Chen 0003,München,4,T2,de-tu-munich,1,,verified
 klaus-diepold,Klaus Diepold,München,4,T1,de-tu-munich;csrankings,2,,verified
 robert-wille,Robert Wille,München,4,T1,de-tu-munich;csrankings,2,,verified
 rudiger-westermann,Rüdiger Westermann,München,4,T1,de-tu-munich;de-mcml;csrankings,3,,verified
@@ -186,41 +185,60 @@ carsten-marr,Carsten Marr,München,4,T2,de-mcml;de-helmholtz-munich,2,,verified
 carsten-steger,Carsten Steger,München,4,T1,csrankings,1,,verified
 cristina-piazza,Cristina Piazza,München,3,T1,de-tu-munich;csrankings,2,,verified
 martin-bichler,Martin Bichler,München,3,T1,de-tu-munich;csrankings,2,,verified
-tim-hoffmann,Tim Hoffmann,München,3,T2,de-tu-munich,1,,verified
 ulrich-bauer,Ulrich Bauer,München,3,T2,de-tu-munich;de-mcml,2,,verified
 thomas-gabor,Thomas Gabor,München,3,T2,de-mcml,1,,verified
 holger-rauhut,Holger Rauhut,München,3,T2,de-mcml,1,,verified
 birgit-vogel-heuser,Birgit Vogel-Heuser,München,3,T3,adjudication,1,,verified
 jonathan-harrington,Jonathan Harrington,München,3,T3,adjudication,1,,verified
 liqiu-meng,Liqiu Meng,München,3,T3,adjudication,1,,verified
-marc-toussaint,Marc Toussaint,Berlin,39,T1,de-tu-berlin;csrankings,2,,verified
-sebastian-pokutta,Sebastian Pokutta,Berlin,33,T1,de-tu-berlin;csrankings,2,,verified
-wojciech-samek,Wojciech Samek,Berlin,28,T1,de-tu-berlin;de-bifold;csrankings,3,,verified
-guillermo-gallego,Guillermo Gallego 0002,Berlin,26,T1,de-tu-berlin;csrankings;csrankings,2,,verified
-klaus-robert-muller,Klaus-Robert Müller,Berlin,23,T1,de-tu-berlin;de-bifold;csrankings,3,,verified
-oliver-brock,Oliver Brock,Berlin,17,T1,de-tu-berlin;csrankings,2,,verified
-alan-akbik,Alan Akbik,Berlin,17,T1,de-humboldt-university-of-berlin;csrankings,2,,verified
-sebastian-moller,Sebastian Möller 0001,Berlin,14,T1,de-tu-berlin;de-bifold;de-dfki-be;csrankings,4,,verified
-wolfgang-honig,Wolfgang Hönig,Berlin,12,T1,de-tu-berlin;csrankings,2,,verified
-rolf-niedermeier,Rolf Niedermeier,Berlin,12,T1,csrankings,1,,verified
-peter-eisert,Peter Eisert,Berlin,10,T1,de-humboldt-university-of-berlin;csrankings,2,,verified
-frank-noe,Frank Noé,Berlin,10,T1,de-freie-universitaet-berlin;csrankings,2,,verified
-jens-lambrecht,Jens Lambrecht,Berlin,10,T1,csrankings,1,,verified
-gabriele-steidl,Gabriele Steidl,Berlin,9,T2,de-tu-berlin,1,,verified
-gregoire-montavon,Grégoire Montavon,Berlin,9,T2,de-bifold,1,,verified
-thomas-wiegand,Thomas Wiegand 0001,Berlin,7,T1,de-tu-berlin;de-bifold;csrankings,3,,verified
-tim-landgraf,Tim Landgraf,Berlin,6,T1,de-freie-universitaet-berlin;csrankings,2,,verified
-alexander-loser,Alexander Löser,Berlin,5,T3,adjudication,1,,verified
-marc-alexa,Marc Alexa,Berlin,4,T1,de-tu-berlin;csrankings,2,,verified
-olaf-hellwich,Olaf Hellwich,Berlin,4,T1,de-tu-berlin;csrankings,2,,verified
-henning-sprekeler,Henning Sprekeler,Berlin,4,T1,de-tu-berlin;csrankings,2,,verified
-martin-skutella,Martin Skutella,Berlin,4,T1,de-tu-berlin;csrankings,2,,verified
-manfred-opper,Manfred Opper,Berlin,4,T1,de-tu-berlin;de-bifold;csrankings,3,,verified
-adrian-paschke,Adrian Paschke,Berlin,4,T1,de-freie-universitaet-berlin;csrankings,2,,verified
-gerhard-wunder,Gerhard Wunder,Berlin,4,T1,csrankings,1,,verified
-christoph-spiegel,Christoph Spiegel 0002,Berlin,4,T3,adjudication,1,,verified
-dorothea-kolossa,Dorothea Kolossa,Berlin,3,T2,de-tu-berlin,1,,verified
-georg-loho,Georg Loho,Berlin,3,T2,de-freie-universitaet-berlin,1,,verified
-frederick-klauschen,Frederick Klauschen,Berlin,3,T2,de-bifold,1,,verified
-georg-rehm,Georg Rehm,Berlin,3,T2,de-dfki-be,1,,verified
-danh-le-phuoc,Danh Le Phuoc,Berlin,3,T3,adjudication,1,,verified
+marc-toussaint,Marc Toussaint,Berlin,39,T1,de-tu-berlin;csrankings,2,,provisional
+sebastian-pokutta,Sebastian Pokutta,Berlin,33,T1,de-tu-berlin;de-zib;csrankings,3,,provisional
+wojciech-samek,Wojciech Samek,Berlin,28,T1,de-tu-berlin;de-bifold;de-fraunhofer-hhi;csrankings,4,,provisional
+guillermo-gallego,Guillermo Gallego 0002,Berlin,26,T1,de-tu-berlin;csrankings;csrankings,2,,provisional
+klaus-robert-muller,Klaus-Robert Müller,Berlin,23,T1,de-tu-berlin;de-bifold;csrankings,3,,provisional
+oliver-brock,Oliver Brock,Berlin,17,T1,de-tu-berlin;csrankings,2,,provisional
+alan-akbik,Alan Akbik,Berlin,17,T1,de-humboldt-university-of-berlin;csrankings,2,,provisional
+sebastian-moller,Sebastian Möller 0001,Berlin,14,T1,de-tu-berlin;de-bifold;de-dfki-be;csrankings,4,,provisional
+wolfgang-honig,Wolfgang Hönig,Berlin,12,T1,de-tu-berlin;csrankings,2,,provisional
+rolf-niedermeier,Rolf Niedermeier,Berlin,12,T1,csrankings,1,,provisional
+peter-eisert,Peter Eisert,Berlin,10,T1,de-humboldt-university-of-berlin;de-fraunhofer-hhi;csrankings,3,,provisional
+frank-noe,Frank Noé,Berlin,10,T1,de-freie-universitaet-berlin;csrankings,2,,provisional
+jens-lambrecht,Jens Lambrecht,Berlin,10,T1,csrankings,1,,provisional
+gabriele-steidl,Gabriele Steidl,Berlin,9,T2,de-tu-berlin,1,,provisional
+gregoire-montavon,Grégoire Montavon,Berlin,9,T2,de-bifold,1,,provisional
+thomas-wiegand,Thomas Wiegand 0001,Berlin,7,T1,de-tu-berlin;de-bifold;de-fraunhofer-hhi;csrankings,4,,provisional
+tim-landgraf,Tim Landgraf,Berlin,6,T1,de-freie-universitaet-berlin;csrankings,2,,provisional
+benjamin-o-brien,Benjamin O'Brien,Berlin,5,T2,de-charite,1,,provisional
+alexander-loser,Alexander Löser,Berlin,5,T2,de-bht,1,,provisional
+erik-rodner,Erik Rodner,Berlin,5,T2,de-htw-berlin,1,,provisional
+marc-alexa,Marc Alexa,Berlin,4,T1,de-tu-berlin;csrankings,2,,provisional
+olaf-hellwich,Olaf Hellwich,Berlin,4,T1,de-tu-berlin;csrankings,2,,provisional
+henning-sprekeler,Henning Sprekeler,Berlin,4,T1,de-tu-berlin;csrankings,2,,provisional
+martin-skutella,Martin Skutella,Berlin,4,T1,de-tu-berlin;csrankings,2,,provisional
+manfred-opper,Manfred Opper,Berlin,4,T1,de-tu-berlin;de-bifold;csrankings,3,,provisional
+adrian-paschke,Adrian Paschke,Berlin,4,T1,de-freie-universitaet-berlin;csrankings,2,,provisional
+felix-a-gers,Felix A. Gers,Berlin,4,T2,de-bht,1,,provisional
+gerhard-wunder,Gerhard Wunder,Berlin,4,T1,csrankings,1,,provisional
+christoph-spiegel,Christoph Spiegel 0002,Berlin,4,T3,adjudication,1,,provisional
+dorothea-kolossa,Dorothea Kolossa,Berlin,3,T2,de-tu-berlin,1,,provisional
+georg-loho,Georg Loho,Berlin,3,T2,de-freie-universitaet-berlin,1,,provisional
+frederick-klauschen,Frederick Klauschen,Berlin,3,T2,de-bifold,1,,provisional
+georg-rehm,Georg Rehm,Berlin,3,T2,de-dfki-be,1,,provisional
+hannes-hoppner,Hannes Höppner,Berlin,3,T2,de-bht,1,,provisional
+danh-le-phuoc,Danh Le Phuoc,Berlin,3,T3,adjudication,1,,provisional
+gerard-de-melo,Gerard de Melo,Potsdam,34,T1,de-hpi;de-uni-potsdam;csrankings,3,,verified
+georgios-kaissis,Georgios Kaissis,Potsdam,22,T1,csrankings,1,,verified
+niclas-boehmer,Niclas Boehmer,Potsdam,22,T1,csrankings,1,,verified
+marina-m-c-hohne,Marina M.-C. Höhne,Potsdam,15,T2,de-uni-potsdam,1,,verified
+jakob-runge,Jakob Runge,Potsdam,14,T2,de-uni-potsdam,1,,verified
+david-schlangen,David Schlangen,Potsdam,12,T1,de-uni-potsdam;csrankings,2,,verified
+tobias-friedrich,Tobias Friedrich 0001,Potsdam,9,T1,de-hpi;de-uni-potsdam;csrankings,3,,verified
+christoph-lippert,Christoph Lippert,Potsdam,7,T1,de-hpi;de-uni-potsdam;csrankings,3,,verified
+alexandra-carpentier,Alexandra Carpentier,Potsdam,7,T2,de-uni-potsdam,1,,verified
+bert-arnrich,Bert Arnrich,Potsdam,4,T1,de-hpi;de-uni-potsdam;csrankings,3,,verified
+christoph-meinel,Christoph Meinel,Potsdam,4,T1,csrankings,1,,verified
+ralf-herbrich,Ralf Herbrich,Potsdam,3,T1,de-hpi;de-uni-potsdam;csrankings,3,,verified
+bernhard-y-renard,Bernhard Y. Renard,Potsdam,3,T1,de-hpi;de-uni-potsdam;csrankings,3,,verified
+sebastian-reich,Sebastian Reich,Potsdam,3,T2,de-uni-potsdam,1,,verified
+tobias-scheffer,Tobias Scheffer,Potsdam,3,T1,csrankings,1,,verified
+matthias-weidlich,Matthias Weidlich 0001,Potsdam,3,T1,csrankings,1,,verified

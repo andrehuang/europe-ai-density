@@ -1,0 +1,17 @@
+https://www.mpib-berlin.mpg.de	2026-08-06
+https://r.jina.ai/https://www.mpib-berlin.mpg.de	2026-08-06
+https://www.mpib-berlin.mpg.de/en	2026-08-06
+https://www.mpib-berlin.mpg.de/chm	2026-08-06
+https://www.mpib-berlin.mpg.de/mum	2026-08-06
+https://r.jina.ai/https://www.mpib-berlin.mpg.de/mum/team	2026-08-06
+https://www.mpib-berlin.mpg.de/person/iyad-rahwan/367762	2026-08-06
+https://www.mpib-berlin.mpg.de/research	2026-08-06
+https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality	2026-08-06
+https://www.mpib-berlin.mpg.de/research/research-centers/environmental-neuroscience	2026-08-06
+https://www.mpib-berlin.mpg.de/research/research-centers/lifespan-psychology	2026-08-06
+https://www.mpib-berlin.mpg.de/research/research-groups/raven	2026-08-06
+https://www.mpib-berlin.mpg.de/research/research-groups/lmg-neurolearn	2026-08-06
+https://www.mpib-berlin.mpg.de/research/research-groups/mprg-biosocial	2026-08-06
+https://www.mpib-berlin.mpg.de/research/research-groups/mprg-mr-physics	2026-08-06
+https://www.mpib-berlin.mpg.de/2090686/risk-literacy-and-communication	2026-08-06
+https://www.mpib-berlin.mpg.de/research/research-groups/mftrg-mib	2026-08-06

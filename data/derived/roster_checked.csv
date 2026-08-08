@@ -1,5 +1,81 @@
 run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers,evidence_url
-2026-08-06,de-cispa-helmholtz-center,Ali Abbasi,,ambiguous_full(2),Faculty,,0,0,https://cispa.de/en/people/c02alab
+2026-08-06,de-bifold,Volker Markl,Volker Markl,full,"Prof. Dr., Director",,0,1,https://www.bifold.berlin/people/prof-dr-volker-markl.html
+2026-08-06,de-bifold,Klaus-Robert Müller,Klaus-Robert Müller,full,"Prof. Dr., Director",,23,4,https://www.bifold.berlin/people/prof-dr-klaus-robert-mueller.html
+2026-08-06,de-bifold,Ziawasch Abedjan,Ziawasch Abedjan,full,"Prof. Dr., Research Group Lead",,0,1,https://www.bifold.berlin/people/prof-dr-ziawasch-abedjan.html
+2026-08-06,de-bifold,Matthias Böhm,Matthias Boehm 0001,full,"Prof. Dr., Research Group Lead",,0,0,https://www.bifold.berlin/people/prof-dr-matthias-boehm.html
+2026-08-06,de-bifold,Stefan Chmiela,Stefan Chmiela,full,"Dr., Research Junior Group Lead",,2,0,https://www.bifold.berlin/people/dr-stefan-chmiela.html
+2026-08-06,de-bifold,Begüm Demir,Begüm Demir,full,"Prof. Dr., Research Group Lead",,2,1,https://www.bifold.berlin/people/prof-dr-beguem-demir.html
+2026-08-06,de-bifold,Frederick Klauschen,Frederick Klauschen,full,"Prof. Dr., Research Group Lead / Director",,3,2,https://www.bifold.berlin/people/prof-dr-frederick-klauschen.html
+2026-08-06,de-bifold,Alexander Meyer,Alexander Meyer,full,"Prof. Dr., Research Group Lead",,2,1,https://www.bifold.berlin/people/prof-dr-alexander-meyer.html
+2026-08-06,de-bifold,Grégoire Montavon,Grégoire Montavon,full,"Prof. Dr., Research Group Lead",,9,2,https://www.bifold.berlin/people/prof-dr-gregoire-montavon.html
+2026-08-06,de-bifold,Shinichi Nakajima,Shinichi Nakajima,full,"PhD, Research Junior Group Lead",,15,0,https://www.bifold.berlin/people/phd-shinichi-nakajima.html
+2026-08-06,de-bifold,Konrad Rieck,Konrad Rieck,full,"Prof. Dr., Research Group Lead",,2,0,https://www.bifold.berlin/people/prof-dr-konrad-rieck.html
+2026-08-06,de-bifold,Sebastian Schelter,Sebastian Schelter,full,"Prof. Dr., Research Group Lead",,2,8,https://www.bifold.berlin/people/dr-sebastian-schelter.html
+2026-08-06,de-bifold,Alexander von Lühmann,,no_match,"Dr., Research Junior Group Lead",,0,0,https://www.bifold.berlin/people/dr-alexander-von-luehmann.html
+2026-08-06,de-bifold,Steffen Zeuch,,no_match,"Dr., Research Junior Group Lead",,0,0,https://www.bifold.berlin/people/dr-steffen-zeuch.html
+2026-08-06,de-bifold,Kaustubh Beedkar,,no_match,"Prof. Dr., Junior Fellow",,0,0,https://www.bifold.berlin/people/dr-kaustubh-beedkar.html
+2026-08-06,de-bifold,Giuseppe Caire,Giuseppe Caire,full,"Prof. Dr., Fellow",,0,8,https://www.bifold.berlin/people/prof-giuseppe-caire-phd.html
+2026-08-06,de-bifold,Tim Conrad,Tim Conrad 0001,full,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-dr-tim-conrad.html
+2026-08-06,de-bifold,Jens Eisert,,no_match,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-dr-jens-eisert.html
+2026-08-06,de-bifold,Gerd Grasshoff,,no_match,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-dr-gerd-grasshoff.html
+2026-08-06,de-bifold,Stefan Haufe,Stefan Haufe,full,"Prof. Dr., Fellow",,2,0,https://www.bifold.berlin/people/prof-dr-stefan-haufe.html
+2026-08-06,de-bifold,Manfred Hauswirth,Manfred Hauswirth,full,"Prof. Dr., Fellow",,1,4,https://www.bifold.berlin/people/prof-dr-manfred-hauswirth.html
+2026-08-06,de-bifold,Anja Hennemuth,Anja Hennemuth,full,"Prof. Dr., Fellow",,0,3,https://www.bifold.berlin/people/prof-dr-anja-hennemuth.html
+2026-08-06,de-bifold,Odej Kao,,no_match,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-dr-odej-kao.html
+2026-08-06,de-bifold,Titus Kühne,Titus Kühne,full,"Prof. Dr., Fellow",,0,2,https://www.bifold.berlin/people/prof-dr-titus-kuehne.html
+2026-08-06,de-bifold,Sebastian Möller,Sebastian Möller 0001,full,"Prof. Dr.-Ing., Fellow",,14,8,https://www.bifold.berlin/people/prof-dr-sebastian-moeller.html
+2026-08-06,de-bifold,Uwe Ohler,Uwe Ohler,full,"Prof. Dr., Fellow",,1,1,https://www.bifold.berlin/people/prof-dr-uwe-ohler.html
+2026-08-06,de-bifold,Manfred Opper,Manfred Opper,full,"Prof. Dr., Fellow",,4,0,https://www.bifold.berlin/people/prof-dr-manfred-opper.html
+2026-08-06,de-bifold,Tilmann Rabl,,no_match,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-dr-tilmann-rabl.html
+2026-08-06,de-bifold,Jürgen Renn,,no_match,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-dr-juergen-renn.html
+2026-08-06,de-bifold,Wojciech Samek,Wojciech Samek,full,"Prof. Dr., Fellow",,28,7,https://www.bifold.berlin/people/prof-dr-wojciech-samek.html
+2026-08-06,de-bifold,Florian Schintke,Florian Schintke,full,"Dr., Fellow",,1,0,https://www.bifold.berlin/people/dr-florian-schintke.html
+2026-08-06,de-bifold,Christof Schütte,Christof Schütte,full,"Prof. Dr., Fellow",,2,0,https://www.bifold.berlin/people/prof-dr-christof-schuette.html
+2026-08-06,de-bifold,Roland Schwarz,Roland F. Schwarz,full,"Prof. Dr., Fellow / Principal Investigator",,0,0,https://www.bifold.berlin/people/prof-dr-roland-schwarz.html
+2026-08-06,de-bifold,Jean-Pierre Seifert,,no_match,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-dr-jean-pierre-seifert.html
+2026-08-06,de-bifold,Georgios Smaragdakis,,no_match,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-georgios-smaragdakis-phd.html
+2026-08-06,de-bifold,Vladimir Spokoiny,Vladimir G. Spokoiny,first_last,"Prof. Dr., Fellow",,1,0,https://www.bifold.berlin/people/prof-dr-vladimir-spokoiny.html
+2026-08-06,de-bifold,Slawomir Stanczak,Slawomir Stanczak,full,"Prof. Dr., Fellow",,0,5,https://www.bifold.berlin/people/prof-dr-slawomir-stanczak.html
+2026-08-06,de-bifold,Julia Stoyanovich,Julia Stoyanovich,full,"Prof., Fellow",,7,6,https://www.bifold.berlin/people/julia-stoyanovich.html
+2026-08-06,de-bifold,Matteo Valleriani,Matteo Valleriani,full,"Prof. Dr., Fellow",,1,0,https://www.bifold.berlin/people/prof-dr-matteo-valleriani.html
+2026-08-06,de-bifold,Martin Vingron,,no_match,"Prof. Dr., Fellow",,0,0,https://www.bifold.berlin/people/prof-dr-martin-vingron.html
+2026-08-06,de-bifold,Thomas Wiegand,Thomas Wiegand 0001,full,"Prof. Dr., Fellow",,7,2,https://www.bifold.berlin/people/prof-dr-thomas-wiegand.html
+2026-08-06,de-bifold,Christian Wressnegger,Christian Wressnegger,full,"Prof. Dr., Fellow",,3,1,https://www.bifold.berlin/people/prof-dr-christian-wressnegger.html
+2026-08-06,de-bifold,Eleni Tzirita Zacharatou,,no_match,"Prof. Dr., Junior Fellow",,0,0,https://www.bifold.berlin/people/dr-eleni-tzirita-zacharatou.html
+2026-08-06,de-bundeswehr-university-munich,Vasco Brattka,,no_match,Univ.-Prof. Dr. rer. nat.,,0,0,https://www.unibw.de/timor
+2026-08-06,de-bundeswehr-university-munich,Andreas Nickel,,no_match,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/inf/professuren
+2026-08-06,de-bundeswehr-university-munich,Peter Hertling,,no_match,Univ.-Prof. Dr. rer. nat.,,0,0,https://www.unibw.de/timor
+2026-08-06,de-bundeswehr-university-munich,Stefan Pickl,Stefan Pickl,full,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/timor
+2026-08-06,de-bundeswehr-university-munich,Daniel Slamanig,,no_match,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/timor
+2026-08-06,de-bundeswehr-university-munich,Maximilian Moll,,no_match,Juniorprof. Dr. rer. nat.,,0,0,https://www.unibw.de/code/im-profil/professuren
+2026-08-06,de-bundeswehr-university-munich,Uwe M. Borghoff,,no_match,Univ.-Prof. Dr. rer. nat.,,0,0,https://www.unibw.de/inf2
+2026-08-06,de-bundeswehr-university-munich,Wolfgang Hommel,,no_match,Univ.-Prof. Dr. rer. nat.,,0,0,https://www.unibw.de/inf2
+2026-08-06,de-bundeswehr-university-munich,Michael Koch,Michael Koch 0019,full,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/inf2
+2026-08-06,de-bundeswehr-university-munich,Mark Minas,,no_match,Univ.-Prof. Dr.-Ing.,,0,0,https://www.unibw.de/inf2
+2026-08-06,de-bundeswehr-university-munich,Klaus Buchenrieder,Klaus Buchenrieder,full,Univ.-Prof. Ph.D. M.S. (OSU),,0,0,https://www.unibw.de/technische-informatik
+2026-08-06,de-bundeswehr-university-munich,Gabi Dreo Rodosek,Gabi Dreo Rodosek,full,Univ.-Prof.'in Dr.,,0,0,https://www.unibw.de/technische-informatik
+2026-08-06,de-bundeswehr-university-munich,Oliver Rose,,no_match,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/technische-informatik
+2026-08-06,de-bundeswehr-university-munich,Markus Siegle,,no_match,Univ.-Prof. Dr.-Ing.,,0,0,https://www.unibw.de/technische-informatik
+2026-08-06,de-bundeswehr-university-munich,Gunnar Teege,,no_match,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/technische-informatik
+2026-08-06,de-bundeswehr-university-munich,Andreas Karcher,,no_match,Univ.-Prof. Dr.-Ing.,,0,0,https://www.unibw.de/inf4
+2026-08-06,de-bundeswehr-university-munich,Helmut Mayer,Helmut Mayer 0003,full,Univ.-Prof. Dr.-Ing.,,0,0,https://www.unibw.de/inf4
+2026-08-06,de-bundeswehr-university-munich,Wolfgang Reinhardt,,no_match,Univ.-Prof. Dr.-Ing.,,0,0,https://www.unibw.de/geoinformatik/
+2026-08-06,de-bundeswehr-university-munich,Mark Manulis,,no_match,Univ.-Prof. Dr.-Ing.,,0,0,https://www.unibw.de/anwendungssicherheit
+2026-08-06,de-bundeswehr-university-munich,Arno Wacker,Arno Wacker,full,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/anwendungssicherheit
+2026-08-06,de-bundeswehr-university-munich,Florian Alt,Florian Alt,full,Univ.-Prof. Dr.,,0,27,https://www.unibw.de/anwendungssicherheit/usable-security-and-privacy/team
+2026-08-06,de-bundeswehr-university-munich,Stefan Brunthaler,,no_match,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/systemsicherheit
+2026-08-06,de-bundeswehr-university-munich,Harald Baier,,no_match,Univ.-Prof. Dr. rer. nat.,,0,0,https://www.unibw.de/systemsicherheit
+2026-08-06,de-bundeswehr-university-munich,Michael Hutter,,no_match,Univ.-Prof. Dr.,,0,0,https://www.unibw.de/systemsicherheit
+2026-08-06,de-bundeswehr-university-munich,Michaela Geierhos,Michaela Geierhos,full,Univ.-Prof.'in Dr. phil.,,0,2,https://www.unibw.de/datensicherheit
+2026-08-06,de-bundeswehr-university-munich,Eirini Ntoutsi,Eirini Ntoutsi,full,Univ.-Prof.'in Dr.,,0,2,https://www.unibw.de/datensicherheit
+2026-08-06,de-bundeswehr-university-munich,Marta Gomez-Barrero,,no_match,Univ.-Prof.'in Dr.-Ing.,,0,0,https://www.unibw.de/datensicherheit
+2026-08-06,de-bundeswehr-university-munich,Ulrike Lechner,,no_match,Univ.-Prof.'in Dr.,,0,0,https://www.unibw.de/schutz-zuverlaessigkeit
+2026-08-06,de-bundeswehr-university-munich,Corinna Schmitt,,no_match,apl. Prof. Dr.,,0,0,https://www.unibw.de/code/professuren/corinna-schmitt
+2026-08-06,de-bundeswehr-university-munich,Mario Martini,,no_match,Univ.-Prof. Dr. jur.,,0,0,https://www.unibw.de/code/im-profil/professuren
+2026-08-06,de-bundeswehr-university-munich,Carmen Mas Machuca,Carmen Mas Machuca,full,Univ.-Prof.'in Dr.-Ing.,,0,0,https://www.unibw.de/code/im-profil/professuren
+2026-08-06,de-bundeswehr-university-munich,Vladislav Nenchev,,no_match,Prof. Dr.-Ing.,,0,0,https://www.unibw.de/code/im-profil/professuren
+2026-08-06,de-bundeswehr-university-munich,Christoph Peters,Christoph Peters 0002,full,Univ.-Prof. Dr. rer. pol.,,0,0,https://www.unibw.de/code/im-profil/professuren
+2026-08-06,de-cispa-helmholtz-center,Ali Abbasi,Ali Abbasi,full,Faculty,,0,1,https://cispa.de/en/people/c02alab
 2026-08-06,de-cispa-helmholtz-center,Michael Backes,Michael Backes 0001,full,Faculty,,28,10,https://cispa.de/en/people/backes
 2026-08-06,de-cispa-helmholtz-center,Franziska Boenisch,Franziska Boenisch,full,Faculty,,24,1,https://cispa.de/en/people/c01frbo
 2026-08-06,de-cispa-helmholtz-center,Sebastian Brandt,,no_match,Faculty,,0,0,https://cispa.de/en/people/c01sebr
@@ -37,7 +113,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-cispa-helmholtz-center,Sajin Sasy,Sajin Sasy,full,Faculty,,1,0,https://cispa.de/en/people/c02sasa
 2026-08-06,de-cispa-helmholtz-center,Moritz Schloegel,Moritz Schloegel,full,Faculty,,0,0,https://cispa.de/en/people/c01mosc
 2026-08-06,de-cispa-helmholtz-center,Lea Schönherr,Lea Schönherr,full,Faculty,,7,1,https://cispa.de/en/people/c01lesc
-2026-08-06,de-cispa-helmholtz-center,Michael Schwarz,,ambiguous_full(2),Faculty,,0,0,https://cispa.de/en/people/c02misc
+2026-08-06,de-cispa-helmholtz-center,Michael Schwarz,Michael Schwarz 0009,full,Faculty,,0,0,https://cispa.de/en/people/c02misc
 2026-08-06,de-cispa-helmholtz-center,Mridula Singh,,no_match,Faculty,,0,0,https://cispa.de/en/people/c01mrsi
 2026-08-06,de-cispa-helmholtz-center,Sebastian Stich,Sebastian U. Stich,first_last,Faculty,,41,0,https://cispa.de/en/people/c01sest
 2026-08-06,de-cispa-helmholtz-center,Ben Stock,Ben Stock,full,Faculty,,0,0,https://cispa.de/en/people/ben.stock
@@ -46,8 +122,17 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-cispa-helmholtz-center,Maximiliane Pauline Monika Windl,Maximiliane Windl,first_last,Faculty,,0,8,https://cispa.de/en/people/c02mawi
 2026-08-06,de-cispa-helmholtz-center,Abdullah Giray Yağlıkçı,,no_match,Faculty,,0,0,https://cispa.de/en/people/c01abya
 2026-08-06,de-cispa-helmholtz-center,Andreas Zeller,,no_match,Faculty,,0,0,https://cispa.de/en/people/zeller
-2026-08-06,de-cispa-helmholtz-center,Xiao Zhang,,ambiguous_full(18),Faculty,,0,0,https://cispa.de/en/people/c01xizh
-2026-08-06,de-cispa-helmholtz-center,Yang Zhang,,ambiguous_full(30),Faculty,,0,0,https://cispa.de/en/people/yang.zhang
+2026-08-06,de-cispa-helmholtz-center,Xiao Zhang,Xiao Zhang 0034,full,Faculty,,11,35,https://cispa.de/en/people/c01xizh
+2026-08-06,de-cispa-helmholtz-center,Yang Zhang,Y Z,full,Faculty,,0,0,https://cispa.de/en/people/yang.zhang
+2026-08-06,de-dfki-be,Sebastian Möller,Sebastian Möller 0001,full,"Standortleiter (Site Director); Leitung (Head), Speech and Language Technology Lab",Berlin,14,8,https://r.jina.ai/https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin
+2026-08-06,de-dfki-be,Aljoscha Burchardt,Aljoscha Burchardt,full,"Stellvertretender Standortleiter (Deputy Director), DFKI Berlin",Berlin,1,0,https://r.jina.ai/https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin
+2026-08-06,de-dfki-be,Georg Rehm,Georg Rehm,full,"Stellvertretender Standortleiter (Deputy Director), DFKI Berlin; Professor",Berlin,3,3,https://r.jina.ai/https://www.dfki.de/web/qualifizierung-vernetzung/vernetzung/professorinnen
+2026-08-06,de-dfki-be,Niels Pinkwart,Niels Pinkwart,full,"Prof. Dr., Leitung (Director), Educational Technology Lab",Berlin,2,0,https://r.jina.ai/https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin
+2026-08-06,de-dfki-be,Gesche Joost,Gesche Joost,full,"Prof. Dr., Leitung (Director), Design Research eXplorations",Berlin,0,1,https://r.jina.ai/https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin
+2026-08-06,de-dfki-be,Christian Kellermann,,no_match,Prof. Dr. (per DFKI professors listing),Berlin,0,0,https://r.jina.ai/https://www.dfki.de/web/qualifizierung-vernetzung/vernetzung/professorinnen
+2026-08-06,de-dfki-be,David Schlangen,David Schlangen,full,Prof. Dr. (per DFKI professors listing),Berlin,12,7,https://r.jina.ai/https://www.dfki.de/web/qualifizierung-vernetzung/vernetzung/professorinnen
+2026-08-06,de-dfki-be,Hans Uszkoreit,,no_match,Prof. Dr. (per DFKI professors listing),Berlin,0,0,https://r.jina.ai/https://www.dfki.de/web/qualifizierung-vernetzung/vernetzung/professorinnen
+2026-08-06,de-dfki-be,Kinga Schumacher,,no_match,"Dr., Stellvertretung (Deputy Head)",Berlin,0,0,https://r.jina.ai/https://www.dfki.de/web/forschung/forschungsbereiche/kognitive-assistenzsysteme
 2026-08-06,de-dfki-sb,Prof. Dr.-Ing. Philipp Slusallek,Philipp Slusallek,full,Head; Executive Director DFKI Saarbrücken,Saarbrücken,6,8,https://www.dfki.de/en/web/research/research-departments/agents-and-simulated-reality
 2026-08-06,de-dfki-sb,Dr.-Ing. Christian Müller,,ambiguous_full(4),Deputy Head,Saarbrücken,0,0,https://www.dfki.de/en/web/research/research-departments/agents-and-simulated-reality
 2026-08-06,de-dfki-sb,PD Dr. Matthias Klusch,,no_match,Head of Research Team Intelligent Information Systems (I2S); Principal Researcher; DFKI Research Fellow,Saarbrücken,0,0,https://www.dfki.de/~klusch
@@ -71,7 +156,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-ellis-inst-tue,Philipp Hennig,Philipp Hennig,full,Prof. Dr.; Professor for the Methods of Machine Learning; Program Director; Fellow,,46,0,https://ellis.eu/person/philipp-hennig
 2026-08-06,de-ellis-inst-tue,Gerard Pons-Moll,Gerard Pons-Moll,full,Program Director; Scholar,,29,0,https://ellis.eu/person/gerard-pons-moll
 2026-08-06,de-ellis-inst-tue,Andreas Geiger,Andreas Geiger 0001,full,Prof. Dr.-Ing.; Fellow,,75,3,https://ellis.eu/person/andreas-geiger
-2026-08-06,de-ellis-inst-tue,Matthias Hein,,ambiguous_full(2),Prof. Dr.; Fellow,,0,0,https://ellis.eu/person/matthias-hein
+2026-08-06,de-ellis-inst-tue,Matthias Hein,Matthias Hein 0002,full,Prof. Dr.; Fellow,,0,0,https://ellis.eu/person/matthias-hein
 2026-08-06,de-ellis-inst-tue,Bob Williamson,,no_match,Prof. Dr.; Professor of Foundations of Machine Learning Systems; Fellow,,0,0,https://ellis.eu/person/bob-williamson
 2026-08-06,de-ellis-inst-tue,Moritz Hardt,Moritz Hardt,full,Fellow; Department Head (Social Foundations of Computation),,24,2,https://ellis.eu/person/moritz-hardt
 2026-08-06,de-ellis-inst-tue,Michael Muehlebach,Michael Muehlebach,full,Member; Research Group Leader (Learning and Dynamical Systems),,18,1,https://ellis.eu/person/michael-muehlebach
@@ -86,10 +171,161 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-ellis-institute-tue,Frank Hutter,Frank Hutter,full,PI,,74,1,https://institute-tue.ellis.eu/en/people/fh
 2026-08-06,de-ellis-institute-tue,Shiwei Liu,Shiwei Liu 0003,override,PI,,48,3,https://institute-tue.ellis.eu/en/people/sliu
 2026-08-06,de-ellis-institute-tue,Jakob Macke,Jakob H. Macke,first_last,PI,,23,0,https://institute-tue.ellis.eu/en/people/a59a0cc7-da24-4503-ac9e-185ebac9d7e3
-2026-08-06,de-ellis-institute-tue,Celestine Mendler-Dünner,,ambiguous_full(2),PI,,0,0,https://institute-tue.ellis.eu/en/people/cmendler
+2026-08-06,de-ellis-institute-tue,Celestine Mendler-Dünner,Celestine Dünner,full,PI,,0,0,https://institute-tue.ellis.eu/en/people/cmendler
 2026-08-06,de-ellis-institute-tue,Antonio Orvieto,Antonio Orvieto,full,PI,,33,0,https://institute-tue.ellis.eu/en/people/aorvieto
 2026-08-06,de-ellis-institute-tue,T. Konstantin Rusch,T. Konstantin Rusch,full,PI,,8,0,https://institute-tue.ellis.eu/en/people/tkrusch
 2026-08-06,de-ellis-institute-tue,Bernhard Schölkopf,Bernhard Schölkopf,full,Scientific Director,,172,8,https://institute-tue.ellis.eu/en/people/bernhard-scholkopf
+2026-08-06,de-freie-universitaet-berlin,Knut Reinert,Knut Reinert,full,Prof. Dr.-Ing. Knut Reinert,,0,1,https://www.mi.fu-berlin.de/inf/groups/index.html
+2026-08-06,de-freie-universitaet-berlin,Katharina Jahn,Katharina Jahn 0001,full,Prof. Dr. Katharina Jahn,,0,0,https://www.mi.fu-berlin.de/inf/groups/index.html
+2026-08-06,de-freie-universitaet-berlin,Jochen Schiller,Jochen H. Schiller,first_last,Prof. Dr. Jochen Schiller,,0,1,https://www.mi.fu-berlin.de/inf/groups/ag-tech/index.html
+2026-08-06,de-freie-universitaet-berlin,Adrian Paschke,Adrian Paschke,full,Prof. Dr. Adrian Paschke,,4,1,https://www.mi.fu-berlin.de/inf/groups/ag-csw/index.html
+2026-08-06,de-freie-universitaet-berlin,Christoph Benzmüller,Christoph Benzmüller,full,apl. Prof. Dr. Christoph Benzmüller,,1,1,https://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html
+2026-08-06,de-freie-universitaet-berlin,Daniel Göhring,Daniel Göhring,full,Prof. Dr. Daniel Göhring,,1,0,https://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html
+2026-08-06,de-freie-universitaet-berlin,Tim Landgraf,Tim Landgraf,full,Prof. Dr. Tim Landgraf,,6,0,https://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html
+2026-08-06,de-freie-universitaet-berlin,Agnès Voisard,,no_match,Prof. Dr. Agnès Voisard,,0,0,https://www.fu-berlin.de/inf/groups/ag-db/members/Professors/voisard_agnes.html
+2026-08-06,de-freie-universitaet-berlin,Katharina Baum,Katharina Baum,full,Prof. Dr. Katharina Baum,,2,0,https://www.mi.fu-berlin.de/w/DILIS/Team
+2026-08-06,de-freie-universitaet-berlin,Katinka Wolter,,no_match,Prof. Dr. Katinka Wolter,,0,0,https://www.mi.fu-berlin.de/en/inf/groups/ag-dds/index.html
+2026-08-06,de-freie-universitaet-berlin,Ralf Romeike,,no_match,Professur für Didaktik der Informatik,,0,0,https://www.mi.fu-berlin.de/inf/groups/ag-ddi/index.html
+2026-08-06,de-freie-universitaet-berlin,Gerhard Wunder,Gerhard Wunder,full,PD Dr. Gerhard Wunder,,4,0,https://www.mi.fu-berlin.de/en/inf/groups/ag-comm/index.html
+2026-08-06,de-freie-universitaet-berlin,Claudia Müller-Birn,Claudia Müller-Birn,full,Prof. Dr. Claudia Müller-Birn,,0,2,https://www.mi.fu-berlin.de/inf/groups/index.html
+2026-08-06,de-freie-universitaet-berlin,Marian Margraf,,no_match,Professor (Prof. Dr.) Marian Margraf,,0,0,https://www.fu-berlin.de/inf/groups/ag-idm/members/1_Professor_inn_en/Marian-Margraf/index.html
+2026-08-06,de-freie-universitaet-berlin,Volker Roth,Volker Roth 0002,full,Prof. Dr. Volker Roth,,0,1,https://www.mi.fu-berlin.de/inf/groups/ag-si/index.html
+2026-08-06,de-freie-universitaet-berlin,Jörn Eichler,,no_match,Professor (Prof. Dr.) Jörn Eichler,,0,0,https://www.fu-berlin.de/inf/groups/ag-sse/members/Prof/Joern-Eichler/index.html
+2026-08-06,de-freie-universitaet-berlin,Lutz Prechelt,,no_match,Prof. Dr. Lutz Prechelt,,0,0,https://www.mi.fu-berlin.de/w/SE/WebHome
+2026-08-06,de-freie-universitaet-berlin,László Kozma,,no_match,Prof. Dr. László Kozma,,0,0,https://www.mi.fu-berlin.de/inf/groups/index.html
+2026-08-06,de-freie-universitaet-berlin,Günter Rote,,no_match,Prof. Dr. Günter Rote,,0,0,https://page.mi.fu-berlin.de/rote/
+2026-08-06,de-freie-universitaet-berlin,Wolfgang Mulzer,Wolfgang Mulzer,full,Professor (Prof. Dr.) Wolfgang Mulzer,,0,0,https://page.mi.fu-berlin.de/mulzer/
+2026-08-06,de-freie-universitaet-berlin,Heiko Schwarz,Heiko Schwarz,full,Prof. Dr. Heiko Schwarz,,1,0,https://www.hhi.fraunhofer.de/abteilungen/vca/forschungsgruppen/videokodierungstechnologien.html
+2026-08-06,de-freie-universitaet-berlin,Frank Noé,Frank Noé,full,Prof. Dr. Frank Noé,,10,2,https://www.mi.fu-berlin.de/math/groups/index.html
+2026-08-06,de-freie-universitaet-berlin,Max von Kleist,,no_match,Prof. Dr. Max von Kleist,,0,0,https://www.mi.fu-berlin.de/en/math/groups/ag-madasc/index.html
+2026-08-06,de-freie-universitaet-berlin,Christof Schütte,Christof Schütte,full,Prof. Dr. Christof Schütte,,2,0,https://www.mi.fu-berlin.de/en/math/groups/biocomputing/index.html
+2026-08-06,de-freie-universitaet-berlin,Claudia Schillings,,no_match,Prof. Dr. Claudia Schillings,,0,0,https://www.fu-berlin.de/math/groups/naspde/members/claudia_schillings.html
+2026-08-06,de-freie-universitaet-berlin,Ralf Kornhuber,,no_match,Professor Dr. Ralf Kornhuber,,0,0,https://www.mi.fu-berlin.de/math/groups/ag-numerik/index.html
+2026-08-06,de-freie-universitaet-berlin,Ana Djurdjevac,,no_match,Prof. Dr. Ana Djurdjevac,,0,0,https://www.mi.fu-berlin.de/math/groups/ag-num-ana-and-stoch/index.html
+2026-08-06,de-freie-universitaet-berlin,Volker John,,no_match,Prof. Dr. Volker John,,0,0,https://numerik.mi.fu-berlin.de/Science/John/
+2026-08-06,de-freie-universitaet-berlin,Konrad Polthier,,no_match,Prof. Dr. Konrad Polthier,,0,0,https://www.mi.fu-berlin.de/en/math/groups/ag-geom/index.html
+2026-08-06,de-freie-universitaet-berlin,Klaus Altmann,,no_match,Prof. Dr. Klaus Altmann,,0,0,https://www.mi.fu-berlin.de/math/groups/ag-algebra/index.html
+2026-08-06,de-freie-universitaet-berlin,Holger Reich,,no_match,Prof. Dr. Holger Reich (Head),,0,0,https://www.mi.fu-berlin.de/math/groups/top/index.html
+2026-08-06,de-freie-universitaet-berlin,Maximilian Engel,Maximilian Engel,full,"Dr. Maximilian Engel, Head of the Junior Research Group",,1,0,https://www.mi.fu-berlin.de/en/math/groups/ag-random-dynamics/people/index.html
+2026-08-06,de-freie-universitaet-berlin,Marita Thomas,,no_match,"Prof. Dr. Marita Thomas, Director of Applied Analysis",,0,0,https://www.mi.fu-berlin.de/en/math/groups/ag-applied-analysis/index.html
+2026-08-06,de-freie-universitaet-berlin,Felix Höfling,,no_match,Prof. Dr. Felix Höfling,,0,0,https://www.mi.fu-berlin.de/math/groups/ag-comp-stat-phys/index.html
+2026-08-06,de-freie-universitaet-berlin,Brigitte Lutz-Westphal,,no_match,"Prof. Dr. Brigitte Lutz-Westphal, Professorin (Leitung)",,0,0,https://www.mi.fu-berlin.de/math/groups/ag-ddm/members/index.html
+2026-08-06,de-freie-universitaet-berlin,Björn Schwarz,,no_match,"Prof. Dr. Björn Schwarz, Professor",,0,0,https://www.mi.fu-berlin.de/math/groups/ag-ddm/members/index.html
+2026-08-06,de-freie-universitaet-berlin,Thorsten Scheiner,,no_match,"Prof. Dr. Thorsten Scheiner, Gastprofessur",,0,0,https://www.mi.fu-berlin.de/math/groups/ag-ddm/members/index.html
+2026-08-06,de-freie-universitaet-berlin,Christian Haase,Christian Haase,full,Prof. Dr. Christian Haase (Leitung),,1,0,https://www.mi.fu-berlin.de/math/groups/ag-diskret-algebra-geom/index.html
+2026-08-06,de-freie-universitaet-berlin,Günter M. Ziegler,,no_match,Prof. Günter M. Ziegler (Leiter),,0,0,https://www.mi.fu-berlin.de/math/groups/discgeom/index.html
+2026-08-06,de-freie-universitaet-berlin,Georg Loho,Georg Loho,full,Prof. Georg Loho (stellv. Leiter),,3,0,https://www.mi.fu-berlin.de/math/groups/discgeom/index.html
+2026-08-06,de-freie-universitaet-berlin,Pavle Blagojevic,,no_match,Prof. Dr. Pavle Blagojevic,,0,0,https://www.mi.fu-berlin.de/math/groups/index.html
+2026-08-06,de-freie-universitaet-berlin,Giulia Codenotti,,no_match,Prof. Dr. Giulia Codenotti,,0,0,https://www.mi.fu-berlin.de/math/groups/index.html
+2026-08-06,de-freie-universitaet-berlin,Nicolas Perkowski,,no_match,Prof. Dr. Nicolas Perkowski (Head),,0,0,https://www.mi.fu-berlin.de/math/groups/stoch/index.html
+2026-08-06,de-freie-universitaet-berlin,Anina Mischau,,no_match,Dr. Anina Mischau,,0,0,https://www.mi.fu-berlin.de/math/groups/genderstudies/index.html
+2026-08-06,de-freie-universitaet-berlin,Elena Mäder-Baumdicker,,no_match,Prof. Dr. Elena Mäder-Baumdicker,,0,0,https://www.mi.fu-berlin.de/math/groups/ag-geoana/index.html
+2026-08-06,de-freie-universitaet-berlin,Rupert Klein,,no_match,Prof. Dr.-Ing. Rupert Klein,,0,0,https://www.mi.fu-berlin.de/math/groups/fluid-dyn/index.html
+2026-08-06,de-freie-universitaet-berlin,Tibor Szabó,Tibor Szabó,full,"Prof. Tibor Szabó, PhD (Director)",,1,0,https://www.mi.fu-berlin.de/en/math/groups/geokomb/index.html
+2026-08-06,de-freie-universitaet-berlin,Alexander Schmitt,,no_match,Prof. Dr. Alexander Schmitt (Leitung),,0,0,https://www.mi.fu-berlin.de/math/groups/ag-c/index.html
+2026-08-06,de-freie-universitaet-berlin,Sarah Wolf,,no_match,Dr. Sarah Wolf,,0,0,https://www.mi.fu-berlin.de/en/math/groups/ag-math4susTrans/index.html
+2026-08-06,de-freie-universitaet-berlin,Isabelle Schneider,,no_match,Dr. Isabelle Schneider,,0,0,https://www.mi.fu-berlin.de/math/groups/index.html
+2026-08-06,de-freie-universitaet-berlin,Luigi Delle Site,,no_match,Prof. Dr. Luigi Delle Site (Project leader),,0,0,https://www.mi.fu-berlin.de/en/math/groups/mms/index.html
+2026-08-06,de-freie-universitaet-berlin,Anna Maria Hartkopf,,no_match,Prof. Dr. Anna Maria Hartkopf (Leitung),,0,0,https://www.mi.fu-berlin.de/math/groups/ag-wissenschaftskommunikation_mathematik/index.html
+2026-08-06,de-freie-universitaet-berlin,Jana Wolf,,no_match,Prof. Dr. Jana Wolf,,0,0,http://www.mdc-berlin.de/wolf
+2026-08-06,de-helmholtz-munich,Fabian Theis,Fabian J. Theis,first_last,"Director of the Computational Health Center, Director of the Institute for Computational Biology",,17,7,https://www.helmholtz-munich.de/icb/fabian-theis
+2026-08-06,de-helmholtz-munich,Carsten Marr,Carsten Marr,full,Director Institute of AI for Health,,4,16,https://www.helmholtz-munich.de/en/aih/research-groups/marr-group
+2026-08-06,de-helmholtz-munich,Ewa Szczurek,Ewa Szczurek,full,Co-director of the Institute for AI for Health,,5,0,https://www.helmholtz-munich.de/en/aih/ewa-szczurek
+2026-08-06,de-helmholtz-munich,Björn Eskofier,Björn M. Eskofier,first_last,"Associate Principal Investigator (leader, Translational Digital Health research group)",,5,1,https://www.helmholtz-munich.de/en/aih/bjoern-eskofier
+2026-08-06,de-helmholtz-munich,Tingying Peng,Tingying Peng,full,Group leader,,3,12,https://www.helmholtz-munich.de/en/aih/research-groups/peng-group
+2026-08-06,de-helmholtz-munich,Bastian Rieck,Bastian Rieck,full,Research Group Leader,,24,3,https://www.helmholtz-munich.de/en/aih/research-groups/rieck-group
+2026-08-06,de-helmholtz-munich,Na Cai,Na Cai,full,Principal Investigator,,0,2,https://www.helmholtz-munich.de/en/aih;https://www.pioneercampus.org/themenmenue-links/about-us0/principal-investigators/na-cai/index.html
+2026-08-06,de-helmholtz-munich,Francesco Paolo Casale,Francesco Paolo Casale,full,"Principal Investigator, Systems Genetics and Machine Learning",,2,2,https://www.pioneercampus.org/themenmenue-links/about-us0/principal-investigators/francesco-paolo-casale/index.html
+2026-08-06,de-helmholtz-munich,Péter Horváth,,no_match,Principal Investigator (Independent Research Group),,0,0,https://www.helmholtz-munich.de/en/aih/peter-horvath
+2026-08-06,de-helmholtz-munich,Maria Colomé-Tatché,,no_match,"Group Leader, ICB",,0,0,https://www.helmholtz-munich.de/en/icb/research-groups/colome-tatche-lab
+2026-08-06,de-helmholtz-munich,Christiane Fuchs,Christiane Fuchs,full,Research Group Leader,,0,0,https://www.helmholtz-munich.de/en/icb/research-groups/fuchs-lab
+2026-08-06,de-helmholtz-munich,Julien Gagneur,,no_match,"Full professor at TUM and PI at Helmholtz Munich; Research Group Leader, Computational Health Center",,0,0,https://www.helmholtz-munich.de/en/icb/julien-gagneur
+2026-08-06,de-helmholtz-munich,Jan Hasenauer,Jan Hasenauer,full,Group Leader (title as shown on ICB overview card; no dedicated profile page found),,1,0,https://www.helmholtz-munich.de/en/icb
+2026-08-06,de-helmholtz-munich,Matthias Heinig,,no_match,Junior Group Leader,,0,0,https://www.helmholtz-munich.de/en/icb/research-groups/heinig-lab
+2026-08-06,de-helmholtz-munich,Michael Heinzinger,Michael Heinzinger,full,"Principal Investigator, ICB",,1,0,https://www.helmholtz-munich.de/en/icb/research-groups/heinzinger-lab
+2026-08-06,de-helmholtz-munich,Dominik Jüstel,Dominik Jüstel,full,Group Leader AI in Optoacoustics,,0,1,https://www.helmholtz-munich.de/en/juestel-lab
+2026-08-06,de-helmholtz-munich,Gabi Kastenmüller,,no_match,Head of Research Group Systems Metabolomics,,0,0,https://www.helmholtz-munich.de/en/icb/research-groups/kastenmueller-lab
+2026-08-06,de-helmholtz-munich,Janine Knauer-Arloth,Janine Knauer-Arloth,full,Group Leader (title as shown on ICB overview card; no dedicated profile page found),,1,0,https://www.helmholtz-munich.de/en/icb
+2026-08-06,de-helmholtz-munich,Annalisa Marsico,Annalisa Marsico,full,"Principle Investigator, ICB [sic, as printed on page]",,1,1,https://www.helmholtz-munich.de/en/icb/research-groups/marsico-lab
+2026-08-06,de-helmholtz-munich,Michael Menden,,no_match,Junior Group Leader,,0,0,https://www.helmholtz-munich.de/en/icb/research-groups/menden-lab
+2026-08-06,de-helmholtz-munich,Christian L. Müller,Christian L. Müller,full,"Group Leader, ICB",,0,0,https://www.helmholtz-munich.de/en/icb/christian-l-mueller
+2026-08-06,de-helmholtz-munich,Steffen Schneider,Steffen Schneider 0001,full,"Tenure Track Group Leader, Institute of Computational Biology, Computational Health Center",,6,0,https://www.helmholtz-munich.de/en/icb/research-groups/research-group/schneider-lab
+2026-08-06,de-helmholtz-munich,Benjamin Schubert,Benjamin Schubert,full,Research Group Leader,,1,0,https://www.helmholtz-munich.de/en/icb/research-groups/schubert-lab
+2026-08-06,de-helmholtz-munich,Antonio Scialdone,,no_match,"Group Leader, Institute of Epigenetics and Stem Cells, IES",,0,0,https://www.helmholtz-munich.de/en/ies/research-groups/scialdone-lab
+2026-08-06,de-helmholtz-munich,Johannes Linder,Johannes Linder,full,"Junior Group Leader in AI for Genomic Medicine, ICB",,0,1,https://www.helmholtz-munich.de/en/icb/johannes-linder
+2026-08-06,de-helmholtz-munich,Sebastian Lobentanzer,,no_match,"Principal Investigator, Computational Health Center; Helmholtz AI Young Investigator (2025); TUM Junior Fellow (2026)",,0,0,https://www.helmholtz-munich.de/en/icb/sebastian-lobentanzer
+2026-08-06,de-helmholtz-munich,Mariela Cortés López,,no_match,DZKJ Early Career Investigator,,0,0,https://www.helmholtz-munich.de/en/icb/mariela-cortes-lopez
+2026-08-06,de-helmholtz-munich,Malte Lücken,Malte Lücken,full,"Principal Investigator, Joint between the Institute for Computational Biology (Computational Health Center) and the Institute for Lung Health & Immunity (Environmental Health Center)",,1,0,https://www.helmholtz-munich.de/en/icb/malte-luecken
+2026-08-06,de-helmholtz-munich,Iva Pritišanac,,no_match,Tenure-track PI (Helmholtz Young Investigator) | Head of the Pritišanac Lab,,0,0,https://www.helmholtz-munich.de/en/icb/iva-pritisanac
+2026-08-06,de-helmholtz-munich,Hannah Spitzer,Hannah Spitzer,full,"Research Group Leader of Data Analysis and Machine Learning group, ICB",,0,2,https://www.helmholtz-munich.de/en/icb/hannah-spitzer
+2026-08-06,de-helmholtz-munich,Zeynep Akata,Zeynep Akata,full,"Director Institute for Explainable Machine Learning, Professor of Computer Science at Technical University of Munich",,75,1,https://www.helmholtz-munich.de/en/eml/zeynep-akata
+2026-08-06,de-helmholtz-munich,Eric Schulz,Eric Schulz,full,"Director, Institute for Human-Centered AI (HCA), Computational Health Center, Helmholtz Munich; Professor of Machine Psychology, TU Munich",,18,1,https://www.helmholtz-munich.de/en/hca/eric-schulz
+2026-08-06,de-helmholtz-munich,Julia Schnabel,Julia A. Schnabel,first_last,Director of the Institute of Machine Learning in Biomedical Imaging at Helmholtz Munich (Helmholtz Distinguished Professorship),,5,32,https://www.helmholtz-munich.de/en/iml/julia-schnabel
+2026-08-06,de-helmholtz-munich,Georgios Kaissis,Georgios Kaissis,full,"Principal Investigator, Reliable AI",,22,21,https://www.helmholtz-munich.de/en/iml/georgios-kaissis
+2026-08-06,de-helmholtz-munich,Juliane Winkelmann,,no_match,Director of the Institute of Neurogenomics at Helmholtz Munich,,0,0,https://www.helmholtz-munich.de/ing/juliane-winkelmann
+2026-08-06,de-helmholtz-munich,Konrad Oexle,,no_match,Group Leader,,0,0,https://www.helmholtz-munich.de/ing/research-groups/oexle-group
+2026-08-06,de-helmholtz-munich,Holger Prokisch,,no_match,Group Leader,,0,0,https://www.helmholtz-munich.de/ing/research-groups/prokisch-group
+2026-08-06,de-helmholtz-munich,Barbara Schormair,,no_match,Deputy Head (Precision Neuromedicine group; 'Winkelmann and Schormair lab'),,0,0,https://www.helmholtz-munich.de/en/ing/research-groups/precision-neuromedicine
+2026-08-06,de-helmholtz-munich,Eleftheria Zeggini,,no_match,Director of the Institute of Translational Genomics; Liesel Beckmann Distinguished Professor at Technical University Munich University Hospital; Metabolic and Computational Health (CONNECT) Programme Spokesperson,,0,0,https://www.helmholtz-munich.de/itg/eleftheria-zeggini
+2026-08-06,de-helmholtz-munich,Sarah Kim-Hellmuth,,no_match,"Dr. med., Group Leader",,0,0,https://www.helmholtz-munich.de/itg/research-groups/kim-hellmuth-group
+2026-08-06,de-helmholtz-munich,Daniel Kotlarz,,no_match,Group Leader,,0,0,https://www.helmholtz-munich.de/itg/research-groups/kotlarz-group
+2026-08-06,de-helmholtz-munich,Rui Wang-Sattler,,no_match,Group Leader,,0,0,https://www.helmholtz-munich.de/itg/research-groups/wang-sattler-group
+2026-08-06,de-helmholtz-munich,Marie Piraud,Marie Piraud,full,"Head of the Helmholtz AI Consultant Team (Health) and co-head of the Clinical AI Consultant Team, Helmholtz Munich",,2,5,https://www.helmholtz-munich.de/en/helmholtz-ai/marie-piraud
+2026-08-06,de-helmholtz-munich,Stefan Bauer,Stefan Bauer,full,Senior PI at Helmholtz AI,,32,0,https://www.helmholtz-munich.de/en/helmholtz-ai/stefan-bauer
+2026-08-06,de-helmholtz-munich,Vincent Fortuin,Vincent Fortuin,full,"Research Group Leader, Helmholtz AI Efficient Learning and Probabilistic Inference for Science (ELPIS) Lab",,20,1,https://www.helmholtz-munich.de/en/helmholtz-ai/vincent-fortuin
+2026-08-06,de-helmholtz-munich,Niki Kilbertus,Niki Kilbertus,full,"Group Leader, Reliable AI, Helmholtz AI",,18,0,https://www.helmholtz-munich.de/en/helmholtz-ai/niki-kilbertus
+2026-08-06,de-helmholtz-munich,Lara Urban,,no_match,Principal Investigator,,0,0,https://www.helmholtz-munich.de/helmholtz-pioneer-campus/lara-urban
+2026-08-06,de-humboldt-university-of-berlin,Alan Akbik,Alan Akbik,full,Prof. Dr.,,17,7,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1692635
+2026-08-06,de-humboldt-university-of-berlin,Felix Balzer,,no_match,Prof. Dr. med. Dr. rer. nat.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1693188
+2026-08-06,de-humboldt-university-of-berlin,Peter Eisert,Peter Eisert,full,Prof. Dr.-Ing.,,10,1,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1683562
+2026-08-06,de-humboldt-university-of-berlin,Johann-Christoph Freytag,Johann-Christoph Freytag,full,"Prof., Ph. D.",,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/4302
+2026-08-06,de-humboldt-university-of-berlin,Eckhard Graß,,no_match,Prof. Dr.-Ing.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1685395
+2026-08-06,de-humboldt-university-of-berlin,Lars Grunske,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1688863
+2026-08-06,de-humboldt-university-of-berlin,Verena Hafner,Verena V. Hafner,first_last,Prof. Dr. sc. nat.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1681646
+2026-08-06,de-humboldt-university-of-berlin,Johannes Köbler,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/128223
+2026-08-06,de-humboldt-university-of-berlin,Thomas Kosch,Thomas Kosch,full,Prof. Dr.,,0,27,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1694971
+2026-08-06,de-humboldt-university-of-berlin,Stefan Kratsch,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1690432
+2026-08-06,de-humboldt-university-of-berlin,Ulf Leser,Ulf Leser,full,Prof. Dr.,,2,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1689594
+2026-08-06,de-humboldt-university-of-berlin,Jan Mendling,Jan Mendling,full,Prof. Dr.,,0,1,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1693845
+2026-08-06,de-humboldt-university-of-berlin,Henning Meyerhenke,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1691251
+2026-08-06,de-humboldt-university-of-berlin,Niels Pinkwart,Niels Pinkwart,full,Prof. Dr.,,2,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1686966
+2026-08-06,de-humboldt-university-of-berlin,Jens-Peter Redlich,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1679899
+2026-08-06,de-humboldt-university-of-berlin,Wolfgang Reisig,,no_match,Prof. Dr. rer. nat. habil.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/4355
+2026-08-06,de-humboldt-university-of-berlin,Ralf Reulke,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1679901
+2026-08-06,de-humboldt-university-of-berlin,Joel Rybicki,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1695304
+2026-08-06,de-humboldt-university-of-berlin,Holger Schlingloff,Holger Schlingloff,full,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/609347
+2026-08-06,de-humboldt-university-of-berlin,Nicole Schweikardt,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1687929
+2026-08-06,de-humboldt-university-of-berlin,Gergana Vladova,,no_match,Prof. Dr.,,0,0,https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1696530
+2026-08-06,de-humboldt-university-of-berlin,Dirk Becherer,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Gaetan Borot,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Carsten Carstensen,,no_match,Prof.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/prof/1679464
+2026-08-06,de-humboldt-university-of-berlin,Gavril Farkas,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Andreas Filler,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Elmar Große-Klönne,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Falk Hante,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Michael Hintermüller,Michael Hintermüller,full,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/prof/1682801
+2026-08-06,de-humboldt-university-of-berlin,Ulrich Horst,,no_match,Prof. Dr.,,0,0,https://www.applied-financial-mathematics.de/ulrich-horst
+2026-08-06,de-humboldt-university-of-berlin,Bruno Klingler,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Jürg Kramer,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Dörte Kreher,,no_match,"Prof. Dr., Juniorprofessor/in",,0,0,https://www.mathematik.hu-berlin.de/de/personen/mitarb-vz/1688264
+2026-08-06,de-humboldt-university-of-berlin,Ulrich Kortenkamp,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/mitarb-vz/1697271
+2026-08-06,de-humboldt-university-of-berlin,Klaus Mohnke,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Markus Reiß,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Dorothee Schüth,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Vladimir Spokoiny,Vladimir G. Spokoiny,first_last,Prof. Dr. rer. nat.,,1,0,https://www.mathematik.hu-berlin.de/de/personen/prof/609311
+2026-08-06,de-humboldt-university-of-berlin,Matthias Staudacher,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Caren Tischendorf,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Thomas Walpuski,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Andrea Walther,Andrea Walther,full,Prof. Dr.,,1,0,https://www.mathematik.hu-berlin.de/de/personen/prof/prof-dr-andrea-walther
+2026-08-06,de-humboldt-university-of-berlin,Chris Wendl,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Maite Wilke Berenguer,,no_match,"Prof. Dr., Junior Professor",,0,0,https://www.mathematik.hu-berlin.de/de/personen/mitarb-vz/1693283
+2026-08-06,de-humboldt-university-of-berlin,Barbara Zwicknagl,,no_match,Prof. Dr.,,0,0,https://www.mathematik.hu-berlin.de/de/personen/professorinnen-und-professoren
+2026-08-06,de-humboldt-university-of-berlin,Sonja Greven,,no_match,Prof. Dr.,,0,0,https://www.wiwi.hu-berlin.de/en/Professorships/vwl/statistik/team/grevenso
+2026-08-06,de-humboldt-university-of-berlin,Katarzyna Reluga,Katarzyna Reluga,full,"Prof. Katarzyna Reluga, Ph.D.",,1,0,https://www.wiwi.hu-berlin.de/de/professuren/bwl/or
+2026-08-06,de-humboldt-university-of-berlin,Stefan Lessmann,Stefan Lessmann,full,Prof. Dr.,,1,0,https://www.wiwi.hu-berlin.de/de/professuren/bwl/wi
+2026-08-06,de-humboldt-university-of-berlin,Gabriel M. Ahlfeldt,,no_match,Prof. Dr.,,0,0,https://www.wiwi.hu-berlin.de/de/professuren/vwl/oe
+2026-08-06,de-humboldt-university-of-berlin,Uwe Ohler,Uwe Ohler,full,Professor (W3) of Systems Biology of Gene Regulation,,1,1,https://www.bifold.berlin/people/prof-dr-uwe-ohler.html
+2026-08-06,de-humboldt-university-of-berlin,Gerd Grasshoff,,no_match,Professor of the History of Ancient Science,,0,0,https://www.bifold.berlin/people/prof-dr-gerd-grasshoff.html
 2026-08-06,de-lmu-munich,Dieter Kranzlmüller,Dieter Kranzlmüller,full,Prof. Dr.,,0,0,https://www.ifi.lmu.de/institut/
 2026-08-06,de-lmu-munich,Thomas Seidl,Thomas Seidl 0001,full,Prof. Dr.,,6,2,https://mcml.ai/team/directors/
 2026-08-06,de-lmu-munich,Marcus Paradies,,no_match,Prof. Dr.,,0,0,https://www.ifi.lmu.de/dbs/
@@ -194,16 +430,16 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-mcml,Barbara Plank,Barbara Plank,full,"Prof. Dr., Core PI",,52,26,https://mcml.ai/research/groups/plank/
 2026-08-06,de-mcml,Holger Rauhut,Holger Rauhut,full,"Prof. Dr., Core PI",,3,2,https://mcml.ai/research/groups/rauhut/
 2026-08-06,de-mcml,Patrick Rinke,Patrick Rinke,full,"Prof. Dr., Core PI",,1,0,https://mcml.ai/research/groups/rinke/
-2026-08-06,de-mcml,Daniel Rückert,,ambiguous_full(2),"Prof. Dr., Director",,0,0,https://mcml.ai/research/groups/rueckert/
+2026-08-06,de-mcml,Daniel Rückert,Daniel Rueckert,full,"Prof. Dr., Director",,22,102,https://mcml.ai/research/groups/rueckert/
 2026-08-06,de-mcml,David Rügamer,David Rügamer,full,"Prof. Dr., Core PI",,26,1,https://mcml.ai/research/groups/ruegamer/
 2026-08-06,de-mcml,Fabian Scheipl,,no_match,"PD Dr., Core PI",,0,0,https://mcml.ai/research/groups/scheipl/
 2026-08-06,de-mcml,Volker Schmid,,no_match,"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/schmid/
 2026-08-06,de-mcml,Albrecht Schmidt,Albrecht Schmidt 0001,full,"Prof. Dr., Core PI",,0,37,https://mcml.ai/research/groups/schmidt/
 2026-08-06,de-mcml,Julia Schnabel,Julia A. Schnabel,first_last,"Prof. Dr., Core PI",,5,32,https://mcml.ai/research/groups/schnabel/
-2026-08-06,de-mcml,Steffen Schneider,,ambiguous_full(2),"Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/schneider/
+2026-08-06,de-mcml,Steffen Schneider,Steffen Schneider 0001,full,"Dr., Collaborating PI",,6,0,https://mcml.ai/research/groups/schneider/
 2026-08-06,de-mcml,Michael Schomaker,,no_match,"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/schomaker/
 2026-08-06,de-mcml,Matthias Schubert,Matthias Schubert,full,"Prof. Dr., Core PI",,4,3,https://mcml.ai/research/groups/schubert/
-2026-08-06,de-mcml,Björn Schuller,,ambiguous_first_last(2),"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/schuller/
+2026-08-06,de-mcml,Björn Schuller,Björn W. Schuller,first_last,"Prof. Dr., Core PI",,62,42,https://mcml.ai/research/groups/schuller/
 2026-08-06,de-mcml,Angela P. Schöllig,Angela P. Schoellig,first_last,"Prof. Dr., Core PI",,23,0,https://mcml.ai/research/groups/schoellig/
 2026-08-06,de-mcml,Peter Schüffler,Peter J. Schüffler,full,"Prof. Dr., Core PI",,0,6,https://mcml.ai/research/groups/schueffler/
 2026-08-06,de-mcml,Hinrich Schütze,Hinrich Schütze,full,"Prof. Dr., Core PI",,73,40,https://mcml.ai/research/groups/schuetze/
@@ -213,15 +449,21 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-mcml,Helge Stein,,no_match,"Prof. Dr., Collaborating PI",,0,0,https://mcml.ai/research/groups/stein/
 2026-08-06,de-mcml,Tom Sterkenburg,Tom F. Sterkenburg,first_last,"Dr., Associated JRG Leader Epistemology in ML",,1,0,https://mcml.ai/research/groups/sterkenburg/
 2026-08-06,de-mcml,Fabian Theis,Fabian J. Theis,first_last,"Prof. Dr., Core PI",,17,7,https://mcml.ai/research/groups/theis/
-2026-08-06,de-mcml,Nils Thuerey,,ambiguous_full(2),"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/thuerey/
+2026-08-06,de-mcml,Nils Thuerey,Nils Thürey,full,"Prof. Dr., Core PI",,1,0,https://mcml.ai/research/groups/thuerey/
 2026-08-06,de-mcml,Federico Tombari,Federico Tombari,full,"PD Dr., Collaborating PI",,111,3,https://mcml.ai/research/groups/tombari/
 2026-08-06,de-mcml,Volker Tresp,Volker Tresp,full,"Prof. Dr., Core PI",,42,11,https://mcml.ai/research/groups/tresp/
 2026-08-06,de-mcml,Christian Wachinger,Christian Wachinger,full,"Prof. Dr., Core PI",,6,18,https://mcml.ai/research/groups/wachinger/
-2026-08-06,de-mcml,Xi Wang,,ambiguous_full(14),"Dr., JRG Leader Egocentric Vision",,0,0,https://mcml.ai/research/groups/wang-xi/
+2026-08-06,de-mcml,Xi Wang,Xi Wang,full,"Dr., JRG Leader Egocentric Vision",,34,9,https://mcml.ai/research/groups/wang-xi/
 2026-08-06,de-mcml,Rüdiger Westermann,Rüdiger Westermann,full,"Prof. Dr., Core PI",,4,0,https://mcml.ai/research/groups/westermann/
 2026-08-06,de-mcml,Benedikt Wiestler,Benedikt Wiestler,full,"Prof. Dr., Core PI",,4,19,https://mcml.ai/research/groups/wiestler/
-2026-08-06,de-mcml,Xiaoxiang Zhu,,ambiguous_full(2),"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/zhu/
+2026-08-06,de-mcml,Xiaoxiang Zhu,Xiao Xiang Zhu 0001,full,"Prof. Dr., Core PI",,16,8,https://mcml.ai/research/groups/zhu/
 2026-08-06,de-mcml,Ralf Zimmer,Ralf Zimmer,full,"Prof. Dr., Core PI",,0,0,https://mcml.ai/research/groups/zimmer/
+2026-08-06,de-mpi-hd-chm,Iyad Rahwan,Iyad Rahwan,full,"Director, Center for Humans and Machines",,0,2,https://www.mpib-berlin.mpg.de/chm
+2026-08-06,de-mpi-hd-chm,Ulman Lindenberger,Ulman Lindenberger,full,Director of the Center for Lifespan Psychology,,0,0,https://www.mpib-berlin.mpg.de/research/research-centers/lifespan-psychology
+2026-08-06,de-mpi-hd-chm,Chi (Zoe) Ngo,,no_match,"Group Leader, Emmy Noether Group RAVEN",,0,0,https://www.mpib-berlin.mpg.de/research/research-groups/raven
+2026-08-06,de-mpi-hd-chm,Benedikt Poser,,no_match,"Research Group Leader, Max Planck Research Group MR Physics",,0,0,https://www.mpib-berlin.mpg.de/research/research-groups/mprg-mr-physics
+2026-08-06,de-mpi-hd-chm,Kavitha Ranganathan,,no_match,"Research Group Leader, Max Planck Partner Group Risk Literacy and Communication (RiCoM)",,0,0,https://www.mpib-berlin.mpg.de/2090686/risk-literacy-and-communication
+2026-08-06,de-mpi-hd-chm,Johanna M. Lukate,,no_match,"Research Group Leader, Minerva Fast Track Research Group 'Migration, Identity and Blackness in Europe'",,0,0,https://www.mpib-berlin.mpg.de/research/research-groups/mftrg-mib
 2026-08-06,de-mpi-inf,Danupon Na Nongkai,,no_match,"Prof. Danupon Na Nongkai, Ph.D.",,0,0,https://www.mpi-inf.mpg.de/departments/algorithms-complexity/people/current-members/danupon-na-nongkai
 2026-08-06,de-mpi-inf,Bernt Schiele,Bernt Schiele,full,Prof. Dr. Bernt Schiele,,103,2,https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/
 2026-08-06,de-mpi-inf,Jonas Fischer,Jonas Fischer,full,Dr. Jonas Fischer,,11,2,https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/jonas-fischer/
@@ -248,7 +490,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-mpi-is-stu,Christoph Keplinger,Christoph Keplinger,full,Director,Stuttgart,1,1,https://is.mpg.de/person/ck
 2026-08-06,de-mpi-is-stu,Philipp Rothemund,,no_match,"Tenure track professor, University of Stuttgart",Stuttgart,0,0,https://is.mpg.de/rm/person/rothemund
 2026-08-06,de-mpi-is-stu,Florian Hartmann,,no_match,Max Planck Research Group Leader,Stuttgart,0,0,https://is.mpg.de/bmm/person/hartmann
-2026-08-06,de-mpi-is-stu,Philipp Müller,,ambiguous_full(5),Max Planck Research Group Leader,Stuttgart,0,0,https://is.mpg.de/esi/person/phmueller
+2026-08-06,de-mpi-is-stu,Philipp Müller,,ambiguous_full(3),Max Planck Research Group Leader,Stuttgart,0,0,https://is.mpg.de/esi/person/phmueller
 2026-08-06,de-mpi-is-stu,Renate Sachse,,no_match,Max Planck Research Group Leader,Stuttgart,0,0,https://is.mpg.de/mis/person/rsachse
 2026-08-06,de-mpi-is-stu,Janneke Schwaner,,no_match,Max Planck Research Group Leader,Stuttgart,0,0,https://is.mpg.de/nom/person/jschwaner
 2026-08-06,de-mpi-is-stu,Ksenia Keplinger,Ksenia Keplinger,full,Research Group Leader,Stuttgart,0,1,https://is.mpg.de/ld/person/kkeplinger
@@ -263,9 +505,9 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-mpi-is-tue,Dieter Büchler,Dieter Büchler,full,Research Group Leader,Tübingen,13,0,https://is.mpg.de/ei/people
 2026-08-06,de-mpi-is-tue,Jakob Macke,Jakob H. Macke,first_last,PI,Tübingen,23,0,https://is.mpg.de/ei/people
 2026-08-06,de-mpi-is-tue,Dingfan Chen,Dingfan Chen,full,Research Group Leader,Tübingen,7,3,https://is.mpg.de/sf/people
-2026-08-06,de-mpi-is-tue,Yatong Chen,,ambiguous_full(2),Research Group Leader,Tübingen,0,0,https://is.mpg.de/sf/people
+2026-08-06,de-mpi-is-tue,Yatong Chen,Yatong Chen,full,Research Group Leader,Tübingen,9,0,https://is.mpg.de/sf/people
 2026-08-06,de-mpi-is-tue,Maximilian Dax,Maximilian Dax,full,Research Group Leader,Tübingen,4,0,https://is.mpg.de/spin/people
-2026-08-06,de-mpi-is-tue,Celestine Mendler-Dünner,,ambiguous_full(2),PI,Tübingen,0,0,https://is.mpg.de/as/people
+2026-08-06,de-mpi-is-tue,Celestine Mendler-Dünner,Celestine Dünner,full,PI,Tübingen,0,0,https://is.mpg.de/as/people
 2026-08-06,de-mpi-is-tue,Antonio Orvieto,Antonio Orvieto,full,PI,Tübingen,33,0,https://is.mpg.de/dmo/people
 2026-08-06,de-mpi-is-tue,Shiwei Liu,Shiwei Liu 0003,override,Research Group Leader,Tübingen,48,3,https://is.mpg.de/wei/people
 2026-08-06,de-mpi-is-tue,Sahar Abdelnabi,Sahar Abdelnabi,full,Research Group Leader,Tübingen,10,2,https://is.mpg.de/compass/people
@@ -284,7 +526,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-mpi-sws,Peter Druschel,,no_match,Faculty (scientific director),Saarbrücken,0,0,https://www.mpi-sws.org/people/druschel/
 2026-08-06,de-mpi-sws,Deepak Garg,Deepak Garg,full,Faculty (tenured),Saarbrücken,1,0,https://www.mpi-sws.org/people/dg/
 2026-08-06,de-mpi-sws,Christina Giannoula,,no_match,Faculty (tenure-track),Saarbrücken,0,0,https://www.mpi-sws.org/people/cgiannoula/
-2026-08-06,de-mpi-sws,Manuel Gomez Rodriguez,,ambiguous_full(2),Faculty (tenured),Kaiserslautern,0,0,https://www.mpi-sws.org/people/manuelgr/
+2026-08-06,de-mpi-sws,Manuel Gomez Rodriguez,Manuel Gomez-Rodriguez,full,Faculty (tenured),Kaiserslautern,2,0,https://www.mpi-sws.org/people/manuelgr/
 2026-08-06,de-mpi-sws,Krishna Gummadi,Krishna P. Gummadi,first_last,Faculty (scientific director),Kaiserslautern,11,9,https://www.mpi-sws.org/people/gummadi/
 2026-08-06,de-mpi-sws,Antoine Kaufmann,,no_match,Faculty (tenure-track),Saarbrücken,0,0,https://www.mpi-sws.org/people/antoinek/
 2026-08-06,de-mpi-sws,Rupak Majumdar,Rupak Majumdar,full,Faculty (scientific director),Kaiserslautern,9,1,https://www.mpi-sws.org/people/rupak/
@@ -299,9 +541,9 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-mpi-sws,Nina Grgic-Hlaca,Nina Grgic-Hlaca,full,Research Group Leader,Saarbrücken,0,5,https://www.mpi-sws.org/people/nghlaca/
 2026-08-06,de-mpi-sws,Aditya Potukuchi,,no_match,Research Group Leader,Kaiserslautern,0,0,https://www.mpi-sws.org/people/apotu/
 2026-08-06,de-mpi-sws,Goran Radanovic,Goran Radanovic,full,Research Group Leader,Saarbrücken,26,3,https://www.mpi-sws.org/people/gradanovic/
-2026-08-06,de-mpi-sws,Sadegh Soudjani,,ambiguous_full(2),Research Group Leader,Kaiserslautern,0,0,https://www.mpi-sws.org/people/sadegh/
+2026-08-06,de-mpi-sws,Sadegh Soudjani,Sadegh Esmaeil Zadeh Soudjani,full,Research Group Leader,Kaiserslautern,0,0,https://www.mpi-sws.org/people/sadegh/
 2026-08-06,de-mpi-sws,Mikhail Starchak,,no_match,Research Group Leader,Saarbrücken,0,0,https://www.mpi-sws.org/people/starchak/
-2026-08-06,de-mpi-sws,Anthony Lin,,ambiguous_first_last(2),Max Planck Fellow,Kaiserslautern,0,0,https://www.mpi-sws.org/people/awlin/
+2026-08-06,de-mpi-sws,Anthony Lin,Anthony Widjaja Lin,first_last,Max Planck Fellow,Kaiserslautern,3,0,https://www.mpi-sws.org/people/awlin/
 2026-08-06,de-mpi-sws,Isabel Valera Martinez,,no_match,Adjunct Faculty,Saarbrücken,0,0,https://www.mpi-sws.org/people/ivalera/
 2026-08-06,de-mpi-sws,Elissa Redmiles,Elissa M. Redmiles,first_last,Adjunct Faculty,unclear,1,8,https://www.mpi-sws.org/people/eredmiles/
 2026-08-06,de-mpi-sws,Rodrigo Rodrigues,Rodrigo Rodrigues 0001,full,Adjunct Faculty,unclear,0,0,https://www.mpi-sws.org/people/rodrigo/
@@ -398,7 +640,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tu-berlin,Wojciech Samek,Wojciech Samek,full,Prof. Dr. Wojciech Samek (FGL Gem. Berufung Berliner Modell),,28,7,https://www.tu.berlin/vcard/wojciech.samek/32432
 2026-08-06,de-tu-berlin,Patrick Scheele,,no_match,"No 'Prof.' title shown on the TU Berlin vcard page (heading reads plainly 'Patrick Scheele'), despite 'FGL Gem. Berufung Berliner Modell' (joint-appointment department-head classification) and his listing in the main Fachgebiete table as chair holder for Mikrowellen- und Optoelektronik (MO).",,0,0,https://www.tu.berlin/vcard/patrick.scheele
 2026-08-06,de-tu-berlin,Sebastian Schelter,Sebastian Schelter,full,Prof. Dr.-Ing. Sebastian Schelter (Full Professor at Technische Universität Berlin and BIFOLD),,2,8,https://deem.berlin/#professor
-2026-08-06,de-tu-berlin,Stefan Schmid,,ambiguous_full(3),Prof. Dr. Stefan Schmid,,0,0,https://www.tu.berlin/eninet/ueber-uns
+2026-08-06,de-tu-berlin,Stefan Schmid,Stefan Mitsch,full,Prof. Dr. Stefan Schmid,,1,0,https://www.tu.berlin/eninet/ueber-uns
 2026-08-06,de-tu-berlin,Martin Schneider-Ramelow,,no_match,Prof. Dr.-Ing. Martin Schneider-Ramelow,,0,0,https://www.tu.berlin/whs/ueber-uns/leitung
 2026-08-06,de-tu-berlin,Rolf Schuhmann,,no_match,Prof. Dr. Rolf Schuhmann (FGL Strukturprofessur),,0,0,https://www.tu.berlin/vcard/rolf.schuhmann/32432
 2026-08-06,de-tu-berlin,Stefan Schulte,,no_match,Prof. Dr.-Ing. Stefan Schulte,,0,0,https://www.tu.berlin/sbe/ueber-uns/leitung
@@ -426,11 +668,11 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tu-munich,Achim Lilienthal,Achim J. Lilienthal,first_last,Prof. Dr.,Munich city centre,15,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6F846EED5618D470&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Alessio Gagliardi,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6990AC98818D0A4F&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Alexander Fraser,Alexander Fraser 0001,full,Prof. Dr.,Heilbronn,20,13,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=D2EC663DE586CD9A&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Alexander König,,ambiguous_full(2),Prof. Dr. M.Sc.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F6BBC641019F091B&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Alexander König,Alexander Koenig,full,Prof. Dr. M.Sc.,Munich city centre,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F6BBC641019F091B&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Alexander Pretschner,Alexander Pretschner,full,Prof. Dr.,Garching,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0DB21F05BD46AFEE&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Ali Sunyaev,Ali Sunyaev,full,Prof. Dr. rer. nat.,Heilbronn,0,4,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7476D81B96E50CEA&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Alin Olimpiu Albu-Schäffer,Alin Albu-Schäffer,full,Prof. Dr.-Ing.,unclear,15,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6E0408F2712A90CA&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Alois Christian Knoll,,ambiguous_full(2),Prof. Dr.-Ing. habil.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1AE394A566BFB49C&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Alois Christian Knoll,Alois C. Knoll,full,Prof. Dr.-Ing. habil.,Garching,21,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1AE394A566BFB49C&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Amelie Hagelauer,Amelie Hagelauer,full,Prof. Dr.-Ing.,Garching,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=8BBFF01339341946&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Amr Abdelhafez,Amr Al-Anwar 0001,first_last,Prof. Dr. rer. nat.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5C63F7FD827C4D63&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Andrea Stocco,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=A01F0B3AF661A080&pPersonenGruppe=3
@@ -449,7 +691,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tu-munich,Bernhard Seeber,Bernhard U. Seeber,first_last,Prof. Dr.-Ing.,Munich city centre,0,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=8DD6C79A905DFE42&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Bernhard Wolfrum,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B9780C4E5EE7082D&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Berthold Bäuml,Berthold Bäuml,full,Prof. Dr.-Ing.,Garching,10,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=716BA3488FEBED66&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Björn Schuller,,ambiguous_first_last(2),Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C81D6E2A817253F0&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Björn Schuller,Björn W. Schuller,first_last,Prof. Dr.,Munich city centre,62,42,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C81D6E2A817253F0&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Boris Lohmann,,no_match,Prof. Dr.-Ing.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C4B6234ADD394944&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Boris Vexler,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F1C45C8297BE5A0A&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Burkhard Rost,Burkhard Rost,full,Prof. Dr.,Garching,1,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6484F634B7468977&pPersonenGruppe=3
@@ -463,22 +705,22 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tu-munich,Christian Wachinger,Christian Wachinger,full,Prof. Dr.,Munich city centre,6,18,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=00971538A2596A42&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Christina Kuttler,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=0E7721100F59189F&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Christoph Knochenhauer,Christoph Knochenhauer,full,Prof. Dr. rer. nat.,Garching,2,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=19F4F4257F9AF912&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Chunyang Chen,,ambiguous_full(4),Prof.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=125BC29A0AE1A036&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Chunyang Chen,,ambiguous_full(3),Prof.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=125BC29A0AE1A036&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Claudia Eckert,Claudia M. Eckert,full,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=5B2150D73A8ADFB4&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Claudia Scheimbauer,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=F64940ABF0A3DE79&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Clemens Thielen,,no_match,Prof. Dr.,Straubing,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=CA907F200B68BB0F&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Cristina Piazza,Cristina Piazza,full,Prof. Dr.,Garching,3,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=76E9C2C0B8A0633F&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Daniel Cremers,Daniel Cremers,full,Prof. Dr.,Garching,104,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=B53F0E7568B34CDA&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Daniel Matthes,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=25BDDF58138DE46D&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Daniel Roth,,ambiguous_full(2),Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6527F70CDE2DF847&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Daniel Rückert,,ambiguous_full(2),Univ.-Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C83784B52D9745FE&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Daniel Roth,Daniel Roth 0002,full,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6527F70CDE2DF847&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Daniel Rückert,Daniel Rueckert,full,Univ.-Prof. Dr.,Munich city centre,22,102,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C83784B52D9745FE&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Darius Burschka,Darius Burschka,full,Prof. Dr.-Ing.,Garching,10,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=57E79D7223A6A11D&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Debarghya Ghoshdastidar,Debarghya Ghoshdastidar,full,Prof. Dr. Ph.D.,Garching,17,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C9951A6320A69B35&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Deniz Kus,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6448174BF2B5D7D5&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Dirk Heckmann,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=99BD577986D760F5&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Dominik Grimm,,ambiguous_first_last(2),Prof. Dr.,Straubing,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=3B48C63CC5D3EBAC&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Dominik Grimm,Dominik G. Grimm,first_last,Prof. Dr.,Straubing,1,1,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=3B48C63CC5D3EBAC&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Donna Ankerst,,no_match,Prof. Ph.D.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=6C4DA60D5E80F915&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Eckehard Steinbach,,ambiguous_full(2),Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7A6220365686FFC6&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Eckehard Steinbach,Eckehard G. Steinbach,full,Prof. Dr.-Ing.,Munich city centre,17,10,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=7A6220365686FFC6&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Elisabeth Ullmann,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=10FD9EFDE2A58069&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Enkelejda Kasneci,Enkelejda Kasneci,full,Prof. Dr.,Munich city centre,13,6,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=74C17DE89B4BE2A6&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Eric Sonnendrücker,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E296BFDB42644DE0&pPersonenGruppe=3
@@ -514,11 +756,11 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tu-munich,Jana Diesner,Jana Diesner,full,Prof. Dr.,Munich city centre,6,3,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=12B7728FDB5773AA&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Jana Giceva Makreshanska,Jana Giceva,first_last,Prof. Dr.sc. ETH Zürich,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=50C4280A382D8E63&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Jens Großklags,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E24E0D1468539BBD&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Jia Chen,,ambiguous_full(8),Prof. Dr.-Ing.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1FFCB0A4079A2968&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Jia Chen,Jia Chen 0003,full,Prof. Dr.-Ing.,Munich city centre,4,8,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1FFCB0A4079A2968&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Joachim Henkel,,no_match,Prof. Dr.,Munich city centre,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C6EA5BC8C0B66FAB&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Johanna Pirker,Johanna Pirker,full,Prof. Dr. techn.,Garching,0,2,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=2396A8E6F76F455B&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Johannes Betz,Johannes Betz,full,Prof. Dr.,Garching,8,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=3D84811277C5B6A7&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Johannes Müller,,ambiguous_full(4),Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=9CB1354F33A33774&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Johannes Müller,,ambiguous_full(3),Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=9CB1354F33A33774&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Johannes Zimmer,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=44E8CEC761DD4C15&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Julia Schnabel,Julia A. Schnabel,first_last,Prof. Dr.,Garching,5,32,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=29674689347A83BE&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Julien Gagneur,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=C9CFC361C822E631&pPersonenGruppe=3
@@ -589,7 +831,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tu-munich,Simon Hegelich,Simon Hegelich,full,Prof. Dr. (verbatim title unconfirmed),unclear,0,1,https://www.cit.tum.de/cit/school/personen/professuren/
 2026-08-06,de-tu-munich,Simone Warzel,,no_match,Prof. Dr.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=E9E3C0F8B86E163E&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Stefan Bauer,Stefan Bauer,full,Prof. Dr.,Garching,32,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=BCD98946BB8681C9&pPersonenGruppe=3
-2026-08-06,de-tu-munich,Stefan Wagner,,ambiguous_full(4),Prof. Dr.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=84DD0DE6E18B8C0A&pPersonenGruppe=3
+2026-08-06,de-tu-munich,Stefan Wagner,,ambiguous_full(3),Prof. Dr.,Heilbronn,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=84DD0DE6E18B8C0A&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Stefan Weltge,,no_match,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=1D83FF14C6BDE5D3&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Stefanie Jegelka,Stefanie Jegelka,full,Prof. Dr.,Garching,58,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=34E1195FF60255B9&pPersonenGruppe=3
 2026-08-06,de-tu-munich,Stefanie Rinderle-Ma,Stefanie Rinderle-Ma,full,Prof. Dr. rer. nat.,Garching,0,0,https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenId=45C55001AF03681B&pPersonenGruppe=3
@@ -629,9 +871,9 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tue-ai-center,Maximilian Dax,Maximilian Dax,full,Group Leader,,4,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Peter Dayan,Peter Dayan,full,Professor,,7,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Veronika Eyring,Veronika Eyring,full,Professor,,2,0,https://tuebingen.ai/people
-2026-08-06,de-tue-ai-center,Peter Gehler,,ambiguous_first_last(2),Professor,,0,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Peter Gehler,Peter V. Gehler,first_last,Professor,,5,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Andreas Geiger,Andreas Geiger 0001,full,Professor,,75,3,https://tuebingen.ai/people
-2026-08-06,de-tue-ai-center,Matthias Hein,,ambiguous_full(2),Professor,,0,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Matthias Hein,Matthias Hein 0002,full,Professor,,0,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Almut Sophia Koepke,A. Sophia Koepke,full,Group Leader,,12,1,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Mario Krenn,Mario Krenn,full,Professor,,0,2,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Hilde Kühne,Hilde Kühne,full,Professor,,1,0,https://tuebingen.ai/people
@@ -639,7 +881,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tue-ai-center,Nicole Ludwig,,no_match,Tenure Track Professor,,0,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Jakob Macke,Jakob H. Macke,first_last,Professor,,23,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Georg Martius,Georg Martius,full,Professor,,48,1,https://tuebingen.ai/people
-2026-08-06,de-tue-ai-center,Celestine Mendler-Dünner,,ambiguous_full(2),Group Leader,,0,0,https://tuebingen.ai/people
+2026-08-06,de-tue-ai-center,Celestine Mendler-Dünner,Celestine Dünner,full,Group Leader,,0,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Seong Joon Oh,Seong Joon Oh,full,Professor,,31,2,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Antonio Orvieto,Antonio Orvieto,full,Group Leader,,33,0,https://tuebingen.ai/people
 2026-08-06,de-tue-ai-center,Gerard Pons-Moll,Gerard Pons-Moll,full,Professor,,29,0,https://tuebingen.ai/people
@@ -648,7 +890,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-tue-ai-center,Robert Williamson,Robert C. Williamson,first_last,Professor,,8,0,https://tuebingen.ai/people
 2026-08-06,de-university-of-stuttgart,Marco Aiello,Marco Aiello 0001,full,Prof. Dr.,,2,0,https://www.f05.uni-stuttgart.de/fakultaet/personen/Aiello/
 2026-08-06,de-university-of-stuttgart,Kai Oliver Arras,Kai Oliver Arras,full,Prof. Dr.,,0,0,https://www.ki.uni-stuttgart.de/de/institut/team/Arras/
-2026-08-06,de-university-of-stuttgart,Christian Becker,,ambiguous_full(2),Prof. Dr.,,0,0,https://www.f05.uni-stuttgart.de/fakultaet/personen/Becker-00044/
+2026-08-06,de-university-of-stuttgart,Christian Becker,Christian Becker-Asano,full,Prof. Dr.,,0,0,https://www.f05.uni-stuttgart.de/fakultaet/personen/Becker-00044/
 2026-08-06,de-university-of-stuttgart,Steffen Becker,Steffen Becker 0003,full,Prof. Dr.-Ing.,,0,5,https://www.f05.uni-stuttgart.de/fakultaet/personen/Becker-00001/
 2026-08-06,de-university-of-stuttgart,Andrés Bruhn,Andrés Bruhn,full,Prof. Dr.-Ing.,,7,0,https://www.f05.uni-stuttgart.de/fakultaet/personen/
 2026-08-06,de-university-of-stuttgart,Andreas Bulling,Andreas Bulling,full,Prof. Dr.,,10,11,https://www.vis.uni-stuttgart.de/institut/team/Bulling/
@@ -706,13 +948,13 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,de-university-of-t-bingen,Shahram Eivazi,Shahram Eivazi,full,Dr. Shahram Eivazi (Festo IoC),,1,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Michael Franke,Michael Franke,full,Prof. Dr. Michael Franke (kooptiert),,2,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Volker Franz,,no_match,Prof. Dr. rer. nat. Volker Franz,,0,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
-2026-08-06,de-university-of-t-bingen,Peter Gehler,,ambiguous_first_last(2),Prof. Dr. Peter Gehler (kooptiert),,0,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
+2026-08-06,de-university-of-t-bingen,Peter Gehler,Peter V. Gehler,first_last,Prof. Dr. Peter Gehler (kooptiert),,5,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Andreas Geiger,Andreas Geiger 0001,full,Prof. Dr.-Ing. Andreas Geiger,,75,3,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Martin Giese,Martin A. Giese,first_last,Prof. Dr.-Ing. Martin Giese (kooptiert),,1,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Torsten Grust,,no_match,Prof. Dr. rer. nat. Torsten Grust,,0,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Moritz Hardt,Moritz Hardt,full,Prof. Dr. Moritz Hardt (Honorarprofessor),,24,2,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Daniel Haeufle,Daniel F. B. Haeufle,first_last,Prof. Dr. Daniel Haeufle (kooptiert),,4,1,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
-2026-08-06,de-university-of-t-bingen,Matthias Hein,,ambiguous_full(2),Prof. Dr. rer. nat. Matthias Hein,,0,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
+2026-08-06,de-university-of-t-bingen,Matthias Hein,Matthias Hein 0002,full,Prof. Dr. rer. nat. Matthias Hein,,0,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Philipp Hennig,Philipp Hennig,full,Prof. Dr. Philipp Hennig,,46,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Niels Henze,Niels Henze,full,Prof. Dr. Niels Henze,,0,12,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
 2026-08-06,de-university-of-t-bingen,Daniel Huson,Daniel H. Huson,first_last,Prof. Dr. math. Daniel Huson,,1,0,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/arbeitsgruppen/
@@ -774,10 +1016,10 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,fr-inria-saclay,Dimo Brockhoff,,no_match,Chargé de recherche,,0,0,https://inria.fr/en/randopt-nouvelle-equipe-specialisee-en-optimisation-aleatoire
 2026-08-06,fr-inria-saclay,Taous-Meriem Laleg Kirati,,no_match,Directeur de recherche,,0,0,https://team.inria.fr/boost/team-members/
 2026-08-06,fr-inria-saclay,Ioannis Bargiotas,,no_match,Professeur,,0,0,https://team.inria.fr/boost/team-members/
-2026-08-06,fr-inria-saclay,Emilie Chouzenoux,,ambiguous_full(2),Chercheur senior,,0,0,https://www.inria.fr/en/emilie-chouzenoux-medical_imaging
+2026-08-06,fr-inria-saclay,Emilie Chouzenoux,Emilie Chouzenoux,full,Chercheur senior,,4,7,https://www.inria.fr/en/emilie-chouzenoux-medical_imaging
 2026-08-06,fr-inria-saclay,Nicolas Anciaux,,no_match,Directeur de recherche,,0,0,https://team.inria.fr/petrus/
 2026-08-06,fr-inria-saclay,Catuscia Palamidessi,Catuscia Palamidessi,full,Senior Researcher,,6,0,https://www.inria.fr/en/catuscia-palamidessi-Inria-French-Academy-of-Sciences-Grand-Prize
-2026-08-06,fr-inria-saclay,Frank Valencia,,ambiguous_full(2),Chercheur CNRS,,0,0,https://team.inria.fr/Comete/
+2026-08-06,fr-inria-saclay,Frank Valencia,Frank D. Valencia,full,Chercheur CNRS,,0,0,https://team.inria.fr/Comete/
 2026-08-06,fr-inria-saclay,George Drettakis,George Drettakis,full,Senior Researcher,,0,2,https://team.inria.fr/graphdeco/
 2026-08-06,fr-inria-saclay,Emmanuel Pietriga,Emmanuel Pietriga,full,Senior Researcher,,0,5,https://ilda.saclay.inria.fr/
 2026-08-06,fr-inria-saclay,Gaël Thomas,,no_match,Senior Researcher,,0,0,https://pages.saclay.inria.fr/gael.thomas/
@@ -802,7 +1044,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06,fr-paris-saclay,Francesca Fiorenzi,,no_match,Maître de conférences,,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Florent Hivert,,no_match,Professeur,,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Hoang La,,no_match,Maître de conférences,,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
-2026-08-06,fr-paris-saclay,Hao Li,,ambiguous_full(33),Chercheur,,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
+2026-08-06,fr-paris-saclay,Hao Li,Hao Li 0093,full,Chercheur,,4,1,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Francois Pirot,,no_match,Maître de conférences,,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Viviane Pons,,no_match,Maître de conférences,,0,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
 2026-08-06,fr-paris-saclay,Arpad Rimmel,Arpad Rimmel,full,Maître de conférences,,2,0,https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/graphes-algorithmes-et-combinatoire-galac/
@@ -936,13 +1178,13 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06-sonnet,fr-paris-saclay,Nadjib Lazaar,Nadjib Lazaar,full,Enseignant-chercheur,,3,1,https://www.lisn.upsaclay.fr/membres/lazaar-nadjib/
 2026-08-06-sonnet,fr-paris-saclay,Chloé Le Bail,,no_match,Maîtresse de conférences en Ergonomie,,0,0,https://www.lisn.upsaclay.fr/membres/le-bail-chloe/
 2026-08-06-sonnet,fr-paris-saclay,Patrick Le Quéré,,no_match,Chercheur émérite,,0,0,https://www.lisn.upsaclay.fr/membres/le-quere-patrick/
-2026-08-06-sonnet,fr-paris-saclay,Hao Li,,ambiguous_full(33),Chercheur,,0,0,https://www.lisn.upsaclay.fr/membres/li-hao/
+2026-08-06-sonnet,fr-paris-saclay,Hao Li,Hao Li 0093,full,Chercheur,,4,1,https://www.lisn.upsaclay.fr/membres/li-hao/
 2026-08-06-sonnet,fr-paris-saclay,Vincent Liard,,no_match,Enseignant-chercheur,,0,0,https://www.lisn.upsaclay.fr/membres/liard-vincent/
 2026-08-06-sonnet,fr-paris-saclay,Jean-Sylvain Lienard,Jean-Sylvain Liénard,full,Chercheur émérite,,1,0,https://www.lisn.upsaclay.fr/membres/lienard-jean-sylvain/
 2026-08-06-sonnet,fr-paris-saclay,Anne-Laure Ligozat,Anne-Laure Ligozat,full,Professeure,,2,0,https://www.lisn.upsaclay.fr/membres/ligozat-anne-laure/
 2026-08-06-sonnet,fr-paris-saclay,Didier Lucor,,no_match,Chercheur,,0,0,https://www.lisn.upsaclay.fr/membres/lucor-didier/
 2026-08-06-sonnet,fr-paris-saclay,François Lusseyran,,no_match,Chercheur émérite,,0,0,https://www.lisn.upsaclay.fr/membres/lusseyran-francois/
-2026-08-06-sonnet,fr-paris-saclay,Yue Ma,,ambiguous_full(7),Enseignante-chercheuse,,0,0,https://www.lisn.upsaclay.fr/membres/ma-yue/
+2026-08-06-sonnet,fr-paris-saclay,Yue Ma,Yue Ma 0016,full,Enseignante-chercheuse,,15,2,https://www.lisn.upsaclay.fr/membres/ma-yue/
 2026-08-06-sonnet,fr-paris-saclay,Wendy Mackay,Wendy E. Mackay,first_last,Research Director,,0,19,https://www.lisn.upsaclay.fr/membres/mackay-wendy/
 2026-08-06-sonnet,fr-paris-saclay,Dominique Marcadet,,no_match,Professeur,,0,0,https://www.lisn.upsaclay.fr/membres/marcadet-dominique/
 2026-08-06-sonnet,fr-paris-saclay,Joseph Mariani,Joseph Mariani,full,Directeur de Recherche Emérite,,0,0,https://www.lisn.upsaclay.fr/membres/mariani-joseph/
@@ -951,7 +1193,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06-sonnet,fr-paris-saclay,Julien Mille,,no_match,Chercheur,,0,0,https://www.lisn.upsaclay.fr/membres/mille-julien/
 2026-08-06-sonnet,fr-paris-saclay,Nona Naderi,Nona Naderi,full,Chaire de Professeur Junior,,1,0,https://www.lisn.upsaclay.fr/membres/naderi-nona/
 2026-08-06-sonnet,fr-paris-saclay,Aurélie Névéol,Aurélie Névéol,full,Directrice de Recherche,,6,2,https://www.lisn.upsaclay.fr/membres/neveol-aurelie/
-2026-08-06-sonnet,fr-paris-saclay,Huyen Nguyen,,ambiguous_full(3),Maîtresse de Conférences,,0,0,https://www.lisn.upsaclay.fr/membres/nguyen-huyen/
+2026-08-06-sonnet,fr-paris-saclay,Huyen Nguyen,Thi Thuong Huyen Nguyen,full,Maîtresse de Conférences,,0,0,https://www.lisn.upsaclay.fr/membres/nguyen-huyen/
 2026-08-06-sonnet,fr-paris-saclay,Caroline Nore,,no_match,Professeure des Universités,,0,0,https://www.lisn.upsaclay.fr/membres/nore-caroline/
 2026-08-06-sonnet,fr-paris-saclay,Lucas Ondel Yang,Lucas Ondel Yang,full,Chargé de Recherche,,2,1,https://www.lisn.upsaclay.fr/membres/ondel-yang-lucas/
 2026-08-06-sonnet,fr-paris-saclay,Pierre-Henri Paris,Pierre-Henri Paris,full,Maître de Conférences,,1,2,https://www.lisn.upsaclay.fr/membres/paris-pierre-henri/
@@ -1005,7 +1247,7 @@ run,inst_id,name,dblp_name,match,title_verbatim,site,core_papers,extended_papers
 2026-08-06-sonnet,fr-paris-saclay,Sahar Ghannay,Sahar Ghannay,full,"Chercheurs, enseignants-chercheurs",,6,2,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Kim Gerdes,Kim Gerdes,full,"Chercheurs, enseignants-chercheurs",,1,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Michèle Sebag,Michèle Sebag,full,"Chercheurs, enseignants-chercheurs (Émérite)",,7,1,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
-2026-08-06-sonnet,fr-paris-saclay,Lin Chen,,ambiguous_full(14),"Chercheurs, enseignants-chercheurs",,0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
+2026-08-06-sonnet,fr-paris-saclay,Lin Chen,Lin Chen 0019,full,"Chercheurs, enseignants-chercheurs",,3,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Daniel Etiemble,,no_match,"Chercheurs, enseignants-chercheurs (Émérite)",,0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Frédéric Gava,,no_match,"Chercheurs, enseignants-chercheurs",,0,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf
 2026-08-06-sonnet,fr-paris-saclay,Alain Lambert,Alain Lambert,full,"Chercheurs, enseignants-chercheurs",,1,0,https://www.lisn.upsaclay.fr/app/uploads/2025/09/Organigramme-septembre-1.pdf

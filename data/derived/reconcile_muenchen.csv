@@ -6,8 +6,9 @@ Daniel Cremers,104,de-mcml;de-tu-munich;csrankings,"Technical University Munich,
 Stephan Günnemann,94,de-mcml;de-tu-munich;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
 Matthias Nießner,92,de-mcml;de-tu-munich;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
 Nassir Navab,91,de-mcml;de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
-Zeynep Akata,75,de-mcml;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
+Zeynep Akata,75,de-helmholtz-munich;de-mcml;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
 Hinrich Schütze,73,de-mcml;csrankings,"Ludwig Maximilian University of Munich, Center for Information and Language Processing, Germany",include,,on an institution directory here
+Björn W. Schuller,62,de-mcml;de-tu-munich,,queue,,"on a local directory, but DBLP's current affiliation is Imperial College London"
 Alexander G. Schwing,58,,"University of Illinois at Urbana-Champaign, IL, USA",exclude,E08,DBLP labels the affiliation former
 Stefanie Jegelka,58,de-mcml;de-tu-munich;csrankings;csrankings,"TU Munich, Germany|Massachusetts Institute of Technology (MIT), CSAIL, Cambridge, MA, USA|University of California, Berk",include,,on an institution directory here
 Eyke Hüllermeier,56,de-lmu-munich;de-mcml;csrankings,"LMU Munich, Germany",include,,on an institution directory here
@@ -20,203 +21,209 @@ Volker Tresp,42,de-lmu-munich;de-mcml;csrankings,"Ludwig Maximilian University o
 Guang Chen 0001,41,,"Tongji University, School of Computer Science and Technology, Shanghai, China",exclude,E02,DBLP records this as the PhD institution (2016)
 Björn Ommer,40,de-lmu-munich;de-mcml;csrankings,"LMU Munich, Germany",include,,on an institution directory here
 Kai Huang 0001,36,,"Sun Yat-sen University, School of Data and Computer Science, Guangzhou, China|TU Munich, Faculty of Computer Science, Ge",exclude,E08,DBLP's primary current affiliation is Sun Yat-sen University; on none of the local directories
-Zhenshan Bing,35,,"Technical University of Munich, Department of Computer Science, Germany|Harbin Institute of Technology, State Key Lab of",queue,,current DBLP affiliation here but on no institution directory
 Justus Thies,35,,"TU Darmstadt, Germany",exclude,E08,CSRankings files them at TU Darmstadt (de)
+Zhenshan Bing,35,,"Technical University of Munich, Department of Computer Science, Germany|Harbin Institute of Technology, State Key Lab of",queue,,current DBLP affiliation here but on no institution directory
 Rudolph Triebel,35,,"TU Munich, Department of Informatics, Germany",queue,,current DBLP affiliation here but on no institution directory
-Stefan Bauer,32,de-mcml;de-tu-munich;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Xi Wang,34,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Stefan Bauer,32,de-helmholtz-munich;de-mcml;de-tu-munich;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Stefan Leutenegger,30,csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Matthias Althoff,29,de-mcml;de-tu-munich;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Stefan Feuerriegel,29,de-lmu-munich;de-mcml;csrankings,"Ludwig Maximilians University of Munich, Institute of AI in Management, Germany",include,,on an institution directory here
+Matthias Althoff,29,de-mcml;de-tu-munich;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Suvrit Sra,28,de-mcml;de-tu-munich,,queue,,"on a local directory, but DBLP's current affiliation is Massachusetts Institute of Technology (MIT)"
 David Rügamer,26,de-lmu-munich;de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Bastian Rieck,24,,"University of Fribourg, Switzerland",exclude,E08,CSRankings files them at University of Fribourg (ch)
 Wenpeng Yin 0001,24,,"Pennsylvania State University, PA, USA|Salesforce Research, Palo Alto, CA, USA|University of Pennsylvania, School of Eng",exclude,E02,DBLP records this as the PhD institution (2017)
-Angela P. Schoellig,23,de-mcml;de-tu-munich;csrankings,"TU Munich, Germany|University of Toronto, Canada",include,,on an institution directory here
+Bastian Rieck,24,de-helmholtz-munich,"University of Fribourg, Switzerland",queue,,"on a local directory, but DBLP's current affiliation is University of Fribourg"
 Jakob H. Macke,23,,"University of Tübingen, Germany",exclude,E08,CSRankings files them at University of Tübingen (de)
+Angela P. Schoellig,23,de-mcml;de-tu-munich;csrankings,"TU Munich, Germany|University of Toronto, Canada",include,,on an institution directory here
 Bernd Bischl,23,de-lmu-munich;de-mcml;csrankings,"LMU Munich, Department of Statistics, Germany",include,,on an institution directory here
-Mikhail Belkin,22,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Daniel Rueckert,22,,"Technical University of Munich, Germany|Imperial College London, UK",exclude,E08,CSRankings files them at Imperial College London (gb)
 Cheng Lin 0001,22,,"Macau University of Science and Technology, Department of Computer Science and Engineering, Macau|Tencent, Shenzhen, Chi",exclude,E08,DBLP's primary current affiliation is Macau University of Science and Technology; on none of the local directories
+Georgios Kaissis,22,de-helmholtz-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Daniel Rueckert,22,de-mcml;de-tu-munich,"Technical University of Munich, Germany|Imperial College London, UK",include,,on an institution directory here
+Mikhail Belkin,22,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Gjergji Kasneci,21,de-mcml;de-tu-munich,"Technical University of Munich, Germany",include,,on an institution directory here
-Alois C. Knoll,21,csrankings;csrankings,"Technical University Munich, Department of Computer Science, Germany|University of Bielefeld, Department of Computer Sci",include,,on an institution directory here
-Vincent Fortuin,20,de-mcml,"Helmholtz AI, Munich, Germany",include,,on an institution directory here
+Alois C. Knoll,21,de-tu-munich;csrankings;csrankings,"Technical University Munich, Department of Computer Science, Germany|University of Bielefeld, Department of Computer Sci",include,,on an institution directory here
+Vincent Fortuin,20,de-helmholtz-munich;de-mcml,"Helmholtz AI, Munich, Germany",include,,on an institution directory here
 Alexander Fraser 0001,20,de-mcml;csrankings,Ludwig-Maximilians-Universität München,include,,on an institution directory here
-Gitta Kutyniok,19,de-mcml;csrankings,"LMU Munich, Department of Mathematics, Germany",include,,on an institution directory here
 Yan Xia 0003,19,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Xingxing Zuo 0001,19,,"Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, United Arab Emirates|California Institute o",exclude,E08,DBLP's primary current affiliation is Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI); on none of the local directories
-Ngoc Thang Vu,19,,"University of Stuttgart, Institute for Natural Language Processing, Germany|University of Munich, Center for Information",exclude,E08,CSRankings files them at University of Stuttgart (de)
+Gitta Kutyniok,19,de-mcml;csrankings,"LMU Munich, Department of Mathematics, Germany",include,,on an institution directory here
 Reinhard Heckel,19,de-mcml;de-tu-munich;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Ngoc Thang Vu,19,,"University of Stuttgart, Institute for Natural Language Processing, Germany|University of Munich, Center for Information",exclude,E08,CSRankings files them at University of Stuttgart (de)
+Xingxing Zuo 0001,19,,"Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, United Arab Emirates|California Institute o",exclude,E08,DBLP's primary current affiliation is Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI); on none of the local directories
 Ben Glocker,19,,"Imperial College, London, UK|Technical University Munich, Germany",exclude,E08,CSRankings files them at Imperial College London (gb)
-Niki Kilbertus,18,de-mcml;de-tu-munich,"TU Munich, Germany",include,,on an institution directory here
-Matthias Müller 0011,17,,"Intel Intelligent Systems Lab, Munich, Germany|King Abdullah University of Science and Technology (KAUST), Image and Vid",queue,,current DBLP affiliation here but on no institution directory
-Fabian J. Theis,17,de-mcml;de-tu-munich;csrankings,"Helmholtz Munich, Institute for Computational Biology, Germany|Technical University Munich, Germany",include,,on an institution directory here
-Debarghya Ghoshdastidar,17,de-mcml;de-tu-munich;csrankings,"Technical University of Munich, Germany|Eberhard Karls Universität of Tübingen, Germany|Indian Institute of Science, Ban",include,,on an institution directory here
+Eric Schulz,18,de-helmholtz-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Niki Kilbertus,18,de-helmholtz-munich;de-mcml;de-tu-munich,"TU Munich, Germany",include,,on an institution directory here
+Fabian J. Theis,17,de-helmholtz-munich;de-mcml;de-tu-munich;csrankings,"Helmholtz Munich, Institute for Computational Biology, Germany|Technical University Munich, Germany",include,,on an institution directory here
 Valentin Hofmann,17,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Eckehard G. Steinbach,17,csrankings,"Technical University Munich, Germany",include,,on an institution directory here
+Matthias Müller 0011,17,,"Intel Intelligent Systems Lab, Munich, Germany|King Abdullah University of Science and Technology (KAUST), Image and Vid",queue,,current DBLP affiliation here but on no institution directory
+Debarghya Ghoshdastidar,17,de-mcml;de-tu-munich;csrankings,"Technical University of Munich, Germany|Eberhard Karls Universität of Tübingen, Germany|Indian Institute of Science, Ban",include,,on an institution directory here
+Eckehard G. Steinbach,17,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
 Yuning Cui 0001,17,,"Technical University of Munich, Germany|National University of Defense Technology, Changsha, China",queue,,current DBLP affiliation here but on no institution directory
-Sandra Hirche,16,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
-Xiao Xiang Zhu 0001,16,,"Technical University Munich, Data Science in Earth Observation, Germany",queue,,current DBLP affiliation here but on no institution directory
-Slobodan Ilic,16,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Xiao Xiang Zhu 0001,16,de-mcml,"Technical University Munich, Data Science in Earth Observation, Germany",include,,on an institution directory here
 Fan Wu 0015,16,,"Technical University of Munich, School of Computation, Information and Technology, Germany",queue,,current DBLP affiliation here but on no institution directory
+Sandra Hirche,16,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
+Slobodan Ilic,16,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Alin Albu-Schäffer,15,de-tu-munich;csrankings;csrankings,"TU Munich, Faculty of Computer Science|German Aerospace Center (DLR), Institute of Robotics and Mechatronics",include,,on an institution directory here
 Achim J. Lilienthal,15,de-mcml;de-tu-munich;csrankings,"TU Munich, Germany",include,,on an institution directory here
 Dongheui Lee,15,,"TU Wien, Vienna, Austria",exclude,E08,DBLP labels the affiliation former
 Michael Beetz,14,,"University of Bremen, Germany|Technical University Munich, Germany|University of Bonn, Germany",exclude,E08,CSRankings files them at University of Bremen (de)
-Enkelejda Kasneci,13,de-mcml;de-tu-munich;csrankings;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
 Haris Aziz 0001,13,,"University of New South Wales, School of Computer Science and Engineering, Australia|CSIRO, Data61, Sydney, Australia|NI",exclude,E08,DBLP's primary current affiliation is University of New South Wales; on none of the local directories
+Enkelejda Kasneci,13,de-mcml;de-tu-munich;csrankings;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
 Andreas Triantafyllopoulos,13,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Patrick van der Smagt,13,csrankings;csrankings,,queue,,"on a local directory, but DBLP's current affiliation is German Aerospace Center"
 A. Sophia Koepke,12,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Karsten M. Borgwardt,12,de-mcml,"Max Planck Institute of Biochemistry, Munich, Germany",include,,on an institution directory here
-Riccardo Marin,12,de-mcml;de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Benjamin Roth 0001,12,,"University of Vienna, Austria",exclude,E08,CSRankings files them at University of Vienna (at)
-Michael A. Hedderich,12,de-mcml,"LMU Munich, Center for Information and Language Processing, Germany",include,,on an institution directory here
-Ozgur S. Oguz,12,,"Bilkent University, Computer Engineering Department, Bilkent, Ankara, Turkey|Technical University of Munich, Germany",exclude,E08,DBLP's primary current affiliation is Bilkent University; on none of the local directories
 Yihong Liu 0001,12,,"Ludwig Maximilian University of Munich (LMU), Center for Information and Language Processing, Munich Center for Machine ",queue,,current DBLP affiliation here but on no institution directory
+Ozgur S. Oguz,12,,"Bilkent University, Computer Engineering Department, Bilkent, Ankara, Turkey|Technical University of Munich, Germany",exclude,E08,DBLP's primary current affiliation is Bilkent University; on none of the local directories
+Michael A. Hedderich,12,de-mcml,"LMU Munich, Center for Information and Language Processing, Germany",include,,on an institution directory here
+Riccardo Marin,12,de-mcml;de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Karsten M. Borgwardt,12,de-mcml,"Max Planck Institute of Biochemistry, Munich, Germany",include,,on an institution directory here
 Ziyue Li 0002,12,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Seong Tae Kim 0001,12,,"Kyung Hee University, South Korea",exclude,E08,DBLP labels the affiliation former
+Benjamin Roth 0001,12,,"University of Vienna, Austria",exclude,E08,CSRankings files them at University of Vienna (at)
 Zhi Jin 0002,11,,"Sun Yat-sen University, School of Intelligent Systems Engineering, Shenzhen Campus, China|Technical University of Munich",exclude,E08,DBLP's primary current affiliation is Sun Yat-sen University; on none of the local directories
-René Ranftl,10,,"Intel Laboratory, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Lei Li 0038,10,,"University of Virginia, School of Data Science, USA|Technical University of Munich, Department of Computer Science, Germ",exclude,E08,DBLP's primary current affiliation is University of Virginia; on none of the local directories
+Marcel Binz,10,,"Helmholtz Institute for Human-Centered AI, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Mingyang Wang 0003,10,,"Bosch Center for Artificial Intelligence (BCAI), Renningen, Germany|LMU Munich, Germany|Munich Center for Machine Learni",exclude,E08,DBLP's primary current affiliation is Bosch Center for Artificial Intelligence (BCAI); on none of the local directories
-Stefan Andreas Baumann,10,,"LMU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Florian Matthes,10,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
 Thomas Nagler,10,de-lmu-munich;de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Darius Burschka,10,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
+Lei Li 0038,10,,"University of Virginia, School of Data Science, USA|Technical University of Munich, Department of Computer Science, Germ",exclude,E08,DBLP's primary current affiliation is University of Virginia; on none of the local directories
 Mathias Drton,10,de-mcml;de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Berthold Bäuml,10,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Marcel Binz,10,,"Helmholtz Institute for Human-Centered AI, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Florian Matthes,10,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
-Darius Burschka,10,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
-Gordon Cheng,9,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
+René Ranftl,10,,"Intel Laboratory, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Stefan Andreas Baumann,10,,"LMU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Matthias Grabmair,9,de-tu-munich;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Yu Zhang 0182,9,,"Technical University of Munich, Department of Computation, Information and Technology, Garching, Germany",queue,,current DBLP affiliation here but on no institution directory
+Majid Khadiv,9,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Gordon Cheng,9,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
 Claudia Plant,9,,"University of Vienna, Austria|Ludwig Maximilian University of Munich, Germany",exclude,E08,CSRankings files them at University of Vienna (at)
 Gang Chen 0023,9,,"Sun Yat-sen University, School of Data and Computer Science, Guangzhou, China",exclude,E02,DBLP records this as the PhD institution (2016)
-Majid Khadiv,9,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Yu Zhang 0182,9,,"Technical University of Munich, Department of Computation, Information and Technology, Garching, Germany",queue,,current DBLP affiliation here but on no institution directory
-Wei Ye 0001,8,,"Tongji University, Department of Computer Science, Shanghai, China|University of California Santa Barbara, CA, USA",exclude,E02,DBLP records this as the PhD institution (2018)
-Johannes Betz,8,de-tu-munich;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
-Junwen Huang 0001,8,,"Technical University of Munich, Munich Center for Machine Learning, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Kejia Chen 0005,8,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Tom Schaul,8,,"Google DeepMind, London, UK|New York University, Courant Institute of Mathematical Sciences, NY, USA|IDSIA, Manno-Lugano",exclude,E02,DBLP records this as the PhD institution (2011)
-Jian Yang 0034,8,,"Information Engineering University, School of Geospatial Information, Zhengzhou Institute of Surveying and Mapping, Hena",exclude,E02,DBLP records this as the PhD institution (2016)
+Hao Yu 0010,8,,"Technical University of Munich, Germany|National University of Defense Technology, National Laboratory for Parallel and ",queue,,current DBLP affiliation here but on no institution directory
 Yuhong Huang,8,,"Technische Universität München, München, Germany",queue,,current DBLP affiliation here but on no institution directory
 Ruilong Zhang 0001,8,,"Technical University of Munich, Department of Mathematics, Germany",queue,,current DBLP affiliation here but on no institution directory
+Junwen Huang 0001,8,,"Technical University of Munich, Munich Center for Machine Learning, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Wei Ye 0001,8,,"Tongji University, Department of Computer Science, Shanghai, China|University of California Santa Barbara, CA, USA",exclude,E02,DBLP records this as the PhD institution (2018)
+Jian Yang 0034,8,,"Information Engineering University, School of Geospatial Information, Zhengzhou Institute of Surveying and Mapping, Hena",exclude,E02,DBLP records this as the PhD institution (2016)
+Johannes Betz,8,de-tu-munich;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
 Tim C. Lueth,8,,"Technical University Munich, Department of Mechanical Engineering, Germany",queue,,current DBLP affiliation here but on no institution directory
-Hao Yu 0010,8,,"Technical University of Munich, Germany|National University of Defense Technology, National Laboratory for Parallel and ",queue,,current DBLP affiliation here but on no institution directory
-Frauke Kreuter,7,de-lmu-munich;de-mcml,"University of Maryland, VA, USA|LMU Munich, Germany",include,,on an institution directory here
-Hyemin Ahn 0001,7,,"Ulsan National Institute of Science and Technology, Graduate School of Artificial Intelligence, South Korea|German Aeros",exclude,E08,DBLP's primary current affiliation is Ulsan National Institute of Science and Technology; on none of the local directories
+Tom Schaul,8,,"Google DeepMind, London, UK|New York University, Courant Institute of Mathematical Sciences, NY, USA|IDSIA, Manno-Lugano",exclude,E02,DBLP records this as the PhD institution (2011)
+Nikolaus Demmel,7,,"Technical University of Munich, Department of Informatics, Computer Vision Group, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Zixing Zhang 0001,7,,"Hunan University, College of Computer Science and Electronic Engineering, Changsha, China|Imperial College London, Depar",exclude,E02,DBLP records this as the PhD institution (2015)
 Claudia Linnhoff-Popien,7,de-lmu-munich;csrankings;csrankings;csrankings,"Ludwig Maximilian University of Munich, Germany",include,,on an institution directory here
-Nikolaus Demmel,7,,"Technical University of Munich, Department of Informatics, Computer Vision Group, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Rui Song 0007,7,,"Technical University of Munich, TUM, Chair of Robotics, Artificial Intelligence and Real-time Systems, Garching, Germany",queue,,current DBLP affiliation here but on no institution directory
+Hyemin Ahn 0001,7,,"Ulsan National Institute of Science and Technology, Graduate School of Artificial Intelligence, South Korea|German Aeros",exclude,E08,DBLP's primary current affiliation is Ulsan National Institute of Science and Technology; on none of the local directories
 Caner Hazirbas,7,,,exclude,E02,DBLP records this as the PhD institution (2019)
-Bernd Finkbeiner,6,de-tu-munich,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany|Technical University of Munich, Germany",include,,on an institution directory here
-Florian Röhrbein,6,,"Chemnitz University of Technology, Germany",exclude,E08,DBLP labels the affiliation former
-Long Wen 0003,6,,"Technical University of Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Markus Lienkamp,6,de-tu-munich,"Technische Universität München, Germany",include,,on an institution directory here
-Simon Weber 0002,6,,"Technical University of Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Zhen Han 0003,6,,"Siemens AG, Corporate Technology, Germany",exclude,E02,DBLP records this as the PhD institution (2022)
+Rui Song 0007,7,,"Technical University of Munich, TUM, Chair of Robotics, Artificial Intelligence and Real-time Systems, Garching, Germany",queue,,current DBLP affiliation here but on no institution directory
+Frauke Kreuter,7,de-lmu-munich;de-mcml,"University of Maryland, VA, USA|LMU Munich, Germany",include,,on an institution directory here
 Michael Möller 0001,6,,"University of Siegen, Germany|Technical University Munich, Department of Mathematics|University of Münster, Institute fo",exclude,E08,CSRankings files them at University of Siegen (de)
-Lorenzo Masia,6,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Marco Caccamo,6,de-tu-munich;csrankings,"Technical University of Munich, Germany|University of Illinois, USA",include,,on an institution directory here
-Gerhard Rigoll,6,,"TU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Helmut Schmid,6,csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Christian Wachinger,6,de-mcml;de-tu-munich,"University Hospital Munich, Department of Child and Adolescent Psychiatry, Germany|Massachusetts Institute of Technology",include,,on an institution directory here
-Jana Diesner,6,de-mcml;de-tu-munich;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
-Yanyan Li 0001,6,,"Technical University of Munich, Germay",queue,,current DBLP affiliation here but on no institution directory
-Thomas Augustin 0001,6,de-lmu-munich,"Ludwig Maximilian University of Munich, Department of Statistics, Germany",include,,on an institution directory here
+Markus Lienkamp,6,de-tu-munich,"Technische Universität München, Germany",include,,on an institution directory here
+Zhen Han 0003,6,,"Siemens AG, Corporate Technology, Germany",exclude,E02,DBLP records this as the PhD institution (2022)
 Sebastian Schmidt 0006,6,,"Technical University of Munich, Germany|BMW Group, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Marco Caccamo,6,de-tu-munich;csrankings,"Technical University of Munich, Germany|University of Illinois, USA",include,,on an institution directory here
+Florian Röhrbein,6,,"Chemnitz University of Technology, Germany",exclude,E08,DBLP labels the affiliation former
+Steffen Schneider 0001,6,de-helmholtz-munich;de-mcml,,queue,,"on a local directory, but DBLP's current affiliation is University of Tübingen"
+Lorenzo Masia,6,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Jana Diesner,6,de-mcml;de-tu-munich;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
+Helmut Schmid,6,csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Simon Weber 0002,6,,"Technical University of Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Nicole Megow,6,,"University of Bremen, Department for Mathematics and Computer Science, Germany|Technical University of Munich, Departmen",exclude,E08,CSRankings files them at University of Bremen (de)
 Thomas Seidl 0001,6,de-lmu-munich;de-mcml;csrankings,"Ludwig Maximilians University of Munich, Institute for Computer Science, Germany|RWTH Aachen University, Germany",include,,on an institution directory here
-Björn M. Eskofier,5,de-mcml,,queue,,"on a local directory, but DBLP's current affiliation is University of Erlangen-Nuremberg"
-Daniel-André Duecker,5,,"Technical University of Munich (TUM), Munich Institute of Robotics and Machine Intelligence (MIRMI), Germany",queue,,current DBLP affiliation here but on no institution directory
-Yao Rong 0001,5,,"Rice University, Computer Science Department, Houston, TX, USA",exclude,E02,DBLP records this as the PhD institution (2024)
-Felix Krahmer,5,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Christian Wachinger,6,de-mcml;de-tu-munich,"University Hospital Munich, Department of Child and Adolescent Psychiatry, Germany|Massachusetts Institute of Technology",include,,on an institution directory here
+Long Wen 0003,6,,"Technical University of Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Yanyan Li 0001,6,,"Technical University of Munich, Germay",queue,,current DBLP affiliation here but on no institution directory
+Thomas Augustin 0001,6,de-lmu-munich,"Ludwig Maximilian University of Munich, Department of Statistics, Germany",include,,on an institution directory here
+Gerhard Rigoll,6,,"TU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Bernd Finkbeiner,6,de-tu-munich,"CISPA Helmholtz Center for Information Security, Saarbrücken, Germany|Technical University of Munich, Germany",include,,on an institution directory here
+Ewa Szczurek,5,de-helmholtz-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Rui Wang 0037,5,,"Microsoft Mixed Reality & AI lab, Zurich, Switzerland|Technical University of Munich, Department of Informatics, Garchin",exclude,E08,DBLP's primary current affiliation is Microsoft Mixed Reality & AI lab; on none of the local directories
-Jens Schneider 0002,5,,"Hamad Bin Khalifa University, Education City, Doha, Qatar|King Abdullah University of Science and Technology, Thuwal, Sa",exclude,E02,DBLP records this as the PhD institution (2009)
-Wolfgang Utschick,5,de-tu-munich,"Technical University Munich, Germany",include,,on an institution directory here
-Zheng Wang 0002,5,,"University of Hong Kong, Department of Mechanical Engineering, Hong Kong|Harvard University, Cambridge, MA, USA|Nanyang ",exclude,E08,DBLP's primary current affiliation is University of Hong Kong; on none of the local directories
-Kun Yuan 0004,5,,"Technical University of Munich, Center for Machine Learning, Munich, Germany|University of Strasbourg, CNRS, INSERM, ICu",queue,,current DBLP affiliation here but on no institution directory
-Xiao Xu 0001,5,,"Technical University of Munich, Chair of Media Technology, Germany",queue,,current DBLP affiliation here but on no institution directory
-Xin Sun 0003,5,,"Technical University of Munich, Germany|Harbin Institute of Technology, School of Computer Science and Technology, Weiha",queue,,current DBLP affiliation here but on no institution directory
-S. Rasoul Etesami 0001,5,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Chris Dong 0001,5,,"Hasso Plattner Institute, Potsdam, Germany",exclude,E02,DBLP records this as the PhD institution ()
 Michael Schmitt 0003,5,,"Bundeswehr University Munich, Neubiberg, Germany",queue,,current DBLP affiliation here but on no institution directory
-Jan Kretínský,5,,"Masaryk University, Brno, Czech Republic|Technical University of Munich, Department of Informatics, Germany",exclude,E08,CSRankings files them at Masaryk University (cz)
-Junjie Yang 0001,5,,"TU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Yu Zhao 0009,5,,"Tencent AI Lab, Shenzhen, China",exclude,E08,DBLP labels the affiliation former
-Julia A. Schnabel,5,de-mcml;de-tu-munich,,queue,,"on a local directory, but DBLP's current affiliation is King's College London"
-Kun Qian 0003,5,,"Japan Society for the Promotion of Science, Tokyo, Japan|University of Tokyo, Japan",exclude,E02,DBLP records this as the PhD institution (2018)
+Kun Yuan 0004,5,,"Technical University of Munich, Center for Machine Learning, Munich, Germany|University of Strasbourg, CNRS, INSERM, ICu",queue,,current DBLP affiliation here but on no institution directory
+S. Rasoul Etesami 0001,5,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Jens Schneider 0002,5,,"Hamad Bin Khalifa University, Education City, Doha, Qatar|King Abdullah University of Science and Technology, Thuwal, Sa",exclude,E02,DBLP records this as the PhD institution (2009)
 Orestis Papakyriakopoulos,5,de-tu-munich,"Technical University of Munich, Germany",include,,on an institution directory here
+Wolfgang Utschick,5,de-tu-munich,"Technical University Munich, Germany",include,,on an institution directory here
+Chris Dong 0001,5,,"Hasso Plattner Institute, Potsdam, Germany",exclude,E02,DBLP records this as the PhD institution ()
+Björn M. Eskofier,5,de-helmholtz-munich;de-mcml,,queue,,"on a local directory, but DBLP's current affiliation is University of Erlangen-Nuremberg"
+Daniel-André Duecker,5,,"Technical University of Munich (TUM), Munich Institute of Robotics and Machine Intelligence (MIRMI), Germany",queue,,current DBLP affiliation here but on no institution directory
+Xin Sun 0003,5,,"Technical University of Munich, Germany|Harbin Institute of Technology, School of Computer Science and Technology, Weiha",queue,,current DBLP affiliation here but on no institution directory
+Kun Qian 0003,5,,"Japan Society for the Promotion of Science, Tokyo, Japan|University of Tokyo, Japan",exclude,E02,DBLP records this as the PhD institution (2018)
+Julia A. Schnabel,5,de-helmholtz-munich;de-mcml;de-tu-munich,,queue,,"on a local directory, but DBLP's current affiliation is King's College London"
+Yao Rong 0001,5,,"Rice University, Computer Science Department, Houston, TX, USA",exclude,E02,DBLP records this as the PhD institution (2024)
+Junjie Yang 0001,5,,"TU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Felix Krahmer,5,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Zheng Wang 0002,5,,"University of Hong Kong, Department of Mechanical Engineering, Hong Kong|Harvard University, Cambridge, MA, USA|Nanyang ",exclude,E08,DBLP's primary current affiliation is University of Hong Kong; on none of the local directories
+Jan Kretínský,5,,"Masaryk University, Brno, Czech Republic|Technical University of Munich, Department of Informatics, Germany",exclude,E08,CSRankings files them at Masaryk University (cz)
+Xiao Xu 0001,5,,"Technical University of Munich, Chair of Media Technology, Germany",queue,,current DBLP affiliation here but on no institution directory
+Carsten Marr,4,de-helmholtz-munich;de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
 Matthias Schubert,4,de-lmu-munich;de-mcml;csrankings,"Ludwig Maximilian University of Munich, Germany",include,,on an institution directory here
-Felix Krause 0002,4,,"LMU, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Xin Jing 0001,4,,"Technical University of Munich (TUM), Chair of Health Informatics, Munich, Germany|University of Augsburg, Embedded Inte",queue,,current DBLP affiliation here but on no institution directory
-Shuo Chen 0014,4,,"LMU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Di Wu 0053,4,,"Johns Hopkins University, Laboratory for Computational Sensing and Robotics, Baltimore, MD, USA|Technical University of ",exclude,E08,DBLP's primary current affiliation is Johns Hopkins University; on none of the local directories
-Klaus Diepold,4,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
-Pengyuan Wang 0002,4,,"Technical University of Munich, Department of Informatics, Germany",queue,,current DBLP affiliation here but on no institution directory
-Robert Wille,4,de-tu-munich;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
-Markus Rickert 0001,4,,"TU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Tong Liu 0019,4,,"LMU Munich, Department of Informatics, Munich, Germany|Munich Center for Machine Learning, Germany",queue,,current DBLP affiliation here but on no institution directory
-Peter Kocsis 0001,4,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Carsten Steger,4,csrankings,"MVTec Software GmbH, Munich, Germany",include,,on an institution directory here
+Xinpeng Wang 0003,4,,"LMU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Felix Brandt 0001,4,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
 Benedikt Wiestler,4,de-mcml;de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Hao Shen 0002,4,,"Fortiss GmbH, Munich|Technical University of Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Ziyang Meng 0001,4,,"Tsinghua University, Department of Precision Instrument, Beijing, China|Shanghai Jiao Tong University, Shanghai, China|K",exclude,E08,DBLP's primary current affiliation is Tsinghua University; on none of the local directories
-Dirk Wollherr,4,,"TU München, Germany",queue,,current DBLP affiliation here but on no institution directory
-Christian Böhm 0001,4,,"University of Vienna, Austria",exclude,E08,CSRankings files them at University of Vienna (at)
+Martin J. Menten,4,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Ziyuan Liu 0003,4,,"Huawei Munich Research Center, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Shuo Chen 0014,4,,"LMU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Rüdiger Westermann,4,de-mcml;de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
 Ganlin Zhang 0001,4,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Zheyu Zhang 0007,4,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Carsten Marr,4,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Felix Brandt 0001,4,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
-Ziyuan Liu 0003,4,,"Huawei Munich Research Center, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Xin Jing 0001,4,,"Technical University of Munich (TUM), Chair of Health Informatics, Munich, Germany|University of Augsburg, Embedded Inte",queue,,current DBLP affiliation here but on no institution directory
+Felix Krause 0002,4,,"LMU, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Yi Wang 0072,4,,"Technical University of Munich (TUM), Data Science in Earth Observation, Munich, Germany|German Aerospace Center (DLR), ",queue,,current DBLP affiliation here but on no institution directory
+Klaus Diepold,4,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
+Markus Rickert 0001,4,,"TU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Christian Böhm 0001,4,,"University of Vienna, Austria",exclude,E08,CSRankings files them at University of Vienna (at)
+Dirk Wollherr,4,,"TU München, Germany",queue,,current DBLP affiliation here but on no institution directory
+Pengyuan Wang 0002,4,,"Technical University of Munich, Department of Informatics, Germany",queue,,current DBLP affiliation here but on no institution directory
+Tassilo Klein,4,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Qing Cheng 0001,4,,"Technical University of Munich, Germany|Artisense GmbH, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Ulf Schlichtmann,4,de-tu-munich,"Technical University of Munich, Institute for Electronic Design Automation, Germany",include,,on an institution directory here
-Carsten Steger,4,csrankings,"MVTec Software GmbH, Munich, Germany",include,,on an institution directory here
-Yi Wang 0072,4,,"Technical University of Munich (TUM), Data Science in Earth Observation, Munich, Germany|German Aerospace Center (DLR), ",queue,,current DBLP affiliation here but on no institution directory
-Xinpeng Wang 0003,4,,"LMU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Rüdiger Westermann,4,de-mcml;de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
-Martin J. Menten,4,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Yu Wang 0008,4,,"Peng Cheng Laboratory, Department of Network Intelligence, Shenzhen, China|German Research Center for Environmental Heal",exclude,E08,DBLP's primary current affiliation is Peng Cheng Laboratory; on none of the local directories
-Tassilo Klein,4,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Hao Shen 0002,4,,"Fortiss GmbH, Munich|Technical University of Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Robert Wille,4,de-tu-munich;csrankings,"Technical University of Munich, Germany",include,,on an institution directory here
 Nan Yang 0007,4,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Anaëlle Wilczynski,3,,"Paris-Saclay University, MICS lab, France|Technical University of Munich, Department of Informatics, Germany|Paris Dauph",exclude,E08,DBLP's primary current affiliation is Paris-Saclay University; on none of the local directories
-Thomas Decker 0004,3,,"Siemens AG, Munich, Germany|LMU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Daniel Mueller-Gritschneder,3,,"TU Wien, Vienna, Austria",exclude,E08,CSRankings files them at TU Wien (at)
-Virginia Estellers,3,,"TU Munich, Department of Computer Science, Germany|University of California, Los Angeles, Vision Lab, CA, USA|EPFL Lausa",queue,,current DBLP affiliation here but on no institution directory
-Cristina Piazza,3,de-tu-munich;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Jonathan Harrington,3,,"Ludwig Maximilian University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Holger Rauhut,3,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Uwe Stilla,3,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Ahmed Frikha 0002,3,,"Huawei Munich Research Center, Germany",queue,,current DBLP affiliation here but on no institution directory
-Aleksandra Franz,3,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Martin Bichler,3,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
-Alexander Gebhard 0001,3,,"Technische Universität München, Germany|Universität Augsburg, Germany",queue,,current DBLP affiliation here but on no institution directory
-Patrick Ebel 0002,3,,"Technical University of Munich, Department of Aerospace and Geodesy, Germany|EPFL, Computer Vision Lab, Lausanne, Switze",exclude,E08,CSRankings files them at Hasso Plattner Institute (de)
-Liqiu Meng,3,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Junnan Li 0008,3,,"TU Munich, Munich Institute of Robotics and Machine Intelligence, Germany",queue,,current DBLP affiliation here but on no institution directory
-Axel von Arnim,3,,"fortiss - Research Institute of the Free State of Bavaria, Department of Neuromorphic Computing, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Lei Zhang 0198,3,,"University of Hamburg, Department of Informatics, Germany|Agile Robots AG, Munich, Germany",exclude,E08,DBLP's primary current affiliation is University of Hamburg; on none of the local directories
-Tingying Peng,3,,"Helmholtz AI, Munich, German|Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Yvain Quéau,3,,"TU Munich, Department of Computer Science, Germany",queue,,current DBLP affiliation here but on no institution directory
-Ulrich Bauer,3,de-mcml;de-tu-munich,"Technical University Munich, Germany",include,,on an institution directory here
-Hong Joo Lee 0001,3,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Robert Müller 0005,3,,"LMU Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Hang Li 0010,3,,"Ludwig Maximilian University of Munich, Munich, Germany|Siemens AG, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Felix Ott 0001,3,,"Fraunhofer IIS, Fraunhofer Institute for Integrated Circuits, Precise Positioning and Analytics Department, Nuremberg, G",exclude,E02,DBLP records this as the PhD institution (2023)
-Thomas Wimmer 0001,3,,"ETH Zurich, Switzerland",exclude,E08,DBLP labels the affiliation former
-Michael Schmidt 0015,3,,"BMW Group, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Dominik Klein 0005,3,,"Helmholtz Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Wei Zhang 0334,3,,"Huawei Munich Research Center, Germany|University of Stuttgart, Institute for Photogrammetry, Germany",queue,,current DBLP affiliation here but on no institution directory
-Hans-Arno Jacobsen,3,csrankings,"TU Munich, Faculty of Computer Science, Germany|University of Toronto, Electrical and Computer Engineering Department, C",include,,on an institution directory here
-Thomas Gabor,3,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Haowei Zhang 0002,3,,"Technical University of Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Jia Chen 0003,4,de-tu-munich,,queue,,"on a local directory, but DBLP's current affiliation is Tsinghua University"
+Yu Wang 0008,4,,"Peng Cheng Laboratory, Department of Network Intelligence, Shenzhen, China|German Research Center for Environmental Heal",exclude,E08,DBLP's primary current affiliation is Peng Cheng Laboratory; on none of the local directories
+Ziyang Meng 0001,4,,"Tsinghua University, Department of Precision Instrument, Beijing, China|Shanghai Jiao Tong University, Shanghai, China|K",exclude,E08,DBLP's primary current affiliation is Tsinghua University; on none of the local directories
+Peter Kocsis 0001,4,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Di Wu 0053,4,,"Johns Hopkins University, Laboratory for Computational Sensing and Robotics, Baltimore, MD, USA|Technical University of ",exclude,E08,DBLP's primary current affiliation is Johns Hopkins University; on none of the local directories
+Tong Liu 0019,4,,"LMU Munich, Department of Informatics, Munich, Germany|Munich Center for Machine Learning, Germany",queue,,current DBLP affiliation here but on no institution directory
 Birgit Vogel-Heuser,3,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
-Tim Hoffmann,3,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
-Martin Lange 0001,3,,"University of Kassel, School of Electrical Engineering and Computer Science, Germany|LMU Munich, Institute of Informatic",exclude,E08,CSRankings files them at University of Kassel (de)
-Robert Maier 0001,3,,Meta Reality Labs Research,exclude,E02,DBLP records this as the PhD institution (2020)
-Yida Wang 0001,3,,,exclude,E02,DBLP records this as the PhD institution (2023)
+Robert Müller 0005,3,,"LMU Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Daniel Mueller-Gritschneder,3,,"TU Wien, Vienna, Austria",exclude,E08,CSRankings files them at TU Wien (at)
+Hans-Arno Jacobsen,3,csrankings,"TU Munich, Faculty of Computer Science, Germany|University of Toronto, Electrical and Computer Engineering Department, C",include,,on an institution directory here
+Felix Ott 0001,3,,"Fraunhofer IIS, Fraunhofer Institute for Integrated Circuits, Precise Positioning and Analytics Department, Nuremberg, G",exclude,E02,DBLP records this as the PhD institution (2023)
+Hong Joo Lee 0001,3,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Thomas Decker 0004,3,,"Siemens AG, Munich, Germany|LMU Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
 Simon Burton 0001,3,,"Fraunhofer Institute for Cognitive Systems (IKS), Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Dominik Klein 0005,3,,"Helmholtz Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Holger Rauhut,3,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Jonathan Harrington,3,,"Ludwig Maximilian University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Michael Schmidt 0015,3,,"BMW Group, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Junnan Li 0008,3,,"TU Munich, Munich Institute of Robotics and Machine Intelligence, Germany",queue,,current DBLP affiliation here but on no institution directory
+Ahmed Frikha 0002,3,,"Huawei Munich Research Center, Germany",queue,,current DBLP affiliation here but on no institution directory
+Virginia Estellers,3,,"TU Munich, Department of Computer Science, Germany|University of California, Los Angeles, Vision Lab, CA, USA|EPFL Lausa",queue,,current DBLP affiliation here but on no institution directory
+Thomas Gabor,3,de-mcml,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Yida Wang 0001,3,,,exclude,E02,DBLP records this as the PhD institution (2023)
+Yvain Quéau,3,,"TU Munich, Department of Computer Science, Germany",queue,,current DBLP affiliation here but on no institution directory
+Tim Hoffmann,3,de-tu-munich,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Aleksandra Franz,3,,"Technical University of Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Ulrich Bauer,3,de-mcml;de-tu-munich,"Technical University Munich, Germany",include,,on an institution directory here
+Haowei Zhang 0002,3,,"Technical University of Munich, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Thomas Wimmer 0001,3,,"ETH Zurich, Switzerland",exclude,E08,DBLP labels the affiliation former
+Cristina Piazza,3,de-tu-munich;csrankings,,include,,on an institution directory here; no corroborating DBLP affiliation note
+Patrick Ebel 0002,3,,"Technical University of Munich, Department of Aerospace and Geodesy, Germany|EPFL, Computer Vision Lab, Lausanne, Switze",exclude,E08,CSRankings files them at Hasso Plattner Institute (de)
+Wei Zhang 0334,3,,"Huawei Munich Research Center, Germany|University of Stuttgart, Institute for Photogrammetry, Germany",queue,,current DBLP affiliation here but on no institution directory
+Axel von Arnim,3,,"fortiss - Research Institute of the Free State of Bavaria, Department of Neuromorphic Computing, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Robert Maier 0001,3,,Meta Reality Labs Research,exclude,E02,DBLP records this as the PhD institution (2020)
+Tingying Peng,3,de-helmholtz-munich,"Helmholtz AI, Munich, German|Technical University of Munich, Germany",include,,on an institution directory here
+Alexander Gebhard 0001,3,,"Technische Universität München, Germany|Universität Augsburg, Germany",queue,,current DBLP affiliation here but on no institution directory
 Michael Fromm 0001,3,,"Fraunhofer IAIS, Germany",exclude,E08,DBLP labels the affiliation former
+Liqiu Meng,3,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Anaëlle Wilczynski,3,,"Paris-Saclay University, MICS lab, France|Technical University of Munich, Department of Informatics, Germany|Paris Dauph",exclude,E08,DBLP's primary current affiliation is Paris-Saclay University; on none of the local directories
+Lei Zhang 0198,3,,"University of Hamburg, Department of Informatics, Germany|Agile Robots AG, Munich, Germany",exclude,E08,DBLP's primary current affiliation is University of Hamburg; on none of the local directories
+Uwe Stilla,3,,"Technical University Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Martin Lange 0001,3,,"University of Kassel, School of Electrical Engineering and Computer Science, Germany|LMU Munich, Institute of Informatic",exclude,E08,CSRankings files them at University of Kassel (de)
+Hang Li 0010,3,,"Ludwig Maximilian University of Munich, Munich, Germany|Siemens AG, Munich, Germany",queue,,current DBLP affiliation here but on no institution directory
+Martin Bichler,3,de-tu-munich;csrankings,"Technical University Munich, Germany",include,,on an institution directory here
 Bjoern Menze,2,csrankings;csrankings;csrankings,"TU Munich, Faculty of Computer Science, Germany|ETH Zurich, Computer Vision Laboratory, Switzerland|Massachusetts Instit",include,,on an institution directory here
+Julio Rogelio Guadarrama-Olvera,1,,"Technical University of Munich, Institute for Cognitive Systems (ICS), Germany",queue,,current DBLP affiliation here but on no institution directory
 Nils Thürey,1,csrankings;csrankings,"TU Munich, Faculty of Computer Science|Scanline VFX, Munich|ETH Zurich, Computer Graphics Laboratory",include,,on an institution directory here
 Jörg Stückler,1,,"RWTH Aachen University, Visual Computing Institute, Germany|TU Munich, Department of Computer Science, Germany|Universit",exclude,E08,DBLP's primary current affiliation is RWTH Aachen University; on none of the local directories
-Julio Rogelio Guadarrama-Olvera,1,,"Technical University of Munich, Institute for Cognitive Systems (ICS), Germany",queue,,current DBLP affiliation here but on no institution directory

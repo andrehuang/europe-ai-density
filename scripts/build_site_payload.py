@@ -163,12 +163,18 @@ def main() -> int:
 
     # Adjudication outcomes override the rosters: a city that has been reconciled has
     # people the directories missed and exclusions the directories wrongly included.
-    rulings = {}
-    rulings_path = ROOT / "data" / "adjudication_rulings_tuebingen.csv"
-    if rulings_path.exists():
-        for r in csv.DictReader(rulings_path.open(encoding="utf-8")):
+    # Rulings are per city. An earlier version loaded only Tübingen's file and skipped
+    # every other city's, so five cities' adjudications were written and never applied.
+    rulings_by_city = {}
+    for city in AUDITED:
+        rp = ROOT / "data" / f"adjudication_rulings_{slugify(city)}.csv"
+        if not rp.exists():
+            continue
+        d = {}
+        for r in csv.DictReader(rp.open(encoding="utf-8")):
             name, _ = index.resolve(r["name"])
-            rulings[name or fold(r["name"])] = r
+            d[name or fold(r["name"])] = r
+        rulings_by_city[city] = d
     backfill = ROOT / "data" / "raw" / "adjudication" / "2026-08-06" / "stuttgart" / "backfill.csv"
     if backfill.exists():
         for r in csv.DictReader(backfill.open(encoding="utf-8")):
@@ -203,12 +209,18 @@ def main() -> int:
                     name, _ = index.resolve(r["name"])
                     primary_city[name or fold(r["name"])] = pc
 
-    reconciled = {"Tübingen"}
+    # "Reconciled" means the publication-side queue was actually worked, not that a
+    # rulings file happens to exist. Berlin was briefly labelled reconciled on the
+    # strength of an empty file, which is the kind of unearned status this project
+    # exists to avoid.
+    reconciled = {
+        city for city in AUDITED
+        if (ROOT / "data" / "raw" / "adjudication" / "2026-08-06" / "reconcile"
+            / f"{slugify(city)}.csv").exists()
+    }
     audited_out = {}
     for city, people in audited.items():
-        for key, r in rulings.items():
-            if city != "Tübingen":
-                continue
+        for key, r in rulings_by_city.get(city, {}).items():
             if r["ruling"] == "exclude":
                 people.pop(key, None)
             elif key not in people:

@@ -1,0 +1,19 @@
+Sources fetched while adjudicating data/queues/reconcile_tuebingen.csv, retrieved 2026-08-06/2026-08-08.
+
+Prior-stage evidence reused (already gathered under this pipeline for the same 24 names, same date):
+data/raw/adjudication/2026-08-06/tuebingen/conflicts.csv (2026-08-06)
+data/raw/adjudication/2026-08-06/tuebingen/queue_a.csv (2026-08-06)
+data/raw/adjudication/2026-08-06/tuebingen/queue_b.csv (2026-08-06)
+data/adjudication_rulings_tuebingen.csv (2026-08-06)
+data/titles.csv
+data/exclusion_codes.csv
+
+Spot-checks re-fetched this session:
+https://rzimmermann.com (2026-08-08) - confirmed still stale/PhD-student self-description, no update
+https://kait0.github.io/ (2026-08-08) - confirmed Bernhard Jaeger's KE:SAI co-founder self-description
+https://andreasaziegler.github.io/ (2026-08-08) - confirmed no post-PhD position stated
+https://niujinshuchong.github.io/ (2026-08-08) - confirmed stale, no post-2024 update
+https://scholar.google.com/citations?hl=en&user=E6DqS3UAAAAJ (2026-08-08) - Chris Gagne now reads "Staff Research Scientist, Google DeepMind", resolving the prior Hume AI/DeepMind contradiction
+https://scells.me/ (2026-08-08) - confirmed Harrisen Scells "Assistant Professor ... Health NLP lab" self-description
+
+WebSearch budget was already exhausted (200/200) at session start, inherited from earlier pipeline stages; two queries attempted (Zehao Yu, Chris Gagne current position) were rejected for that reason. All verification above used WebFetch against known/derived URLs instead, per the contract's "fetch known URLs directly" guidance.

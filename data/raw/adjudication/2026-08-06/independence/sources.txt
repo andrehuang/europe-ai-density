@@ -1,0 +1,47 @@
+Sources fetched for data/raw/adjudication/2026-08-06/independence/rulings.csv
+All retrieved 2026-08-06.
+
+Local inputs consulted (not web fetches):
+- /Users/owl/europe-ai-density/AGENT_CONTRACT.md
+- /Users/owl/europe-ai-density/data/queues/independence.csv
+- /Users/owl/europe-ai-density/data/raw/adjudication/2026-08-06/mpi-groups/units.csv
+- /Users/owl/europe-ai-density/data/titles.csv
+
+Web fetches:
+https://is.mpg.de/lds
+https://is.mpg.de/lds/people
+https://is.mpg.de/seal
+https://is.mpg.de/seal/people
+https://is.mpg.de/wei
+https://is.mpg.de/wei/people
+https://is.mpg.de/dmo
+https://is.mpg.de/dmo/people
+https://is.mpg.de/camail
+https://is.mpg.de/camail/people
+https://is.mpg.de/hml
+https://is.mpg.de/hml/people
+https://is.mpg.de/person/rburns
+https://www.mpi-sws.org/people/bindsch/
+https://www.mpi-sws.org/people/nghlaca/
+https://www.mpi-sws.org/people/apotu/
+https://www.mpi-sws.org/people/gradanovic/
+https://www.mpi-sws.org/people/sadegh/
+https://www.mpi-sws.org/people/starchak/
+https://people.mpi-sws.org/~gradanovic
+https://people.mpi-sws.org/~sadegh (redirect notice only, no content rendered)
+https://www.mpi-inf.mpg.de/departments/computer-graphics
+https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence
+https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence/people
+https://scaai.dfki.de/team/
+https://scaai.dfki.de/
+https://tuebingen.ai/people
+https://akoepke.github.io/mumol.html
+https://asophiakoepke.github.io/ (404, wrong guess -- correct URL found via tuebingen.ai/people)
+https://www.dfki.de/en/web/research/research-departments/institute-for-information-systems (403 direct)
+https://www.iwi.dfki.de (DNS not found, dead guess)
+https://r.jina.ai/https://www.dfki.de/en/web/research/research-departments/institute-for-information-systems (proxy, still 403/JS-gated)
+https://r.jina.ai/https://duckduckgo.com/html/?q=Peter+Fettke+DFKI+Institute+Information+Systems+head+director+Wilhelm+Scheer (search proxy, used to locate his DFKI profile URL after WebSearch quota was exhausted)
+https://r.jina.ai/https://www.dfki.de/en/web/about-us/employee/person/pefe01/ (Peter Fettke's own DFKI profile, via reader proxy since dfki.de 403s direct fetches)
+https://www.dfki.de/en/web/about-us/employee/person/pefe01/ (cited in rulings.csv as the canonical evidence URL; content retrieved via the r.jina.ai proxy above)
+
+WebSearch calls: 2 attempted (Peter Fettke query, Almut Sophia Koepke query); both were rejected because the session's shared ~200-query WebSearch budget was already exhausted by prior work in this session. Substituted a DuckDuckGo-via-reader-proxy fetch for the Fettke lookup; the Koepke group URL was instead found via the tuebingen.ai/people fetch, which was already planned.

@@ -167,6 +167,13 @@ def main() -> int:
         w.writeheader()
         w.writerows(rows)
 
+    # Record which rosters this run actually consumed. Without it, "is the reconciliation
+    # current?" can only be answered by comparing modification times, which any unrelated
+    # edit to the queue silently resets — and a city that has grown from 6 rosters to 15
+    # would go on calling itself reconciled. A set of names cannot be reset by accident.
+    (DERIVED / f"reconcile_{city}.rosters").write_text(
+        "".join(f"{i}\n" for i in sorted(cfg["inst_ids"])), encoding="utf-8")
+
     tally = Counter(r["status"] for r in rows)
     print(f"{city}: {len(rows)} names across both modalities -> {dict(tally)}")
     print(f"\nmechanically excluded ({tally['exclude']}):")

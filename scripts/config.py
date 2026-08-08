@@ -67,10 +67,48 @@ def city_by_slug(slug):
                    f"{[c['slug'] for c in cities().values()]}")
 
 
-def is_reconciled(city):
-    """True when the publication-side queue was actually worked for this city.
+def reconciliation_state(city):
+    """('reconciled' | 'stale' | 'none', detail) for this city.
 
-    Not "a rulings file exists" — an empty one briefly earned Berlin the label.
+    Three things have each, at some point, been mistaken for a finished reconciliation:
+
+    - a rulings file merely existing, which briefly earned Berlin the label while empty;
+    - a reconciliation that was genuine but predates rosters collected since, which is the
+      failure this function was extended to catch — Berlin went from 6 rosters to 15, and
+      the old queue had never seen nine of them;
+    - a city whose queue was never run at all.
+
+    Staleness is decided by mtime: any roster newer than the reconcile queue was not part
+    of what was reconciled. That is the same invariant deploy_site.sh applies to the page
+    and its payload, and it is cheap precisely because it needs no bookkeeping to stay true.
     """
     cfg = cities()[city]
-    return (ADJUDICATION / "reconcile" / f"{cfg['slug']}.csv").exists()
+    queue = ADJUDICATION / "reconcile" / f"{cfg['slug']}.csv"
+    if not queue.exists():
+        return "none", "no reconciliation queue"
+
+    # Preferred: the roster set the queue was actually generated from, written by
+    # reconcile_city.py. Anything the city has gained since was never reconciled.
+    covered = DERIVED / f"reconcile_{cfg['slug']}.rosters"
+    if covered.exists():
+        seen = set(covered.read_text(encoding="utf-8").split())
+        missing = [i for i in cfg["rosters"] if i not in seen]
+        if missing:
+            return "stale", (f"{len(missing)} roster(s) added since it ran: "
+                             f"{', '.join(sorted(missing))}")
+        return "reconciled", ""
+
+    # Fallback for queues that predate the sidecar. Weaker, because any later edit to the
+    # queue file resets the comparison — which is why the sidecar exists.
+    queue_mtime = queue.stat().st_mtime
+    newer = [i for i in cfg["rosters"]
+             if (p := DIRECTORIES / i / "roster.csv").exists()
+             and p.stat().st_mtime > queue_mtime]
+    if newer:
+        return "stale", f"{len(newer)} roster(s) collected after it: {', '.join(sorted(newer))}"
+    return "reconciled", " (by mtime; no roster sidecar)"
+
+
+def is_reconciled(city):
+    """True only when the queue was worked and covers every roster the city now has."""
+    return reconciliation_state(city)[0] == "reconciled"

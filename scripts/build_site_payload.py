@@ -101,6 +101,12 @@ def main() -> int:
         for inst_id in cfg["rosters"]:
             path = ROOT / "data" / "raw" / "directories" / "2026-08-06" / inst_id / "roster.csv"
             if not path.exists():
+                # A mistyped roster key and a roster not yet collected are indistinguishable
+                # here, and both silently shrink a city. Skipping is right — collection is
+                # incremental — but doing it quietly is how a city reads "small" for a
+                # reason nobody can trace. Say so.
+                print(f"  ! {city}: no roster for {inst_id} (not collected, or a bad key "
+                      f"in data/cities.csv)", file=sys.stderr)
                 continue
             col, allowed = cfg["site_filter"].get(inst_id, (None, None))
             for r in csv.DictReader(path.open(encoding="utf-8")):

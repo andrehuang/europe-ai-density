@@ -99,119 +99,128 @@ sophie-fellenz,Sophie Fellenz,Kaiserslautern,10,T1,csrankings,1,,verified
 rupak-majumdar,Rupak Majumdar,Kaiserslautern,9,T2,de-mpi-sws,1,,verified
 anthony-widjaja-lin,Anthony Widjaja Lin,Kaiserslautern,3,T1,de-mpi-sws;csrankings;csrankings;csrankings,2,,verified
 paul-lukowicz,Paul Lukowicz,Kaiserslautern,3,T1,csrankings,1,,verified
-daniel-cremers,Daniel Cremers,München,104,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-stephan-gunnemann,Stephan Günnemann,München,94,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-matthias-nie-ner,Matthias Nießner,München,92,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-nassir-navab,Nassir Navab,München,91,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-zeynep-akata,Zeynep Akata,München,75,T1,de-mcml;de-helmholtz-munich;csrankings,3,,provisional
-hinrich-schutze,Hinrich Schütze,München,73,T1,de-mcml;csrankings,2,,provisional
-bjorn-w-schuller,Björn W. Schuller,München,62,T2,de-tu-munich;de-mcml,2,,provisional
-stefanie-jegelka,Stefanie Jegelka,München,58,T1,de-tu-munich;de-mcml;csrankings;csrankings,3,,provisional
-eyke-hullermeier,Eyke Hüllermeier,München,56,T1,de-lmu-munich;de-mcml;csrankings,3,,provisional
-barbara-plank,Barbara Plank,München,52,T1,de-mcml;csrankings,2,,provisional
-laura-leal-taixe,Laura Leal-Taixé,München,51,T1,csrankings,1,,provisional
-angela-dai,Angela Dai,München,50,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-volker-tresp,Volker Tresp,München,42,T1,de-lmu-munich;de-mcml;csrankings,3,,provisional
-benjamin-busam,Benjamin Busam,München,42,T2,de-mcml,1,,provisional
-bjorn-ommer,Björn Ommer,München,40,T1,de-lmu-munich;de-mcml;csrankings,3,,provisional
-stefan-bauer,Stefan Bauer,München,32,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-stefan-leutenegger,Stefan Leutenegger,München,30,T1,csrankings,1,,provisional
-matthias-althoff,Matthias Althoff,München,29,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-stefan-feuerriegel,Stefan Feuerriegel,München,29,T1,de-lmu-munich;de-mcml;csrankings,3,,provisional
-suvrit-sra,Suvrit Sra,München,28,T2,de-tu-munich;de-mcml,2,,provisional
-david-rugamer,David Rügamer,München,26,T2,de-lmu-munich;de-mcml,2,,provisional
-angela-p-schoellig,Angela P. Schoellig,München,23,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-bernd-bischl,Bernd Bischl,München,23,T1,de-lmu-munich;de-mcml;csrankings,3,,provisional
-daniel-rueckert,Daniel Rueckert,München,22,T2,de-tu-munich;de-mcml,2,,provisional
-mikhail-belkin,Mikhail Belkin,München,22,T2,de-tu-munich,1,,provisional
-georgios-kaissis,Georgios Kaissis,München,22,T2,de-helmholtz-munich,1,,provisional
-alois-c-knoll,Alois C. Knoll,München,21,T1,de-tu-munich;csrankings;csrankings,2,,provisional
-gjergji-kasneci,Gjergji Kasneci,München,21,T2,de-tu-munich;de-mcml,2,,provisional
-alexander-fraser,Alexander Fraser 0001,München,20,T1,de-mcml;csrankings,2,,provisional
-reinhard-heckel,Reinhard Heckel,München,19,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-gitta-kutyniok,Gitta Kutyniok,München,19,T1,de-mcml;csrankings,2,,provisional
-niki-kilbertus,Niki Kilbertus,München,18,T2,de-tu-munich;de-mcml,2,,provisional
-eric-schulz,Eric Schulz,München,18,T2,de-helmholtz-munich,1,,provisional
-debarghya-ghoshdastidar,Debarghya Ghoshdastidar,München,17,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-eckehard-g-steinbach,Eckehard G. Steinbach,München,17,T1,de-tu-munich;csrankings,2,,provisional
-fabian-j-theis,Fabian J. Theis,München,17,T1,de-tu-munich;de-mcml;de-helmholtz-munich;csrankings,4,,provisional
-valentin-hofmann,Valentin Hofmann,München,17,T2,de-mcml,1,,provisional
-sandra-hirche,Sandra Hirche,München,16,T1,de-tu-munich;csrankings,2,,provisional
-xiao-xiang-zhu,Xiao Xiang Zhu 0001,München,16,T2,de-mcml,1,,provisional
-achim-j-lilienthal,Achim J. Lilienthal,München,15,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-alin-albu-schaffer,Alin Albu-Schäffer,München,15,T1,de-tu-munich;csrankings;csrankings,2,,provisional
-enkelejda-kasneci,Enkelejda Kasneci,München,13,T1,de-tu-munich;de-mcml;csrankings;csrankings,3,,provisional
-riccardo-marin,Riccardo Marin,München,12,T2,de-tu-munich;de-mcml,2,,provisional
-karsten-m-borgwardt,Karsten M. Borgwardt,München,12,T2,de-mcml,1,,provisional
-berthold-bauml,Berthold Bäuml,München,10,T2,de-tu-munich,1,,provisional
-darius-burschka,Darius Burschka,München,10,T1,de-tu-munich;csrankings,2,,provisional
-florian-matthes,Florian Matthes,München,10,T1,de-tu-munich;csrankings,2,,provisional
-mathias-drton,Mathias Drton,München,10,T2,de-tu-munich;de-mcml,2,,provisional
-thomas-nagler,Thomas Nagler,München,10,T2,de-lmu-munich;de-mcml,2,,provisional
-gordon-cheng,Gordon Cheng,München,9,T1,de-tu-munich;csrankings,2,,provisional
-matthias-grabmair,Matthias Grabmair,München,9,T1,de-tu-munich;csrankings,2,,provisional
-johannes-betz,Johannes Betz,München,8,T1,de-tu-munich;csrankings,2,,provisional
-claudia-linnhoff-popien,Claudia Linnhoff-Popien,München,7,T1,de-lmu-munich;csrankings;csrankings;csrankings,2,,provisional
-frauke-kreuter,Frauke Kreuter,München,7,T2,de-lmu-munich;de-mcml,2,,provisional
-bernd-finkbeiner,Bernd Finkbeiner,München,6,T2,de-tu-munich,1,,provisional
-christian-wachinger,Christian Wachinger,München,6,T2,de-tu-munich;de-mcml,2,,provisional
-jana-diesner,Jana Diesner,München,6,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-lorenzo-masia,Lorenzo Masia,München,6,T2,de-tu-munich,1,,provisional
-marco-caccamo,Marco Caccamo,München,6,T1,de-tu-munich;csrankings,2,,provisional
-markus-lienkamp,Markus Lienkamp,München,6,T2,de-tu-munich,1,,provisional
-thomas-seidl,Thomas Seidl 0001,München,6,T1,de-lmu-munich;de-mcml;csrankings,3,,provisional
-thomas-augustin,Thomas Augustin 0001,München,6,T2,de-lmu-munich,1,,provisional
-helmut-schmid,Helmut Schmid,München,6,T1,csrankings,1,,provisional
-julia-a-schnabel,Julia A. Schnabel,München,5,T2,de-tu-munich;de-mcml;de-helmholtz-munich,3,,provisional
-orestis-papakyriakopoulos,Orestis Papakyriakopoulos,München,5,T2,de-tu-munich,1,,provisional
-s-rasoul-etesami,S. Rasoul Etesami 0001,München,5,T2,de-tu-munich,1,,provisional
-wolfgang-utschick,Wolfgang Utschick,München,5,T2,de-tu-munich,1,,provisional
-bjorn-m-eskofier,Björn M. Eskofier,München,5,T2,de-mcml;de-helmholtz-munich,2,,provisional
-ewa-szczurek,Ewa Szczurek,München,5,T2,de-helmholtz-munich,1,,provisional
-benedikt-wiestler,Benedikt Wiestler,München,4,T2,de-tu-munich;de-mcml,2,,provisional
-felix-brandt,Felix Brandt 0001,München,4,T1,de-tu-munich;csrankings,2,,provisional
-jia-chen,Jia Chen 0003,München,4,T2,de-tu-munich,1,,provisional
-klaus-diepold,Klaus Diepold,München,4,T1,de-tu-munich;csrankings,2,,provisional
-robert-wille,Robert Wille,München,4,T1,de-tu-munich;csrankings,2,,provisional
-rudiger-westermann,Rüdiger Westermann,München,4,T1,de-tu-munich;de-mcml;csrankings,3,,provisional
-ulf-schlichtmann,Ulf Schlichtmann,München,4,T2,de-tu-munich,1,,provisional
-matthias-schubert,Matthias Schubert,München,4,T1,de-lmu-munich;de-mcml;csrankings,3,,provisional
-carsten-marr,Carsten Marr,München,4,T2,de-mcml;de-helmholtz-munich,2,,provisional
-carsten-steger,Carsten Steger,München,4,T1,csrankings,1,,provisional
-cristina-piazza,Cristina Piazza,München,3,T1,de-tu-munich;csrankings,2,,provisional
-martin-bichler,Martin Bichler,München,3,T1,de-tu-munich;csrankings,2,,provisional
-tim-hoffmann,Tim Hoffmann,München,3,T2,de-tu-munich,1,,provisional
-ulrich-bauer,Ulrich Bauer,München,3,T2,de-tu-munich;de-mcml,2,,provisional
-thomas-gabor,Thomas Gabor,München,3,T2,de-mcml,1,,provisional
-holger-rauhut,Holger Rauhut,München,3,T2,de-mcml,1,,provisional
-marc-toussaint,Marc Toussaint,Berlin,39,T1,de-tu-berlin;csrankings,2,,provisional
-sebastian-pokutta,Sebastian Pokutta,Berlin,33,T1,de-tu-berlin;csrankings,2,,provisional
-wojciech-samek,Wojciech Samek,Berlin,28,T1,de-tu-berlin;de-bifold;csrankings,3,,provisional
-guillermo-gallego,Guillermo Gallego 0002,Berlin,26,T1,de-tu-berlin;csrankings;csrankings,2,,provisional
-klaus-robert-muller,Klaus-Robert Müller,Berlin,23,T1,de-tu-berlin;de-bifold;csrankings,3,,provisional
-oliver-brock,Oliver Brock,Berlin,17,T1,de-tu-berlin;csrankings,2,,provisional
-alan-akbik,Alan Akbik,Berlin,17,T1,de-humboldt-university-of-berlin;csrankings,2,,provisional
-sebastian-moller,Sebastian Möller 0001,Berlin,14,T1,de-tu-berlin;de-bifold;de-dfki-be;csrankings,4,,provisional
-wolfgang-honig,Wolfgang Hönig,Berlin,12,T1,de-tu-berlin;csrankings,2,,provisional
-david-schlangen,David Schlangen,Berlin,12,T2,de-dfki-be,1,,provisional
-rolf-niedermeier,Rolf Niedermeier,Berlin,12,T1,csrankings,1,,provisional
-peter-eisert,Peter Eisert,Berlin,10,T1,de-humboldt-university-of-berlin;csrankings,2,,provisional
-frank-noe,Frank Noé,Berlin,10,T1,de-freie-universitaet-berlin;csrankings,2,,provisional
-jens-lambrecht,Jens Lambrecht,Berlin,10,T1,csrankings,1,,provisional
-gabriele-steidl,Gabriele Steidl,Berlin,9,T2,de-tu-berlin,1,,provisional
-gregoire-montavon,Grégoire Montavon,Berlin,9,T2,de-bifold,1,,provisional
-thomas-wiegand,Thomas Wiegand 0001,Berlin,7,T1,de-tu-berlin;de-bifold;csrankings,3,,provisional
-julia-stoyanovich,Julia Stoyanovich,Berlin,7,T2,de-bifold,1,,provisional
-tim-landgraf,Tim Landgraf,Berlin,6,T1,de-freie-universitaet-berlin;csrankings,2,,provisional
-marc-alexa,Marc Alexa,Berlin,4,T1,de-tu-berlin;csrankings,2,,provisional
-olaf-hellwich,Olaf Hellwich,Berlin,4,T1,de-tu-berlin;csrankings,2,,provisional
-henning-sprekeler,Henning Sprekeler,Berlin,4,T1,de-tu-berlin;csrankings,2,,provisional
-martin-skutella,Martin Skutella,Berlin,4,T1,de-tu-berlin;csrankings,2,,provisional
-manfred-opper,Manfred Opper,Berlin,4,T1,de-tu-berlin;de-bifold;csrankings,3,,provisional
-adrian-paschke,Adrian Paschke,Berlin,4,T1,de-freie-universitaet-berlin;csrankings,2,,provisional
-gerhard-wunder,Gerhard Wunder,Berlin,4,T1,csrankings,1,,provisional
-dorothea-kolossa,Dorothea Kolossa,Berlin,3,T2,de-tu-berlin,1,,provisional
-georg-loho,Georg Loho,Berlin,3,T2,de-freie-universitaet-berlin,1,,provisional
-frederick-klauschen,Frederick Klauschen,Berlin,3,T2,de-bifold,1,,provisional
-christian-wressnegger,Christian Wressnegger,Berlin,3,T2,de-bifold,1,,provisional
-georg-rehm,Georg Rehm,Berlin,3,T2,de-dfki-be,1,,provisional
+daniel-cremers,Daniel Cremers,München,104,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+stephan-gunnemann,Stephan Günnemann,München,94,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+matthias-nie-ner,Matthias Nießner,München,92,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+nassir-navab,Nassir Navab,München,91,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+zeynep-akata,Zeynep Akata,München,75,T1,de-mcml;de-helmholtz-munich;csrankings,3,,verified
+hinrich-schutze,Hinrich Schütze,München,73,T1,de-mcml;csrankings,2,,verified
+bjorn-w-schuller,Björn W. Schuller,München,62,T2,de-tu-munich;de-mcml,2,,verified
+stefanie-jegelka,Stefanie Jegelka,München,58,T1,de-tu-munich;de-mcml;csrankings;csrankings,3,,verified
+eyke-hullermeier,Eyke Hüllermeier,München,56,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
+barbara-plank,Barbara Plank,München,52,T1,de-mcml;csrankings,2,,verified
+laura-leal-taixe,Laura Leal-Taixé,München,51,T1,csrankings,1,,verified
+angela-dai,Angela Dai,München,50,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+volker-tresp,Volker Tresp,München,42,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
+benjamin-busam,Benjamin Busam,München,42,T2,de-mcml,1,,verified
+bjorn-ommer,Björn Ommer,München,40,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
+stefan-bauer,Stefan Bauer,München,32,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+stefan-leutenegger,Stefan Leutenegger,München,30,T1,csrankings,1,,verified
+matthias-althoff,Matthias Althoff,München,29,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+stefan-feuerriegel,Stefan Feuerriegel,München,29,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
+suvrit-sra,Suvrit Sra,München,28,T2,de-tu-munich;de-mcml,2,,verified
+david-rugamer,David Rügamer,München,26,T2,de-lmu-munich;de-mcml,2,,verified
+bastian-rieck,Bastian Rieck,München,24,T3,adjudication,1,"University of Fribourg, Switzerland (primary, leads AIDOS Lab); Helmholtz Munich, Institute of AI for Health, Neuherberg, Germany (secondary)",verified
+angela-p-schoellig,Angela P. Schoellig,München,23,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+bernd-bischl,Bernd Bischl,München,23,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
+daniel-rueckert,Daniel Rueckert,München,22,T2,de-tu-munich;de-mcml,2,,verified
+mikhail-belkin,Mikhail Belkin,München,22,T2,de-tu-munich,1,,verified
+georgios-kaissis,Georgios Kaissis,München,22,T2,de-helmholtz-munich,1,,verified
+alois-c-knoll,Alois C. Knoll,München,21,T1,de-tu-munich;csrankings;csrankings,2,,verified
+gjergji-kasneci,Gjergji Kasneci,München,21,T2,de-tu-munich;de-mcml,2,,verified
+alexander-fraser,Alexander Fraser 0001,München,20,T1,de-mcml;csrankings,2,,verified
+reinhard-heckel,Reinhard Heckel,München,19,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+gitta-kutyniok,Gitta Kutyniok,München,19,T1,de-mcml;csrankings,2,,verified
+niki-kilbertus,Niki Kilbertus,München,18,T2,de-tu-munich;de-mcml,2,,verified
+eric-schulz,Eric Schulz,München,18,T2,de-helmholtz-munich,1,,verified
+debarghya-ghoshdastidar,Debarghya Ghoshdastidar,München,17,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+eckehard-g-steinbach,Eckehard G. Steinbach,München,17,T1,de-tu-munich;csrankings,2,,verified
+fabian-j-theis,Fabian J. Theis,München,17,T1,de-tu-munich;de-mcml;de-helmholtz-munich;csrankings,4,,verified
+valentin-hofmann,Valentin Hofmann,München,17,T2,de-mcml,1,,verified
+sandra-hirche,Sandra Hirche,München,16,T1,de-tu-munich;csrankings,2,,verified
+xiao-xiang-zhu,Xiao Xiang Zhu 0001,München,16,T2,de-mcml,1,,verified
+achim-j-lilienthal,Achim J. Lilienthal,München,15,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+alin-albu-schaffer,Alin Albu-Schäffer,München,15,T1,de-tu-munich;csrankings;csrankings,2,,verified
+enkelejda-kasneci,Enkelejda Kasneci,München,13,T1,de-tu-munich;de-mcml;csrankings;csrankings,3,,verified
+riccardo-marin,Riccardo Marin,München,12,T2,de-tu-munich;de-mcml,2,,verified
+karsten-m-borgwardt,Karsten M. Borgwardt,München,12,T2,de-mcml,1,,verified
+berthold-bauml,Berthold Bäuml,München,10,T2,de-tu-munich,1,,verified
+darius-burschka,Darius Burschka,München,10,T1,de-tu-munich;csrankings,2,,verified
+florian-matthes,Florian Matthes,München,10,T1,de-tu-munich;csrankings,2,,verified
+mathias-drton,Mathias Drton,München,10,T2,de-tu-munich;de-mcml,2,,verified
+thomas-nagler,Thomas Nagler,München,10,T2,de-lmu-munich;de-mcml,2,,verified
+marcel-binz,Marcel Binz,München,10,T3,adjudication,1,,verified
+gordon-cheng,Gordon Cheng,München,9,T1,de-tu-munich;csrankings,2,,verified
+matthias-grabmair,Matthias Grabmair,München,9,T1,de-tu-munich;csrankings,2,,verified
+johannes-betz,Johannes Betz,München,8,T1,de-tu-munich;csrankings,2,,verified
+tim-c-lueth,Tim C. Lueth,München,8,T3,adjudication,1,,verified
+claudia-linnhoff-popien,Claudia Linnhoff-Popien,München,7,T1,de-lmu-munich;csrankings;csrankings;csrankings,2,,verified
+frauke-kreuter,Frauke Kreuter,München,7,T2,de-lmu-munich;de-mcml,2,,verified
+bernd-finkbeiner,Bernd Finkbeiner,München,6,T2,de-tu-munich,1,,verified
+christian-wachinger,Christian Wachinger,München,6,T2,de-tu-munich;de-mcml,2,,verified
+jana-diesner,Jana Diesner,München,6,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+lorenzo-masia,Lorenzo Masia,München,6,T2,de-tu-munich,1,,verified
+marco-caccamo,Marco Caccamo,München,6,T1,de-tu-munich;csrankings,2,,verified
+markus-lienkamp,Markus Lienkamp,München,6,T2,de-tu-munich,1,,verified
+thomas-seidl,Thomas Seidl 0001,München,6,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
+thomas-augustin,Thomas Augustin 0001,München,6,T2,de-lmu-munich,1,,verified
+helmut-schmid,Helmut Schmid,München,6,T1,csrankings,1,,verified
+steffen-schneider,Steffen Schneider 0001,München,6,T3,adjudication,1,,verified
+julia-a-schnabel,Julia A. Schnabel,München,5,T2,de-tu-munich;de-mcml;de-helmholtz-munich,3,,verified
+orestis-papakyriakopoulos,Orestis Papakyriakopoulos,München,5,T2,de-tu-munich,1,,verified
+s-rasoul-etesami,S. Rasoul Etesami 0001,München,5,T2,de-tu-munich,1,,verified
+wolfgang-utschick,Wolfgang Utschick,München,5,T2,de-tu-munich,1,,verified
+bjorn-m-eskofier,Björn M. Eskofier,München,5,T2,de-mcml;de-helmholtz-munich,2,,verified
+ewa-szczurek,Ewa Szczurek,München,5,T2,de-helmholtz-munich,1,,verified
+daniel-andre-duecker,Daniel-Andre Duecker,München,5,T3,adjudication,1,,verified
+felix-krahmer,Felix Krahmer,München,5,T3,adjudication,1,,verified
+benedikt-wiestler,Benedikt Wiestler,München,4,T2,de-tu-munich;de-mcml,2,,verified
+felix-brandt,Felix Brandt 0001,München,4,T1,de-tu-munich;csrankings,2,,verified
+jia-chen,Jia Chen 0003,München,4,T2,de-tu-munich,1,,verified
+klaus-diepold,Klaus Diepold,München,4,T1,de-tu-munich;csrankings,2,,verified
+robert-wille,Robert Wille,München,4,T1,de-tu-munich;csrankings,2,,verified
+rudiger-westermann,Rüdiger Westermann,München,4,T1,de-tu-munich;de-mcml;csrankings,3,,verified
+ulf-schlichtmann,Ulf Schlichtmann,München,4,T2,de-tu-munich,1,,verified
+matthias-schubert,Matthias Schubert,München,4,T1,de-lmu-munich;de-mcml;csrankings,3,,verified
+carsten-marr,Carsten Marr,München,4,T2,de-mcml;de-helmholtz-munich,2,,verified
+carsten-steger,Carsten Steger,München,4,T1,csrankings,1,,verified
+cristina-piazza,Cristina Piazza,München,3,T1,de-tu-munich;csrankings,2,,verified
+martin-bichler,Martin Bichler,München,3,T1,de-tu-munich;csrankings,2,,verified
+tim-hoffmann,Tim Hoffmann,München,3,T2,de-tu-munich,1,,verified
+ulrich-bauer,Ulrich Bauer,München,3,T2,de-tu-munich;de-mcml,2,,verified
+thomas-gabor,Thomas Gabor,München,3,T2,de-mcml,1,,verified
+holger-rauhut,Holger Rauhut,München,3,T2,de-mcml,1,,verified
+birgit-vogel-heuser,Birgit Vogel-Heuser,München,3,T3,adjudication,1,,verified
+jonathan-harrington,Jonathan Harrington,München,3,T3,adjudication,1,,verified
+liqiu-meng,Liqiu Meng,München,3,T3,adjudication,1,,verified
+marc-toussaint,Marc Toussaint,Berlin,39,T1,de-tu-berlin;csrankings,2,,verified
+sebastian-pokutta,Sebastian Pokutta,Berlin,33,T1,de-tu-berlin;csrankings,2,,verified
+wojciech-samek,Wojciech Samek,Berlin,28,T1,de-tu-berlin;de-bifold;csrankings,3,,verified
+guillermo-gallego,Guillermo Gallego 0002,Berlin,26,T1,de-tu-berlin;csrankings;csrankings,2,,verified
+klaus-robert-muller,Klaus-Robert Müller,Berlin,23,T1,de-tu-berlin;de-bifold;csrankings,3,,verified
+oliver-brock,Oliver Brock,Berlin,17,T1,de-tu-berlin;csrankings,2,,verified
+alan-akbik,Alan Akbik,Berlin,17,T1,de-humboldt-university-of-berlin;csrankings,2,,verified
+sebastian-moller,Sebastian Möller 0001,Berlin,14,T1,de-tu-berlin;de-bifold;de-dfki-be;csrankings,4,,verified
+wolfgang-honig,Wolfgang Hönig,Berlin,12,T1,de-tu-berlin;csrankings,2,,verified
+rolf-niedermeier,Rolf Niedermeier,Berlin,12,T1,csrankings,1,,verified
+peter-eisert,Peter Eisert,Berlin,10,T1,de-humboldt-university-of-berlin;csrankings,2,,verified
+frank-noe,Frank Noé,Berlin,10,T1,de-freie-universitaet-berlin;csrankings,2,,verified
+jens-lambrecht,Jens Lambrecht,Berlin,10,T1,csrankings,1,,verified
+gabriele-steidl,Gabriele Steidl,Berlin,9,T2,de-tu-berlin,1,,verified
+gregoire-montavon,Grégoire Montavon,Berlin,9,T2,de-bifold,1,,verified
+thomas-wiegand,Thomas Wiegand 0001,Berlin,7,T1,de-tu-berlin;de-bifold;csrankings,3,,verified
+tim-landgraf,Tim Landgraf,Berlin,6,T1,de-freie-universitaet-berlin;csrankings,2,,verified
+alexander-loser,Alexander Löser,Berlin,5,T3,adjudication,1,,verified
+marc-alexa,Marc Alexa,Berlin,4,T1,de-tu-berlin;csrankings,2,,verified
+olaf-hellwich,Olaf Hellwich,Berlin,4,T1,de-tu-berlin;csrankings,2,,verified
+henning-sprekeler,Henning Sprekeler,Berlin,4,T1,de-tu-berlin;csrankings,2,,verified
+martin-skutella,Martin Skutella,Berlin,4,T1,de-tu-berlin;csrankings,2,,verified
+manfred-opper,Manfred Opper,Berlin,4,T1,de-tu-berlin;de-bifold;csrankings,3,,verified
+adrian-paschke,Adrian Paschke,Berlin,4,T1,de-freie-universitaet-berlin;csrankings,2,,verified
+gerhard-wunder,Gerhard Wunder,Berlin,4,T1,csrankings,1,,verified
+christoph-spiegel,Christoph Spiegel 0002,Berlin,4,T3,adjudication,1,,verified
+dorothea-kolossa,Dorothea Kolossa,Berlin,3,T2,de-tu-berlin,1,,verified
+georg-loho,Georg Loho,Berlin,3,T2,de-freie-universitaet-berlin,1,,verified
+frederick-klauschen,Frederick Klauschen,Berlin,3,T2,de-bifold,1,,verified
+georg-rehm,Georg Rehm,Berlin,3,T2,de-dfki-be,1,,verified
+danh-le-phuoc,Danh Le Phuoc,Berlin,3,T3,adjudication,1,,verified

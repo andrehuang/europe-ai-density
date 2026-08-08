@@ -17,3 +17,113 @@ https://scholar.google.com/citations?hl=en&user=E6DqS3UAAAAJ (2026-08-08) - Chri
 https://scells.me/ (2026-08-08) - confirmed Harrisen Scells "Assistant Professor ... Health NLP lab" self-description
 
 WebSearch budget was already exhausted (200/200) at session start, inherited from earlier pipeline stages; two queries attempted (Zehao Yu, Chris Gagne current position) were rejected for that reason. All verification above used WebFetch against known/derived URLs instead, per the contract's "fetch known URLs directly" guidance.
+
+---
+
+Sources fetched while adjudicating data/queues/reconcile_berlin.csv, retrieved 2026-08-06/2026-08-08.
+
+Prior-stage evidence reused (already gathered under this pipeline for the same 24 names):
+data/derived/reconcile_berlin.csv
+data/institution_directory_urls.csv
+data/titles.csv, data/exclusion_codes.csv
+data/raw/directories/2026-08-06/de-tu-berlin/roster.csv
+data/raw/directories/2026-08-06/de-humboldt-university-of-berlin/roster.csv
+data/raw/directories/2026-08-06/de-freie-universitaet-berlin/roster.csv
+data/raw/directories/2026-08-06/de-bifold/roster.csv (resolved Julia Stoyanovich and Christian Wressnegger directly: both listed as Fellows with primary_affiliation elsewhere)
+data/raw/directories/2026-08-06/de-dfki-be/roster.csv
+
+WebSearch budget was already exhausted (200/200) at session start (shared across the pipeline); every attempted call in every sub-task below failed for that reason. All research used WebFetch only.
+
+Direct fetches (this session):
+https://engineering.nyu.edu/faculty/julia-stoyanovich (2026-08-08)
+https://intellisec.de/chris/ (2026-08-08)
+
+Fetched by delegated sub-tasks (2026-08-08), by person:
+Sebastian Lapuschkin: https://iphome.hhi.de/lapuschkin/ ; https://www.hhi.fraunhofer.de/en/departments/ai.html (via r.jina.ai)
+Karsten Müller 0001: https://iphome.hhi.de/mueller/index.htm ; https://iphome.hhi.de/mueller/bio.htm
+Alexander Keller 0001: https://research.nvidia.com/person/alex-keller
+Cheng Wang 0002: https://ieeexplore.ieee.org/author/37088461883 ; https://deepsemantic.github.io/
+Matthias W. Seeger: Google Scholar profile; https://de.linkedin.com/in/matthias-seeger-3010b765
+Roland Roller: https://dfki-nlp.github.io/author/roland-roller/ ; https://ai.berlin/news/detail/dr-roland-roller-dfki ; DFKI Speech and Language Technology staff page (dfki.de, via r.jina.ai)
+David Schlangen: https://www.ling.uni-potsdam.de/~das/ ; https://pub.orcid.org/v3.0/0000-0002-2686-6887/employments ; https://scholar.google.com/citations?user=QoDgwZYAAAAJ
+Christoph Spiegel 0002: http://christophspiegel.berlin/ ; https://www.zib.de/research/mai/ais2t ; https://pub.orcid.org/v3.0/0000-0002-6545-202X/employments
+Robin Chan 0001: https://robinchan.de/ ; https://pub.orcid.org/v3.0/0000-0003-2935-3275/employments ; https://dblp.org/pid/234/8684
+Dagmar Kainmüller: https://www.mdc-berlin.de/person/prof-dr-dagmar-kainmuller ; https://helmholtz-imaging.de
+Robert A. Vandermeulen: https://ravdm.github.io/ ; https://pub.orcid.org/v3.0/0000-0001-6863-7006/employments
+Ronny Hänsch: http://www.rhaensch.de/ (via proxy)
+Shuang Guo 0003: https://dblp.org/pid/31/11244-3
+Vera Schmitt: https://www.tu.berlin/qu/ueber-uns/team-personen/ ; https://veraschmitt.github.io/
+Danh Le Phuoc: https://danhlephuoc.info/CV__Danh_Le_Phuoc.pdf
+Alexander Löser: http://prof.bht-berlin.de/loeser/
+Patrick Haller 0002: https://hallerpatrick.github.io ; https://dblp.uni-trier.de/pid/302/4394-2
+Till Fluschnik: https://amor.cms.hu-berlin.de/~fluschnt/index.html
+Pascal Kunz 0001: https://www.mi.fu-berlin.de/en/facetsofcomplexity/people/postdoctoral-and-doctorals/2-Kunz/index.html ; https://www.tu.berlin/akt
+Yi Cai 0005: https://www.mi.fu-berlin.de/en/inf/groups/ag-comm/team-members/index.html
+Georg Loho: https://lohomath.github.io/ ; https://www.mi.fu-berlin.de/en/math/groups/discgeom/index.html ; https://www.mi.fu-berlin.de/math/groups/discgeom/members/02loho.html
+Nicole Mücke: arXiv:2506.16283 (PDF title page); https://mathplus.de/early-career-researchers/independent-junior-research-groups/
+
+---
+
+Sources fetched while adjudicating data/queues/reconcile_muenchen.csv, second half (rows 42-82 by
+core_papers descending, 41 people), written to muenchen-b.csv. Retrieved 2026-08-06.
+
+Work was delegated to four parallel research sub-tasks (~10-11 people each), which together made
+roughly 300 WebFetch calls; WebSearch quota was exhausted early in every sub-task (inherited
+shared session cap), so all verification after that point used WebFetch directly against DBLP
+(dblp.org / dblp.uni-trier.de, sometimes via r.jina.ai reader proxy after connection resets),
+institutional pages, personal/lab homepages, ORCID, OpenReview and Google Scholar.
+
+Primary evidence URLs (one per person, see evidence_url column in muenchen-b.csv for the
+person-URL mapping; full detail and per-person reasoning is in that file's notes column):
+https://www.math.cit.tum.de/en/math/people/professors/krahmer-felix/
+https://www.ce.cit.tum.de/en/lmt/team/
+https://xinpeng-wang.github.io/
+https://dblp.uni-trier.de/pid/43/10164-3
+http://schen.app/
+https://ganlinzhang.xyz
+https://oooranz.github.io/
+https://orcid.org/0000-0002-8803-9414
+https://ommer-lab.com/people/
+https://arxiv.org/abs/2602.12177
+https://www.uni-bamberg.de/en/wiai/
+https://www.ce.cit.tum.de/lsr/team/dozenten/dirk-wollherr/
+https://www.cs.cit.tum.de/en/camp/members/pengyuan-wang/
+https://tjklein.github.io
+https://cvg.cit.tum.de/members/cheq
+https://www.fortiss.org/en/research/fields-of-competence/detail/machine-learning
+https://nan-yang.me
+https://www.professoren.tum.de/en/chen-jia/
+https://niessnerlab.org/members/peter_kocsis/profile.html
+https://www.ifi.lmu.de/dbs/en/persons/contact-page/tong-liu-4b539aba.html
+https://www.professoren.tum.de/en/vogel-heuser-birgit
+https://dblp.uni-trier.de/pid/84/2636-5
+https://www.cs.cit.tum.de/camp/members/
+https://dblp.uni-trier.de/pid/351/4532
+https://dblp.uni-trier.de/pid/84/4020-1
+https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab
+https://www.sprachlit.lmu.de/ips/en/persons/contact-page/jonathan-harrington-7888d728.html
+https://dblp.uni-trier.de/pid/48/3452-15
+https://www.mirmi.tum.de/en/mirmi/people/scientific-staff/
+https://dblp.uni-trier.de/pid/04/7448-2
+https://scholar.google.com/citations?user=MR3fFXoAAAAJ&hl=en
+http://yqueau.github.io
+https://ge.in.tum.de/about/
+https://openreview.net/profile?id=~Haowei_Zhang3
+https://willyzw.github.io/
+https://www.fortiss.org/en/research/results/scientific-publications/author/axel-von-arnim
+http://kiinformatik.mri.tum.de/en/hichair-health-informatics/chi-team
+https://www.asg.ed.tum.de/en/lfk/team/members/liqiu-meng/
+https://www.asg.ed.tum.de/en/pf/obituary-stilla/
+https://hangligit.github.io
+https://www.ce.cit.tum.de/en/ics/people/guadarrama/
+
+Notable findings flagged in the file: Uwe Stilla is deceased (May 2023), DBLP affiliation stale;
+Markus Rickert, Yvain Quéau, Tassilo Klein, Nan Yang, Hang Li, Xinpeng Wang, Virginia Estellers,
+Haowei Zhang and Wei Zhang have all left Munich entirely (stale DBLP strings); Jia Chen 0003 is
+almost certainly a DBLP name-collision between an independent TUM professor (environmental
+sensing) and an unrelated Tsinghua researcher (legal AI) — reported as the TUM professor with
+the collision flagged in notes rather than silently resolved. Of the 41 people, only 5 were found
+to be independent PIs currently in Munich (Felix Krahmer, Birgit Vogel-Heuser, Jonathan
+Harrington, Liqiu Meng, Jia Chen 0003); the great majority were current PhD students or postdocs
+inside someone else's chair, or industry-only (Huawei Munich, BMW, Siemens, fortiss, SAP, Meta,
+Microsoft) — consistent with this being the low-publication end of the queue.

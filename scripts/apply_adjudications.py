@@ -21,14 +21,11 @@ from collections import defaultdict
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from decisionlog import log_decision  # noqa: E402
+from config import cities, ADJUDICATION  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-ADJ = ROOT / "data" / "raw" / "adjudication" / "2026-08-06"
+ADJ = ADJUDICATION
 
-CITY_OF_FILE = {
-    "tuebingen": "Tübingen", "saarbruecken": "Saarbrücken",
-    "stuttgart": "Stuttgart", "kaiserslautern": "Kaiserslautern",
-}
 
 
 def read(path):
@@ -46,7 +43,11 @@ def main() -> int:
     rulings = defaultdict(dict)
 
     # --- reconciliation: the primary question, is this person here and independent -----
-    for fname, city in CITY_OF_FILE.items():
+    # Read the registry rather than a private copy of the city list. Centralising it
+    # earlier and missing this one consumer meant Munich's and Berlin's rulings were
+    # written and then silently skipped — the same failure the centralising was for.
+    for city, cfg in cities().items():
+        fname = cfg["slug"]
         for r in read(ADJ / "reconcile" / f"{fname}.csv"):
             here = (r.get(f"in_{fname}") or r.get("in_city") or r.get("in_tuebingen")
                     or r.get("in_saarbruecken") or "").strip().lower()
